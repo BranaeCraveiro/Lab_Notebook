@@ -1,10 +1,10 @@
 #### 7/11 - checking extracted DNA
 052022_BEL_CBC_T3_50_MCAV -->  qubit reading: 1.9
-052022_BEL_CBC_T1_12_MCAV -->  qubit reading:3.95
+052022_BEL_CBC_T1_12_MCAV -->  qubit reading: 3.95
 052022_BEL_CBC_T3_48_MCAV -->  qubit reading: 15.7
 052022_BEL_CBC_T3_40_MCAV -->  qubit reading: 13.3
 052022_BEL_CBC_T3_49_MCAV -->  qubit reading: 23.7
-052022_BEL_CBC_T3_51_MCAV -->  qubit reading:20.3
+052022_BEL_CBC_T3_51_MCAV -->  qubit reading: 20.3
 
 #### 7/17 - checking extracted DNA
 **round one:**
@@ -20,10 +20,6 @@
 062019_BEL_CBC_T1_20_MCAV  -->  qubit reading: 4.83
 062019_BEL_CBC_T3_21_MMEA  -->  qubit reading: "too low"
 062019_BEL_CBC_T3_4_PAST  -->  qubit reading: "too low"
-
-**still to do:**
-062019_BEL_CBC_T3_15_MCAV  
-062019_BEL_CBC_T2_21_PAST 
 
 **complications:**
 062019_BEL_CBC_T3_25_PAST - can't find sample (no T3 PAST according to colony data)
