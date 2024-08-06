@@ -59,16 +59,16 @@ round one was done in the lab equipment stockroom, which does not have a working
 - 062019_BEL_CBC_T3_15_MCAV (T3_15 CBC 2019) -->  qubit reading: 12.3
 - 062019_BEL_CBC_T3_8_MCAV (T3_8) -->  qubit reading: TOO LOW
 
-still to do: 
+#### 8/6 - checking extracted DNA
 *orange box "Coral DNA":*
-- 062019_BEL_CBC_T2_9_MCAV (T2_9) -->  qubit reading: 
-- 062019_BEL_CBC_T3_11_MCAV (T3_11) -->  qubit reading: 
-- 062019_BEL_CBC_T3_14_MCAV (T3_14) -->  qubit reading:  
-- 062019_BEL_CBC_T3_15_MCAV (T3_15) -->  qubit reading: 
-- 062019_BEL_CBC_T3_16_MCAV (T3_16 #5) -->  qubit reading: 
-- 062019_BEL_CBC_T3_16_MCAV (T3_16 #24) -->  qubit reading:
-- 062019_BEL_CBC_T3_6_MCAV (T3_6) -->  qubit reading:  
-- 062019_BEL_CBC_T3_8_MCAV (T3_8) -->  qubit reading: 
-- 062019_BEL_CBC_T3_9_MCAV (T3_9) -->  qubit reading:
-- 052022_BEL_CBC_T1_1_PAST (t1-past dup) -->  qubit reading:
-- 062019_BEL_CBC_T1_10_MMEA (T1_10 MMEA) -->  qubit reading:
+- 062019_BEL_CBC_T2_9_MCAV (T2_9) -->  qubit reading: TOO LOW
+- 062019_BEL_CBC_T3_11_MCAV (T3_11) -->  qubit reading: TOO LOW
+- 062019_BEL_CBC_T3_14_MCAV (T3_14) -->  qubit reading: 10.9
+- 062019_BEL_CBC_T3_15_MCAV (T3_15) -->  qubit reading: 6.24
+- 062019_BEL_CBC_T3_16_MCAV (T3_16 #5) -->  qubit reading: 0.180
+- 062019_BEL_CBC_T3_16_MCAV (T3_16 #24) -->  qubit reading: 6.82
+- 062019_BEL_CBC_T3_6_MCAV (T3_6) -->  qubit reading:  0.0890
+- 062019_BEL_CBC_T3_8_MCAV (T3_8) -->  qubit reading: TOO LOW
+- 062019_BEL_CBC_T3_9_MCAV (T3_9) -->  qubit reading: TOO LOW
+- 052022_BEL_CBC_T1_1_PAST (t1-past dup) -->  qubit reading: 2.22 
+- 062019_BEL_CBC_T1_10_MMEA (T1_10 MMEA) -->  qubit reading: TOO HIGH?!? OVER 600?!?!?!
