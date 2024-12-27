@@ -31,7 +31,7 @@ round one was done in the lab equipment stockroom, which does not have a working
 #### 7/31 checking extracted DNA
 
 *orange box "Coral DNA":*
-- 062019/052022_BEL_CBC_T3_1_MCAV (T3_1); only one T3_1 in box) -->  qubit reading: TOO LOW
+- 062019/052022_BEL_CBC_T3_1_MCAV (T3_1); no date on T3_1 in box) -->  qubit reading: TOO LOW
 - 062019_BEL_CBC_T1_16_MCAV (T1_16) -->  qubit reading: TOO LOW 
 - 062019_BEL_CBC_T1_17_MCAV (T1_17) -->  qubit reading: 4.34
 - 062019_BEL_CBC_T1_22_MCAV (T1_22) -->  qubit reading: 6.67 

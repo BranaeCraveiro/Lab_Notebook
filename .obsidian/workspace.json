@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9bd3deef8b984332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Colony Photos Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "checking DNA concentrations.md",
+                "file": "Colony Photos Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "checking DNA concentrations.md",
+                "file": "Colony Photos Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "checking DNA concentrations.md"
+                "file": "Colony Photos Notes.md"
               }
             }
           }
@@ -146,12 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0df337e28875a6d7",
+  "active": "9bd3deef8b984332",
   "lastOpenFiles": [
+    "checking DNA concentrations.md",
+    "Colony Photos Notes.md",
+    "R tasks.md",
     "git_repo",
     "Lab_Notebook",
     "2019 & 2022 DNA",
-    "checking DNA concentrations.md",
     "Untitled 1",
     "GW lab/Using Soundscapes to Assess Changes in Coral Reef Social-Ecological Systems.md",
     "journal/what makes up you.md",
