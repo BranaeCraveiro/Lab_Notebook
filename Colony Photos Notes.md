@@ -21,7 +21,7 @@ Mystery PAST (no past in T3 on github) 
 
 **Columbia Notes:** COL_SAN_T4_OFAV_98_032024_
 
-sample data file on github out of transect order
+data file on github out of transect order
 there are some misc photos - should I make a reef/people folder (and fish) folder?
 
 T1 notes: all labeled

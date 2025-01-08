@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice DNA Extraction.md",
+                "file": "Practice DNA Extractions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice DNA Extraction"
+              "title": "Practice DNA Extractions"
             }
           }
         ]
@@ -164,9 +164,10 @@
   },
   "active": "ebaa2ca15b1edcd9",
   "lastOpenFiles": [
-    "Practice DNA Extraction.md",
-    "checking DNA concentrations.md",
     "Colony Photos Notes.md",
+    "062019 & 052022 DNA concentrations.md",
+    "Practice DNA Extractions.md",
+    "Practice DNA Extraction.md",
     "R tasks.md",
     "git_repo",
     "Lab_Notebook",
