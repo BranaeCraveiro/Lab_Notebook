@@ -48,7 +48,6 @@ add pstr 1 to github
 **Belize Notes:** BEL_CBC_T4_MCAV_30_082024_
 
 2019: 
-BEL_CBC_T2_SSID_341_062019_1 not in github - add to github
 
 meeting notes with brooke:
 some things i never uploading to github

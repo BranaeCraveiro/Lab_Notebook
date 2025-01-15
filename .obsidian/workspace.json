@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colony Photos Notes.md",
+                "file": "Practice DNA Extractions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colony Photos Notes"
+              "title": "Practice DNA Extractions"
             }
           }
         ]
@@ -73,13 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "504cf1d1415699a7",
@@ -166,9 +164,9 @@
   },
   "active": "ebaa2ca15b1edcd9",
   "lastOpenFiles": [
-    "Practice DNA Extractions.md",
     "Colony Photos Notes.md",
     "062019 & 052022 DNA concentrations.md",
+    "Practice DNA Extractions.md",
     "Practice DNA Extraction.md",
     "R tasks.md",
     "git_repo",
