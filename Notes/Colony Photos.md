@@ -1,11 +1,11 @@
 ### ***Panama:**  PAN_BDT_T6_MCAV_74_072024_
-*go through mystery corals 
+go through mystery corals 
 
-**T1- STRI Reef 
+T1- STRI Reef 
 - no photos of CNAT_24_102024 (on underwater data sheet as taken a sample from but we have no pictures of the tagged coral) 
 - none of the mystery coral photos match 
 
-**T3- Crawl Cray  
+T3- Crawl Cray  
 
 Missing MCAV_62_102024 and MMEA_79_102024 but the mystery photos do not match those old photos
 Coral 64 has random tag 91 (did we retag- what should I label?)
@@ -18,17 +18,11 @@ Mystery PAST (no past in T3 on github) 
 
 
 ### ***Columbia:** COL_SAN_T1_DLAB_52_062024_
-*data file on github out of transect order
+data file on github out of transect order
 
 032024:
-T1 notes: all labeled
-
-T2 notes: all labeled
-
-T3 notes: all labeled 
+T3 notes: 
 some duplicate files - remove 
-
-T4 notes: all labeled
 
 T5 notes: all labeled
 PSTR folder- there is no 1 on github - add to github
