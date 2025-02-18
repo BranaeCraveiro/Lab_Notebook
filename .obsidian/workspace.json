@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice DNA Extractions.md",
+                "file": "Notes/Colony Photos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice DNA Extractions"
+              "title": "Colony Photos"
             }
           }
         ]
@@ -164,9 +164,13 @@
   },
   "active": "ebaa2ca15b1edcd9",
   "lastOpenFiles": [
-    "Colony Photos Notes.md",
-    "062019 & 052022 DNA concentrations.md",
-    "Practice DNA Extractions.md",
+    "Molecular Labwork Practice/062019 & 052022 DNA concentrations.md",
+    "Notes/Colony Photos.md",
+    "Untitled",
+    "Notes",
+    "Molecular Labwork Practice/Practice DNA Extractions.md",
+    "Molecular Labwork Practice",
+    "smart goals.md",
     "Practice DNA Extraction.md",
     "R tasks.md",
     "git_repo",
@@ -184,9 +188,7 @@
     "lit/themes/no dignity in war.md",
     "lit/themes/absurdism.md",
     "GW lab",
-    "lit/themes",
     "Welcome.md",
-    "create a link.md",
-    "lit"
+    "create a link.md"
   ]
 }
