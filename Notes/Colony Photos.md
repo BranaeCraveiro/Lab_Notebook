@@ -1,8 +1,7 @@
-### ***Panama:**  PAN_BDT_T6_MCAV_74_072024_
-go through mystery corals 
+### **Panama:** PAN_BDT_T6_MCAV_74_072024_
+*go through mystery corals* 
 
 T1- STRI Reef 
-- no photos of CNAT_24_102024 (on underwater data sheet as taken a sample from but we have no pictures of the tagged coral) 
 - none of the mystery coral photos match 
 
 T3- Crawl Cray  
@@ -17,8 +16,8 @@ Mystery PAST (no past in T3 on github) 
 	- tag N/A PAST pill box: 2 DNA Sample PAN 23-16 notes: immune start after? 
 
 
-### ***Columbia:** COL_SAN_T1_DLAB_52_062024_
-data file on github out of transect order
+### Columbia: COL_SAN_T1_DLAB_52_062024_
+*data file on github out of transect order*
 
 032024:
 T3 notes: 
@@ -33,8 +32,8 @@ add pstr 1 to github
 
 "camara 2"- figure out mystery coral 
 
-### ***Belize:**  BEL_CBC_T4_MCAV_30_082024_
-
+### Belize: BEL_CBC_T4_MCAV_30_082024_
+*double check coral condition sheets* 
 
 ## meeting notes with Brooke:
 
