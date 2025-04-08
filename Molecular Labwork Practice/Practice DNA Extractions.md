@@ -1,4 +1,4 @@
-1/6/2025
+## 1/6/2025
 Sample 1
 092023_BEL CBC_T4 91 MCAV
 0.1672 g
@@ -28,9 +28,9 @@ Sample 6
 Negative 
 Too Low 
 
-notes: samples 1 and 2 tube cap broke during elution centrifuging step one, transferred solutions to new uv tubes at the end.  
+**notes:** samples 1 and 2 tube cap broke during elution centrifuging step one, transferred solutions to new uv tubes at the end.  
 
-1/16/2025
+## 1/16/2025
 Sample 1
 92023_BEL_CBC_T1_177_PSTR 
 0.1641 g 
@@ -70,5 +70,5 @@ Sample 8
 Negative 
 Too Low 
 
-notes: accidentally forgot row of tubes- did Inhibitor Removal step with normal Eppendorf tubes instead of low bind
-future reference: low bind, normal, collection tube + filter, 2x collection tubes, low bind with full label and date 
+**notes:** accidentally forgot row of tubes- did Inhibitor Removal step with normal Eppendorf tubes instead of low bind
+**future reference:** low bind, normal, collection tube + filter, 2x collection tubes, low bind with full label and date 

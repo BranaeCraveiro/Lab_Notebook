@@ -1,4 +1,8 @@
-### **Panama:** PAN_BDT_T6_MCAV_74_072024_
+## **Tissue sample inventory:** 
+Missing BEL_CBC_042024_T4_1049
+
+## Colony Photos Labeling
+### **Panama:** PAN_BDT_T6_ORBI_80_072024_
 *go through mystery corals* 
 
 T1- STRI Reef 
@@ -16,7 +20,7 @@ Mystery PAST (no past in T3 on github) 
 	- tag N/A PAST pill box: 2 DNA Sample PAN 23-16 notes: immune start after? 
 
 
-### Columbia: COL_SAN_T1_DLAB_52_062024_
+### Columbia: COL_SAN_T4_OFAV_96_062024_
 *data file on github out of transect order*
 
 032024:
@@ -33,12 +37,4 @@ add pstr 1 to github
 "camara 2"- figure out mystery coral 
 
 ### Belize: BEL_CBC_T4_MCAV_30_082024_
-*double check coral condition sheets* 
-
-## meeting notes with Brooke:
-
-- some things i never uploading to github
-- isnt this photo weird P6060546. is it a random photo? i tried to reference it to older photos but cant find any matches 
-
-#### **Tissue sample inventory:** Missing BEL_CBC_042024_T4_1049
 

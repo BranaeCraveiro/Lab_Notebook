@@ -1,4 +1,4 @@
-#### 7/11 - checking extracted DNA
+## 7/11
 - 052022_BEL_CBC_T3_50_MCAV -->  qubit reading: 1.9
 - 052022_BEL_CBC_T1_12_MCAV -->  qubit reading: 3.95
 - 052022_BEL_CBC_T3_48_MCAV -->  qubit reading: 15.7
@@ -6,30 +6,31 @@
 - 052022_BEL_CBC_T3_49_MCAV -->  qubit reading: 23.7
 - 052022_BEL_CBC_T3_51_MCAV -->  qubit reading: 20.3
 
-#### 7/17 - checking extracted DNA
-**round one:**
+## 7/17 
+### **Group one:**
 - 062019_BEL_CBC_T3_9_MCAV  -->  qubit reading: 9.39
 - 062019_BEL_CBC_T1_3_MCAV --> qubit reading: 2.81
 - 062019_BEL_CBC_T2_5_MCAV --> qubit reading: 17.6
 - 062019_BEL_CBC_T3_6_MCAV --> qubit reading: "too low"
 - 062019_BEL_CBC_T3_16_MCAV --> qubit reading: "too low"
 
-**round two:**
+### **Group two:**
 - 062019_BEL_CBC_T3_8_MCAV  -->  qubit reading: 3.67 
 - 062019_BEL_CBC_T1_24_MCAV  -->  qubit reading: 6.83
 - 062019_BEL_CBC_T1_20_MCAV  -->  qubit reading: 4.83
 - 062019_BEL_CBC_T3_21_MMEA  -->  qubit reading: "too low"
 - 062019_BEL_CBC_T3_4_PAST  -->  qubit reading: "too low"
 
-**complications:**
+#### **Complications:**
 - 062019_BEL_CBC_T3_25_PAST - can't find sample (no T3 PAST according to colony data)
 - 052022_BEL_CBC_T2_69_OANN - no location of enriched sample
 
-**notes:**
+#### **notes:**
 round one was done in the lab equipment stockroom, which does not have a working UV light. UV lighted everything inside the lab under sterile hood (filter need to be changed hence why I could not use our lab one) and carried it into stockroom. 
 
-#### 7/31 checking extracted DNA
+## 7/31 checking extracted DNA
 
+### Group one: 
 *orange box "Coral DNA":*
 - 062019/052022_BEL_CBC_T3_1_MCAV (T3_1); no date on T3_1 in box) -->  qubit reading: TOO LOW
 - 062019_BEL_CBC_T1_16_MCAV (T1_16) -->  qubit reading: TOO LOW 
@@ -44,7 +45,8 @@ round one was done in the lab equipment stockroom, which does not have a working
 - 062019_BEL_CBC_T2_28_MCAV (T2_28) -->  qubit reading: TOO LOW
 - 062019_BEL_CBC_T2_8_MCAV (T2_8) -->  qubit reading: 3.43 
 
-*pink box "EXTRACTED CORAL DNA":*
+### Round two: 
+*pink box "EXTRACTED CORAL DNA":
 - 052022_BEL_CBC_T1_70_MCAV (T1_70 2022) -->  qubit reading: 31.7 
 - 052022_BEL_CBC_T2_10_MCAV (T2_10 2022) -->  qubit reading: TOO LOW
 - 052022_BEL_CBC_T3_1_MCAV (T3_1 2022 LOW) -->  qubit reading: 9.23 
@@ -59,7 +61,7 @@ round one was done in the lab equipment stockroom, which does not have a working
 - 062019_BEL_CBC_T3_15_MCAV (T3_15 CBC 2019) -->  qubit reading: 12.3
 - 062019_BEL_CBC_T3_8_MCAV (T3_8) -->  qubit reading: TOO LOW
 
-#### 8/6 - checking extracted DNA
+## 8/6 - checking extracted DNA
 *orange box "Coral DNA":*
 - 062019_BEL_CBC_T2_9_MCAV (T2_9) -->  qubit reading: TOO LOW
 - 062019_BEL_CBC_T3_11_MCAV (T3_11) -->  qubit reading: TOO LOW
