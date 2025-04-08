@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "17db6278797fa209",
+        "id": "1bed580e94912d86",
         "type": "tabs",
         "children": [
           {
-            "id": "ccd81be243b883b4",
+            "id": "f08a387fa65ed739",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,15 +163,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccd81be243b883b4",
+  "active": "f08a387fa65ed739",
   "lastOpenFiles": [
-    "4_7_Gel.png",
-    "4_7_Gel.jpg",
-    "Molecular Labwork Practice/Practice DNA Extractions.md",
+    "Molecular Labwork Practice/Practice Gel Images/April72025.png",
     "Molecular Labwork Practice/PCR index Gel Electrophoresis.md",
+    "Molecular Labwork Practice/Practice DNA Extractions.md",
+    "Molecular Labwork Practice/Practice Gel Images",
+    "4_7_Gel.jpg",
     "Molecular Labwork Practice/062019 & 052022 DNA concentrations.md",
     "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
-    "Untitled",
     "Notes",
     "Molecular Labwork Practice",
     "smart goals.md",

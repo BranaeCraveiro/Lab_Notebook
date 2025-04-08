@@ -7,4 +7,4 @@ Box: *PCR index 3/12 1-96* ("BRC Practice Samples")
 **Notes:** Ran gel at 110 volts for 55 minutes 
 
 
-![[4_7_Gel.png|500]]
+![[April72025.png|500]]
