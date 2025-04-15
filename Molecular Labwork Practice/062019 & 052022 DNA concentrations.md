@@ -45,7 +45,7 @@ round one was done in the lab equipment stockroom, which does not have a working
 - 062019_BEL_CBC_T2_28_MCAV (T2_28) -->  qubit reading: TOO LOW
 - 062019_BEL_CBC_T2_8_MCAV (T2_8) -->  qubit reading: 3.43 
 
-### Round two: 
+### Group two: 
 *pink box "EXTRACTED CORAL DNA":
 - 052022_BEL_CBC_T1_70_MCAV (T1_70 2022) -->  qubit reading: 31.7 
 - 052022_BEL_CBC_T2_10_MCAV (T2_10 2022) -->  qubit reading: TOO LOW

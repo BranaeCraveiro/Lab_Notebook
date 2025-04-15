@@ -11,12 +11,14 @@
             "id": "f08a387fa65ed739",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Molecular Labwork Practice/Practice Gel Images/April14_2025_Gel_1.png"
+                "file": "Molecular Labwork Practice/062019 & 052022 DNA concentrations.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "April14_2025_Gel_1"
+              "icon": "lucide-file",
+              "title": "062019 & 052022 DNA concentrations"
             }
           }
         ]
@@ -161,11 +163,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0df337e28875a6d7",
+  "active": "f08a387fa65ed739",
   "lastOpenFiles": [
+    "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
+    "Molecular Labwork Practice/Practice Gel Images/April14_2025_Gel_1.png",
     "Molecular Labwork Practice/Practice Gel Images/April14_2025_Gel_2.png",
     "Molecular Labwork Practice/Practice Gel Images/April14_2025_Gel_3.png",
-    "Molecular Labwork Practice/Practice Gel Images/April14_2025_Gel_1.png",
     "Molecular Labwork Practice/Practice Gel Images/April7_2025_Gel.png",
     "Molecular Labwork Practice/PCR index Gel Electrophoresis.md",
     "Molecular Labwork Practice/Practice Gel Images/April72025.png",
@@ -174,7 +177,6 @@
     "Molecular Labwork Practice/Practice Gel Images",
     "4_7_Gel.jpg",
     "Molecular Labwork Practice/062019 & 052022 DNA concentrations.md",
-    "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
     "Notes",
     "Molecular Labwork Practice",
     "smart goals.md",
