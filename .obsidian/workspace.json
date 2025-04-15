@@ -11,14 +11,12 @@
             "id": "f08a387fa65ed739",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Molecular Labwork Practice/PCR index Gel Electrophoresis.md",
-                "mode": "source",
-                "source": false
+                "file": "Molecular Labwork Practice/Practice Gel Images/April14_2025_Gel_1.png"
               },
-              "icon": "lucide-file",
-              "title": "PCR index Gel Electrophoresis"
+              "icon": "lucide-image",
+              "title": "April14_2025_Gel_1"
             }
           }
         ]
@@ -163,10 +161,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f08a387fa65ed739",
+  "active": "0df337e28875a6d7",
   "lastOpenFiles": [
-    "Molecular Labwork Practice/Practice Gel Images/April72025.png",
+    "Molecular Labwork Practice/Practice Gel Images/April14_2025_Gel_2.png",
+    "Molecular Labwork Practice/Practice Gel Images/April14_2025_Gel_3.png",
+    "Molecular Labwork Practice/Practice Gel Images/April14_2025_Gel_1.png",
+    "Molecular Labwork Practice/Practice Gel Images/April7_2025_Gel.png",
     "Molecular Labwork Practice/PCR index Gel Electrophoresis.md",
+    "Molecular Labwork Practice/Practice Gel Images/April72025.png",
+    "Gel Practice (editting images).pptx",
     "Molecular Labwork Practice/Practice DNA Extractions.md",
     "Molecular Labwork Practice/Practice Gel Images",
     "4_7_Gel.jpg",
@@ -191,7 +194,6 @@
     "journal",
     "lit/themes/no dignity in war.md",
     "lit/themes/absurdism.md",
-    "GW lab",
     "Welcome.md",
     "create a link.md"
   ]
