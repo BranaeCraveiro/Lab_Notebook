@@ -33,3 +33,8 @@ Box: *PCR index 3/12 1-96* ("BRC Practice Samples")
 
 ### **Run 3: *95 minutes, 110 Volts***** 
 ![[April14_2025_Gel_3.png|500]]
+
+## 4/28/25 
+| Well 1                       | Well 2 | Well 3 | Well 4 | Well 5    | Well 6                      |
+| ---------------------------- | ------ | ------ | ------ | --------- | --------------------------- |
+| 100 bp Ladder (1:5 Dilution) | 4      | 5      | 6      | 96 (Neg.) | Undiluted 100 bp DNA Ladder |

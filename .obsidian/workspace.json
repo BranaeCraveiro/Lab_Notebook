@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +164,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f08a387fa65ed739",
+  "active": "73d13e468dfff4b6",
   "lastOpenFiles": [
     "Molecular Labwork Practice/Practice DNA Extractions.md",
     "Molecular Labwork Practice/062019 & 052022 DNA concentrations.md",
