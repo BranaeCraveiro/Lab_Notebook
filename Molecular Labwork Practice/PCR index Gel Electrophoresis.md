@@ -8,7 +8,7 @@ Box: *PCR index 3/12 1-96* ("BRC Practice Samples")
 - Ran gel at 110 volts for 55 minutes; uneven gel (thicker by wells, thinner by positive electrode) lead to wobbly band pattern 
 - Should run PCR samples again in a future gel to ensure missing samples are from a gel loading error and not a PCR error. 
 
-![[April7_2025_Gel.png|500]]
+![[April7_2025_Gel.png|300]]
 
 
 
@@ -25,16 +25,20 @@ Box: *PCR index 3/12 1-96* ("BRC Practice Samples")
 - Ran for an another 30 minutes (95 minutes total) at 110 volts (April14_2025_Gel_3), smudging got worse, sample began to disappear? 
 
 ### **Run 1: *35 minutes, 110 Volts***
-![[April14_2025_Gel_1.png|500]]
+![[April14_2025_Gel_1.png|300]]
 
 ### **Run 2: *65 minutes, 110 Volts*** 
-![[April14_2025_Gel_2.png|500]]
+![[April14_2025_Gel_2.png|300]]
 
 
 ### **Run 3: *95 minutes, 110 Volts***** 
-![[April14_2025_Gel_3.png|500]]
+![[April14_2025_Gel_3.png|300]]
 
 ## 4/28/25 
 | Well 1                       | Well 2 | Well 3 | Well 4 | Well 5    | Well 6                      |
 | ---------------------------- | ------ | ------ | ------ | --------- | --------------------------- |
 | 100 bp Ladder (1:5 Dilution) | 4      | 5      | 6      | 96 (Neg.) | Undiluted 100 bp DNA Ladder |
+**Notes:** 
+Ran for 35 minutes at 110 volts, wanted more separation between bands so attempted to run gel again for 25 minutes. However, forgot to hit the run button so gel never ran. After realizing mistake ran gel for 30 minutes at 110 volts (Image: April28_2025_gel)
+
+![[April28_2025_Gel.png|300]]
