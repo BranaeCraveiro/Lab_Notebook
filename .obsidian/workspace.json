@@ -11,10 +11,14 @@
             "id": "9ec6c7349d0a7076",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "R Notebook/Determining.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Determining"
             }
           }
         ]
@@ -156,11 +160,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "9ec6c7349d0a7076",
   "lastOpenFiles": [
+    "Molecular Labwork Practice/Practice DNA Extractions.md",
+    "Molecular Labwork Practice/PCR index Gel Electrophoresis.md",
+    "R Notebook/Determining.md",
+    "R Notebook",
     "Molecular Labwork Practice/Practice Gel Images/April28_2025_Gel 1.png",
     "Molecular Labwork Practice/Practice Gel Images/April14_2025 Gels.png",
     "Molecular Labwork Practice/Practice Gel Images/April7_2025_Gel.png",
@@ -168,9 +177,7 @@
     "Molecular Labwork Practice/Practice Gel Images/April14_2025_Gel_3.png",
     "Molecular Labwork Practice/Practice Gel Images/April14_2025_Gel_2.png",
     "Molecular Labwork Practice/Practice Gel Images/April14_2025_Gel_1.png",
-    "Molecular Labwork Practice/PCR index Gel Electrophoresis.md",
     "Molecular Labwork Practice/062019 & 052022 DNA concentrations.md",
-    "Molecular Labwork Practice/Practice DNA Extractions.md",
     "2025-05-02.md",
     "Untitled.canvas",
     "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
@@ -194,7 +201,6 @@
     "lit/Dear Noah Trevor,.md",
     "lit/one flew over the cuckoo's nest.md",
     "journal/Untitled",
-    "journal",
     "lit/themes/no dignity in war.md",
     "lit/themes/absurdism.md",
     "Welcome.md",
