@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R Notebook/Determining.md",
+                "file": "R Notebook/Determining Summer 2025 Research Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Determining"
+              "title": "Determining Summer 2025 Research Project"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "504cf1d1415699a7",
@@ -168,7 +169,7 @@
   "lastOpenFiles": [
     "Molecular Labwork Practice/Practice DNA Extractions.md",
     "Molecular Labwork Practice/PCR index Gel Electrophoresis.md",
-    "R Notebook/Determining.md",
+    "R Notebook/Determining Summer 2025 Research Project.md",
     "R Notebook",
     "Molecular Labwork Practice/Practice Gel Images/April28_2025_Gel 1.png",
     "Molecular Labwork Practice/Practice Gel Images/April14_2025 Gels.png",
