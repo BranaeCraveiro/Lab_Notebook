@@ -149,11 +149,11 @@ kable(coral_summary_transect_time, format = "markdown")     #transects & timepoi
 |            5 |   141 |          44 |      97 |              31.2 |
 |            6 |   111 |          32 |      79 |              28.8 |
 ### Coral Summary  per Timepoints 
-|time_date  | total| non_healthy| healthy| percent_unhealthy|
-|:----------|-----:|-----------:|-------:|-----------------:|
-|2024-07-01 |   225|          73|     152|              32.4|
-|2023-10-01 |   225|         103|     122|              45.8|
-|2022-09-01 |   225|           0|     225|               0.0|
+| time_date  | total | non_healthy | healthy | percent_unhealthy |
+| :--------- | ----: | ----------: | ------: | ----------------: |
+| 2024-07-01 |   225 |          73 |     152 |              32.4 |
+| 2023-10-01 |   225 |         103 |     122 |              45.8 |
+| 2022-09-01 |   225 |           0 |     225 |               0.0 |
 ### Coral Summary Species per Transect & Timepoint
 | Transect_num | time_date  | Species | total | non_healthy | healthy | percent_unhealthy |
 | -----------: | :--------- | :------ | ----: | ----------: | ------: | ----------------: |
@@ -274,3 +274,22 @@ kable(coral_summary_transect_time, format = "markdown")     #transects & timepoi
 |            6 | 2022-09-01 | ORBI    |     3 |           0 |       3 |               0.0 |
 |            6 | 2022-09-01 | MMEA    |     1 |           0 |       1 |               0.0 |
 |            6 | 2022-09-01 | OFAV    |     1 |           0 |       1 |               0.0 |
+going to want to start extracting July 2024 for week 5/19
+need to match species between both transects
+samples, isolate T1 and T4, species that match both, location 
+exclude 2022 
+
+| Transect_num | time_date  | Species | total | non_healthy | healthy | percent_unhealthy | Transect_num | time_date  | Species | total | non_healthy | healthy | percent_unhealthy |
+| -----------: | :--------- | :------ | ----: | ----------: | ------: | ----------------: | -----------: | :--------- | :------ | ----: | ----------: | ------: | ----------------: |
+|            1 | 2024-07-01 | SSID    |     7 |           5 |       2 |              71.4 |            4 | 2024-07-01 | SSID    |     6 |           0 |       6 |               0.0 |
+|            1 | 2024-07-01 | CNAT    |     6 |           3 |       3 |              50.0 |            4 | 2024-07-01 | CNAT    |     6 |           0 |       6 |               0.0 |
+|            1 | 2024-07-01 | MCAV    |     5 |           3 |       2 |              60.0 |            4 | 2024-07-01 | MCAV    |     8 |           1 |       7 |              12.5 |
+|            1 | 2024-07-01 | ORBI    |     5 |           2 |       3 |              40.0 |            4 | 2024-07-01 | ORBI    |     6 |           1 |       5 |              16.7 |
+|            1 | 2024-07-01 | PAST    |     4 |           0 |       4 |               0.0 |            4 | 2024-07-01 | PAST    |     6 |           1 |       5 |              16.7 |
+
+|   1 | 2023-10-01 | SSID |   7 |   6 |   1 |  85.7 |   4 | 2023-10-01 | SSID |   6 |   0 |   6 | 0.0 |
+| --: | :--------- | :--- | --: | --: | --: | ----: | --: | :--------- | :--- | --: | --: | --: | --: |
+|   1 | 2023-10-01 | CNAT |   6 |   6 |   0 | 100.0 |   4 | 2023-10-01 | CNAT |   6 |   0 |   6 | 0.0 |
+|   1 | 2023-10-01 | MCAV |   5 |   4 |   1 |  80.0 |   4 | 2023-10-01 | MCAV |   8 |   0 |   8 | 0.0 |
+|   1 | 2023-10-01 | ORBI |   5 |   5 |   0 | 100.0 |   4 | 2023-10-01 | ORBI |   6 |   0 |   6 | 0.0 |
+|   1 | 2023-10-01 | PAST |   4 |   0 |   4 |   0.0 |   4 | 2023-10-01 | PAST |   6 |   0 |   6 | 0.0 |
