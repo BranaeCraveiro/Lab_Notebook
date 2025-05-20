@@ -20,7 +20,7 @@ long_data <- pan_data %>%
     Species = str_trim(str_to_upper(Species)),                    # Clean species codes
     health_status = str_trim(str_to_lower(health_status)),        # Clean health status
     time_date = case_when(
-      time_point == "X092022_Condition" ~ as.Date("2022-09-01"),
+      time_point == "X092022_Condition" & !is.na(health_status) & heath_status != "" ~ as.Date("2022-09-01"),
       time_point == "X102023_Condition" ~ as.Date("2023-10-01"),
       time_point == "X72024_Condition"  ~ as.Date("2024-07-01"),
       TRUE ~ as.Date(NA)
