@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bb4c2df4490f4497",
+        "id": "6c6a06236939d878",
         "type": "tabs",
         "children": [
           {
-            "id": "9ec6c7349d0a7076",
+            "id": "39522aea1a8ccd9a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "R Notebook/Determining Summer 2025 Research Project.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Determining Summer 2025 Research Project"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "504cf1d1415699a7",
@@ -165,13 +160,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ec6c7349d0a7076",
+  "active": "39522aea1a8ccd9a",
   "lastOpenFiles": [
+    "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
+    "R Notebook/Determining Summer 2025 Research Project.md",
     "2025-05-17.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "R Notebook/Determining Summer 2025 Research Project.md",
     "Molecular Labwork Practice/Practice DNA Extractions.md",
     "Molecular Labwork Practice/PCR index Gel Electrophoresis.md",
     "R Notebook",
@@ -184,7 +180,6 @@
     "Molecular Labwork Practice/Practice Gel Images/April14_2025_Gel_1.png",
     "Molecular Labwork Practice/062019 & 052022 DNA concentrations.md",
     "2025-05-02.md",
-    "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
     "Molecular Labwork Practice/Practice Gel Images/April72025.png",
     "Gel Practice (editting images).pptx",
     "Molecular Labwork Practice/Practice Gel Images",

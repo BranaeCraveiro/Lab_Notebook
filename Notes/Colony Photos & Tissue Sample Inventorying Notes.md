@@ -24,8 +24,7 @@ Mystery PAST (no past in T3 on github) 
 *data file on github out of transect order*
 
 032024:
-T3 notes: 
-some duplicate files - remove 
+
 
 T5 notes: all labeled
 PSTR folder- there is no 1 on github - add to github
