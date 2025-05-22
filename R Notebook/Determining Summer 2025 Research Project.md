@@ -1,4 +1,4 @@
-# Colony Data
+# PAN_Colony Data
 ```r
 setwd("C:\\Users\\Owner\\OneDrive\\Documents\\GW Lab\\GitHub\\SCTLD_samples\\Sample_Data")
 pan_data <- read.csv("PAN-BDT_ColonyData.csv")
@@ -257,7 +257,7 @@ kable(coral_summary_transect_time, format = "markdown")     #transects & timepoi
 |            3|2022-09-01 |OFAV    |     3|           0|       3|               0.0|
 |            3|2022-09-01 |OANN    |     1|           0|       1|               0.0|
 
-# Sample Data
+# PAN_Sample Data
 ```r
 setwd("C:\\Users\\Owner\\OneDrive\\Documents\\GW Lab\\GitHub\\SCTLD_samples\\Sample_Data")
 pan_samples <- read.csv("PAN-BDT_samples.csv")
@@ -270,7 +270,7 @@ library(knitr)
 
 # Create a smaller dataframe with only selected columns
 pan_samples_subset <- pan_samples %>%
-  select(Month_year, Transect_num, Species, Sample_type, Health_status, Tubelabel_species, Sample_physical_location) %>%
+  select(Month_year, Transect_num, Current_tag_num, Species, Sample_type, Health_status, Tubelabel_species, Sample_physical_location) %>%
   filter(
     Month_year != "92022",                        # exclude 092022
     Transect_num %in% c("1", "4"),                # only keep transect 1 and 4
@@ -402,5 +402,25 @@ kable(coral_summary_timepoint, format = "markdown")         #timepoint
 ## Notes 
 - going to want to start extracting July 2024 for week 5/19
 - can do 7 samples 3 extractions a week, 10 weeks left for summer, aim to do 96 samples
-- look for healthy healthy, bleach bleach, pale  
-Samples for 5/22 extraction 
+- I can do more, this is if I want a space between tubes on rack  
+
+#### Some Questions I would Like to Answer 
+*a majority of my nonhealthy samples are CLP, so will focus questions on paling
+1. Do symbiont community compositions differ between healthy and paling coral samples?
+2. Is symbiont diversity higher or lower in paling corals compared to healthy ones?
+3. ==Do transects with a higher percentage of paling samples show distinct symbiont community shifts compared to those with mostly healthy corals?==
+4. Can differences in symbiont types predict coral health status before visible paling occurs?
+5. Do symbionts in paling corals show signs of functional differences?
+
+##### Samples for 5/22 extraction
+
+| Status   | Tube Label                 | Location           |
+| -------- | -------------------------- | ------------------ |
+| Healthy  | 92022_PAN_BDT_T1_16_ORBI   | UML_NARWHAL_R1_B13 |
+| pale     | 102023_PAN_BDT_T1_121_ORBI | UML_NARWHAL_R1_B15 |
+| bleached | 072024_PAN_BDT_T1_566_ORBI | UML_NARWHAL_R3_B32 |
+| healthy  | 072024_PAN_BDT_T1_601_CNAT | UML_NARWHAL_R3_B32 |
+| pale     | 072024_PAN_BDT_T1_603_CNAT | UML_NARWHAL_R3_B32 |
+
+
+
