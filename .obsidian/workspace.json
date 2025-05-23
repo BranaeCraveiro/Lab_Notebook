@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "c4b79e3cc8fec83c",
+            "id": "ed01c0032e4e09b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,7 +35,8 @@
               "title": "5.23.2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,11 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39522aea1a8ccd9a",
+  "active": "ed01c0032e4e09b2",
   "lastOpenFiles": [
-    "PAN_BDT/DNA Extractions/5.23.2025.md",
     "R Notebook/Determining Summer 2025 Research Project.md",
+    "PAN_BDT/DNA Extractions/5.23.2025.md",
     "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
+    "Notes.md",
     "PAN_BDT/DNA Extractions/Untitled",
     "PAN_BDT/DNA Extractions",
     "PAN_BDT",

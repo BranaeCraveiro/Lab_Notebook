@@ -148,16 +148,16 @@ kable(coral_summary_transect_time, format = "markdown")     #transects & timepoi
 |            1 |    81 |          34 |      47 |              42.0 |
 |            2 |    87 |          19 |      68 |              21.8 |
 |            3 |   106 |          39 |      67 |              36.8 |
-|            4 |    96 |           8 |      88 |               8.3 |
+|            **4** |    **96** |           **8** |      **88** |               **8.3** |
 |            5 |    94 |          44 |      50 |              46.8 |
 |            6 |    69 |          30 |      39 |              43.5 |
 
 ### Coral Summary  per Timepoints 
-|time_date  | total| non_healthy| healthy| percent_unhealthy|
-|:----------|-----:|-----------:|-------:|-----------------:|
-|2024-07-01 |   225|          73|     152|              32.4|
-|2023-10-01 |   220|         101|     119|              45.9|
-|2022-09-01 |    88|           0|      88|               0.0|
+| time_date  | total | non_healthy | healthy | percent_unhealthy |
+| :--------- | ----: | ----------: | ------: | ----------------: |
+| 2024-07-01 |   225 |          73 |     152 |              32.4 |
+| 2023-10-01 |   220 |         101 |     119 |              45.9 |
+| 2022-09-01 |    88 |           0 |      88 |               0.0 |
 ### Coral Summary Species per Transect & Timepoint
 
 | Transect_num|time_date  |Species | total| non_healthy| healthy| percent_unhealthy|
@@ -272,14 +272,13 @@ library(knitr)
 pan_samples_subset <- pan_samples %>%
   select(Month_year, Transect_num, Current_tag_num, Species, Sample_type, Health_status, Tubelabel_species, Sample_physical_location) %>%
   filter(
-    Month_year != "92022",                        # exclude 092022
-    Transect_num %in% c("1", "4"),                # only keep transect 1 and 4
+    Transect_num %in% c("1", "2", "3", "4"),       # only keep transect 1-4
     Sample_type == "Core_RNAlater",               # only keep Core_RNAlater sample type
     Sample_physical_location != "TX STATE"        # remove samples at texas state
   ) %>%
   mutate(
-    Species = str_trim(str_to_upper(Species)),      # Clean species codes
-    Transect_num = str_trim(Transect_num),          # Clean transect numbers
+    Species = str_trim(str_to_upper(Species)),               # Clean species codes
+    Transect_num = str_trim(Transect_num),                   # Clean transect numbers
     Health_status = str_trim(str_to_lower(Health_status))    # Clean health status
   ) %>%
   mutate(
@@ -293,14 +292,14 @@ pan_samples_subset <- pan_samples %>%
 shared_species <- pan_samples_subset %>%
   distinct(Transect_num, Species) %>%                     #keeps unique combos of transects and species, prevents duplicate combos 
   group_by(Species) %>%                  
-  summarise(n_transects = n(), .groups = "drop") %>%    # For each species, count the number of transects it shows up in (should be 2 if it’s in both T1 and T4).
-  filter(n_transects == 2) %>%                          # Keep only species that show up in both transects
+  summarise(n_transects = n(), .groups = "drop") %>%    # For each species, count the number of transects it shows up in (should be 4 if it’s in all 4 Transects).
+  filter(n_transects == >3) %>%                          # Keep only species that show up in both transects
   pull(Species)
 
 # filtering data by shared species 
-T1_T4_samples_shared <- pan_samples_subset %>%
+T1toT4_samples_shared <- pan_samples_subset %>%
   filter(Species %in% shared_species)
-nrow (T1_T4_samples_shared)
+nrow (T1toT4_samples_shared)
 
 # Count non-healthy coral conditions per species
 non_healthy_counts_species <- T1_T4_samples_shared %>%
@@ -414,13 +413,18 @@ kable(coral_summary_timepoint, format = "markdown")         #timepoint
 
 ##### Samples for 5/22 extraction
 
-| Status   | Tube Label                 | Location           |
-| -------- | -------------------------- | ------------------ |
-| Healthy  | 92022_PAN_BDT_T1_16_ORBI   | UML_NARWHAL_R1_B13 |
-| pale     | 102023_PAN_BDT_T1_121_ORBI | UML_NARWHAL_R1_B15 |
-| bleached | 072024_PAN_BDT_T1_566_ORBI | UML_NARWHAL_R3_B32 |
-| healthy  | 072024_PAN_BDT_T1_601_CNAT | UML_NARWHAL_R3_B32 |
-| pale     | 072024_PAN_BDT_T1_603_CNAT | UML_NARWHAL_R3_B32 |
+| Status   | Tube Label                  | Location           |
+| -------- | --------------------------- | ------------------ |
+| pale     | 072024_PAN_BDT_T2_1059_CNAT | UML_NARWHAL_R3_B33 |
+| bleached | 102023_PAN_BDT_T2_228_CNAT  | UML_NARWHAL_R1_B15 |
+| healthy  | 92022_PAN_BDT_T2_48_CNAT    | UML_NARWHAL_R1_B13 |
+| healthy  | 072024_PAN_BDT_T1_601_CNAT  | UML_NARWHAL_R3_B32 |
+| pale     | 072024_PAN_BDT_T1_603_CNAT  | UML_NARWHAL_R3_B32 |
+|          |                             |                    |
+ 
+|102023_PAN_BDT_T2_228_CNAT|UML_NARWHAL_R1_B15|
+
+|072024_PAN_BDT_T2_1059_CNAT|UML_NARWHAL_R3_B33|
 
 
-
+could not do past 
