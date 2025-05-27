@@ -11,10 +11,14 @@
             "id": "c13661faafbf1763",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PAN_BDT/DNA Extractions/5.23.2025 Test Run of Bleach & Pale Samples.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "5.23.2025 Test Run of Bleach & Pale Samples"
             }
           }
         ]
@@ -160,7 +164,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df337e28875a6d7",
+  "active": "c13661faafbf1763",
   "lastOpenFiles": [
     "PAN_BDT/DNA Extractions/5.23.2025 Test Run of Bleach & Pale Samples.md",
     "R Notebook/Determining Summer 2025 Research Project.md",
