@@ -418,14 +418,51 @@ kable(coral_summary_timepoint, format = "markdown")
 5. Can differences in symbiont types predict coral health status before visible paling occurs?
 6. Do symbionts in paling corals show signs of functional differences?
 
-##### Samples for 5/22 extraction
+# Extraction Template 
+Sample 1 
 
-| Status   | Tube Label                  | Location           |
-| -------- | --------------------------- | ------------------ |
-| pale     | 072024_PAN_BDT_T2_1059_CNAT | UML_NARWHAL_R3_B33 |
-| bleached | 102023_PAN_BDT_T2_228_CNAT  | UML_NARWHAL_R1_B15 |
-| healthy  | 92022_PAN_BDT_T2_48_CNAT    | UML_NARWHAL_R1_B13 |
-| healthy  | 072024_PAN_BDT_T1_601_CNAT  | UML_NARWHAL_R3_B32 |
-| pale     | 072024_PAN_BDT_T1_603_CNAT  | UML_NARWHAL_R3_B32 |
+g
+ng/μL
 
+Sample 2
 
+g
+ng/μL
+
+Sample 3
+
+g
+ng/μL
+
+Sample 4
+
+g
+ng/μL
+
+Sample 5 
+
+g
+ng/μL
+
+Sample 6
+
+g
+ng/μL
+
+Sample 7 
+
+g
+ng/μL
+
+Sample 8 
+
+g
+ng/μL
+
+Sample 9 
+
+g
+ng/μL
+
+Sample 10 
+Negative 
