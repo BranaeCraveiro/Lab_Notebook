@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86c7635dfea6e345",
+            "id": "b98c6b5f7ba1515a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Misc. Notes/Panama Health Status Help.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Panama Health Status Help"
             }
           }
         ]
@@ -160,21 +164,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df337e28875a6d7",
+  "active": "b98c6b5f7ba1515a",
   "lastOpenFiles": [
+    "Misc. Notes/Panama Health Status Help.md",
+    "R Notebook/Determining Summer 2025 Research Project.md",
+    "R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
+    "Misc. Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
+    "Molecular Labwork Practice/Practice DNA Extractions.md",
+    "Molecular Labwork Practice/PCR index Gel Electrophoresis.md",
+    "Molecular Labwork Practice/062019 & 052022 DNA concentrations.md",
     "Molecular Labwork Practice/Practice Gel Images/April14_2025 Gels.png",
     "Molecular Labwork Practice/Practice Gel Images/April28_2025_Gel 1.png",
-    "Molecular Labwork Practice/062019 & 052022 DNA concentrations.md",
-    "Molecular Labwork Practice/PCR index Gel Electrophoresis.md",
-    "Molecular Labwork Practice/Practice DNA Extractions.md",
     "PAN_BDT/DNA Extractions/092022/6.17.2025.md",
     "PAN_BDT/DNA Extractions/5.23.2025 Test Run of Bleached & Pale Samples.md",
     "PAN_BDT/DNA Extractions/092022/6.4.2025.md",
-    "R Notebook/Determining Summer 2025 Research Project.md",
-    "R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
     "PAN_BDT/DNA Extractions/092022",
     "PAN_BDT/DNA Extractions/092022",
-    "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
     "PAN_BDT/Untitled 1",
     "PAN_BDT/DNA Extractions/Untitled",
     "PAN_BDT/DNA Extractions/092023",
