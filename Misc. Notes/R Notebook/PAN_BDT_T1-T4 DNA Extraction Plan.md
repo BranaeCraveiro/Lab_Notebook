@@ -26,11 +26,10 @@ pan_samples_subset <- pan_samples %>%
     )
   ) %>%
   filter(Species == "CNAT")                                           #Only CNAT samples
-  )                              
-
+  
+# Remove Specimen+Timepoints where ANY sample is already done
 pan_samples_subset_2 <- pan_samples_subset %>%
-  # Remove Specimen+Timepoints where ANY sample is already done
-group_by(Current_tag_num, Month_year) %>%
+group_by(Current_tag_num, Month_year, Health_status) %>%
 filter(!Extraction_physical_location %in% "UML_PENGUIN" | is.na(Extraction_physical_location)) %>%       #filter if colony has been done already
   slice_sample(n = 1) %>%                      # randomly pick one per group
   ungroup()
@@ -57,5 +56,4 @@ samples_scheduled <- pan_samples_subset_2 %>%
 
 # creating obsidian friendly markdown
 kable(samples_scheduled, format = "markdown")
-
-
+```
