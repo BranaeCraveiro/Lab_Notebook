@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0c689b883fbc6735",
+        "id": "80f997448ba23b17",
         "type": "tabs",
         "children": [
           {
-            "id": "9aaa9861b0a3ddeb",
+            "id": "2c8c37a14ac141f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/DNA Extractions/6.27.2025.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6.27.2025"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "504cf1d1415699a7",
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PAN_BDT/DNA Extractions/6.27.2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6.27.2025"
+              "title": "Backlinks"
             }
           },
           {
@@ -150,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,11 +160,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9aaa9861b0a3ddeb",
+  "active": "2c8c37a14ac141f2",
   "lastOpenFiles": [
-    "PAN_BDT/DNA Extractions/6.17.2025.md",
-    "PAN_BDT/DNA Extractions/6.25.2025.md",
     "PAN_BDT/DNA Extractions/6.27.2025.md",
+    "PAN_BDT/DNA Extractions/6.25.2025.md",
+    "PAN_BDT/DNA Extractions/6.17.2025.md",
     "PAN_BDT/DNA Extractions/6.4.2025.md",
     "PAN_BDT/DNA Extractions/5.23.2025 Test Run of Bleached & Pale Samples.md",
     "Misc. Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
