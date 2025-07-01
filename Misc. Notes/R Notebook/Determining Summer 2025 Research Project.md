@@ -465,4 +465,15 @@ g
 ng/μL
 
 Sample 10 
-Negative 
+
+g
+ng/μL
+
+Sample 11
+
+g
+ng/μL
+
+Sample 12 
+Negative Control
+
