@@ -13,58 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Misc. Notes/Meeting Notes/Summer 2025.md",
+                "file": "Misc. Notes/Panama Health Status Help.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Summer 2025"
-            }
-          },
-          {
-            "id": "70008f31805d8136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/DNA Extractions/7.10.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.10.2025"
-            }
-          },
-          {
-            "id": "2fa71c4d9b52df0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/DNA Extractions/7.7.2025 CLP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.7.2025 CLP"
-            }
-          },
-          {
-            "id": "710cdec16bbe8f9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/DNA Extractions/7.3.2025 - CLB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.3.2025 - CLB"
+              "title": "Panama Health Status Help"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,23 +164,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "710cdec16bbe8f9b",
+  "active": "a8eac3adcc684500",
   "lastOpenFiles": [
-    "PAN_BDT/DNA Extractions/7.10.2025.md",
-    "PAN_BDT/DNA Extractions/7.3.2025 - CLB.md",
-    "PAN_BDT/DNA Extractions/7.7.2025 CLP.md",
-    "Misc. Notes/Meeting Notes/Summer 2025.md",
-    "Misc. Notes/Meeting Notes",
-    "Misc. Notes/R Notebook/Determining Summer 2025 Research Project.md",
-    "Misc. Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
     "Misc. Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
+    "Misc. Notes/R Notebook/Determining Summer 2025 Research Project.md",
+    "Misc. Notes/Meeting Notes/Summer 2025.md",
+    "lajeunesseImprovedResolutionReefCoral2011.md",
     "Misc. Notes/Panama Health Status Help.md",
-    "PAN_BDT/DNA Extractions/6.30.2025.md",
-    "PAN_BDT/DNA Extractions/6.27.2025.md",
-    "PAN_BDT/DNA Extractions/6.25.2025.md",
-    "PAN_BDT/DNA Extractions/6.17.2025.md",
-    "PAN_BDT/DNA Extractions/6.4.2025.md",
-    "PAN_BDT/DNA Extractions/5.23.2025 Test Run of Bleached & Pale Samples.md",
+    "zotero",
+    "Misc. Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
+    "Untitled",
+    "PAN_BDT/DNA Extractions/CNAT/7.10.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT",
+    "PAN_BDT/DNA Extractions/CNAT/7.7.2025 CLP.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.3.2025 - CLB.md",
+    "Misc. Notes/Meeting Notes",
+    "PAN_BDT/DNA Extractions/CNAT/6.30.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/6.27.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/6.25.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/6.17.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/6.4.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/5.23.2025 Test Run of Bleached & Pale Samples.md",
     "Molecular Labwork Practice/062019 & 052022 DNA concentrations.md",
     "Molecular Labwork Practice/PCR index Gel Electrophoresis.md",
     "Molecular Labwork Practice/Practice DNA Extractions.md",
@@ -235,9 +197,6 @@
     "PAN_BDT/DNA Extractions/092023",
     "Notes.md",
     "PAN_BDT/DNA Extractions/Untitled",
-    "PAN_BDT/DNA Extractions",
-    "PAN_BDT",
-    "Coral Notebook/PAN_BDT",
     "2025-05-17.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
