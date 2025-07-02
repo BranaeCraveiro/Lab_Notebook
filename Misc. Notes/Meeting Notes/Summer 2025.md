@@ -7,5 +7,8 @@
 - Daniel Thornhill
 - Todd Lajuenesse 
 - Benjamin Hume 
-#### 
+
+Thornhill & Lajuenesse 2011 
+psbAFor_1 (5' - GCA GCT CAT GGT TAT TTT GGT AGA C - 3') and psbARev_1 (5' - AAT TCC CAT TCT CTA CCC ATC C - 3')
+
 
