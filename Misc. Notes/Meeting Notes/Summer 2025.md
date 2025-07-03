@@ -1,32 +1,7 @@
 ## 7/3/2025 Caroline & Brooke
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### To do 
+- pick day next week to help caroline with ITS2 PCR 
+- Read thermofisher website on sanger sequencing
 ## 7/2/2025 w/ Caroline 
 ### Papers determining CNAT is dominated by Clade B 
 #### Locatelli & Baums 2025 
