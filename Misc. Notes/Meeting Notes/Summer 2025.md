@@ -1,3 +1,25 @@
+
+
+label collection tubes 
+do dna extraction with three negatives 
+make stock primer 
+annealing temp gradient 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 7/3/2025 Caroline & Brooke
 ### To do 
 - pick day next week to help caroline with ITS2 PCR 
