@@ -1,24 +1,13 @@
+## 7/8/2025 w/ Caroline 
+#### Last DNA extraction I had DNA in my negative, discussed plan moving forward:
+- label sides of collection tubes 
+- perform an extraction on thursday expect make three negatives, qubit to check for contamination of reagents
+	- if contaminated start a new kit, if not assess what to do next and what I am comfortable with 
 
-
-label collection tubes 
-do dna extraction with three negatives 
-make stock primer 
-annealing temp gradient 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### To do next week:
+- create primer stock - Caroline will probably do this for me 
+- finish CNAT extractions
+- do annealing temperature gradient
 
 ## 7/3/2025 Caroline & Brooke
 ### To do 

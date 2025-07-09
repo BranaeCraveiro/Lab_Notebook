@@ -4,81 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b0e228f3193559f0",
+        "id": "93ef845398ef24e7",
         "type": "tabs",
         "children": [
           {
-            "id": "fe6b21ea9d8b3af3",
+            "id": "18894a5b4c82ff31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/DNA Extractions/CNAT/7.11.2025 - splits.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "7.11.2025 - splits"
-            }
-          },
-          {
-            "id": "5ab1b2b5c39fa75e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/DNA Extractions/CNAT/7.10.2025 negative control check.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.10.2025 negative control check"
-            }
-          },
-          {
-            "id": "ac564b21d85479b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7.11.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.11.2025"
-            }
-          },
-          {
-            "id": "281eb4f73e292b27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/DNA Extractions/CNAT/7.11.2025 - splits.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.11.2025 - splits"
-            }
-          },
-          {
-            "id": "32d714878a2c8f83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7.13.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7.13.2025"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,13 +159,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32d714878a2c8f83",
+  "active": "0df337e28875a6d7",
   "lastOpenFiles": [
-    "7.12.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/7.11.2025 - splits.md",
-    "7.11.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.16.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.14.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.11.2025.md",
     "PAN_BDT/DNA Extractions/CNAT/7.10.2025 negative control check.md",
-    "7.13.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.11.2025 - splits.md",
     "PAN_BDT/DNA Extractions/CNAT/7.7.2025 - CLP.md",
     "Misc. Notes/Meeting Notes/Summer 2025.md",
     "PAN_BDT/DNA Extractions/CNAT/6.30.2025.md",
