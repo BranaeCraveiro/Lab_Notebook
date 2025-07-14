@@ -1,3 +1,26 @@
+## 7/15/2025 w/ Caroline & Brooke
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 7/8/2025 w/ Caroline 
 #### Last DNA extraction I had DNA in my negative, discussed plan moving forward:
 - label sides of collection tubes 
