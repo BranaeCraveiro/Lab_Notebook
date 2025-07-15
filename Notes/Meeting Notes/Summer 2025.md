@@ -1,28 +1,15 @@
 ## 7/15/2025 w/ Caroline & Brooke
-
+#### Research Project Planning
 Total CNAT samples extracted: 74 
-what size gel molds do we have? 
-determine if I can finish PCR before leaving - perhaps get my samples out and sequenced when I am gone so I can have my results ready for me to analyze when I come back
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- will probably troubleshoot for the next two weeks before I leave so I can get started with PCRs when I come back in the fall 
+#### Lab Meeting Planning 
+- share a paper on psbA/sanger sequencing and use it to relate to my project 
+- explain what psbA is and how it works in relation to their experiment and mine 
+	- should I also explain 16S and ITS2 brief;y and share why I am doing psbA and not other common regions 
+- explain how sanger sequencing works- use khan academy visual 
+### To Do:
+- pick psbA paper to discuss for my lab meeting 
+- hydrate primers and create primer dilutions
 
 ## 7/8/2025 w/ Caroline 
 #### Last DNA extraction I had DNA in my negative, discussed plan moving forward:
@@ -54,7 +41,7 @@ determine if I can finish PCR before leaving - perhaps get my samples out and se
 #### Cunning et al. 2023 
 *Measuring multi-year changes in the Symbiodiniaceae algae in Caribbean corals on coral-depleted reefs.* 10.7717/peerj.17358
 - Multi-year ITS2 survey across Caribbean reefs.
-- _C. natans_ consistently dominated by **Breviolum**, rarely Cladocopium.
+- CNAT consistently dominated by **Breviolum**, rarely Cladocopium.
 
 ### Buying psbA primers
 **Lewis et al. 2018** used psbA primers from **Thornhill & Lajuenesse 2011**  (10.1371/journal.pone.0029013) 
