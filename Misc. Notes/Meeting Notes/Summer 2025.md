@@ -1,5 +1,8 @@
 ## 7/15/2025 w/ Caroline & Brooke
 
+Total CNAT samples extracted: 74 
+what size gel molds do we have? 
+determine if I can finish PCR before leaving - perhaps get my samples out and sequenced when I am gone so I can have my results ready for me to analyze when I come back
 
 
 
