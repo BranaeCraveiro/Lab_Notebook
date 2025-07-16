@@ -7,9 +7,11 @@ Total CNAT samples extracted: 74
 - explain what psbA is and how it works in relation to their experiment and mine 
 	- should I also explain 16S and ITS2 brief;y and share why I am doing psbA and not other common regions 
 - explain how sanger sequencing works- use khan academy visual 
-### To Do:
-- pick psbA paper to discuss for my lab meeting 
-- hydrate primers and create primer dilutions
+#### Potential Papers 
+##### Hume et al. 2015 
+*Symbiodinium thermophilum sp. nov., a thermotolerant symbiotic alga prevalent in corals of the world’s hottest sea, the Persian/Arabian Gulf* 10.1038/srep08562 
+##### Marzonie et al. 2024
+*Symbiodiniaceae diversity varies by host and environment across thermally distinct reefs* 10.1111/mec.17342
 
 ## 7/8/2025 w/ Caroline 
 #### Last DNA extraction I had DNA in my negative, discussed plan moving forward:
