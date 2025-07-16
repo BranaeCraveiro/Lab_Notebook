@@ -10,7 +10,7 @@ Last edit: BKS & NJU 6/25/25 *(added my own notes on 7/16/25)*
 	- 100 µL x # of samples (do not use alloqot if more than 3 days old)
 - UV Sterilize
     - 2 x # of samples in 1.5 mL Lo-Bind Eppendorf tubes
-    - 1 x # of samples in 2 mL Cyrovial tubes 
+    - 1 x # of samples in 2 mL Cyrovial tubes *(original protocol calls for x2 eppendorfs)*
 - Thaw coral samples on ice
 - Heat a heating block/incubator to 70 ◦C, no shaking, put Elution buffer aliquot in
 - Heat the water bath/incubator to 37◦C (spin knob to around 6.5)
@@ -50,11 +50,11 @@ _If the pellet has not fully settled out of the supernatant, you may recentrifug
 
 ### Binding
 13. Transfer ~550uL supernatant into 2 new centrifuge tubes each, make sure not to disturb the pellet. Add an equal volume of XP1 buffer to each tube (about 550 µL, adjust according to volume).
-*usually get aroung 950 µL  of supernatant in total- use 1 cyrovial instead* 
+*usually get aroung 950 µL of supernatant in total- use 1 cyrovial instead* 
 
 14. Insert a HiBind column into a 2 mL collection tube. Transfer 700 µL of the sample into the column. Centrifuge at 10000 g/rpm for 1 minute at room temperature. Discard the filtrate and reuse the collection tube.
 
-15. Repeat step 11 until all filtrate (from both sample tubes) has passed through
+15. Repeat step 13 until all filtrate (from both sample tubes) has passed through
 *usually I have 500 µL remaining after the two intial 700 µL runs*
 
 ### Washing
@@ -66,11 +66,9 @@ _If the pellet has not fully settled out of the supernatant, you may recentrifug
 
 19. Centrifuge the column without loading it with anything for 2 minutes at maximum speed at room temperature.
 
-
-### [](https://github.com/ThijsSt/SCTLD-metagenomes/blob/main/DNA_Extraction.md#elution)Elution
-
+### Elution
 20. Transfer the column to a clean empty Lo-Bind Eppendorf tube. Add 50 µL elution buffer, heated to 70˚C. Incubate for 10 minutes at room temperature. Centrifuge at maximum speed for 1 minute.
-    
+
 21. Keep the column in the same eppendorf tube and add 25 µL elution buffer, heated to 70 ˚C. Incubate at room temperature for 10 minutes. Centrifuge at maximum speed for 1 minute.
-    
+
 22. Measure concentration using [[Qubit]] and store DNA at -20 ˚C
