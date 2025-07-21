@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "153691ceba15733b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/DNA Extractions/CNAT/6.17.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.17.2025"
-            }
-          },
-          {
             "id": "54f77e481b074fda",
             "type": "leaf",
             "state": {
@@ -34,23 +20,8 @@
               "icon": "lucide-file",
               "title": "7.21.2025 - annealing gradient"
             }
-          },
-          {
-            "id": "431e8ca9b48cddad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Meeting Notes/Summer 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Summer 2025"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,6 +165,7 @@
   },
   "active": "54f77e481b074fda",
   "lastOpenFiles": [
+    "PAN_BDT/psbA/psbA Gel Images",
     "PAN_BDT/DNA Extractions/CNAT/6.17.2025.md",
     "PAN_BDT/psbA/7.21.2025 - annealing gradient.md",
     "Notes/Meeting Notes/Summer 2025.md",
@@ -231,7 +203,6 @@
     "PAN_BDT/DNA Extractions/092022",
     "PAN_BDT/Untitled 1",
     "PAN_BDT/DNA Extractions/Untitled",
-    "Notes.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
