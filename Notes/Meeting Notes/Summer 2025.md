@@ -1,20 +1,10 @@
 ## 7/21/2025 w/ Caroline
 ### Annealing Temperature Gradient 
 https://tmcalculator.neb.com/#!/main 
-Primer 1: 25 nt, 44% GC, Tm: 61°C
-Primer 2: 22 nt, 45% GC, Tm: 59°C
-Anneal at 60 °C
-- create gradient ranging from 55°C to 60 °C?
-
-
-
-
-
-
-
-
-
-
+Primer 1: 25 nt, 44% GC, Tm: 66°C
+Primer 2: 22 nt, 45% GC, Tm: 64°C 
+Anneal at 65 °C
+- create gradient ranging from 60°C to 70 °C?
 ## 7/15/2025 w/ Caroline & Brooke
 ### Research Project Planning
 Total CNAT samples extracted: 74 

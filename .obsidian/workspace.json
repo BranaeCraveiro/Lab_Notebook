@@ -13,6 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "PAN_BDT/DNA Extractions/CNAT/6.17.2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.17.2025"
+            }
+          },
+          {
+            "id": "54f77e481b074fda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PAN_BDT/psbA/7.21.2025 - annealing gradient.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.21.2025 - annealing gradient"
+            }
+          },
+          {
+            "id": "431e8ca9b48cddad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Notes/Meeting Notes/Summer 2025.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +49,8 @@
               "title": "Summer 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,22 +192,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "153691ceba15733b",
+  "active": "54f77e481b074fda",
   "lastOpenFiles": [
+    "PAN_BDT/DNA Extractions/CNAT/6.17.2025.md",
+    "PAN_BDT/psbA/7.21.2025 - annealing gradient.md",
+    "Notes/Meeting Notes/Summer 2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/6.4.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/5.23.2025 Test Run of Bleached & Pale Samples.md",
+    "PAN_BDT/DNA Extractions/CNAT/6.25.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/6.27.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/6.30.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.7.2025 - CLP.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.11.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.10.2025 Reagent contamination check.md",
     "Protocols/DNA Extraction.md",
     "Protocols/Qubit.md",
     "PAN_BDT/DNA Extractions/CNAT/7.16.2025 - CLB.md",
-    "PAN_BDT/DNA Extractions/CNAT/7.7.2025 - CLP.md",
-    "PAN_BDT/DNA Extractions/CNAT/7.10.2025 Reagent contamination check.md",
-    "PAN_BDT/DNA Extractions/CNAT/7.11.2025.md",
     "PAN_BDT/DNA Extractions/CNAT/7.14.2025.md",
-    "Notes/Meeting Notes/Summer 2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/6.30.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/6.27.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/6.25.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/6.17.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/6.4.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/5.23.2025 Test Run of Bleached & Pale Samples.md",
     "PAN_BDT/psbA/Gel Images",
     "Protocols",
     "PAN_BDT/psbA",
@@ -202,7 +232,6 @@
     "PAN_BDT/Untitled 1",
     "PAN_BDT/DNA Extractions/Untitled",
     "Notes.md",
-    "2025-05-17.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
