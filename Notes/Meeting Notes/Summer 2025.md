@@ -1,20 +1,37 @@
+## 7/21/2025 w/ Caroline
+### Annealing Temperature Gradient 
+https://tmcalculator.neb.com/#!/main 
+Primer 1: 25 nt, 44% GC, Tm: 61°C
+Primer 2: 22 nt, 45% GC, Tm: 59°C
+Anneal at 60 °C
+- create gradient ranging from 55°C to 60 °C?
+
+
+
+
+
+
+
+
+
+
 ## 7/15/2025 w/ Caroline & Brooke
-#### Research Project Planning
+### Research Project Planning
 Total CNAT samples extracted: 74 
 - will probably troubleshoot for the next two weeks before I leave so I can get started with PCRs when I come back in the fall 
-#### Lab Meeting Planning 
+### Lab Meeting Planning 
 - share a paper on psbA/sanger sequencing and use it to relate to my project 
 - explain what psbA is and how it works in relation to their experiment and mine 
-	- should I also explain 16S and ITS2 brief;y and share why I am doing psbA and not other common regions 
+	- should I also explain 16S and ITS2 briefly and share why I am doing psbA and not other common regions 
 - explain how sanger sequencing works- use khan academy visual 
-#### Potential Papers 
-##### Hume et al. 2015 
+### Potential Papers 
+#### Hume et al. 2015 
 *Symbiodinium thermophilum sp. nov., a thermotolerant symbiotic alga prevalent in corals of the world’s hottest sea, the Persian/Arabian Gulf* 10.1038/srep08562 
-##### Marzonie et al. 2024
+#### Marzonie et al. 2024
 *Symbiodiniaceae diversity varies by host and environment across thermally distinct reefs* 10.1111/mec.17342
 
 ## 7/8/2025 w/ Caroline 
-#### Last DNA extraction I had DNA in my negative, discussed plan moving forward:
+### Last DNA extraction I had DNA in my negative, discussed plan moving forward:
 - label sides of collection tubes 
 - perform an extraction on thursday expect make three negatives, qubit to check for contamination of reagents
 	- if contaminated start a new kit, if not assess what to do next and what I am comfortable with 

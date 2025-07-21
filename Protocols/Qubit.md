@@ -10,7 +10,7 @@
 - Add 1 µL of each sample to the **assay tubes** 
 - Mix all assay tubes by vortexing 2–3 seconds. Be careful not to create bubbles. The final volume in each tube should be 200 µL.
 - incubate tubes for at least 2 minutes before measuring in Qubit Fluorometer
-    - do not hold in hands before putting into fluorometer - warms solution and results in low readings
+    - do not hold tube in hands before putting into fluorometer - warms solution and results in low readings
     - after 2 mins, mixture is stable for 3 hours
 
 ### On qubit:
