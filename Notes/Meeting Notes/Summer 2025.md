@@ -1,3 +1,13 @@
+## 7/22/2025 w/ Brooke, Caroline, & Sarah
+### PCR Troubleshooting [[7.21.2025 - annealing gradient]]
+- To test if my samples are working, use Caroline's reagents and ITS2 primers 
+- use Caroline reagents & my samples to test whether primers are working
+	- can do both PCR (seperately) and then run them on one gel 
+- Sarah suggests making my gradient have a lowest temperature of 55 °C since the paper (*Thornhill & Lajuenesse 2011, 10.1371/journal.pone.0029013* ) I got my primers from used that temperature. 
+- Sarah will buy new polymerase (don't need to use the expensive one for psbA)
+### To Do
+- look at papers I found Brevolium references to see if they are studies from the Carribean
+
 ## 7/21/2025 w/ Caroline
 ### Annealing Temperature Gradient 
 https://tmcalculator.neb.com/#!/main 
@@ -21,7 +31,7 @@ Total CNAT samples extracted: 74
 *Symbiodiniaceae diversity varies by host and environment across thermally distinct reefs* 10.1111/mec.17342
 
 ## 7/8/2025 w/ Caroline 
-### Last DNA extraction I had DNA in my negative, discussed plan moving forward:
+### Last DNA extraction I had DNA in my negative [[7.7.2025 - CLP]], discussed plan moving forward:
 - label sides of collection tubes 
 - perform an extraction on thursday expect make three negatives, qubit to check for contamination of reagents
 	- if contaminated start a new kit, if not assess what to do next and what I am comfortable with 
@@ -53,7 +63,7 @@ Total CNAT samples extracted: 74
 - CNAT consistently dominated by **Breviolum**, rarely Cladocopium.
 
 ### Buying psbA primers
-**Lewis et al. 2018** used psbA primers from **Thornhill & Lajuenesse 2011**  (10.1371/journal.pone.0029013) 
+**Lewis et al. 2018** used psbA primers from **Thornhill & Lajuenesse 2011** (10.1371/journal.pone.0029013) 
 
 **psbAFor_1**        5' - GCA GCT CAT GGT TAT TTT GGT AGA C - 3'
 **psbARev_1**       5' - AAT TCC CAT TCT CTA CCC ATC C - 3

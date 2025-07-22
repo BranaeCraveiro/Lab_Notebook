@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "93ef845398ef24e7",
+        "id": "d7a4dd88ebfdcea3",
         "type": "tabs",
         "children": [
           {
-            "id": "54f77e481b074fda",
+            "id": "7a92a9b31bbf9de5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAN_BDT/psbA/7.21.2025 - annealing gradient.md",
+                "file": "Labwork Practice/PCR index Gel Electrophoresis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.21.2025 - annealing gradient"
+              "title": "PCR index Gel Electrophoresis"
             }
           }
         ]
@@ -163,20 +163,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54f77e481b074fda",
+  "active": "7a92a9b31bbf9de5",
   "lastOpenFiles": [
-    "PAN_BDT/psbA/psbA Gel Images",
+    "Notes/Meeting Notes/Summer 2025.md",
+    "Notes/R Notebook/Determining Summer 2025 Research Project.md",
+    "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
+    "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
+    "Untitled.canvas",
+    "PAN_BDT/DNA Extractions/CNAT/7.10.2025 Reagent contamination check.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.7.2025 - CLP.md",
     "PAN_BDT/DNA Extractions/CNAT/6.17.2025.md",
     "PAN_BDT/psbA/7.21.2025 - annealing gradient.md",
-    "Notes/Meeting Notes/Summer 2025.md",
+    "PAN_BDT/psbA/psbA Gel Images",
     "PAN_BDT/DNA Extractions/CNAT/6.4.2025.md",
     "PAN_BDT/DNA Extractions/CNAT/5.23.2025 Test Run of Bleached & Pale Samples.md",
     "PAN_BDT/DNA Extractions/CNAT/6.25.2025.md",
     "PAN_BDT/DNA Extractions/CNAT/6.27.2025.md",
     "PAN_BDT/DNA Extractions/CNAT/6.30.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/7.7.2025 - CLP.md",
     "PAN_BDT/DNA Extractions/CNAT/7.11.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/7.10.2025 Reagent contamination check.md",
     "Protocols/DNA Extraction.md",
     "Protocols/Qubit.md",
     "PAN_BDT/DNA Extractions/CNAT/7.16.2025 - CLB.md",
@@ -187,12 +191,9 @@
     "Labwork Practice/Practice DNA Extractions.md",
     "Labwork Practice/PCR index Gel Electrophoresis.md",
     "Labwork Practice/062019 & 052022 DNA concentrations.md",
-    "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
-    "Notes/R Notebook/Determining Summer 2025 Research Project.md",
     "PAN_BDT/DNA Extractions/CNAT/7.11.2025 - splits.md",
     "PAN_BDT/DNA Extractions/CNAT/blah.md",
     "Misc. Notes/Panama Health Status Help.md",
-    "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
     "lajeunesseImprovedResolutionReefCoral2011.md",
     "zotero",
     "PAN_BDT/DNA Extractions/CNAT",
@@ -202,8 +203,6 @@
     "PAN_BDT/DNA Extractions/092022",
     "PAN_BDT/DNA Extractions/092022",
     "PAN_BDT/Untitled 1",
-    "PAN_BDT/DNA Extractions/Untitled",
-    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Labwork Practice/Practice Gel Images/April7_2025_Gel.png",

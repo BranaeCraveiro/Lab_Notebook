@@ -1,3 +1,5 @@
+*Note: something is wrong with code- ended up doing plan manually will need out in the later for future extractions*
+
 ```r
 library(dplyr)
 library(stringr)
@@ -57,3 +59,4 @@ samples_scheduled <- pan_samples_subset_2 %>%
 # creating obsidian friendly markdown
 kable(samples_scheduled, format = "markdown")
 ```
+
