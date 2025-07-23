@@ -5,7 +5,7 @@
 - Sarah suggests making my gradient have a lowest temperature of 55 °C and have it run for 40 cycles since the paper (*Thornhill & Lajuenesse 2011, 10.1371/journal.pone.0029013* ) I got my primers from used that temperature. 
 - Sarah will buy new polymerase (don't need to use the expensive one for psbA)
 ### To Do
-- look at papers I found Brevolium references to see if they are studies from the Carribean
+- look at papers I found Brevolium references to see if they are studies from the Caribbean
 
 ## 7/21/2025 w/ Caroline
 ### Annealing Temperature Gradient 
