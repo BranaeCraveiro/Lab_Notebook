@@ -1,9 +1,8 @@
 ## 7/22/2025 w/ Brooke, Caroline, & Sarah
 ### PCR Troubleshooting [[7.21.2025 - annealing gradient]]
-- To test if my samples are working, use Caroline's reagents and ITS2 primers 
-- use Caroline reagents & my samples to test whether primers are working
-	- can do both PCR (seperately) and then run them on one gel 
-- Sarah suggests making my gradient have a lowest temperature of 55 °C since the paper (*Thornhill & Lajuenesse 2011, 10.1371/journal.pone.0029013* ) I got my primers from used that temperature. 
+- use Caroline reagents & my samples to test whether primers are working [[7.23.2025 - troubleshooting]]
+- if that doesnt work then test if my samples are working, use Caroline's reagents and ITS2 primers 
+- Sarah suggests making my gradient have a lowest temperature of 55 °C and have it run for 40 cycles since the paper (*Thornhill & Lajuenesse 2011, 10.1371/journal.pone.0029013* ) I got my primers from used that temperature. 
 - Sarah will buy new polymerase (don't need to use the expensive one for psbA)
 ### To Do
 - look at papers I found Brevolium references to see if they are studies from the Carribean

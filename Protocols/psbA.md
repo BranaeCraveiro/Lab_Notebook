@@ -13,17 +13,18 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 *albumin is viscous so pipet slowly*
 3. Add water, pipette up and down to mix.
 *Be careful not to make bubbles*
-4. Pipette 24uL of master mix into each replicate tube
-5. Pipette 1uL of DNA into each replicate tube
+4. Pipette 24µL of master mix into each replicate tube
+5. Pipette 1µL of DNA into each replicate tube
 *use new pipette tip for each replicate*
-4. briefly centrifuge pcr tubes before thermal cycler
-5. run thermocycler program:
-    1. 98 for 30 sec
-    2. 98 for 10 sec
-    3. 69 for 30 sec
-    4. 72 for 20 sec _repeat 2-4 for 30 cycles (# of cycles varies depending on input)_
-    5. 72 for 2 min
-    6. 8 for Forever
+6. briefly centrifuge pcr tubes before thermal cycler
+7. run thermocycler program:
+    1. 95 for 30 seconds
+    2. 95 for 30 seconds
+    3. 45-68 for 60 seconds
+    4. 68 for 60 sec _repeat 2-4 for 40 cycles (# of cycles varies depending on input)
+    5. 68
+    6. for 2 min
+    7. 8 for Forever
 
 # **ALL POST-PCR DONE IN OTHER ROOM (aka the rest of this protocol)**
 
@@ -40,17 +41,17 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 3. calculating gel density:
     *% = weight (g) / volume (mL)*
 4. melt mixture (on hot plate with stir bar or microwave) until mixture has big bubbles and there's no floaters
-5. add GelRed to gel once cool to touch *(if you don't, you won't see your bands!!)*
+5. add 2 µL GelRed to gel once cool to touch *(if you don't, you won't see your bands!!)*
 6. Pour gel into the middle of mold and wait for even dispersion (enough gel to see that the wells are in it, not too thick
 	*use a pipet tip to push away any bubbles* 
 7. let gel cool *- wells will break if not cooled down enough - 20 mins to be safe
 
 ### Loading gel sample prep
 1. Cut enough parafilm for all samples + ladders
-2. Pipette up 20uL of loading dye and place 1-2ul dots of loading dye on the parafilm for each well
+2. Pipette up 20µL of loading dye and place 1-2µL dots of loading dye on the parafilm for each well
 3. **turn rig so DNA will move towards the positive electrode run towards red!**
-4. load 2-3uL of DNA ladder *(1:5 dilution with molecular water)* at beginning or end *(or both if large rig)* of the gel, and on each row
-5. load 1uL PCR product- *mix sample thoughly with loading dye*
+4. load 2-3µL of DNA ladder *(1:5 dilution with molecular water)* at beginning or end *(or both if large rig)* of the gel, and on each row
+5. load 1µL PCR product- *mix sample thoughly with loading dye*
 6. put cover on and turn on electric current - **run 110 volts for ~35 mins**
     - *check to make sure bands aren't running off the gel*
     - *time length depends on the size of gel 30-50 mins*
