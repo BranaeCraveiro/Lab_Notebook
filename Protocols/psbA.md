@@ -1,3 +1,4 @@
+*based off of NEB's Hot Start _Taq_ DNA Polymerase (M0495) https://www.neb.com/en-us/protocols/2012/10/04/pcr-using-hot-start-taq-dna-polymerase-m0495
 ## I. PCR
 ### PCR Preparation 
 - thaw reagents & samples 
@@ -5,7 +6,7 @@
 - make sure molecular water is alloquoted 
 ### Create master mix for each sample
 *use this sheet to determine reagent volumes*
-https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=1190696047#gid=1190696047 
+https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=92320545#gid=92320545
 
 1. Add Buffer, dNTP, and Primers vortex to eppendorf tube. Vortex Briefly 
 *(DO NOT vortex polymerase or albumin)*
