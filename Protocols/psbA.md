@@ -21,11 +21,10 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 7. run thermocycler program:
     1. 95 for 30 seconds
     2. 95 for 30 seconds
-    3. 45-68 for 60 seconds
-    4. 68 for 60 sec _repeat 2-4 for 40 cycles (# of cycles varies depending on input)
-    5. 68
-    6. for 2 min
-    7. 8 for Forever
+    3. 45-68 for 1 minute
+    4. 68 for 1 minute _repeat 2-4 for 40 cycles (# of cycles varies depending on input)
+    5. 68 for 5 minutes
+    6. 6 for Forever
 
 # **ALL POST-PCR DONE IN OTHER ROOM (aka the rest of this protocol)**
 

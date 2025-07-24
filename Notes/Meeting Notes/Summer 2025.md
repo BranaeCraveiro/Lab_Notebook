@@ -6,7 +6,16 @@
 - Sarah will buy new polymerase (don't need to use the expensive one for psbA)
 ### To Do
 - look at papers I found Brevolium references to see if they are studies from the Caribbean
-
+#### Papers I got Brevolim References from 
+##### Locatelli & Baums 2025 
+*Genomes of the Caribbean reef-building corals Colpophyllia natans, Dendrogyra cylindrus, and Siderastrea siderea* 10.1093/g3journal/jkaf020
+	**Location:** Curaçao
+##### Lewis et al. 2018 
+*New Species of Closely Related Endosymbiotic Dinoflagellates in the Greater Caribbean have Niches Corresponding to Host Coral Phylogeny* 10.1093/g3journal/jkaf020
+	**Location:** Bahamas, Barbados, St. Croix, Florida, Curacßao, Belize, the Gulf of Mexico, and Mexico 
+##### Cunning et al. 2023 
+*Measuring multi-year changes in the Symbiodiniaceae algae in Caribbean corals on coral-depleted reefs.* 10.7717/peerj.17358
+	**Location:** St John 
 ## 7/21/2025 w/ Caroline
 ### Annealing Temperature Gradient 
 https://tmcalculator.neb.com/#!/main 
