@@ -36,10 +36,10 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 - always use standard DNA ladder on every row of gel, can dilute ladder to 1:5 in order to see relatively brighter bands
 
 ### Making and setting up a gel
-1. Prepare gel mold to set up a gel- add gel comb for number of samples needed
-2. mix agar and clean TBE buffer to generate a 1.5% agarose gel that will be large enough for the gel mold
-3. calculating gel density:
+1. mix agar and clean TBE buffer to generate a 1.5% agarose gel that will be large enough for the gel mold
+2. calculating gel density:
     *% = weight (g) / volume (mL)*
+3. Prepare gel mold to set up a gel- add gel comb for number of samples needed
 4. melt mixture (on hot plate with stir bar or microwave) until mixture has big bubbles and there's no floaters
 5. add 2 µL GelRed to gel once cool to touch *(if you don't, you won't see your bands!!)*
 6. Pour gel into the middle of mold and wait for even dispersion (enough gel to see that the wells are in it, not too thick
