@@ -18,7 +18,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 5. Pipette 1µL of DNA into each replicate tube
 *use new pipette tip for each replicate*
 6. briefly centrifuge pcr tubes before thermal cycler
-7. run thermocycler program:
+7. run thermocycler program: *40 cycles takes 2 hours and 26 minutes*
     1. 95 for 30 seconds
     2. 95 for 30 seconds
     3. 45-68 for 1 minute

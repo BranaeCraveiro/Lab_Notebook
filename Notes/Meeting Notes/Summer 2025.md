@@ -1,3 +1,8 @@
+## 7/24/2025 w/ Caroline
+### To do:
+- look at papers to see if i need to do triplicates for sanger sequencing. 
+
+
 ## 7/22/2025 w/ Brooke, Caroline, & Sarah
 ### PCR Troubleshooting [[7.21.2025 - annealing gradient]]
 - use Caroline reagents & my samples to test whether primers are working [[7.23.2025 - troubleshooting]]
