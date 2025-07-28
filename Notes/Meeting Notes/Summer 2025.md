@@ -1,8 +1,12 @@
+## 7/28/2025 w/ Caroline & Brooke 
+- CNAT 80 was an accidental sample from 2 timepoints, I just added CNAT 80 to github but in hindsight I should of asked before adding it
+- have Brooke look over T5 PAST to determine if 102023 is bl or healthy- divers wrote down healthy but idk man
+- corals bleach from competition right - would be considered healthy? 
+
+
 ## 7/24/2025 w/ Caroline
 ### To do:
 - look at papers to see if I need to do triplicates for sanger sequencing. 
-
-
 ## 7/22/2025 w/ Brooke, Caroline, & Sarah
 ### PCR Troubleshooting [[7.21.2025 - annealing gradient]]
 - use Caroline reagents & my samples to test whether primers are working [[7.23.2025 - troubleshooting]]
