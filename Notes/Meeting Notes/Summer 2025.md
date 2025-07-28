@@ -1,6 +1,6 @@
 ## 7/24/2025 w/ Caroline
 ### To do:
-- look at papers to see if i need to do triplicates for sanger sequencing. 
+- look at papers to see if I need to do triplicates for sanger sequencing. 
 
 
 ## 7/22/2025 w/ Brooke, Caroline, & Sarah
