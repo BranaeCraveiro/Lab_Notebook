@@ -11,10 +11,14 @@
             "id": "4f1d40abdd8c2ce5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PAN_BDT/psbA/7.24.2025- Annealing Gradient.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "7.24.2025- Annealing Gradient"
             }
           }
         ]
@@ -169,16 +173,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df337e28875a6d7",
+  "active": "4f1d40abdd8c2ce5",
   "lastOpenFiles": [
+    "PAN_BDT/psbA/7.23.2025 - troubleshooting.md",
+    "PAN_BDT/psbA/7.24.2025- Annealing Gradient.md",
+    "Protocols/Qubit.md",
     "PAN_BDT/psbA/psbA Gel Images/July24_2025_Gel.png",
     "Notes/Meeting Notes/Summer 2025.md",
-    "PAN_BDT/psbA/7.24.2025- Annealing Gradient.md",
     "PAN_BDT/psbA/7.21.2025 - annealing gradient.md",
-    "PAN_BDT/psbA/7.23.2025 - troubleshooting.md",
     "Protocols/psbA.md",
     "Protocols/DNA Extraction.md",
-    "Protocols/Qubit.md",
     "PAN_BDT/psbA/psbA Gel Images/July21_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/July23_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/July22_2025_Gel.png",
