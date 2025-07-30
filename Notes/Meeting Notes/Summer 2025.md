@@ -1,4 +1,4 @@
-## 7/28/2025 w/ Caroline & Brooke 
+## 7/29/2025 w/ Caroline & Brooke 
 ### Health Status Checking 
 corals can bleach from competition- would be considered health in our data since it is a natural part of coral life in the reef 
 ### PCR Troubleshooting 
@@ -110,5 +110,3 @@ Total CNAT samples extracted: 74
 - Daniel Thornhill
 - Todd Lajuenesse 
 - Benjamin Hume 
-
-

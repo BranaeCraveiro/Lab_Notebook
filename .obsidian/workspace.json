@@ -49,7 +49,8 @@
               "title": "psbA"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,11 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f1d40abdd8c2ce5",
+  "active": "515e704b0c0032e3",
   "lastOpenFiles": [
+    "Notes/Meeting Notes/Summer 2025.md",
     "PAN_BDT/psbA/7.30.2025 - troubleshooting.md",
     "Protocols/psbA.md",
-    "Notes/Meeting Notes/Summer 2025.md",
     "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
     "PAN_BDT/psbA/7.23.2025 - troubleshooting.md",
     "PAN_BDT/psbA/7.21.2025 - annealing gradient.md",
