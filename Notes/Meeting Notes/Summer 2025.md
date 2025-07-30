@@ -1,7 +1,19 @@
 ## 7/28/2025 w/ Caroline & Brooke 
-- CNAT 80 was an accidental sample from 2 timepoints, I just added CNAT 80 to github but in hindsight I should of asked before adding it
-- corals bleach from competition right - would be considered healthy? 
-
+### Health Status Checking 
+corals can bleach from competition- would be considered health in our data since it is a natural part of coral life in the reef 
+### PCR Troubleshooting 
+Brooke suggests sending my last gel image [7.24.2025- Annealing Gradient](../../PAN_BDT/psbA/7.24.2025-%20Annealing%20Gradient.md), questions, and lab notebook into the genetics-wetlab channel for second opinions
+	She also noted that it is probably best to ask Sarah these questions as she has the most experience with PCR 
+#### Sarahs Thoughts
+- recommends add a negative control to future PCRs (will let me know if the bands I am seeing are because of my dna or something else)
+- the bright 1500 bp band is non-specific binding 
+	- likely caused by how many times I am running my cycle- try decreasing to 38 cycles 
+	- also try decreasing extension time (supposed to be 1 min/kb of expected product)
+	- think its mainly about the amount of non-target DNA in there, so I should try increasing the amount of DNA you add
+##### Our Plan of Attack 
+Decrease extension time then set up one version where I will add 1 uL of dna, one with 2 uL, and one with 4 uL-  just see if theres a difference 
+### To Do 
+What strain do you think you’re amplifying? - Look at other papers that use those primers
 
 ## 7/24/2025 w/ Caroline
 ### To do:
