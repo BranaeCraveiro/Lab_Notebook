@@ -1,3 +1,14 @@
+
+### Things I got done since last meeting with Mentors 
+- GradIDP (make it more specifc- changes are in blue)
+- Undergraduate Agreement Fall 2025 
+
+
+## 8/1/2025 w/ Sarah 
+### PCR Troubleshooting next steps
+- want more DNA and higher temp (annealing temp)
+- can do a gradient of this temp and higher and maybe try 4 ul 5 ul and 6 ul of DNA?
+	- if I do this will probably need to change to a different sample since I do not have enough elution to do a gradient at all three of those amounts at 8 samples per amount (to create the gradient)- ask Caroline & Brooke their opinions 
 ## 7/29/2025 w/ Caroline & Brooke 
 ### Health Status Checking 
 corals can bleach from competition- would be considered health in our data since it is a natural part of coral life in the reef 
