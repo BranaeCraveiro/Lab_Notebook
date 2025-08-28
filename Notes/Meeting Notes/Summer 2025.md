@@ -4,7 +4,6 @@
 - Undergraduate Agreement Fall 2025 
 - submitted Honors Fellowship Project Proposal 
 
-
 ## 8/1/2025 w/ Sarah 
 ### PCR Troubleshooting next steps
 - want more DNA and higher temp (annealing temp)
