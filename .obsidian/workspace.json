@@ -95,7 +95,7 @@
               "type": "backlink",
               "state": {
                 "file": "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cda85957c91a01af",
+  "active": "18193306d9241e1a",
   "lastOpenFiles": [
     "PAN_BDT/psbA/psbA Gel Images/July24_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/July24_2025_Gel.png",
