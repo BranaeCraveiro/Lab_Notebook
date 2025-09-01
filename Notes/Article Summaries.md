@@ -35,6 +35,16 @@ Samples collected from 13 reefs with different thermal profiles
 	- each bleaching event forces the coral to rebuild its symbiont community, and repeated disturbances can lead to a permanent shift towards a more heat-tolerant symbiont community.
 ## Locatelli & Baums 2025 
 *Genomes of the Caribbean reef-building corals Colpophyllia natans, Dendrogyra cylindrus, and Siderastrea siderea* 10.1093/g3journal/jkaf020
+
+
+
+
+
+
+
+
+
+
 - Found Breviolum contigs in CNAT symbiont metagenome.
 - ITS2 sequencing matched Breviolum type (B4).
 - psbA reference sequences were limited or missing.
