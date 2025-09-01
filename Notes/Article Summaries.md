@@ -33,9 +33,17 @@ Samples collected from 13 reefs with different thermal profiles
 - Climate change implications: Corals with flexible symbiont associations may be more resilient to stress and bleaching.
 	- Humilis with C3k ‘max’ symbionts might foster higher thermal tolerance as it is located in reefs which have experienced historically higher DHW and highlights a potential source of increased resilience for A. cf humilis in response to rapid environmental change. 
 	- each bleaching event forces the coral to rebuild its symbiont community, and repeated disturbances can lead to a permanent shift towards a more heat-tolerant symbiont community.
-## Locatelli & Baums 2025 
+# Locatelli & Baums 2025 
 *Genomes of the Caribbean reef-building corals Colpophyllia natans, Dendrogyra cylindrus, and Siderastrea siderea* 10.1093/g3journal/jkaf020
+### Problem: 
+Two previous studies using ITS2 to analyzed symbiont composition in Montipora spp. found conflicting results
+- LaJeunesse et al. found two Symbiodinium ITS2 lineages within hosts; used PCR-DGGE (denaturing gradient gel electrophoresis)
+- Stat et al. found communities have many different symbiont ITS2 types within each colony with overall endosymbiont diversity greater within than between hosts; used PCR and bacterial cloning
+ITS2 is part of the nuclear ribosomal DNA, which is a multi-copy gene, meaning many copies exist within the genome of a single organism- leading high level of intragenomic variation and overestimation of  diversity. 
+### Solution:
+Plastid DNA markers, such as the psbAncr, are more akin to single-copy loci in that they exhibit relatively low intragenomic variation and their use may reduce uncertainty when evaluating genetic diversity.
 
+### Methods:
 
 
 
