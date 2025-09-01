@@ -1,6 +1,5 @@
 ### some cool phrasing 
 macro-agal dominanted reef 
-
 # Marzonie et al. 2024
 *Symbiodiniaceae diversity varies by host and environment across thermally distinct reefs* 10.1111/mec.17342
 ### Main Goal: 

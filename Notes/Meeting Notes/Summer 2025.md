@@ -1,4 +1,3 @@
-
 ### Things I got done since last meeting with Mentors 
 - GradIDP (make it more specifc- changes are in blue)
 - Undergraduate Agreement Fall 2025 
