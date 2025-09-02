@@ -13,6 +13,7 @@ Understand how coral species and environmental conditions shape symbiont diversi
 **Time:** Feb–Mar 2020
 Samples collected from 13 reefs with different thermal profiles
 **3 coral species:** Pocillopora verrucosa, Pocillopora meandrina, Acropora humilis
+Dna extraction -> PCR amplification of ITS2 & psbA ncr -> sequencing 
 ### Findings: 
 - symbiont diversity is influenced by host species, transmission (vertical vs. horizontal) and enviroment 
 	- Some corals always host the same symbionts, while others vary based on local conditions.
@@ -45,6 +46,8 @@ Plastid DNA markers, such as the psbAncr, are more akin to single-copy loci in t
 ### Methods:
 **Locations:** O’ahu, Hawaii, the Great Barrier Reef, Australia,  Zamami Island, Japan, Zanzibar, Tanzania, and the Andaman Sea, Thailand. 
 **Coral:** *Montipora* spp.
+-  PCR to amplify ITS2 & psbAncr
+### Findings
 
 
 
