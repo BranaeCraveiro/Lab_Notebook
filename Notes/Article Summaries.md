@@ -42,10 +42,9 @@ Two previous studies using ITS2 to analyzed symbiont composition in Montipora sp
 ITS2 is part of the nuclear ribosomal DNA, which is a multi-copy gene, meaning many copies exist within the genome of a single organism- leading high level of intragenomic variation and overestimation of  diversity. 
 ### Solution:
 Plastid DNA markers, such as the psbAncr, are more akin to single-copy loci in that they exhibit relatively low intragenomic variation and their use may reduce uncertainty when evaluating genetic diversity.
-
 ### Methods:
-
-
+**Locations:** O’ahu, Hawaii, the Great Barrier Reef, Australia,  Zamami Island, Japan, Zanzibar, Tanzania, and the Andaman Sea, Thailand. 
+**Coral:** *Montipora* spp.
 
 
 
