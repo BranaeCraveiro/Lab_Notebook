@@ -37,6 +37,9 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 
 ### Making and setting up a gel
 1. mix agar and clean TBE buffer to generate a 1.5% agarose gel that will be large enough for the gel mold
+	*small gel mold: 25 mL
+	medium gel mold: 50 mL
+	large gel mold: 75 mL*
 2. calculating gel density:
     *% = weight (g) / volume (mL)*
 3. Prepare gel mold to set up a gel- add gel comb for number of samples needed

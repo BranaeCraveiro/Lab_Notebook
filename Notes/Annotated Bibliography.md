@@ -48,16 +48,15 @@ Plastid DNA markers, such as the psbAncr, are more akin to single-copy loci in t
 **Coral:** *Montipora* spp.
 -  PCR to amplify ITS2 & psbAncr
 ### Findings
-
-
-
-
-
-
-
 - Found Breviolum contigs in CNAT symbiont metagenome.
 - ITS2 sequencing matched Breviolum type (B4).
 - psbA reference sequences were limited or missing.
+
+
+
+
+
+
 ## Lewis et al. 2018 
 *New Species of Closely Related Endosymbiotic Dinoflagellates in the Greater Caribbean have Niches Corresponding to Host Coral Phylogeny* 10.1093/g3journal/jkaf020
 - evidence of CNAT–Breviolum mutualism.
