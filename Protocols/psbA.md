@@ -65,3 +65,4 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
     - *in some cases may run for longer to get more separation in bands*
 9. you may reuse gels up to 3 times, if so, break the gel up into a glass container that can be covered and store at 2-8 °C 
 	*make sure to label how many times the gel was used on the lid*
+

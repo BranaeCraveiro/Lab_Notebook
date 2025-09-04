@@ -48,6 +48,13 @@ Plastid DNA markers, such as the psbAncr, are more akin to single-copy loci in t
 **Coral:** *Montipora* spp.
 -  PCR to amplify ITS2 & psbAncr
 ### Findings
+- Montipora spp. screened using ITS2-DGGE to look at genetic diveristy; found 4 distinctive types & many of the C31 profiles contained a second band that mgiht be evidence of codominant intragenomic ITS2 variant or a second close-related symbiont; mixed symbiont population comprising C31c and D1-4-6 was detected in one sample
+
+
+bacterial cloning/sequencing of ITS2 rDNA from 5 coral samples from ITS@-DGGE analysis; 
+
+
+
 - Found Breviolum contigs in CNAT symbiont metagenome.
 - ITS2 sequencing matched Breviolum type (B4).
 - psbA reference sequences were limited or missing.
