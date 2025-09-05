@@ -49,8 +49,7 @@
               "title": "9.2.2025 - Troubleshooting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +203,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "629045373e3e042f",
+  "active": "f980bc90ca2d9bfa",
   "lastOpenFiles": [
     "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
     "Protocols/psbA.md",
