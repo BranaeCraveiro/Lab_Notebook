@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bef2e820911a03be",
+        "id": "bd5f6d2b616b94e1",
         "type": "tabs",
         "children": [
           {
-            "id": "f980bc90ca2d9bfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Annotated Bibliography.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Annotated Bibliography"
-            }
-          },
-          {
-            "id": "629045373e3e042f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocols/psbA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "psbA"
-            }
-          },
-          {
-            "id": "ecc597f22b54f29a",
+            "id": "d09bfc044a09f545",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -122,9 +94,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protocols/Qubit.md",
+                "file": "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -132,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Qubit"
+              "title": "Backlinks for 9.2.2025 - Troubleshooting"
             }
           },
           {
@@ -141,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
+                "file": "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7.24.2025 - Annealing Gradient"
+              "title": "Outgoing links from 9.2.2025 - Troubleshooting"
             }
           },
           {
@@ -184,7 +156,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,12 +176,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f980bc90ca2d9bfa",
+  "active": "d09bfc044a09f545",
   "lastOpenFiles": [
-    "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
-    "Protocols/psbA.md",
-    "Notes/Annotated Bibliography.md",
     "PAN_BDT/psbA/8.1.2025 - troubleshooting.md",
+    "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
+    "Sept5_2025_Gel.png",
+    "Notes/Annotated Bibliography.md",
+    "Protocols/psbA.md",
     "Sept3_2025_Gel.png",
     "Sept2_2025_Gel.png",
     "Notes/R Notebook/Determining Summer 2025 Research Project.md",
@@ -235,7 +209,6 @@
     "PAN_BDT/psbA/psbA Gel Images/July23_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/July21_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/July21_2025_Gel.png",
-    "PAN_BDT/psbA/psbA Gel Images/July23_2025_Gel.png",
     "Untitled.canvas",
     "PAN_BDT/DNA Extractions/CNAT/7.10.2025 Reagent contamination check.md",
     "PAN_BDT/DNA Extractions/CNAT/7.7.2025 - CLP.md",
