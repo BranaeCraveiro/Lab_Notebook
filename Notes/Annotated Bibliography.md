@@ -51,20 +51,17 @@ Plastid DNA markers, such as the psbAncr, are more akin to single-copy loci in t
 - Montipora spp. screened using ITS2-DGGE to look at genetic diveristy
 	- found 4 distinctive types & many of the C31 profiles contained a second band that might be evidence of codominant intragenomic ITS2 variant or a second close-related symbiont
 	- mixed symbiont population comprising C31c and D1-4-6 was detected in one sample
-- Sequencing of 70 cloned ITS2 fragments from 5 coral colonies revealed **33 distinct variants** (27 from Clade C, 6 from Clade D).
+- Sequencing of 70 cloned ITS2 fragments from 5 coral colonies revealed 33 distinct variants (27 from Clade C, 6 from Clade D).
 	- Within individual colonies, cloned ITS2 sequences differed by 1–8 base substitutions, with the most common variant typically occupying a central “ancestral” position surrounded by rare singletons- suggesting one dominant symbiont type. 
 	- Phylogenetic clustering showed no overlap between M. incrassata (C26a) and M. capitata (C31/C31c) symbiont sequences.
-	- The dominant cloned sequences generally matched DGGE-detected bands, although cloning also recovered additional low-frequency variants (e.g., type C21) not observed by DGGE.
+	- The dominant bacterially cloned sequences generally matched DGGE-detected bands, although cloning also recovered additional low-frequency variants (e.g., type C21) not observed by DGGE.
 		- This incongruence between methods raises questions about whether rare variants represent: intragenomic ITS2 polymorphisms, PCR/cloning artifacts, or biologically distinct symbiodinium lineages co-occurring within a single host colony.
 - direct sequencing of psbAncr showed single umbiguous sequence, suggesting low intragenomic variability
 	- ranged from 536 - 601 bp in length & each symbiont lineage associated with a particular species of Montipora
-- sequencing of amplicons revealed 2 to 5 distinct psbAncr sequences within each sample w/ the most most abundant sequence identical to the sequence obtained by direct sequencing
-		singletons that were not captured by direct sequencing very similar to the dominant haplotype, differing by only one or two nucleotide changes.
+- sequencing of bacterial clones revealed 2 to 5 distinct psbAncr sequences within each sample w/ the most most abundant sequence identical to the sequence obtained by direct sequencing
+	- singletons that were not captured by direct sequencing very similar to the dominant haplotype, differing by only one or two nucleotide changes; low divergence suggests PCR artifacts, but may just represents low intragenomic variation within samples
+	- psbAncr exhibits less within-sample heterogeneity- 2 to 5 distinct seq. per sample vs ITS2 with 6–9 diff. seq. per sample
 
-
-- Found Breviolum contigs in CNAT symbiont metagenome.
-- ITS2 sequencing matched Breviolum type (B4).
-- psbA reference sequences were limited or missing.
 
 
 
