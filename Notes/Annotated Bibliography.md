@@ -67,13 +67,6 @@ Plastid DNA markers, such as the psbAncr, are more akin to single-copy loci in t
 	- psbAncr good for determining relationships between very closely related Symbiodinium species but doesn't work for distantly related species because some Symbiodinium lineages, like rt203, have multiple, highly variable copies of the psbAncr marker in their own genome
 - Overall, the psbAncr phylogeny was similar the ITS2 phylogeny with individual samples exhibiting similar monophyly for each marker and clustered together based on geography and host origin.
 	- ITS2 lineages separated by small sequence differences are well differentiated by the numerous base substitutions and insertion-deletions in  psbAncr, revealing geographic partitioning not resolved by ITS2 data.
-
-
-
-
-
-
-
 ## Lewis et al. 2018 
 *New Species of Closely Related Endosymbiotic Dinoflagellates in the Greater Caribbean have Niches Corresponding to Host Coral Phylogeny* 10.1093/g3journal/jkaf020
 - evidence of CNAT–Breviolum mutualism.
