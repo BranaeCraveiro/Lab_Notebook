@@ -61,7 +61,8 @@ Plastid DNA markers, such as the psbAncr, are more akin to single-copy loci in t
 - sequencing of bacterial clones revealed 2 to 5 distinct psbAncr sequences within each sample w/ the most most abundant sequence identical to the sequence obtained by direct sequencing
 	- singletons that were not captured by direct sequencing very similar to the dominant haplotype, differing by only one or two nucleotide changes; low divergence suggests PCR artifacts, but may just represents low intragenomic variation within samples
 	- psbAncr exhibits less within-sample heterogeneity- 2 to 5 distinct seq. per sample vs ITS2 with 6–9 diff. seq. per sample
-
+- PCR amplified, cloned, and sequenced the psbAncr from three iso-clonal cultures of Clade C (C1, C2), factoring artifacts revealed intragenomic variation does exist for psbAncr
+	- approximately 10-30% of cloned variants were probably artifacts of the bacterial cloning method cautions against over interpretation of small seq differ. for data generated following this method
 
 
 
