@@ -56,6 +56,10 @@ Plastid DNA markers, such as the psbAncr, are more akin to single-copy loci in t
 	- Phylogenetic clustering showed no overlap between M. incrassata (C26a) and M. capitata (C31/C31c) symbiont sequences.
 	- The dominant cloned sequences generally matched DGGE-detected bands, although cloning also recovered additional low-frequency variants (e.g., type C21) not observed by DGGE.
 		- This incongruence between methods raises questions about whether rare variants represent: intragenomic ITS2 polymorphisms, PCR/cloning artifacts, or biologically distinct symbiodinium lineages co-occurring within a single host colony.
+- direct sequencing of psbAncr showed single umbiguous sequence, suggesting low intragenomic variability
+	- ranged from 536 - 601 bp in length & each symbiont lineage associated with a particular species of Montipora
+- sequencing of amplicons revealed 2 to 5 distinct psbAncr sequences within each sample w/ the most most abundant sequence identical to the sequence obtained by direct sequencing
+		singletons that were not captured by direct sequencing very similar to the dominant haplotype, differing by only one or two nucleotide changes.
 
 
 - Found Breviolum contigs in CNAT symbiont metagenome.
