@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0c586f1437fa377c",
+        "id": "dada8c6aae378a7b",
         "type": "tabs",
         "children": [
           {
-            "id": "04538716f6aad644",
+            "id": "6d5944cf656498c4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04538716f6aad644",
+  "active": "6d5944cf656498c4",
   "lastOpenFiles": [
     "Notes/Meeting Notes/Fall 2025.md",
     "Notes/Meeting Notes/Summer 2025.md",
