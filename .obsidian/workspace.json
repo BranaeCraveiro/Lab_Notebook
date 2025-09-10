@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3748e7bbe567190",
+        "id": "30edf8565568b63e",
         "type": "tabs",
         "children": [
           {
-            "id": "66d984d4f5ceaf8d",
+            "id": "95a274ff95b58f6e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -170,12 +170,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66d984d4f5ceaf8d",
+  "active": "95a274ff95b58f6e",
   "lastOpenFiles": [
-    "Notes/Annotated Bibliography.md",
-    "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
     "Notes/Meeting Notes/Fall 2025.md",
     "Notes/Meeting Notes/Summer 2025.md",
+    "Notes/Annotated Bibliography.md",
+    "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
     "PAN_BDT/psbA/7.21.2025 - annealing gradient.md",
     "PAN_BDT/psbA/7.23.2025 - troubleshooting.md",
     "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
