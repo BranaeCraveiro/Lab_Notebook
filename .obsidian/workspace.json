@@ -11,10 +11,14 @@
             "id": "6d5944cf656498c4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Meeting Notes/Summer 2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Summer 2025"
             }
           }
         ]
