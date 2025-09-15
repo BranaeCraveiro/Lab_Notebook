@@ -84,13 +84,17 @@ pan_samples_subset <- pan_samples %>%
   ) %>%
   mutate(
     Species = case_when(
-      Species %in% c("OANN", "OFAV") ~ "ORBI",      # If OANN or OFAV, set to ORBI
+      Species %in% c("OANN", "OFAV") ~ "ORBI",               # merge OANN & OFAV to ORBI
       TRUE ~ Species                              # Otherwise keep original Species code
     )
   ) %>%
   filter(
-	  Species %in% c("CNAT", "PSTR", "MCAV", "SSID")            #Only certain samples
-  )         
-  
-  
-  
+	  Species %in% c("CNAT", "PSTR", "MCAV", "SSID")          # Only certain samples
+  ) %>%
+distinct(Month_year, Current_tag_num, Health_status, .keep_all = TRUE)  # Keep only 1 sample per time-colony-health combo
+
+# Count samples per species
+sample_counts <- pan_samples_subset %>%
+  count(Species)
+
+
