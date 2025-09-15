@@ -96,5 +96,14 @@ distinct(Month_year, Current_tag_num, Health_status, .keep_all = TRUE)  # Keep o
 # Count samples per species
 sample_counts <- pan_samples_subset %>%
   count(Species)
+# creating obsidian friendly markdown
+kable(sample_counts, format = "markdown")
+```
 
-
+|Species |  n|
+|:-------|--:|
+|CNAT    | 71|
+|MCAV    | 64|
+|PSTR    | 59|
+|SSID    | 63|
+257 total samples 

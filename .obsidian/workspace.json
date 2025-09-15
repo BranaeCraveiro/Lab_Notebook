@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dada8c6aae378a7b",
+        "id": "8f1d92d4f7d6d677",
         "type": "tabs",
         "children": [
           {
-            "id": "6d5944cf656498c4",
+            "id": "921dafab25fc2277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
+                "file": "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PAN_BDT_T1-T4 DNA Extraction Plan"
-            }
-          },
-          {
-            "id": "48daedc621c55974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/R Notebook/Determining Summer 2025 Research Project.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Determining Summer 2025 Research Project"
+              "title": "7.24.2025 - Annealing Gradient"
             }
           }
         ]
@@ -126,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 7.24.2025 - Annealing Gradient"
             }
           },
           {
@@ -173,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,17 +174,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d5944cf656498c4",
+  "active": "921dafab25fc2277",
   "lastOpenFiles": [
-    "Notes/R Notebook/Determining Summer 2025 Research Project.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.16.2025 - CLB.md",
     "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
+    "Notes/R Notebook/Determining Summer 2025 Research Project.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.14.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.11.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.10.2025 Reagent contamination check.md",
+    "PAN_BDT/DNA Extractions/CNAT/7.7.2025 - CLP.md",
+    "PAN_BDT/DNA Extractions/CNAT/6.30.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/6.27.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/6.25.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/6.17.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/6.4.2025.md",
+    "PAN_BDT/DNA Extractions/CNAT/5.23.2025 Test Run of Bleached & Pale Samples.md",
+    "PAN_BDT/psbA/7.21.2025 - annealing gradient.md",
     "Notes/Meeting Notes/Fall 2025.md",
     "Notes/Meeting Notes/Summer 2025.md",
     "Notes/Annotated Bibliography.md",
     "Untitled 1.base",
     "Untitled.base",
     "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
-    "PAN_BDT/psbA/7.21.2025 - annealing gradient.md",
     "PAN_BDT/psbA/7.23.2025 - troubleshooting.md",
     "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
     "PAN_BDT/psbA/7.30.2025 - troubleshooting.md",
@@ -211,25 +208,15 @@
     "Protocols/DNA Extraction.md",
     "PAN_BDT/psbA/psbA Gel Images/July24_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/July24_2025_Gel.png",
-    "PAN_BDT/DNA Extractions/CNAT/6.17.2025.md",
     "Untitled",
-    "PAN_BDT/DNA Extractions/CNAT/6.25.2025.md",
     "Labwork Practice/062019 & 052022 DNA concentrations.md",
-    "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
-    "Labwork Practice/Practice DNA Extractions.md",
-    "Labwork Practice/PCR index Gel Electrophoresis.md",
     "PAN_BDT/psbA/psbA Gel Images/August1_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/July30_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/July23_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/July21_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/July21_2025_Gel.png",
     "Untitled.canvas",
-    "PAN_BDT/DNA Extractions/CNAT/7.10.2025 Reagent contamination check.md",
-    "PAN_BDT/DNA Extractions/CNAT/7.7.2025 - CLP.md",
     "PAN_BDT/psbA/psbA Gel Images",
-    "PAN_BDT/DNA Extractions/CNAT/6.4.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/5.23.2025 Test Run of Bleached & Pale Samples.md",
-    "PAN_BDT/DNA Extractions/CNAT/6.27.2025.md",
     "PAN_BDT/psbA/Gel Images",
     "Protocols",
     "PAN_BDT/psbA",
