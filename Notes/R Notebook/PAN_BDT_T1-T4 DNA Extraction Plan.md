@@ -137,10 +137,10 @@ print(missing_df)  # shows rows that are not in collapsed
 
 ```
 
-|Species |  n|
-|:-------|--:|
-|CNAT    | 71|
-|MCAV    | 64|
-|PSTR    | 59|
-|SSID    | 63|
-257 total samples 
+| Species   |   n |
+| :-------- | --: |
+| CNAT      |  74 |
+| MCAV      |  69 |
+| PSTR      |  62 |
+| SSID      |  65 |
+| **Total** | 270 |
