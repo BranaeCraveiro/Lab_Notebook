@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
+                "file": "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.24.2025 - Annealing Gradient"
+              "title": "PAN_BDT_T1-T4 DNA Extraction Plan"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
+                "file": "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 7.24.2025 - Annealing Gradient"
+              "title": "Outgoing links from PAN_BDT_T1-T4 DNA Extraction Plan"
             }
           },
           {
@@ -176,9 +176,10 @@
   },
   "active": "921dafab25fc2277",
   "lastOpenFiles": [
+    "Notes/R Notebook/Determining Summer 2025 Research Project.md",
+    "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
     "PAN_BDT/DNA Extractions/CNAT/7.16.2025 - CLB.md",
     "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
-    "Notes/R Notebook/Determining Summer 2025 Research Project.md",
     "PAN_BDT/DNA Extractions/CNAT/7.14.2025.md",
     "PAN_BDT/DNA Extractions/CNAT/7.11.2025.md",
     "PAN_BDT/DNA Extractions/CNAT/7.10.2025 Reagent contamination check.md",
@@ -197,7 +198,6 @@
     "Untitled.base",
     "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
     "PAN_BDT/psbA/7.23.2025 - troubleshooting.md",
-    "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
     "PAN_BDT/psbA/7.30.2025 - troubleshooting.md",
     "PAN_BDT/psbA/8.1.2025 - troubleshooting.md",
     "PAN_BDT/psbA/psbA Gel Images/Sept5_2025_Gel.png",

@@ -68,36 +68,73 @@ library(stringr)
 library(knitr)
 
 setwd("C:\\Users\\Owner\\OneDrive\\Documents\\GW Lab\\GitHub\\SCTLD_samples\\Sample_Data")
+library(dplyr)
+library(stringr)
+library(knitr)
+
+# Read in your raw file
 pan_samples <- read.csv("PAN-BDT_samples.csv")
 
-# Create a smaller dataframe with only selected columns
+# ---- Make a clean subset of your samples ----
+# This filters by transect, sample type, location, cleans up text fields,
+# merges OANN & OFAV into ORBI, keeps only target species,
+# and collapses duplicate rows by Month_year + Current_tag_num + Health_status + Species
 pan_samples_subset <- pan_samples %>%
   filter(
-    Transect_num %in% c("1", "2", "3", "4"),                 # only keep transects 1-4
-    Sample_type %in% c("Core_RNAlater", "Core_EtOH"),        #Keep only RNA Later and Ethanol Sample types 
-    Sample_physical_location != "TX STATE"               # remove samples at texas state
+    Transect_num %in% c("1", "2", "3", "4"),                 # only keep transects 1–4
+    Sample_type %in% c("Core_RNAlater", "Core_EtOH"),        # keep only RNA Later and Ethanol sample types
+    Sample_physical_location != "TX STATE"                  # remove samples at Texas State
   ) %>%
   mutate(
-    Species = str_trim(str_to_upper(Species)),               # Clean species codes
-    Transect_num = str_trim(Transect_num),                   # Clean transect numbers
-    Health_status = str_trim(str_to_lower(Health_status))    # Clean health status
-  ) %>%
-  mutate(
-    Species = case_when(
-      Species %in% c("OANN", "OFAV") ~ "ORBI",               # merge OANN & OFAV to ORBI
-      TRUE ~ Species                              # Otherwise keep original Species code
+    Species = str_trim(str_to_upper(Species)),               # clean species codes
+    Transect_num = str_trim(Transect_num),                   # clean transect numbers
+    Health_status = str_trim(str_to_lower(Health_status)),   # clean health status
+    Species = case_when(                                     # merge OANN & OFAV to ORBI
+      Species %in% c("OANN", "OFAV") ~ "ORBI",
+      TRUE ~ Species
     )
   ) %>%
   filter(
-	  Species %in% c("CNAT", "PSTR", "MCAV", "SSID")          # Only certain samples
+    Species %in% c("CNAT", "PSTR", "MCAV", "SSID")           # only certain species
   ) %>%
-distinct(Month_year, Current_tag_num, Health_status, .keep_all = TRUE)  # Keep only 1 sample per time-colony-health combo
+  # IMPORTANT: include Species here so distinct matches your extraction collapse
+  distinct(Month_year, Current_tag_num, Health_status, Species, .keep_all = TRUE)
 
-# Count samples per species
+# ---- Count how many samples per species ----
 sample_counts <- pan_samples_subset %>%
   count(Species)
-# creating obsidian friendly markdown
+
+# Output a markdown table of species counts (good for Obsidian)
 kable(sample_counts, format = "markdown")
+
+# ---- Check extracted samples (anything with Extraction_physical_location filled) ----
+raw_extracted_df <- pan_samples %>%
+  filter(!is.na(Extraction_physical_location) & trimws(Extraction_physical_location) != "")
+
+# ---- Collapsed version of extracted samples using the same distinct rule ----
+collapsed_extracted_df <- raw_extracted_df %>%
+  distinct(Month_year, Current_tag_num, Health_status, Species, .keep_all = TRUE)
+
+# ---- Compare raw vs collapsed ----
+compare_df <- raw_extracted_df %>%
+  left_join(
+    collapsed_extracted_df %>%
+      mutate(in_collapsed = TRUE),
+    by = c("Month_year","Current_tag_num","Health_status","Species")
+  )
+
+# Any rows with NA in in_collapsed didn’t make it into the collapsed version
+missing_df <- compare_df %>%
+  filter(is.na(in_collapsed)) %>%
+  distinct()
+
+# ---- Check counts and print missing rows ----
+cat("Raw with location: ", nrow(raw_extracted_df), "\n")
+cat("Collapsed unique: ", nrow(collapsed_extracted_df), "\n")
+cat("Missing after collapse: ", nrow(missing_df), "\n")
+
+print(missing_df)  # shows rows that are not in collapsed
+
 ```
 
 |Species |  n|
