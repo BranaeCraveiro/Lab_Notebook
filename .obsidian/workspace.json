@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "82f0354b6e6447b3",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "PAN_BDT/psbA/psbA Gel Images/Sept5_2025_Gel.png"
+              },
+              "icon": "lucide-image",
+              "title": "Sept5_2025_Gel"
+            }
+          },
+          {
             "id": "89254cff349c6806",
             "type": "leaf",
             "state": {
@@ -36,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,9 +205,11 @@
   "active": "a6c40366aa831175",
   "lastOpenFiles": [
     "Notes/Meeting Notes/Summer 2025.md",
-    "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
-    "Notes/Meeting Notes/Fall 2025.md",
+    "PAN_BDT/psbA/psbA Gel Images/Sept5_2025_Gel.png",
+    "PAN_BDT/psbA/psbA Gel Images/Sept3_2025_Gel.png",
     "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
+    "Notes/Meeting Notes/Fall 2025.md",
+    "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
     "Notes/R Notebook/Determining Summer 2025 Research Project.md",
     "Craveiro_Sept5_2025_Gel_Image.png",
     "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
@@ -218,8 +232,6 @@
     "Notes/Annotated Bibliography.md",
     "Untitled 1.base",
     "Untitled.base",
-    "PAN_BDT/psbA/psbA Gel Images/Sept5_2025_Gel.png",
-    "PAN_BDT/psbA/psbA Gel Images/Sept3_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/Sept2_2025_Gel.png",
     "Protocols/Qubit.md",
     "Protocols/DNA Extraction.md",
@@ -229,7 +241,6 @@
     "PAN_BDT/psbA/psbA Gel Images/August1_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/July30_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/July23_2025_Gel.png",
-    "PAN_BDT/psbA/psbA Gel Images/July21_2025_Gel.png",
     "Untitled.canvas",
     "PAN_BDT/psbA/psbA Gel Images",
     "PAN_BDT/psbA/Gel Images",
