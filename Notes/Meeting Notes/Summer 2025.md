@@ -21,9 +21,6 @@ Decrease extension time and number of cycles, then set up one version with 1 uL 
 ### To Do 
 What strain do you think you’re amplifying? - Look at other papers that use those primers
 
-## 7/24/2025 w/ Caroline
-### To do:
-- look at papers to see if I need to do triplicates for sanger sequencing. 
 ## 7/22/2025 w/ Brooke, Caroline, & Sarah
 ### PCR Troubleshooting [[7.21.2025 - annealing gradient]]
 - use Caroline reagents & my samples to test whether primers are working [[7.23.2025 - troubleshooting]]
