@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -217,11 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c57806503b4787b1",
+  "active": "42ac04d9c2835d03",
   "lastOpenFiles": [
-    "PAN_BDT/psbA/9.29.2025 - Bead Purification.md",
     "Protocols/psbA.md",
     "Notes/Meeting Notes/Fall 2025.md",
+    "PAN_BDT/psbA/9.29.2025 - Bead Purification.md",
     "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
     "Notes/Meeting Notes/Summer 2025.md",
     "PAN_BDT/psbA/psbA Gel Images/Sept5_2025_Gel.png",
