@@ -53,6 +53,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Notes/Annotated Bibliography.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Annotated Bibliography"
+            }
+          },
+          {
+            "id": "caa6dcb3bafd94b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
                 "mode": "source",
                 "source": false
@@ -62,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -217,8 +231,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42ac04d9c2835d03",
+  "active": "caa6dcb3bafd94b6",
   "lastOpenFiles": [
+    "Notes/Annotated Bibliography.md",
+    "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
     "PAN_BDT/psbA/9.29.2025 - Bead Purification.md",
     "Protocols/psbA.md",
     "Notes/Meeting Notes/Fall 2025.md",
@@ -231,7 +247,6 @@
     "PAN_BDT/psbA/7.23.2025 - troubleshooting.md",
     "PAN_BDT/psbA/7.21.2025 - annealing gradient.md",
     "PAN_BDT/psbA/psbA Gel Images/Sept3_2025_Gel.png",
-    "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
     "Notes/R Notebook/Determining Summer 2025 Research Project.md",
     "Craveiro_Sept5_2025_Gel_Image.png",
     "PAN_BDT/DNA Extractions/CNAT/7.16.2025 - CLB.md",
@@ -245,7 +260,6 @@
     "PAN_BDT/DNA Extractions/CNAT/6.17.2025.md",
     "PAN_BDT/DNA Extractions/CNAT/6.4.2025.md",
     "PAN_BDT/DNA Extractions/CNAT/5.23.2025 Test Run of Bleached & Pale Samples.md",
-    "Notes/Annotated Bibliography.md",
     "Untitled 1.base",
     "Untitled.base",
     "PAN_BDT/psbA/psbA Gel Images/Sept2_2025_Gel.png",
