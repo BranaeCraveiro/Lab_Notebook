@@ -74,21 +74,9 @@
               "icon": "lucide-file",
               "title": "Determining Summer 2025 Research Project"
             }
-          },
-          {
-            "id": "8fd7ef73494b4eae",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -243,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fd7ef73494b4eae",
+  "active": "caa6dcb3bafd94b6",
   "lastOpenFiles": [
     "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
     "PAN_BDT/psbA/7.30.2025 - troubleshooting.md",
