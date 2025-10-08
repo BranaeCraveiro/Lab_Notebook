@@ -75,7 +75,7 @@ library(knitr)
 # Read in your raw file
 pan_samples <- read.csv("PAN-BDT_samples.csv")
 
-# ---- Make a clean subset of your samples ----
+# Make a clean subset of your samples
 # This filters by transect, sample type, location, cleans up text fields,
 # merges OANN & OFAV into ORBI, keeps only target species,
 # and collapses duplicate rows by Month_year + Current_tag_num + Health_status + Species
@@ -100,22 +100,22 @@ pan_samples_subset <- pan_samples %>%
   # IMPORTANT: include Species here so distinct matches your extraction collapse
   distinct(Month_year, Current_tag_num, Health_status, Species, .keep_all = TRUE)
 
-# ---- Count how many samples per species ----
+# Count how many samples per species
 sample_counts <- pan_samples_subset %>%
   count(Species)
 
 # Output a markdown table of species counts (good for Obsidian)
 kable(sample_counts, format = "markdown")
 
-# ---- Check extracted samples (anything with Extraction_physical_location filled) ----
+# Check extracted samples (anything with Extraction_physical_location filled)
 raw_extracted_df <- pan_samples %>%
   filter(!is.na(Extraction_physical_location) & trimws(Extraction_physical_location) != "")
 
-# ---- Collapsed version of extracted samples using the same distinct rule ----
+# Collapsed version of extracted samples using the same distinct rule
 collapsed_extracted_df <- raw_extracted_df %>%
   distinct(Month_year, Current_tag_num, Health_status, Species, .keep_all = TRUE)
 
-# ---- Compare raw vs collapsed ----
+# Compare raw vs collapsed
 compare_df <- raw_extracted_df %>%
   left_join(
     collapsed_extracted_df %>%
@@ -128,7 +128,7 @@ missing_df <- compare_df %>%
   filter(is.na(in_collapsed)) %>%
   distinct()
 
-# ---- Check counts and print missing rows ----
+# Check counts and print missing rows
 cat("Raw with location: ", nrow(raw_extracted_df), "\n")
 cat("Collapsed unique: ", nrow(collapsed_extracted_df), "\n")
 cat("Missing after collapse: ", nrow(missing_df), "\n")
