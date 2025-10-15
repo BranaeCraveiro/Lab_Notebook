@@ -11,10 +11,14 @@
             "id": "76e1c1d85e2f384c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "PAN_BDT_T1-T4 DNA Extraction Plan"
             }
           }
         ]
