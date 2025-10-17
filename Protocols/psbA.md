@@ -108,7 +108,7 @@ _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volum
     1. Remove all of the ethanol from the bottom of the well to avoid ethanol carryover. 
 	    *Bump pipette tip up to 200 uL, may need to use p20 multichannel*
     2. **NOTE:** *A 5 min air dry at room temperature is recommended for the evaporation of the remaining traces of ethanol.* **Do not overdry the beads** *(the layer of settled beads appears cracked) as this will significantly decrease elution efficiency.*
-9. Take off the plate from the Magnetic plate, add 40 uL of elution buffer (Reagent grade water, TRIS-HCl pH 8.0, or TE buffer) to each well of the reaction plate and pipette mix 5 times.
+9. Take off the plate from the Magnetic plate, add same volume or less than starting sample uL of elution buffer (Reagent grade water, TRIS-HCl pH 8.0, or TE buffer) to each well of the reaction plate and pipette mix 5 times.
     *mix until homogeneous and there are no beads on tube wall*
 10. Incubate at room temperature for 10 minutes.
 11. Place the plate on a magnetic separation device to magnetize the CleanNGS particles. 
