@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "db20e50732e9eef9",
+        "id": "733caacc6e6f5e68",
         "type": "tabs",
         "children": [
           {
-            "id": "a6af66adcc5b6357",
+            "id": "29f440a02546c89c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Protocols/psbA.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "psbA"
-            }
-          },
-          {
-            "id": "bff36e1dd4b7ccf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/psbA/10.6.2025 - Bead Purification.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10.6.2025 - Bead Purification"
-            }
-          },
-          {
-            "id": "5260108d3e5e1fee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Meeting Notes/Fall 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fall 2025"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,11 +172,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5260108d3e5e1fee",
+  "active": "29f440a02546c89c",
   "lastOpenFiles": [
     "Protocols/psbA.md",
-    "PAN_BDT/psbA/10.6.2025 - Bead Purification.md",
+    "Labwork Practice/Practice DNA Extractions.md",
+    "Labwork Practice/Vacuum Dryer 10.20.2025.md",
     "Notes/Meeting Notes/Fall 2025.md",
+    "Labwork Practice/PCR index Gel Electrophoresis.md",
+    "Labwork Practice/062019 & 052022 DNA concentrations.md",
+    "PAN_BDT/psbA/10.6.2025 - Bead Purification.md",
     "PAN_BDT/DNA Extractions/CNAT/7.16.2025 - CLB.md",
     "Protocols/Qubit.md",
     "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
@@ -238,10 +209,6 @@
     "PAN_BDT/psbA/7.21.2025 - annealing gradient.md",
     "PAN_BDT/psbA/psbA Gel Images/Sept3_2025_Gel.png",
     "Craveiro_Sept5_2025_Gel_Image.png",
-    "PAN_BDT/DNA Extractions/CNAT/7.14.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/6.30.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/6.27.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/6.25.2025.md",
     "Untitled 1.base",
     "Untitled.base",
     "PAN_BDT/psbA/psbA Gel Images/Sept2_2025_Gel.png",
