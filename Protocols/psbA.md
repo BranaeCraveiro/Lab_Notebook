@@ -67,6 +67,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 	*make sure to label how many times the gel was used on the lid*
 
 ## III. Purification with ampure beads
+https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
 ### Purification Preparation
 - obtain, label, and cross-link new strip tubes start with the manufacturer protocol using 1.8X-1.0X DNA to bead ratio and 10uL-25uL PCR product 
 - ratio of beads will change the size you select for 
