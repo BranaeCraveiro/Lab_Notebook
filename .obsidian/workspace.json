@@ -4,35 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6415e78f31a79c17",
+        "id": "02794c84b16118b5",
         "type": "tabs",
         "children": [
           {
-            "id": "f40dee129124dd9b",
+            "id": "ca8add2ede7c0c70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "PAN_BDT/psbA/11.5.2025 bead clean up.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.10.3"
               },
-              "icon": "lucide-file",
-              "title": "11.5.2025 bead clean up"
-            }
-          },
-          {
-            "id": "b08539c77f0ed5e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Meeting Notes/Fall 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fall 2025"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
         ]
@@ -190,11 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f40dee129124dd9b",
+  "active": "ca8add2ede7c0c70",
   "lastOpenFiles": [
-    "PAN_BDT/psbA/10.6.2025 - Bead Purification.md",
-    "PAN_BDT/psbA/11.5.2025 bead clean up.md",
     "Notes/Meeting Notes/Fall 2025.md",
+    "PAN_BDT/psbA/11.5.2025 bead clean up.md",
+    "PAN_BDT/psbA/psbA Gel Images/Nov6_2025_Gel_Image.png",
+    "PAN_BDT/psbA/10.6.2025 - Bead Purification.md",
     "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
     "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
     "PAN_BDT/psbA/7.23.2025 - troubleshooting.md",
@@ -223,13 +208,11 @@
     "PAN_BDT/psbA/psbA Gel Images/Oct8_2025_Frozen_Gel.jpg",
     "Pasted image 20251007132135.jpg",
     "Qiagen Gel Extraction.md",
-    "Notes/Meeting Notes/Summer 2025.md",
     "PAN_BDT/psbA/psbA Gel Images/Sept5_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/Sept3_2025_Gel.png",
     "Craveiro_Sept5_2025_Gel_Image.png",
     "Untitled 1.base",
     "Untitled.base",
-    "PAN_BDT/psbA/psbA Gel Images/Sept2_2025_Gel.png",
     "Untitled",
     "Untitled.canvas",
     "PAN_BDT/psbA/psbA Gel Images",
