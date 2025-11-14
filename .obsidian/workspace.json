@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0fd790a340d78089",
+        "id": "d09dd56760f03f9c",
         "type": "tabs",
         "children": [
           {
-            "id": "40f77b98743c2fc3",
+            "id": "ccfa5801b6ee1a9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "9.2.2025 - Troubleshooting"
+              "title": "New tab"
             }
           }
         ]
@@ -176,8 +172,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40f77b98743c2fc3",
+  "active": "ccfa5801b6ee1a9e",
   "lastOpenFiles": [
+    "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
     "PAN_BDT/psbA/11.5.2025 bead clean up.md",
     "Notes/Meeting Notes/Fall 2025.md",
     "PAN_BDT/psbA/10.6.2025 - Bead Purification.md",
@@ -187,7 +184,6 @@
     "AT03901551_11.11.2025_T3_36_700bp_R.ab1",
     "AT03901555_11.11.2025_T3_36_300bp_R.ab1",
     "AT03901555_11.11.2025_T3_36_300bp_F.ab1",
-    "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
     "PAN_BDT/psbA/psbA Gel Images/Nov6_2025_Gel_Image.png",
     "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
     "PAN_BDT/psbA/7.24.2025 - Annealing Gradient.md",
