@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Meeting Notes/Fall 2025.md",
+                "file": "Notes/R Notebook/Determining Summer 2025 Research Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fall 2025"
+              "title": "Determining Summer 2025 Research Project"
             }
           }
         ]
@@ -178,10 +178,10 @@
   },
   "active": "ccfa5801b6ee1a9e",
   "lastOpenFiles": [
+    "Notes/Meeting Notes/Fall 2025.md",
     "Notes/Meeting Notes/Summer 2025.md",
     "Notes/R Notebook/Determining Summer 2025 Research Project.md",
     "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
-    "Notes/Meeting Notes/Fall 2025.md",
     "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
     "PAN_BDT/psbA/11.5.2025 bead clean up.md",
     "PAN_BDT/psbA/10.6.2025 - Bead Purification.md",
