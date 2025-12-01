@@ -1,5 +1,11 @@
 ### some cool phrasing 
 macro-agal dominanted reef 
+
+# Hume et al. 2015 
+Notes 
+- phylogenetic analysis of four genetic markers to describe Symbiodinium thermophilum, sp. nov. from the Persian/Arabian Gulf, a thermally tolerant coral symbiont.
+- psbA gene resolves S.thermophilum as a monophyletic lineage with large genetic distances from any other ITS2 C3 type found outside the Gulf.
+- Persian/Arabian Gulf corals are able to cope with exceptionally high seasonal temperature maxima (34–36uC) as well as large (,20uC) annual fluctuations
 # Marzonie et al. 2024
 *Symbiodiniaceae diversity varies by host and environment across thermally distinct reefs* 10.1111/mec.17342
 ### Main Goal: 
