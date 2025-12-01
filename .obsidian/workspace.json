@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Annotated Bibliography.md",
+                "file": "Notes/Meeting Notes/Fall 2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Annotated Bibliography"
+              "title": "Fall 2025"
             }
           }
         ],
@@ -193,8 +193,9 @@
   },
   "active": "9be7721805f1dabd",
   "lastOpenFiles": [
-    "Notes/Meeting Notes/Fall 2025.md",
+    "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
     "Notes/Annotated Bibliography.md",
+    "Notes/Meeting Notes/Fall 2025.md",
     "Notes/R Notebook/Determining Summer 2025 Research Project.md",
     "Notes/Meeting Notes/Summer 2025.md",
     "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
@@ -231,7 +232,6 @@
     "PAN_BDT/psbA/psbA Gel Images/Oct7_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/Oct8_2025_Frozen_Gel.jpg",
     "Pasted image 20251007132135.jpg",
-    "Qiagen Gel Extraction.md",
     "PAN_BDT/psbA/psbA Gel Images/Sept5_2025_Gel.png",
     "PAN_BDT/psbA/psbA Gel Images/Sept3_2025_Gel.png",
     "Craveiro_Sept5_2025_Gel_Image.png",
