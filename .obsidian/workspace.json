@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "a1bded16db93c439",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
             "id": "9be7721805f1dabd",
             "type": "leaf",
             "state": {
@@ -203,11 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1bded16db93c439",
+  "active": "9be7721805f1dabd",
   "lastOpenFiles": [
+    "Notes/Annotated Bibliography.md",
     "Notes/Meeting Notes/Summer 2025.md",
     "Notes/Meeting Notes/Fall 2025.md",
-    "Notes/Annotated Bibliography.md",
     "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
     "Notes/R Notebook/Determining Summer 2025 Research Project.md",
     "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
