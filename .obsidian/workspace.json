@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "a1bded16db93c439",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "9be7721805f1dabd",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Fall 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,13 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f927990f956eaf63",
+  "active": "a1bded16db93c439",
   "lastOpenFiles": [
-    "Notes/Meeting Notes/Fall 2025.md",
-    "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
-    "Notes/Annotated Bibliography.md",
-    "Notes/R Notebook/Determining Summer 2025 Research Project.md",
     "Notes/Meeting Notes/Summer 2025.md",
+    "Notes/Meeting Notes/Fall 2025.md",
+    "Notes/Annotated Bibliography.md",
+    "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
+    "Notes/R Notebook/Determining Summer 2025 Research Project.md",
     "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
     "PAN_BDT/psbA/9.2.2025 - Troubleshooting.md",
     "PAN_BDT/psbA/11.5.2025 bead clean up.md",

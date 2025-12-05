@@ -2,12 +2,37 @@
 macro-agal dominanted reef 
 
 # Hume et al. 2015 
+*Symbiodinium thermophilum sp. nov., a  thermotolerant symbiotic alga prevalent  in corals of the world’s hottest sea, the  Persian/Arabian Gulf*
+10.1038/srep08562 
+
 Notes 
 - phylogenetic analysis of four genetic markers to describe Symbiodinium thermophilum, sp. nov. from the Persian/Arabian Gulf, a thermally tolerant coral symbiont.
 - psbA gene resolves S.thermophilum as a monophyletic lineage with large genetic distances from any other ITS2 C3 type found outside the Gulf.
 - Persian/Arabian Gulf corals are able to cope with exceptionally high seasonal temperature maxima (34–36uC) as well as large (,20uC) annual fluctuations
+- ITS2 were expected corals in this area to be clade D (thermotolerant strain nased on past research), however 60% came back at clade C (considered thermosensititve), wanted to investigate what was going on 
+	- want to answer: is the clade C prevelance a temporal, and clade D will come back seasonally/ permentally to clade D 
+	- Gulf ITS2 type C3 Symbiodinium acutally a unresolved by ITS2 type phylotyping and genetically distinct from ITS2 type C3 Symbiodinium found exterior to the Gulf?
+- Gulf C3 as resolved by the ITS2, cp23S, cob and psbAncr markers represent a new species that we have named Symbiodinium thermophilum; represents the predominant symbiont of corals from the southern Gulf, the world’s hottest sea.
+- ITS2 DGGE analysis to identify symbionts in 6 species of southern Gulf (Saadiyat) corals (3 colonies each) at each of 8 seasonal time points across 2 years (138 datapoints); predominance of Gulf ITS2 type C3 Symbiodinium in 89% of samples. 
+- Porites spp. was dominated by Gulf ITS2 type C3 Symbiodinium, performed phylogenetic resolution of Gulf C3 using the cp23S, cob and psbAncr markers on these porites samples
+- C3-Gulf ITS2 variant is defined specifically by that single 8-bp duplication-  wasn't enough to produce a distinct band in the DGGE analysis 
+	- used different markers to check for new species 
+		- cp23S: Gulf C3 is somewhat distinct but not resolved clearly
+		- cob: Gulf C3 is unique relative to other C-types.
+		- psbA ncr:  Gulf C3 is clearly, deeply distinct, with genetic distances exceeding distances between recognized species-level types.
+	- cp23S, cob, and especially psbA ncr all converge on the conclusion that Gulf C3 is a separate species-level lineage.
+
+
+
+
+
+
+
+
+
 # Marzonie et al. 2024
-*Symbiodiniaceae diversity varies by host and environment across thermally distinct reefs* 10.1111/mec.17342
+*Symbiodiniaceae diversity varies by host and environment across thermally distinct reefs* 
+*https://doi.org/10.1111/mec.17342* 
 ### Main Goal: 
 Understand how coral species and environmental conditions shape symbiont diversity using high-resolution markers (psbA and ITS2).
 ### Key Questions:
@@ -40,8 +65,9 @@ Dna extraction -> PCR amplification of ITS2 & psbA ncr -> sequencing
 - Climate change implications: Corals with flexible symbiont associations may be more resilient to stress and bleaching.
 	- Humilis with C3k ‘max’ symbionts might foster higher thermal tolerance as it is located in reefs which have experienced historically higher DHW and highlights a potential source of increased resilience for A. cf humilis in response to rapid environmental change. 
 	- each bleaching event forces the coral to rebuild its symbiont community, and repeated disturbances can lead to a permanent shift towards a more heat-tolerant symbiont community.
-# Locatelli & Baums 2025 
-*Genomes of the Caribbean reef-building corals Colpophyllia natans, Dendrogyra cylindrus, and Siderastrea siderea* 10.1093/g3journal/jkaf020
+# Thornhill & Lajuenesse 2011
+*Improved Resolution of Reef-Coral Endosymbiont (Symbiodinium) Species Diversity, Ecology, and Evolution through psbANon-Coding Region Genotyping* 
+[https://doi.org/10.1371/journal.pone.0029013](https://doi.org/10.1371/journal.pone.0029013)
 ### Problem: 
 Two previous studies using ITS2 to analyzed symbiont composition in Montipora spp. found conflicting results
 - LaJeunesse et al. found two Symbiodinium ITS2 lineages within hosts; used PCR-DGGE (denaturing gradient gel electrophoresis)
@@ -73,11 +99,5 @@ Plastid DNA markers, such as the psbAncr, are more akin to single-copy loci in t
 	- psbAncr good for determining relationships between very closely related Symbiodinium species but doesn't work for distantly related species because some Symbiodinium lineages, like rt203, have multiple, highly variable copies of the psbAncr marker in their own genome
 - Overall, the psbAncr phylogeny was similar the ITS2 phylogeny with individual samples exhibiting similar monophyly for each marker and clustered together based on geography and host origin.
 	- ITS2 lineages separated by small sequence differences are well differentiated by the numerous base substitutions and insertion-deletions in  psbAncr, revealing geographic partitioning not resolved by ITS2 data.
-## Lewis et al. 2018 
-*New Species of Closely Related Endosymbiotic Dinoflagellates in the Greater Caribbean have Niches Corresponding to Host Coral Phylogeny* 10.1093/g3journal/jkaf020
-- evidence of CNAT–Breviolum mutualism.
-## Cunning et al. 2023 
-*Measuring multi-year changes in the Symbiodiniaceae algae in Caribbean corals on coral-depleted reefs.* 10.7717/peerj.17358
-- Multi-year ITS2 survey across Caribbean reefs.
-- CNAT consistently dominated by Breviolum, rarely Cladocopium.
+
 
