@@ -1,5 +1,6 @@
 {
   "accentColor": "#fba732",
   "cssTheme": "Pisum",
-  "baseFontSize": 12
+  "baseFontSize": 12,
+  "theme": "system"
 }
