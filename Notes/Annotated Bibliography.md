@@ -1,19 +1,19 @@
   ### some cool phrasing 
 macro-agal dominanted reef 
-
 # Hume et al. 2015 
 *Symbiodinium thermophilum sp. nov., a  thermotolerant symbiotic alga prevalent  in corals of the world’s hottest sea, the  Persian/Arabian Gulf*
 10.1038/srep08562 
-
-Notes 
-- phylogenetic analysis of four genetic markers to describe Symbiodinium thermophilum, sp. nov. from the Persian/Arabian Gulf, a thermally tolerant coral symbiont.
+## Intro: 
+- phylogenetic analysis of four genetic markers to describe Symbiodinium thermophilum, sp. nov. from the Persian/Arabian Gulf, a newly discovered thermally tolerant coral symbiont.
 - psbA gene resolves S.thermophilum as a monophyletic lineage with large genetic distances from any other ITS2 C3 type found outside the Gulf.
-- Persian/Arabian Gulf corals are able to cope with exceptionally high seasonal temperature maxima (34–36uC) as well as large (,20uC) annual fluctuations
+- Persian/Arabian Gulf corals are able to cope with exceptionally high seasonal temperature maxima (34-36C) as well as large (20C) annual fluctuations
 - ITS2 were expected corals in this area to be clade D (thermotolerant strain nased on past research), however 60% came back at clade C (considered thermosensititve), wanted to investigate what was going on 
-	- want to answer: is the clade C prevelance a temporal, and clade D will come back seasonally/ permentally to clade D 
+	- want to answer: is the clade C prevelance a temporal, and clade D will come back seasonally/  permentally to clade D 
 	- Gulf ITS2 type C3 Symbiodinium acutally a unresolved by ITS2 type phylotyping and genetically distinct from ITS2 type C3 Symbiodinium found exterior to the Gulf?
 - Gulf C3 as resolved by the ITS2, cp23S, cob and psbAncr markers represent a new species that we have named Symbiodinium thermophilum; represents the predominant symbiont of corals from the southern Gulf, the world’s hottest sea.
-- ITS2 DGGE analysis to identify symbionts in 6 species of southern Gulf (Saadiyat) corals (3 colonies each) at each of 8 seasonal time points across 2 years (138 datapoints); predominance of Gulf ITS2 type C3 Symbiodinium in 89% of samples. 
+## Study Design
+ITS2 DGGE analysis to identify symbionts in 6 species of southern Gulf (Saadiyat) corals (3 colonies each) at each of 8 seasonal time points across 2 years (138 datapoints); predominance of Gulf ITS2 type C3 Symbiodinium in 89% of samples. 
+## Results
 - Porites spp. was dominated by Gulf ITS2 type C3 Symbiodinium, performed phylogenetic resolution of Gulf C3 using the cp23S, cob and psbAncr markers on these porites samples
 - C3-Gulf ITS2 variant is defined specifically by that single 8-bp duplication-  wasn't enough to produce a distinct band in the DGGE analysis 
 	- used different markers to check for new species 
@@ -21,15 +21,14 @@ Notes
 		- cob: Gulf C3 is unique relative to other C-types.
 		- psbA ncr:  Gulf C3 is clearly, deeply distinct, with genetic distances exceeding distances between recognized species-level types.
 	- cp23S, cob, and especially psbA ncr all converge on the conclusion that Gulf C3 is a separate species-level lineage.
-
-
-
-
-
-
-
-
-
+## Discussion 
+- contrasted findings where clade D was predominant in other regions of the Gulf; this study shows  Gulf C3 is the predominant in this region (even in winter - not temporal)
+- Clade D in the past has been characterized as opportunistic, replacing previously dominant strains lost during bleaching; chances might reflect increases in thermal resilience but may reduce energetic efficiency or reproductive success
+- rarity of clade D in southern Gulf may be due to might suggest that high salinity, and wider ranger between summer high and winter low temps may limit the proliferation of clade D and promote C 
+- C3-Gulf ITS2 variant as regional marker; rare ITS2 variant consistently appears in Gulf corals; useful marker for Gulf C3 populations even if not present in all individuals.
+- Clade C has been characterized as thermally sensitive in the past; clade C might have greater phenotypical plasticity than thought 
+- Concerted evolution masks ITS2 diversity; multiple copies of ITS2 in the genome prevent rare variants from being detected, explaining why ITS2 alone can’t resolve Gulf C3 as a distinct species that other markers (psbAncr, cp23S, cob) revealed. 
+- Gulf C3 satisfies multiple species concepts: it is sexually isolated (psbAncr), genetically distinct (cp23S, cob, psbAncr), and occupies a unique ecological niche (extreme heat and salinity).
 # Marzonie et al. 2024
 *Symbiodiniaceae diversity varies by host and environment across thermally distinct reefs* 
 *https://doi.org/10.1111/mec.17342* 
@@ -41,7 +40,7 @@ Understand how coral species and environmental conditions shape symbiont diversi
 - Is there co-phylogeny between hosts and symbionts (evidence of coevolution)?
 ### Study Design 
 **Location:** Coral Sea Marine Park, Australia
-**Time:** Feb–Mar 2020
+**Time:** Feb-Mar 2020
 Samples collected from 13 reefs with different thermal profiles
 **3 coral species:** Pocillopora verrucosa, Pocillopora meandrina, Acropora humilis
 Dna extraction -> PCR amplification of ITS2 & psbA ncr -> sequencing 
@@ -99,5 +98,3 @@ Plastid DNA markers, such as the psbAncr, are more akin to single-copy loci in t
 	- psbAncr good for determining relationships between very closely related Symbiodinium species but doesn't work for distantly related species because some Symbiodinium lineages, like rt203, have multiple, highly variable copies of the psbAncr marker in their own genome
 - Overall, the psbAncr phylogeny was similar the ITS2 phylogeny with individual samples exhibiting similar monophyly for each marker and clustered together based on geography and host origin.
 	- ITS2 lineages separated by small sequence differences are well differentiated by the numerous base substitutions and insertion-deletions in  psbAncr, revealing geographic partitioning not resolved by ITS2 data.
-
-
