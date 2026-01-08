@@ -1,7 +1,5 @@
-  ### some cool phrasing 
-macro-agal dominanted reef 
 # Hume et al. 2015 
-*Symbiodinium thermophilum sp. nov., a  thermotolerant symbiotic alga prevalent  in corals of the world’s hottest sea, the  Persian/Arabian Gulf*
+*Symbiodinium thermophilum sp. nov., a thermotolerant symbiotic alga prevalent in corals of the world’s hottest sea, the Persian/Arabian Gulf*
 10.1038/srep08562 
 ## Intro: 
 - phylogenetic analysis of four genetic markers to describe Symbiodinium thermophilum, sp. nov. from the Persian/Arabian Gulf, a newly discovered thermally tolerant coral symbiont.
