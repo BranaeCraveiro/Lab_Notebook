@@ -2,6 +2,7 @@
 ## Things I did 
 - filled out IDP for Spring 
 - fixed code somewhat- I just started fresh again but I feel like I understand my code better now that I had more time to sit and do it without the stress of classes
+- looked into Caleb's, Thornhill, and LaJeunesse psbA papers to find out anything else about symbiont identification w/ psbA
 ### Caleb's Papers 
 3 where psbA was used 
 ##### 2023: 
@@ -40,6 +41,8 @@ workshop w/ 61 scientists from 12 countries considered experts on symbionts
 #### Guidance for Community-Level Assessment of Symbiodiniaceae
 - during the workshop it was noted that ITS2 is used the most but that is due to the fact the most experts were very familar with it opposed to other markers 
 - "There is a lack of consensus regarding best practices for interpreting Symbiodiniaceae gene amplicon data to identify species, and for applying and interpreting community diversity metrics." - this quote just made me feel better about my struggle finding was to id symbionts 
+
+
 ## Goldwater Questions:
 - for goldwater I need to specify which area I would like my reviewer to be from (Life Sciences areas of specialization), what one is best? -- go to website and show her the list 
 - talk about what projects I should include 
