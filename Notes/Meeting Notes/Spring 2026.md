@@ -41,8 +41,9 @@ workshop w/ 61 scientists from 12 countries considered experts on symbionts
 #### Guidance for Community-Level Assessment of Symbiodiniaceae
 - during the workshop it was noted that ITS2 is used the most but that is due to the fact the most experts were very familar with it opposed to other markers 
 - "There is a lack of consensus regarding best practices for interpreting Symbiodiniaceae gene amplicon data to identify species, and for applying and interpreting community diversity metrics." - this quote just made me feel better about my struggle finding was to id symbionts 
-
-
+### MgCl PCR optimization 
+https://www.neb.com/en-us/protocols/pcr-using-hot-start-taq-dna-polymerase-m0495
+- optimize in 0.5 or 1.0 mM increments- do a gradient? 
 ## Goldwater Questions:
 - for goldwater I need to specify which area I would like my reviewer to be from (Life Sciences areas of specialization), what one is best? -- go to website and show her the list 
 - talk about what projects I should include 
