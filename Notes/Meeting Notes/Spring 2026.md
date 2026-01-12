@@ -1,5 +1,16 @@
 # 1/9/2026 w/ Sarah & Caroline 
-## Things I did 
+
+
+
+
+
+
+
+
+
+
+
+## Updates: 
 - filled out IDP for Spring 
 - fixed code somewhat- I just started fresh again but I feel like I understand my code better now that I had more time to sit and do it without the stress of classes
 - looked into Caleb's, Thornhill, and LaJeunesse psbA papers to find out anything else about symbiont identification w/ psbA
@@ -45,8 +56,8 @@ workshop w/ 61 scientists from 12 countries considered experts on symbionts
 https://www.neb.com/en-us/protocols/pcr-using-hot-start-taq-dna-polymerase-m0495
 - optimize in 0.5 or 1.0 mM increments- do a gradient? 
 	- the next question becomes do I go with higher dna load for 700 bp band or lower for 1500 bp band 
-
-
+	- if specificity becomes an issue consider increase annealing temperature 
+		- +0.5–1.0 mM Mg²⁺ --> increase annealing temp by **+1–2°C**
 ## Goldwater Questions:
 - for goldwater I need to specify which area I would like my reviewer to be from (Life Sciences areas of specialization), what one is best? -- go to website and show her the list 
 - talk about what projects I should include 
