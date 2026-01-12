@@ -1,15 +1,13 @@
 # 1/9/2026 w/ Sarah & Caroline 
 
-
-
-
-
-
-
-
-
-
-
+## To Do 
+### PAN samples
+- pick 10 samples and perform a pcr at 53.6 °C 
+- do bead cleanup then send out samples for sequencing
+- mergepair forward and reverse reads then BLAST to see if we get similar results to previous seq ids. 
+### Organizational 
+- ask Caroline how she names/organizes sequence files on her local computer
+- create loop to name downloads
 ## Updates: 
 - filled out IDP for Spring 
 - fixed code somewhat- I just started fresh again but I feel like I understand my code better now that I had more time to sit and do it without the stress of classes

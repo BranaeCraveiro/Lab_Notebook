@@ -97,7 +97,7 @@ pan_samples_subset <- pan_samples %>%
   filter(
     Species %in% c("CNAT", "PSTR", "MCAV", "SSID")           # only certain species
   ) %>%
-  # IMPORTANT: include Species here so distinct matches your extraction collapse
+  # IMPORTANT: include species here so distinct matches your extraction collapse
   distinct(Month_year, Current_tag_num, Health_status, Species, .keep_all = TRUE)
 
 # Count how many samples per species
