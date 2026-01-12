@@ -17,18 +17,17 @@
 	- used symportal for ITS2
 	- used ASVs from psbA then ran them through NCBI Nucleotide database 
 #### Next Steps
-- already started drafting an email to Caleb regarding what the best course of action is to take if I want to just used psbA and not ITS2; just need to finish it but got stuck when my consensus results changed 
-	- wanted to double check consensus before sending 
+- already started drafting an email to Caleb regarding what the best course of action is to take if I want to just used psbA and not ITS2
 
  ### consensus sequences 
- - i re-blasted the orginal read and they all came back as symbiodinium
- 700 bp consensus (281 bp)
+ - I re-blasted the orginal read and they all came back as symbiodinium
+ ##### 700 bp consensus (281 bp)
  - used biostrings pairwise alignment following overlap model (end of first read is beginning of second read); forward read entire lined up with reverse with a couple of unique bases to make a tail on reverse 
  - top matches are symbiodinium and cladocopium
-1500 merge 
+##### 1500 merge 
 - my last consensus it came back as cladocopium as the top hits 
 - but then I noticed the counts were kinda funny 
-	- used pairwise alignment; global, local, and overlap had very low overlap regions (10 to single digits), decided to simply concatenate the forward and reverse read with a couple of "NNN" between to represent unknown region  
+	- used pairwise alignment; global, local, and overlap had very low overlap regions (1-10 nucleotides), decided to simply concatenate the forward and reverse read with a couple of "NNN" between to represent unknown region  
 - top matches are symbiodinium and cladocopium (same hits as 700 bp)
 #### EXCITING NEWS 
 - 700 bp consensus seq aligns inside the 1500 bp sequence w/ 95% identity 
@@ -41,9 +40,13 @@ workshop w/ 61 scientists from 12 countries considered experts on symbionts
 #### Guidance for Community-Level Assessment of Symbiodiniaceae
 - during the workshop it was noted that ITS2 is used the most but that is due to the fact the most experts were very familar with it opposed to other markers 
 - "There is a lack of consensus regarding best practices for interpreting Symbiodiniaceae gene amplicon data to identify species, and for applying and interpreting community diversity metrics." - this quote just made me feel better about my struggle finding was to id symbionts 
+- did not find anything to help with idenitfying psbA sequences
 ### MgCl PCR optimization 
 https://www.neb.com/en-us/protocols/pcr-using-hot-start-taq-dna-polymerase-m0495
 - optimize in 0.5 or 1.0 mM increments- do a gradient? 
+	- the next question becomes do I go with higher dna load for 700 bp band or lower for 1500 bp band 
+
+
 ## Goldwater Questions:
 - for goldwater I need to specify which area I would like my reviewer to be from (Life Sciences areas of specialization), what one is best? -- go to website and show her the list 
 - talk about what projects I should include 

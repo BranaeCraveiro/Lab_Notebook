@@ -1,4 +1,4 @@
-notes to self: 
+notes to self:  
 	pariwise alignment models:
 		**local**: finds the single best matching region anywhere in the two sequences.
 		**global**: tries to align the entire forward sequence to the entire reverse complement sequence from start to finish
