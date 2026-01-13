@@ -1,15 +1,15 @@
-# Cunning et al. 2024 
-## Measuring multi-year changes in the Symbiodiniaceae algae in Caribbean corals on coral-depleted reefs
+## Cunning et al. 2024 
+*Measuring multi-year changes in the Symbiodiniaceae algae in Caribbean corals on coral-depleted reefs*. https://doi.org/10.7717/peerj.17358 
+
+### Intro: 
+- Corals can respond to changing conditions through phenotypic plasticity (i.e., acclimatization; Putnam, 2021), genetic adaptation by the host or their symbionts (Matz et al., 2018), or changes in symbiotic partners (Cunning, Silverstein & Baker, 2015a) to create emergent holobiont phenotypes.
+- A total of 30 years ago, Buddemeier & Fautin (1993) proposed the adaptive bleaching hypothesis (ABH) which posited that shifts in algal symbiont taxa in corals could be beneficial in responding to elevated temperature.
+- time-series established in 2017 to test for variation in Symbiodiniaceae in scleractinian corals on the fringing reefs of St. John, U.S. Virgin Islands.
+- Corals were tagged and sampled in July and August 2017, 1 month before the island was hit with two Category 5 hurricanes (Edmunds, 2019). A second sampling took place in 2018 in a field season expurgated by the damage inflicted by the storms, and a third sampling was completed in the summer of 2019. We use our results to show how abundances of Symbiodiniaceae changed,
 
 
-
-
-
-
-
-# Hume et al. 2015 
-## Symbiodinium thermophilum sp. nov., a thermotolerant symbiotic alga prevalent in corals of the world’s hottest sea, the Persian/Arabian Gulf
-10.1038/srep08562 
+## Hume et al. 2015 
+*Symbiodinium thermophilum sp. nov., a thermotolerant symbiotic alga prevalent in corals of the world’s hottest sea, the Persian/Arabian Gulf.* https://doi.org/10.1038/srep08562 
 ### Intro: 
 - phylogenetic analysis of four genetic markers to describe Symbiodinium thermophilum, sp. nov. from the Persian/Arabian Gulf, a newly discovered thermally tolerant coral symbiont.
 - psbA gene resolves S.thermophilum as a monophyletic lineage with large genetic distances from any other ITS2 C3 type found outside the Gulf.
@@ -36,8 +36,8 @@ ITS2 DGGE analysis to identify symbionts in 6 species of southern Gulf (Saadiyat
 - Clade C has been characterized as thermally sensitive in the past; clade C might have greater phenotypical plasticity than thought 
 - Concerted evolution masks ITS2 diversity; multiple copies of ITS2 in the genome prevent rare variants from being detected, explaining why ITS2 alone can’t resolve Gulf C3 as a distinct species that other markers (psbAncr, cp23S, cob) revealed. 
 - Gulf C3 satisfies multiple species concepts: it is sexually isolated (psbAncr), genetically distinct (cp23S, cob, psbAncr), and occupies a unique ecological niche (extreme heat and salinity).
-# Marzonie et al. 2024
-## Symbiodiniaceae diversity varies by host and environment across thermally distinct reefs 
+## Marzonie et al. 2024
+*Symbiodiniaceae diversity varies by host and environment across thermally distinct reefs* 
 *https://doi.org/10.1111/mec.17342* 
 ### Main Goal: 
 Understand how coral species and environmental conditions shape symbiont diversity using high-resolution markers (psbA and ITS2).
@@ -71,8 +71,8 @@ Dna extraction -> PCR amplification of ITS2 & psbA ncr -> sequencing
 - Climate change implications: Corals with flexible symbiont associations may be more resilient to stress and bleaching.
 	- Humilis with C3k ‘max’ symbionts might foster higher thermal tolerance as it is located in reefs which have experienced historically higher DHW and highlights a potential source of increased resilience for A. cf humilis in response to rapid environmental change. 
 	- each bleaching event forces the coral to rebuild its symbiont community, and repeated disturbances can lead to a permanent shift towards a more heat-tolerant symbiont community.
-# Thornhill & Lajuenesse 2011
-## Improved Resolution of Reef-Coral Endosymbiont (Symbiodinium) Species Diversity, Ecology, and Evolution through psbANon-Coding Region Genotyping 
+## Thornhill & Lajuenesse 2011
+I*mproved Resolution of Reef-Coral Endosymbiont (Symbiodinium) Species Diversity, Ecology, and Evolution through psbANon-Coding Region Genotyping* 
 [https://doi.org/10.1371/journal.pone.0029013](https://doi.org/10.1371/journal.pone.0029013)
 ### Problem: 
 Two previous studies using ITS2 to analyzed symbiont composition in Montipora spp. found conflicting results
