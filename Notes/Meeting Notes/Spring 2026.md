@@ -2,7 +2,7 @@
 
 ## To Do 
 ### PAN samples
-- pick 10 samples and perform a pcr at 53.6 °C 
+- pick 10 samples and perform a pcr at 53.6 °C w/ 4 uL DNA load
 - do bead cleanup then send out samples for sequencing
 - mergepair forward and reverse reads then BLAST to see if we get similar results to previous seq ids. 
 ### Organizational 
