@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87df9b0a7d207901",
+            "id": "2d25d4a5484b572b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/psbA.md",
+                "file": "PAN_BDT/psbA/CNAT/1.14.2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "psbA"
-            }
-          },
-          {
-            "id": "4ec1bc309866291f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/psbA/CNAT/9.2.2025 - Troubleshooting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9.2.2025 - Troubleshooting"
+              "title": "1.14.2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,21 +176,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ec1bc309866291f",
+  "active": "2d25d4a5484b572b",
   "lastOpenFiles": [
+    "PAN_BDT/psbA/CNAT/11.5.2025 bead clean up.md",
     "PAN_BDT/psbA/CNAT/10.6.2025 - Bead Purification.md",
     "PAN_BDT/psbA/CNAT/9.2.2025 - Troubleshooting.md",
-    "PAN_BDT/psbA/CNAT/11.5.2025 bead clean up.md",
-    "Notes/Journal Article Notes.md",
-    "Protocols/psbA.md",
-    "PAN_BDT/psbA/CNAT/1.14.2026.md",
-    "PAN_BDT/psbA/CNAT/1.13.2026.md",
     "PAN_BDT/psbA/CNAT/8.1.2025 - troubleshooting.md",
     "PAN_BDT/psbA/CNAT/7.30.2025 - troubleshooting.md",
-    "Notes/Meeting Notes/Spring 2026.md",
     "PAN_BDT/psbA/CNAT/7.24.2025 - Annealing Gradient.md",
     "PAN_BDT/psbA/CNAT/7.23.2025 - troubleshooting.md",
     "PAN_BDT/psbA/CNAT/7.21.2025 - annealing gradient.md",
+    "Labwork Practice/Practice Gel Images/April28_2025_Gel 1.png",
+    "Labwork Practice/Practice Gel Images/April14_2025 Gels.png",
+    "Labwork Practice/Practice Gel Images/April7_2025_Gel.png",
+    "PAN_BDT/psbA/CNAT/1.14.2026.md",
+    "PAN_BDT/psbA/CNAT/psbA Gel Images/Jan14_2026_Gel.png",
+    "Notes/R Notebook/Target Amplicon Consensus Sequence.md",
+    "Protocols/psbA.md",
+    "Notes/R Notebook/Seq Files Naming Loop.md",
+    "Notes/Journal Article Notes.md",
+    "PAN_BDT/psbA/CNAT/1.13.2026.md",
+    "Notes/Meeting Notes/Spring 2026.md",
     "bead cleanup.md",
     "Protocols/DNA Extraction.md",
     "PAN_BDT/psbA/CNAT/psbA Gel Images/Jan13_2026_Gel.png",
@@ -217,9 +208,6 @@
     "PAN_BDT/DNA Extractions/CNAT/6.17.2025.md",
     "PAN_BDT/DNA Extractions/CNAT/6.30.2025.md",
     "PAN_BDT/DNA Extractions/CNAT/7.7.2025 - CLP.md",
-    "PAN_BDT/DNA Extractions/CNAT/7.14.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/7.11.2025.md",
-    "PAN_BDT/DNA Extractions/CNAT/7.10.2025 Reagent contamination check.md",
     "PAN_BDT/psbA/CNAT",
     "Untitled.base",
     "AT03901554_11.11.2025_T3_38_1500bp_F.ab1",
@@ -233,10 +221,6 @@
     "PAN_BDT/psbA/CNAT/psbA Gel Images/Oct8_2025_Gel_2.png",
     "PAN_BDT/psbA/CNAT/psbA Gel Images/Oct8_2025_Gel_1.png",
     "PAN_BDT/psbA/CNAT/psbA Gel Images/Oct7_2025_Gel.png",
-    "PAN_BDT/psbA/CNAT/psbA Gel Images/Oct8_2025_Frozen_Gel.jpg",
-    "Pasted image 20251007132135.jpg",
-    "PAN_BDT/psbA/CNAT/psbA Gel Images/Sept5_2025_Gel.png",
-    "PAN_BDT/psbA/CNAT/psbA Gel Images/Sept3_2025_Gel.png",
     "Untitled 1.base",
     "Untitled.canvas",
     "PAN_BDT/psbA/CNAT/psbA Gel Images",
