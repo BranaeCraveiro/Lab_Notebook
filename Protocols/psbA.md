@@ -60,8 +60,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
     - *time length depends on the size of gel 30-50 mins*
 7. turn off electric current **then** remove lid
 8. take picture of gel 
-    - turn lights off in room, put gel on the glass and lift the cover (45 degrees) so that there is no reflection from the gel, take photo parallel to gel
-    - editing: crop to be centered, brightness -100
+    - *editing: crop to be centered, brightness -100*
     - *in some cases may run for longer to get more separation in bands*
 9. you may reuse gels up to 3 times, if so, break the gel up into a glass container that can be covered and store at 2-8 °C 
 	*make sure to label how many times the gel was used on the lid*

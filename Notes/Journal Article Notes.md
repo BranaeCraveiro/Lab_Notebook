@@ -2,10 +2,21 @@
 *Measuring multi-year changes in the Symbiodiniaceae algae in Caribbean corals on coral-depleted reefs*. https://doi.org/10.7717/peerj.17358 
 
 ### Intro: 
-- Corals can respond to changing conditions through phenotypic plasticity (i.e., acclimatization; Putnam, 2021), genetic adaptation by the host or their symbionts (Matz et al., 2018), or changes in symbiotic partners (Cunning, Silverstein & Baker, 2015a) to create emergent holobiont phenotypes.
-- A total of 30 years ago, Buddemeier & Fautin (1993) proposed the adaptive bleaching hypothesis (ABH) which posited that shifts in algal symbiont taxa in corals could be beneficial in responding to elevated temperature.
-- time-series established in 2017 to test for variation in Symbiodiniaceae in scleractinian corals on the fringing reefs of St. John, U.S. Virgin Islands.
-- Corals were tagged and sampled in July and August 2017, 1 month before the island was hit with two Category 5 hurricanes (Edmunds, 2019). A second sampling took place in 2018 in a field season expurgated by the damage inflicted by the storms, and a third sampling was completed in the summer of 2019. We use our results to show how abundances of Symbiodiniaceae changed,
+- corals can respond to changing enviroments through phenotypuc plasticity, genetic adaption ot host/symbionts, and switching symbionts 
+	- adaptive bleaching hypothesis (Buddemeier & Fautin, 1993): shifts in symbiont species can help corals respond to increasing temps. 
+- temporal study (3 time points; 3 locations; 160 samples across 75 tagged colonies) testing variation of Symbiodiniaceae in 9 stony coral species (OANN, MCAV, OFAV, OFRA, PFUR, DLAB, CNAT, SSID, PSTR) at St. John, U.S. Virgin Islands.
+	- sampled 1 month before being hit by 2 Category 5 hurricanes
+
+used ITS2 & SymPortal to identify symbiont taxa
+
+
+
+
+
+
+
+
+
 
 
 ## Hume et al. 2015 
