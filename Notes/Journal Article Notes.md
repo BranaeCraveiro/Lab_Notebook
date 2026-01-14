@@ -1,9 +1,9 @@
 ## Cunning et al. 2024 
 *Measuring multi-year changes in the Symbiodiniaceae algae in Caribbean corals on coral-depleted reefs*. https://doi.org/10.7717/peerj.17358 
-
 ### Intro: 
 - corals can respond to changing enviroments through phenotypuc plasticity, genetic adaption ot host/symbionts, and switching symbionts 
 	- adaptive bleaching hypothesis (Buddemeier & Fautin, 1993): shifts in symbiont species can help corals respond to increasing temps. 
+### Methods
 - temporal study (3 time points; 3 locations; 160 samples across 75 tagged colonies) testing variation of Symbiodiniaceae in 9 stony coral species (OANN, MCAV, OFAV, OFRA, PFUR, DLAB, CNAT, SSID, PSTR) at St. John, U.S. Virgin Islands.
 	- sampled 1 month before being hit by 2 Category 5 hurricanes
 
