@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAN_BDT/psbA/CNAT/1.14.2026.md",
+                "file": "Protocols/psbA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.14.2026"
+              "title": "psbA"
             }
           },
           {
@@ -220,9 +220,9 @@
   },
   "active": "87df9b0a7d207901",
   "lastOpenFiles": [
+    "PAN_BDT/psbA/CNAT/1.14.2026.md",
     "PAN_BDT/psbA/CNAT/1.13.2026.md",
     "Protocols/psbA.md",
-    "PAN_BDT/psbA/CNAT/1.14.2026.md",
     "PAN_BDT/psbA/CNAT/11.5.2025 bead clean up.md",
     "PAN_BDT/psbA/CNAT/9.2.2025 - Troubleshooting.md",
     "PAN_BDT/psbA/CNAT/8.1.2025 - troubleshooting.md",

@@ -15,6 +15,7 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 3. Add water, pipette up and down to mix.
 *Be careful not to make bubbles*
 4. Pipette 24µL of master mix into each replicate tube
+*mix master mix by pipetting up and down before filling each tube*
 5. Pipette 1µL of DNA into each replicate tube
 *use new pipette tip for each replicate*
 6. briefly centrifuge pcr tubes before thermal cycler
