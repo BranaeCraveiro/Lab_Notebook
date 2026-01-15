@@ -1,5 +1,12 @@
 
+want to ask about summer pay? should I do KSC or maloney? should I still try again with teh REUs or am I booking myself too much  
+
+
+
+
 I wonder if I should looking into if there is Clade A primers opposed to Clade C/B and if that will make my bands cleaer
+
+
 # 1/9/2026 w/ Sarah & Caroline 
 
 ## To Do 
