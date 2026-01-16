@@ -6,8 +6,17 @@
 ### Methods
 - temporal study (3 time points; 3 locations; 160 samples across 75 tagged colonies) testing variation of Symbiodiniaceae in 9 stony coral species (OANN, MCAV, OFAV, OFRA, PFUR, DLAB, CNAT, SSID, PSTR) at St. John, U.S. Virgin Islands.
 	- sampled 1 month before being hit by 2 Category 5 hurricanes
-
-used ITS2 & SymPortal to identify symbiont taxa
+	- after storms 28% of colonies were presumed dead (lots of corals were dislodged or missing)
+- used ITS2 & SymPortal to identify symbiont taxa
+### Results 
+coral-algal symbiosis: 
+- CNAT, DLAB, PSTR: dominated by Breviolum, sometimes Cladocopium (2 CNATS were Durusdinium dominated)
+- OANN, OFAV, OFRA, MCAV: dominated by Cladocopium; rarely  Symbiodinium/Breviolum
+- SSID: ominated by Cladocopium
+- PFUR: associated with ominated by Cladocopium/Symbiodinium in varying proportions 
+ITS2 type profiles were mostly (not completely) species-specific
+-  host-Breviolum specificity in CNAT, DLAB, PSTR, MCAV; OFRA & SSID Breviolum dom profiles commonly found in other host species 
+- pairwise alignment between hosts showed significant differences in composition 
 
 
 
