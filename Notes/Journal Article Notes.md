@@ -1,7 +1,7 @@
 ## Cunning et al. 2024 
 *Measuring multi-year changes in the Symbiodiniaceae algae in Caribbean corals on coral-depleted reefs*. https://doi.org/10.7717/peerj.17358 
 ### Intro: 
-- corals can respond to changing enviroments through phenotypuc plasticity, genetic adaption ot host/symbionts, and switching symbionts 
+- corals can respond to changing enviroments through phenotypic plasticity, genetic adaption of host/symbionts, and switching symbionts 
 	- adaptive bleaching hypothesis (Buddemeier & Fautin, 1993): shifts in symbiont species can help corals respond to increasing temps. 
 ### Methods
 - temporal study (3 time points; 3 locations; 160 samples across 75 tagged colonies) testing variation of Symbiodiniaceae in 9 stony coral species (OANN, MCAV, OFAV, OFRA, PFUR, DLAB, CNAT, SSID, PSTR) at St. John, U.S. Virgin Islands.
@@ -11,16 +11,17 @@
 ### Results 
 coral-algal symbiosis: 
 - CNAT, DLAB, PSTR: dominated by Breviolum, sometimes Cladocopium (2 CNATS were Durusdinium dominated)
-- OANN, OFAV, OFRA, MCAV: dominated by Cladocopium; rarely  Symbiodinium/Breviolum
+- OANN, OFAV, OFRA, MCAV: dominated by Cladocopium; rarely Symbiodinium/Breviolum
 - SSID: ominated by Cladocopium
 - PFUR: associated with ominated by Cladocopium/Symbiodinium in varying proportions 
 ITS2 type profiles were mostly (not completely) species-specific
 -  host-Breviolum specificity in CNAT, DLAB, PSTR, MCAV; OFRA & SSID Breviolum dom profiles commonly found in other host species 
-- pairwise alignment between hosts showed significant differences in composition 
-
-
-
-
+	- pairwise alignment between hosts showed significant differences in composition
+- host-Cladocopium specificity in ORBI spp. (composition of clade C seq. was not different among Orbi species), MCAV, DLAB, SSID, PFUR; CNAT & PSTR (when dominated by clade C) shared same profile w/ similar seq. variation. 
+	- composition of Cladocopium seq. variants between species differed for all but DLAB & PFUR (restricted by low sample #) 
+- Symbiodinium and Durusdinium profiles  showed host species-specific associations but not enough samples to be confident 
+Changes in the dominant symbiont profile over time were uncommon; only occured in 1 CNAT (D -> B), 1 OANN (S -> C), 2 OFRA (C  -> B)
+- 
 
 
 
@@ -47,7 +48,7 @@ ITS2 DGGE analysis to identify symbionts in 6 species of southern Gulf (Saadiyat
 		- cp23S: Gulf C3 is somewhat distinct but not resolved clearly
 		- cob: Gulf C3 is unique relative to other C-types.
 		- psbA ncr:  Gulf C3 is clearly, deeply distinct, with genetic distances exceeding distances between recognized species-level types.
-	- cp23S, cob, and especially psbA ncr all converge on the conclusion that Gulf C3 is a separate species-level lineage.
+	- cp23S, cob, and especially psbA ncr all converge on the conclusion that Gulf C3 is a separate species-level lineage
 ### Discussion 
 - contrasted findings where clade D was predominant in other regions of the Gulf; this study shows  Gulf C3 is the predominant in this region (even in winter - not temporal)
 - Clade D in the past has been characterized as opportunistic, replacing previously dominant strains lost during bleaching; chances might reflect increases in thermal resilience but may reduce energetic efficiency or reproductive success

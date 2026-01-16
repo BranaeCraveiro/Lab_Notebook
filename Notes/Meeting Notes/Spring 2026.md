@@ -4,8 +4,8 @@
 - also followed a dada2 tutorial from their manual to create a pipeline to quickly merge pair my sequences when they come in super excited 
 - now just trying to figure out PCR 
 ## Questions 
-- want to ask about summer pay? should I do KSC or maloney? should I still try again with teh REUs or am I booking myself too much  
-- I wonder if I should looking into if there is Clade A primers opposed to Clade C/B and if that will make my bands cleaer
+- want to ask about summer pay? should I do KSC or maloney? should I still try again with teh REUs or am I booking myself too much  - apply to both 
+- I wonder if I should looking into if there is Clade A primers opposed to Clade C/B and if that will make my bands clear 
 - since I am trimming manually do I need to do trimming and filters like you would do for ngs or nah - just double checking 
 ## Gel stuff 
 I was looking at old gels and noticed how nice this one was: [7.23.2025 - troubleshooting](../../PAN_BDT/psbA/CNAT/7.23.2025%20-%20troubleshooting.md)
