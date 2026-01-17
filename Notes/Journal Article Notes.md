@@ -15,15 +15,19 @@ coral-algal symbiosis:
 - SSID: ominated by Cladocopium
 - PFUR: associated with ominated by Cladocopium/Symbiodinium in varying proportions 
 ITS2 type profiles were mostly (not completely) species-specific
--  host-Breviolum specificity in CNAT, DLAB, PSTR, MCAV; OFRA & SSID Breviolum dom profiles commonly found in other host species 
-	- pairwise alignment between hosts showed significant differences in composition
+- host-Breviolum specificity in CNAT, DLAB, PSTR, MCAV; OFRA & SSID Breviolum dom profiles commonly found in other host species 
 - host-Cladocopium specificity in ORBI spp. (composition of clade C seq. was not different among Orbi species), MCAV, DLAB, SSID, PFUR; CNAT & PSTR (when dominated by clade C) shared same profile w/ similar seq. variation. 
-	- composition of Cladocopium seq. variants between species differed for all but DLAB & PFUR (restricted by low sample #) 
-- Symbiodinium and Durusdinium profiles  showed host species-specific associations but not enough samples to be confident 
-Changes in the dominant symbiont profile over time were uncommon; only occured in 1 CNAT (D -> B), 1 OANN (S -> C), 2 OFRA (C  -> B)
+- Symbiodinium and Durusdinium profiles showed host species-specific associations but not enough samples to be confident 
+Shifts:
+- Changes in the dominant symbiont profile over time were uncommon; only occurred 4 times between genus; and 13 times within genus. 
+- changes in abundance of non-dominant symbiont genera (representing <50% of sequences) within colonies over time were more common (91%)
+	- changes over time in ITS2 assemblages were generally small and inconsistent (only outlier is MCAV); however data may be inflated due to copy number variants (1% of sequences may not reflect 1% of symbiont cells; Davies et al., 2022).
+- low variability in communities over time within colonies contrasted with high variability observed among colonies (CNAT had most variability within colonies)
+### Discussion 
+study purpose: documents symbiont community changes over time in St. John, Virgin Islands 
+- lack of current knowledge on why/how communities change despite evidence that shifting communities can help coral adapt to thermal stress 
+- dominant symbiont type profile varied between hosts; communities we predominantly stable over three years despite two hurricanes & SCTLD (hit in Jan 2019 but did not outbreak at St. John until 2020)
 - 
-
-
 
 
 

@@ -1,19 +1,23 @@
-# 1/16/2026 
+- need to figure out how I am going to be saving my seq data? 
+	- ab1, fasta, or phd.1 files???? look into differences between them 
+
+cunning et al. 2024 found CNAT has the most variable dom symbiont type out of the ones they sampled (OANN, MCAV, OFAV, OFRA, PFUR, DLAB, CNAT, SSID, PSTR) at St. John, U.S. Virgin Islands) which maybe explains why my samples are all so funky 
+# 1/16/2026 w/ Sarah & Caroline 
+## To Do 
+- finish Goldwater application 
+- run PCR on fewer cycles
+- sample 4 from [1.15.2026](../../PAN_BDT/psbA/CNAT/1.15.2026.md) band is clear enough to do a bead extraction on 
+- read papers to figure out clade A primers 
 ## Things I did: 
 - created a naming file loop!
 - also followed a dada2 tutorial from their manual to create a pipeline to quickly merge pair my sequences when they come in super excited 
 - now just trying to figure out PCR 
 ## Questions 
-- want to ask about summer pay? should I do KSC or maloney? should I still try again with teh REUs or am I booking myself too much  - apply to both 
+- What should I apply for to fund my summer labor? should I do KSC or maloney? 
+	- Apply to both 
 - I wonder if I should looking into if there is Clade A primers opposed to Clade C/B and if that will make my bands clear 
-- since I am trimming manually do I need to do trimming and filters like you would do for ngs or nah - just double checking 
-## Gel stuff 
-I was looking at old gels and noticed how nice this one was: [7.23.2025 - troubleshooting](../../PAN_BDT/psbA/CNAT/7.23.2025%20-%20troubleshooting.md)
-- is the smaller gel mold better for non smilely bands 
-- how come changing polymerase changed my results so much 
-- I feel like my gels in Jan are particularly bad and I am stuck on why that is? 
-
-
+	- could be; read some papers to find Clade A primers 
+- since I am trimming manually do I need to do trimming and filters like you would do for ngs?; nope trimming is my quality control step
 # 1/9/2026 w/ Sarah & Caroline 
 
 ## To Do 
@@ -78,6 +82,3 @@ https://www.neb.com/en-us/protocols/pcr-using-hot-start-taq-dna-polymerase-m0495
 	- does health status assessments counts? 
 	- photoquadrants? 
 	- obviously my current big project is the main one 
-
-
-
