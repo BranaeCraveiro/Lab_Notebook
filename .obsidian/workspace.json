@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAN_BDT/psbA/CNAT/11.5.2025 bead clean up.md",
+                "file": "PAN_BDT/psbA/CNAT/1.21.2026 bead cleanup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.5.2025 bead clean up"
+              "title": "1.21.2026 bead cleanup"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "10.6.2025 - Bead Purification"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,12 +190,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78d253a1ef3ba226",
+  "active": "0df337e28875a6d7",
   "lastOpenFiles": [
+    "PAN_BDT/psbA/CNAT/psbA Gel Images/Jan21_2026_Gel.png",
     "PAN_BDT/psbA/CNAT/11.5.2025 bead clean up.md",
+    "PAN_BDT/psbA/CNAT/10.6.2025 - Bead Purification.md",
     "PAN_BDT/psbA/CNAT/1.21.2026 bead cleanup.md",
     "PAN_BDT/psbA/CNAT/1.16.2025.md",
-    "Jan16_2025_Gel.png",
+    "PAN_BDT/psbA/CNAT/psbA Gel Images/Jan16_2025_Gel.png",
     "PAN_BDT/psbA/CNAT/1.15.2026.md",
     "Protocols/Qubit.md",
     "PAN_BDT/psbA/CNAT/1.13.2026.md",
@@ -223,7 +224,6 @@
     "Untitled.base",
     "Notes/R Notebook/Dada2 Merge Pair Pipeline.md",
     "Notes/R Notebook/Target Amplicon Consensus Sequence.md",
-    "PAN_BDT/psbA/CNAT/10.6.2025 - Bead Purification.md",
     "PAN_BDT/psbA/CNAT/7.30.2025 - troubleshooting.md",
     "Protocols/psbA.md",
     "Labwork Practice/Practice Gel Images/April28_2025_Gel 1.png",
