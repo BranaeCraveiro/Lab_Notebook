@@ -1,7 +1,4 @@
 
-slack sarah asking who my project mentors should be for brookes project 
-brooke? her? leah? 
-do we have a name for the project 
 
 
 - need to figure out how I am going to be saving my seq data? 
