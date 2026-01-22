@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAN_BDT/psbA/CNAT/1.21.2026 bead cleanup.md",
+                "file": "PAN_BDT/psbA/CNAT/9.2.2025 - Troubleshooting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.21.2026 bead cleanup"
+              "title": "9.2.2025 - Troubleshooting"
             }
           },
           {
@@ -190,12 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df337e28875a6d7",
+  "active": "c44e00d37d7a0e39",
   "lastOpenFiles": [
-    "PAN_BDT/psbA/CNAT/psbA Gel Images/Jan21_2026_Gel.png",
-    "PAN_BDT/psbA/CNAT/11.5.2025 bead clean up.md",
     "PAN_BDT/psbA/CNAT/10.6.2025 - Bead Purification.md",
+    "PAN_BDT/psbA/CNAT/11.5.2025 bead clean up.md",
+    "PAN_BDT/psbA/CNAT/9.2.2025 - Troubleshooting.md",
     "PAN_BDT/psbA/CNAT/1.21.2026 bead cleanup.md",
+    "PAN_BDT/psbA/CNAT/psbA Gel Images/Jan21_2026_Gel.png",
     "PAN_BDT/psbA/CNAT/1.16.2025.md",
     "PAN_BDT/psbA/CNAT/psbA Gel Images/Jan16_2025_Gel.png",
     "PAN_BDT/psbA/CNAT/1.15.2026.md",
@@ -218,7 +219,6 @@
     "PAN_BDT/psbA/CNAT/psbA Gel Images/Oct8_2025_Frozen_Gel.jpg",
     "PAN_BDT/psbA/CNAT/psbA Gel Images/July30_2025_Gel.png",
     "PAN_BDT/psbA/CNAT/7.24.2025 - Annealing Gradient.md",
-    "PAN_BDT/psbA/CNAT/9.2.2025 - Troubleshooting.md",
     "PAN_BDT/psbA/CNAT/7.23.2025 - troubleshooting.md",
     "Untitled 1.base",
     "Untitled.base",
@@ -228,7 +228,6 @@
     "Protocols/psbA.md",
     "Labwork Practice/Practice Gel Images/April28_2025_Gel 1.png",
     "Labwork Practice/Practice Gel Images/April14_2025 Gels.png",
-    "Labwork Practice/Practice Gel Images/April7_2025_Gel.png",
     "Protocols/DNA Extraction.md",
     "PAN_BDT/DNA Extractions/CNAT/5.23.2025 Test Run of Bleached & Pale Samples.md",
     "PAN_BDT/psbA/CNAT",
