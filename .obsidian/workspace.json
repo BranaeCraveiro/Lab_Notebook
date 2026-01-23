@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2df40fae60e3a058",
+        "id": "d8cb3b4164efc7ff",
         "type": "tabs",
         "children": [
           {
-            "id": "78d253a1ef3ba226",
+            "id": "b6389fe4d7268e07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/psbA/CNAT/1.22.2026 bead cleanup (retry).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.22.2026 bead cleanup (retry)"
+              "title": "New tab"
             }
           }
         ]
@@ -176,16 +172,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78d253a1ef3ba226",
+  "active": "b6389fe4d7268e07",
   "lastOpenFiles": [
-    "PAN_BDT/psbA/CNAT/psbA Gel Images/Jan22_2026_Gel.png",
-    "PAN_BDT/psbA/CNAT/1.21.2026 bead cleanup.md",
-    "PAN_BDT/psbA/CNAT/1.16.2025.md",
+    "Notes/Meeting Notes/Spring 2026.md",
+    "Notes/Meeting Notes/Fall 2025.md",
+    "PAN_BDT/psbA/CNAT/1.22.2026 bead cleanup (retry).md",
     "PAN_BDT/psbA/CNAT/1.15.2026.md",
+    "PAN_BDT/psbA/CNAT/1.16.2025.md",
+    "PAN_BDT/psbA/CNAT/1.21.2026 bead cleanup.md",
+    "Notes/Meeting Notes/Summer 2025.md",
+    "PAN_BDT/psbA/CNAT/psbA Gel Images/Jan22_2026_Gel.png",
     "PAN_BDT/psbA/CNAT/1.14.2026.md",
     "PAN_BDT/psbA/CNAT/1.13.2026.md",
     "PAN_BDT/psbA/CNAT/11.5.2025 bead clean up.md",
-    "PAN_BDT/psbA/CNAT/1.22.2026 bead cleanup (retry).md",
     "PAN_BDT/psbA/CNAT/9.2.2025 - Troubleshooting.md",
     "PAN_BDT/psbA/CNAT/10.6.2025 - Bead Purification.md",
     "PAN_BDT/psbA/CNAT/psbA Gel Images/Jan21_2026_Gel.png",
@@ -198,8 +197,6 @@
     "Notes/R Notebook/PAN_BDT_T1-T4 DNA Extraction Plan.md",
     "Notes/R Notebook/Determining Summer 2025 Research Project.md",
     "Notes/R Notebook/Seq Files Naming Loop.md",
-    "Notes/Meeting Notes/Spring 2026.md",
-    "Notes/Meeting Notes/Fall 2025.md",
     "Notes/Journal Article Notes.md",
     "PAN_BDT/psbA/CNAT/7.21.2025 - annealing gradient.md",
     "PAN_BDT/psbA/CNAT/8.1.2025 - troubleshooting.md",
@@ -215,7 +212,6 @@
     "PAN_BDT/psbA/CNAT/7.30.2025 - troubleshooting.md",
     "Protocols/psbA.md",
     "Labwork Practice/Practice Gel Images/April28_2025_Gel 1.png",
-    "Labwork Practice/Practice Gel Images/April14_2025 Gels.png",
     "Protocols/DNA Extraction.md",
     "PAN_BDT/psbA/CNAT",
     "AT03901554_11.11.2025_T3_38_1500bp_F.ab1",

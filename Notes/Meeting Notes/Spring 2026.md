@@ -1,10 +1,16 @@
 
-
-
-- need to figure out how I am going to be saving my seq data? 
-	- ab1, fasta, or phd.1 files???? look into differences between them 
-
+# 1/23/2026 w/ Sarah 
+## Next Steps
+- clean and seqeunce rest of bands from [1.15.2026](../../PAN_BDT/psbA/CNAT/1.15.2026.md) and if gel only shows one band sequence those samples 
+- in the future use nanodrop instead of qubit for measuring concentration 
+## Storing Raw Sequence Files 
+- in the raw squences file in unity, create a sanger sequencing folder and add all three file types 
+	- ask Caroline for help 
+## Just something that made me feel better about my gels: 
 cunning et al. 2024 found CNAT has the most variable dom symbiont type out of the ones they sampled (OANN, MCAV, OFAV, OFRA, PFUR, DLAB, CNAT, SSID, PSTR) at St. John, U.S. Virgin Islands) which maybe explains why my samples are all so funky 
+## Food for thought 
+- look into finding a primer that differientially perfers clade A 
+- maybe extract a coral sample that is confirmed to be a certain clade in Panama and see if we get similar results with my primers 
 # 1/16/2026 w/ Sarah & Caroline 
 ## To Do 
 - finish Goldwater application 
@@ -18,7 +24,7 @@ cunning et al. 2024 found CNAT has the most variable dom symbiont type out of th
 ## Questions 
 - What should I apply for to fund my summer labor? should I do KSC or maloney? 
 	- Apply to both 
-- I wonder if I should looking into if there is Clade A primers opposed to Clade C/B and if that will make my bands clear 
+- I wonder if I should looking into if there is Clade A primers opposed to Clade D/B and if that will make my bands clear 
 	- could be; read some papers to find Clade A primers 
 - since I am trimming manually do I need to do trimming and filters like you would do for ngs?; nope trimming is my quality control step
 # 1/9/2026 w/ Sarah & Caroline 
