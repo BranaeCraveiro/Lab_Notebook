@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAN_BDT/psbA/CNAT/1.28.2026 bead cleanup.md",
+                "file": "PAN_BDT/psbA/CNAT/1.30.2026 reclean.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.28.2026 bead cleanup"
+              "title": "1.30.2026 reclean"
             }
           },
           {
@@ -192,8 +192,9 @@
   },
   "active": "542d6e2a1421aa4f",
   "lastOpenFiles": [
+    "PAN_BDT/psbA/CNAT/1.28.2026 bead cleanup 1.md",
     "PAN_BDT/psbA/CNAT/1.30.2026 reclean.md",
-    "PAN_BDT/psbA/CNAT/1.28.2026 bead cleanup.md",
+    "PAN_BDT/psbA/CNAT/1.28.2026 bead clean up.md",
     "Notes/Meeting Notes/Spring 2026.md",
     "Jan28_2026_Gel.png",
     "PAN_BDT/psbA/CNAT/1.15.2026.md",
@@ -229,8 +230,6 @@
     "Untitled 1.base",
     "Untitled.base",
     "Notes/R Notebook/Dada2 Merge Pair Pipeline.md",
-    "Notes/R Notebook/Target Amplicon Consensus Sequence.md",
-    "PAN_BDT/psbA/CNAT/7.30.2025 - troubleshooting.md",
     "PAN_BDT/psbA/CNAT",
     "AT03901554_11.11.2025_T3_38_1500bp_F.ab1",
     "AT03901553_11.11.2025_T3_38_1500bp_R.ab1",
