@@ -5,7 +5,7 @@ send thank you email
 
 # 1/23/2026 w/ Sarah 
 ## Next Steps
-- clean and seqeunce rest of bands from [1.15.2026](../../PAN_BDT/psbA/CNAT/1.15.2026.md) and if gel only shows one band sequence those samples 
+- clean and seqeunce rest of bands from [2026-01-15](../../PAN_BDT/psbA/CNAT/2026-01-15.md) and if gel only shows one band sequence those samples 
 - in the future use nanodrop instead of qubit for measuring concentration 
 ## Storing Raw Sequence Files 
 - in the raw squences file in unity, create a sanger sequencing folder and add all three file types 
@@ -19,7 +19,7 @@ cunning et al. 2024 found CNAT has the most variable dom symbiont type out of th
 ## To Do 
 - finish Goldwater application 
 - run PCR on fewer cycles
-- sample 4 from [1.15.2026](../../PAN_BDT/psbA/CNAT/1.15.2026.md) band is clear enough to do a bead extraction on 
+- sample 4 from [2026-01-15](../../PAN_BDT/psbA/CNAT/2026-01-15.md) band is clear enough to do a bead extraction on 
 - read papers to figure out clade A primers 
 ## Things I did: 
 - created a naming file loop!

@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "542d6e2a1421aa4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/psbA/CNAT/1.30.2026 reclean.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1.30.2026 reclean"
-            }
-          },
-          {
             "id": "805711da68c782d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAN_BDT/psbA/CNAT/1.30.2026 reclean.md",
+                "file": "PAN_BDT/psbA/CNAT/2025-07-21 - annealing gradient.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.30.2026 reclean"
+              "title": "2025-07-21 - annealing gradient"
             }
           }
         ]
@@ -190,25 +176,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "542d6e2a1421aa4f",
+  "active": "805711da68c782d7",
   "lastOpenFiles": [
+    "PAN_BDT/psbA/CNAT/2025-07-23 - troubleshooting.md",
+    "PAN_BDT/psbA/CNAT/2025-07-21 - annealing gradient.md",
+    "PAN_BDT/psbA/CNAT/2025-11-05 bead clean up.md",
+    "PAN_BDT/psbA/CNAT/2025-09-02 - Troubleshooting.md",
+    "PAN_BDT/psbA/CNAT/2025-08-01 - troubleshooting.md",
+    "PAN_BDT/psbA/CNAT/2025-07-30 - troubleshooting.md",
+    "PAN_BDT/psbA/CNAT/2025-07-24 - Annealing Gradient.md",
+    "PAN_BDT/psbA/CNAT/2026-01-13.md",
+    "PAN_BDT/psbA/CNAT/2025.10.16 - Bead Purification.md",
+    "PAN_BDT/psbA/CNAT/2026-01-21 bead cleanup.md",
+    "PAN_BDT/psbA/CNAT/2026-01-22 bead cleanup (retry).md",
+    "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
+    "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
+    "PAN_BDT/psbA/CNAT/2026-01-16.md",
+    "PAN_BDT/psbA/CNAT/2026-01-15.md",
+    "PAN_BDT/psbA/CNAT/2026-01-14.md",
     "PAN_BDT/psbA/CNAT/1.28.2026 bead cleanup 1.md",
-    "PAN_BDT/psbA/CNAT/1.30.2026 reclean.md",
-    "PAN_BDT/psbA/CNAT/1.28.2026 bead clean up.md",
     "Notes/Meeting Notes/Spring 2026.md",
     "Jan28_2026_Gel.png",
-    "PAN_BDT/psbA/CNAT/1.15.2026.md",
-    "PAN_BDT/psbA/CNAT/1.22.2026 bead cleanup (retry).md",
     "Notes/Meeting Notes/Summer 2025.md",
     "Notes/Meeting Notes/Fall 2025.md",
-    "PAN_BDT/psbA/CNAT/1.16.2025.md",
-    "PAN_BDT/psbA/CNAT/1.21.2026 bead cleanup.md",
     "PAN_BDT/psbA/CNAT/psbA Gel Images/Jan22_2026_Gel.png",
-    "PAN_BDT/psbA/CNAT/1.14.2026.md",
-    "PAN_BDT/psbA/CNAT/1.13.2026.md",
-    "PAN_BDT/psbA/CNAT/11.5.2025 bead clean up.md",
-    "PAN_BDT/psbA/CNAT/9.2.2025 - Troubleshooting.md",
-    "PAN_BDT/psbA/CNAT/10.6.2025 - Bead Purification.md",
     "PAN_BDT/psbA/CNAT/psbA Gel Images/Jan21_2026_Gel.png",
     "PAN_BDT/psbA/CNAT/psbA Gel Images/Jan16_2025_Gel.png",
     "Protocols/Qubit.md",
@@ -220,13 +211,9 @@
     "Notes/R Notebook/Determining Summer 2025 Research Project.md",
     "Notes/R Notebook/Seq Files Naming Loop.md",
     "Notes/Journal Article Notes.md",
-    "PAN_BDT/psbA/CNAT/7.21.2025 - annealing gradient.md",
-    "PAN_BDT/psbA/CNAT/8.1.2025 - troubleshooting.md",
     "Untitled",
     "PAN_BDT/psbA/CNAT/psbA Gel Images/Oct8_2025_Frozen_Gel.jpg",
     "PAN_BDT/psbA/CNAT/psbA Gel Images/July30_2025_Gel.png",
-    "PAN_BDT/psbA/CNAT/7.24.2025 - Annealing Gradient.md",
-    "PAN_BDT/psbA/CNAT/7.23.2025 - troubleshooting.md",
     "Untitled 1.base",
     "Untitled.base",
     "Notes/R Notebook/Dada2 Merge Pair Pipeline.md",

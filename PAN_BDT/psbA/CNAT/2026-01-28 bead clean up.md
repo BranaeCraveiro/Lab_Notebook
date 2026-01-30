@@ -1,12 +1,21 @@
-*cleaning remaining samples 6-9 from [1.15.2026](1.15.2026.md)*
+*recleaning samples with 300 bp band from [2026-02-02 reclean](2026-02-02%20reclean.md)
  
-**sample 1:** 072024_PAN_BDT_T1_592_CNAT (Sample 6 from 1.28.2026)
-**sample 4:** 072024_PAN_BDT_T3_692_CNAT (Sample 7 from 1.28.2026)
-**sample 5:**  072024_PAN_BDT_T1_598_CNAT (Sample 8 from 1.28.2026)
-**sample 6:** 072024_PAN_BDT_T3_693_CNAT (Sample 9 from 1.28.2026)
-## Jan 30 Cleaned Sample Gel 
+**sample 1:** 92022_PAN_BDT_T1_2_CNAT (Sample 1 from 1.15.2026)
+**sample 2:** 92022_PAN_BDT_T1_3_CNAT  (Sample 2 from 1.15.2026)
+**sample 3:** 92022_PAN_BDT_T2_48_CNAT  (Sample 3 from 1.15.2026)
+**sample 4:** 102023_PAN_BDT_T3_308_CNAT (Sample 5 from 1.15.2026)
+**sample 5:** 102023_PAN_BDT_T3_310_CNAT (Sample 6 from 1.15.2026)
+**sample 6:** 072024_PAN_BDT_T1_592_CNAT (Sample 7 from 1.15.2026)
+**sample 7:** 072024_PAN_BDT_T3_692_CNAT (Sample 9 from 1.15.2026)
+**sample 8:**  072024_PAN_BDT_T1_598_CNAT (Sample 8 from 1.15.2026)
+**sample 9:** 072024_PAN_BDT_T3_693_CNAT (Sample 10 from 1.15.2026)
+## Jan 28 Cleaned Sample Gel 
+![](../../../Jan28_2026_Gel.png)
 
-
+*notes:*
+- *need to reclean samples 6-9 to remove faint 300 bp band* 
+	- *Caroline says that sometimes the beads just don't clean everything sometimes*
+*not sure if the smudging was reduced enough for sequencing but we are going to try it and see the quality of the result*
 # DONE IN POST PCR ROOM
 ## Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
@@ -20,19 +29,19 @@ https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-rat
 1. make fresh 80% ethanol in a 50mL tube (label and parafilm when not in use)
     - paste filled out table here
 
-| (Sample 1 from 1.15.2026) | 80% EtOH for each sample (uL) | Total 80% EtoH needed (uL) | Volume 100% EtOH (uL) | Volume H2O (uL) |
-| ------------------------- | ----------------------------- | -------------------------- | --------------------- | --------------- |
-| 9                         | 360                           | 3240                       | 2592                  | 648             |
-|                           |                               | in mL                      |                       |                 |
-|                           |                               | 3.24                       | 2.592                 | 0.648           |
+| Number of samples | 80% EtOH for each sample (uL) | Total 80% EtoH needed (uL) | Volume 100% EtOH (uL) | Volume H2O (uL) |
+| ----------------- | ----------------------------- | -------------------------- | --------------------- | --------------- |
+| 9                 | 360                           | 3240                       | 2592                  | 648             |
+|                   |                               | in mL                      |                       |                 |
+|                   |                               | 3.24                       | 2.592                 | 0.648           |
 
 2. Determine whether or not a plate transfer is necessary. If the PCR reaction volume multiplied by 2.8 exceeds the volume of the PCR plate, a transfer to larger tubes is required.
 3. Gently shake the Clean NGS Mag PCR Clean-up aliquot to resuspend any Magnetic particles that may have settled.
     1. Add CleanN GS Mag PCR Clean-up volume table below:
 
-| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
-| ------------------ | --------------- | ----------------------- | --------------- | ---------------------- |
-| 0.6                | 14              | 8.4                     | 4               | 33.6                   |
+| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |     |     |
+| ------------------ | --------------- | ----------------------- | --------------- | ---------------------- | --- | --- |
+| 0.6                | 24              | 14.4                    | 9               | 129.6                  |     |     |
 
 **Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
 _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)_
@@ -58,4 +67,5 @@ _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volum
 13. Transfer the cleared supernatant containing purified DNA and/or RNA to a new (RNase-free) 96-well microplate and seal with non-permeable sealing film.
 14. Store the plate at 2-8°C if storage is only for a few days. For long-term storage, samples should be kept at -20°C.
 
-
+## Sample Location 
+Post PCR Fridge in box "PAN_BDT_CNAT_psbA Box #2"

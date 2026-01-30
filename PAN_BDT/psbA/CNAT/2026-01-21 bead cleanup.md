@@ -1,4 +1,4 @@
-**sample 1:** 92022_PAN_BDT_T3_8_CNAT (sample 4 from [1.15.2026](PAN_BDT/psbA/CNAT/1.15.2026.md)
+**sample 1:** 92022_PAN_BDT_T3_8_CNAT (sample 4 from [2026-01-15](2026-01-15.md)
 ## Jan 21 Cleaned Sample Gel 
 ![](psbA%20Gel%20Images/Jan21_2026_Gel.png)
 
@@ -59,4 +59,6 @@ _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volum
 13. Transfer the cleared supernatant containing purified DNA and/or RNA to a new (RNase-free) 96-well microplate and seal with non-permeable sealing film.
 14. Store the plate at 2-8°C if storage is only for a few days. For long-term storage, samples should be kept at -20°C.
 
+## Sample Location 
+find here [2026-01-22 bead cleanup (retry)](2026-01-22%20bead%20cleanup%20(retry).md)
 

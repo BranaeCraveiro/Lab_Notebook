@@ -9,7 +9,7 @@
 - *ideal temperature either 45 or 46°C.* 
 - *Band appearing around 300/400 bp might be psbAncr region. However, the paper I got my primers from (Thornhill & LaJeunesse 2011, 10.1371/journal.pone.0029013) indicates the psbA NCR product should be around 500–600 bp.*
 - *Not sure what the top band (~1500 bp) is in my samples. It is surprisingly bright across all annealing temperatures.  Not sure what is going on* 
-	-  *This band also showed up faintly on the July 23rd gel (([[CNAT/7.23.2025 - troubleshooting]])) but seemed limited to a specific temperature range.* 
+	-  *This band also showed up faintly on the July 23rd gel (([[2025-07-23 - troubleshooting]])) but seemed limited to a specific temperature range.* 
 - *Used 2 µL of DNA extract and ran 40 cycles, but the bands are still pretty faint. Should I increase DNA load or increase cycles again?*
 
 #### Sarahs Thoughts (from 7/29/2025 [Summer 2025](../../../Notes/Meeting%20Notes/Summer%202025.md))

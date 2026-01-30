@@ -1,5 +1,5 @@
 *Decreased extension time from 1 minute to 30 seconds, and number of cycles from 40 to 38. Set up one reaction with 1 uL of DNA, one with 2 uL, and one with 4 uL*.
-- *retry of [7.30.2025 - troubleshooting](CNAT/7.30.2025%20-%20troubleshooting.md)*
+- *retry of [2025-07-30 - troubleshooting](2025-07-30%20-%20troubleshooting.md)*
 
 **Sample 1:** 92022_PAN_BDT_T3_39_CNAT (14.2 ng/μL)
 **Sample 2:** 92022_PAN_BDT_T2_55_CNAT (9.56 ng/μL)
