@@ -1,3 +1,7 @@
+compare percent idenitity between old and new sequences 
+its2 maybe same 
+accept award 
+send thank you email 
 
 # 1/23/2026 w/ Sarah 
 ## Next Steps
