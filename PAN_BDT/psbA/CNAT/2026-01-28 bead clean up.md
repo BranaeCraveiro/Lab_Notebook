@@ -16,6 +16,9 @@
 - *need to reclean samples 6-9 to remove faint 300 bp band* 
 	- *Caroline says that sometimes the beads just don't clean everything sometimes*
 *not sure if the smudging was reduced enough for sequencing but we are going to try it and see the quality of the result*
+
+## Senquencing Info
+info about sample 1-5 concentrations and barcodes found on [2026-02-02 reclean](2026-02-02%20reclean.md)
 # DONE IN POST PCR ROOM
 ## Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
