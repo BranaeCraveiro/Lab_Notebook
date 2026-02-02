@@ -8,7 +8,7 @@
 ### Health Status Checking 
 corals can bleach from competition- would be considered health in our data since it is a natural part of coral life in the reef 
 ### PCR Troubleshooting 
-Brooke suggests sending my last gel image [2025-07-24 - Annealing Gradient](../../PAN_BDT/psbA/CNAT/2025-07-24%20-%20Annealing%20Gradient.md), questions, and lab notebook into the genetics-wetlab channel for second opinions
+Brooke suggests sending my last gel image [2025-07-24 Annealing Gradient](../../PAN_BDT/psbA/CNAT/2025-07-24%20Annealing%20Gradient.md), questions, and lab notebook into the genetics-wetlab channel for second opinions
 	She also noted that it is probably best to ask Sarah these questions as she has the most experience with PCR 
 #### Sarahs Thoughts
 - recommends add a negative control to future PCRs (will let me know if the bands I am seeing are because of my dna or something else)
@@ -22,8 +22,8 @@ Decrease extension time and number of cycles, then set up one version with 1 uL 
 What strain do you think you’re amplifying? - Look at other papers that use those primers
 
 ## 7/22/2025 w/ Brooke, Caroline, & Sarah
-### PCR Troubleshooting [[../../PAN_BDT/psbA/CNAT/2025-07-21 - annealing gradient]]
-- use Caroline reagents & my samples to test whether primers are working [[../../PAN_BDT/psbA/CNAT/2025-07-23 - troubleshooting]]
+### PCR Troubleshooting [[../../PAN_BDT/psbA/CNAT/2025-07-21 annealing gradient]]
+- use Caroline reagents & my samples to test whether primers are working [[../../PAN_BDT/psbA/CNAT/2025-07-23 troubleshooting]]
 - if that doesnt work then test if my samples are working, use Caroline's reagents and ITS2 primers 
 - Sarah suggests making my gradient have a lowest temperature of 55 °C and have it run for 40 cycles since the paper (*Thornhill & Lajuenesse 2011, 10.1371/journal.pone.0029013* ) I got my primers from used that temperature. 
 - Sarah will buy new polymerase (don't need to use the expensive one for psbA)
@@ -62,7 +62,7 @@ Total CNAT samples extracted: 74
 *Symbiodiniaceae diversity varies by host and environment across thermally distinct reefs* 10.1111/mec.17342
 
 ## 7/8/2025 w/ Caroline 
-### Last DNA extraction I had DNA in my negative [[7.7.2025 - CLP]], discussed plan moving forward:
+### Last DNA extraction I had DNA in my negative [[../../PAN_BDT/DNA Extractions/CNAT/2025-07-07 CLP]], discussed plan moving forward:
 - label sides of collection tubes 
 - perform an extraction on thursday expect make three negatives, qubit to check for contamination of reagents
 	- if contaminated start a new kit, if not assess what to do next and what I am comfortable with 

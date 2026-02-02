@@ -10,7 +10,7 @@
 **sample 8:**  072024_PAN_BDT_T1_598_CNAT (Sample 8 from 1.15.2026)
 **sample 9:** 072024_PAN_BDT_T3_693_CNAT (Sample 10 from 1.15.2026)
 ## Jan 28 Cleaned Sample Gel 
-![](../../../Jan28_2026_Gel.png)
+![](psbA%20Gel%20Images/Jan28_2026_Gel.png)
 
 *notes:*
 - *need to reclean samples 6-9 to remove faint 300 bp band* 
