@@ -13,7 +13,7 @@ Well 5: Sample 2 (cleaned sample of tube 2_4B from 9.2.2025)  (wanted 1500 bp ba
 Well 6: Sample 4 - Negative Control (made from Blank- DI water- from 9.2.2025)
 
 ## October 16 2025 Gel Image 
-![](CNAT/psbA%20Gel%20Images/Oct16_2025_Gel.png)
+![](CNAT%20psbA%20Gel%20Images/Oct16_2025_Gel.png)
 
 Notes:
 - very faint 300 bp band and a 1500 bp band woot woot 
@@ -55,20 +55,20 @@ Sample: 2 (cleaned sample of tube 2_4B from 9.2.2025)
 note: forgot to add primer, need to email genewiz and figure out where to purchase primer from 
 
 ## October 8 2025 Gel Image
-![](CNAT/psbA%20Gel%20Images/Oct8_2025_Gel_1.png)
+![](CNAT%20psbA%20Gel%20Images/Oct8_2025_Gel_1.png)
 
-![](CNAT/psbA%20Gel%20Images/Oct8_2025_Gel_2.png)
+![](CNAT%20psbA%20Gel%20Images/Oct8_2025_Gel_2.png)
 *Note: Talked to Sarah and Caroline and they believe I let the gel boil for tool long in the microwave, leading to my gel to be more than 1.5% agarose. Will make a fresh gel and try running samples again (also since this gel was 25 mL and very thin, will also make it a little thicker)*
 
 ## October 7 2025 Gel Image
 *I made my gel on Oct. 8th, submerged it with TBE buffer and placed in the fridge so I could load and run my gel quickly the next day. However, my buffer and gel froze. I let it thaw for an hour, then loaded and ran my gel.* 
 
-![](CNAT/psbA%20Gel%20Images/Oct7_2025_Gel.png)
+![](CNAT%20psbA%20Gel%20Images/Oct7_2025_Gel.png)
 
 *Notes: Will try again with a fresh gel (and will make sure to not put it inthe fridge lol) 
 
 #### Frozen gel in Question: 
-![](CNAT/psbA%20Gel%20Images/Oct8_2025_Frozen_Gel.jpg)
+![](CNAT%20psbA%20Gel%20Images/Oct8_2025_Frozen_Gel.jpg)
 
 
 # All done in the Post PCR Room

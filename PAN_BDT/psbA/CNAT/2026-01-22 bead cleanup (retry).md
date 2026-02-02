@@ -2,7 +2,7 @@
 
 **sample 1:** 92022_PAN_BDT_T3_8_CNAT (sample 4 from [2026-01-15](2026-01-15.md))
 ## Jan 22 Cleaned Sample Gel 
-![](psbA%20Gel%20Images/Jan22_2026_Gel.png)
+![](CNAT%20psbA%20Gel%20Images/Jan22_2026_Gel.png)
 *Notes: YIPPEE 300 BP BAND GONE!!!*
 ## Qubit Results 
 Sample 1: 92022_PAN_BDT_T3_8_CNAT

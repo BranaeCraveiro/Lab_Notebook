@@ -4,7 +4,7 @@
 **Sample 2:** 92022_PAN_BDT_T2_55_CNAT (9.56 ng/μL)
 *note: weird ordering of samples in my gel since one of my lanes had a bubble and I was trying to avoid it* 
 
-![](CNAT/psbA%20Gel%20Images/July30_2025_Gel.png)
+![](CNAT%20psbA%20Gel%20Images/July30_2025_Gel.png)
 
 *Notes: embarrassingly I believe I made the same mistake I made on [2025-07-21 annealing gradient](2025-07-21%20annealing%20gradient.md) where I added my reverse primer twice and did not add any forward primer. This was definetly because I was feeling under the weather but was my last wet lab work day before vacation so I pushed myself to come in- lesson learned. will retry this same experimental set up next experiment.  
 

@@ -1,6 +1,6 @@
 **sample 1:** 92022_PAN_BDT_T3_8_CNAT (sample 4 from [2026-01-15](2026-01-15.md)
 ## Jan 21 Cleaned Sample Gel 
-![](psbA%20Gel%20Images/Jan21_2026_Gel.png)
+![](CNAT%20psbA%20Gel%20Images/Jan21_2026_Gel.png)
 
 *notes: I just followed the protocol from the last time I cleaned a 1500 bp sample without realizing my previous sample did not have a 300 bp band, hence when the bead concentration did not remove the 300 bp band. I will re-clean using 0.6x bead concentration instead of 1.8x* 
 

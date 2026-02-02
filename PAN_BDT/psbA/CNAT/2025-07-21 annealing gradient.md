@@ -1,7 +1,7 @@
 **Row 1**: 92022_PAN_BDT_T3_39_CNAT (14.2 ng/μL)
 **Row 2:** 92022_PAN_BDT_T2_55_CNAT (9.56 ng/μL)
 
-![](CNAT/psbA%20Gel%20Images/July21_2025_Gel.png)
+![](CNAT%20psbA%20Gel%20Images/July21_2025_Gel.png)
 
 *Notes: need to troubleshoot to determine what went wrong with my PCR, could be primer, reagents, sample, or temperature issue.* 
 

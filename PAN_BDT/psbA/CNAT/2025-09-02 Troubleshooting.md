@@ -6,7 +6,7 @@
 *In reaction 2_4A I accidentally used 6 μL of DNA load
 ### September 5 2025 Gel Image
 
-![](CNAT/psbA%20Gel%20Images/Sept5_2025_Gel.png)
+![](CNAT%20psbA%20Gel%20Images/Sept5_2025_Gel.png)
 
 *Notes:*
 - *Fresh Gel worked woot woot!*
@@ -27,13 +27,13 @@ notes from [Fall 2025](../../../Notes/Meeting%20Notes/Fall%202025.md) meeting no
 	- 1500 bp band from 4 uL sample 2 at 53.6
 
 ### September 3 2025 Gel Image
-![](CNAT/psbA%20Gel%20Images/Sept3_2025_Gel.png)
+![](CNAT%20psbA%20Gel%20Images/Sept3_2025_Gel.png)
 
 *Notes: Rerun of PCR samples in same 1.5% agarose gel batch, thinking to make a fresh batch of gel to try again.*  
 ### September 2 2025 Gel Image 
 *Notes: while loading my gel I was counting wells with DNA ladder in the pipet tip, some of the ladder solution dropped and landed into a well- lesson learned* 
 
-![](CNAT/psbA%20Gel%20Images/Sept2_2025_Gel.png)
+![](CNAT%20psbA%20Gel%20Images/Sept2_2025_Gel.png)
 
 *Notes: The 1.5% gel used was made fresh by me today (9/2/2025), I used 0.6 grams of agarose in 40 mL of 1x TBE Buffer. Will rerun gel with same gel batch tomorrow (9/3/2025)*
 ## PCR Preparation 

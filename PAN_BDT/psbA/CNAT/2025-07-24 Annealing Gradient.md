@@ -4,7 +4,7 @@
 **Row 2:** 92022_PAN_BDT_T2_55_CNAT (9.56 ng/μL)
 *Note: Lane C is a sample from Caroline's pooled 16s samples that she wanted to double check* 
 
-![](CNAT/psbA%20Gel%20Images/July24_2025_Gel.png)
+![](CNAT%20psbA%20Gel%20Images/July24_2025_Gel.png)
 *Notes:*
 - *ideal temperature either 45 or 46°C.* 
 - *Band appearing around 300/400 bp might be psbAncr region. However, the paper I got my primers from (Thornhill & LaJeunesse 2011, 10.1371/journal.pone.0029013) indicates the psbA NCR product should be around 500–600 bp.*
