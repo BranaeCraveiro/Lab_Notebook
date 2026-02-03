@@ -1,8 +1,14 @@
-compare percent idenitity between old and new sequences 
-its2 maybe same 
-accept award 
-send thank you email 
+# 2/6/2026 w/ Sarah & Caroline 
+## WDHOF questions 
+- no conflict of interest right 
+- Taxable Income:  Not applicable: no funds will be directly paid to me? correct? 
 
+# 1/30/2026 w/ Sarah & Caroline 
+## To do 
+- compare percent idenitity between old and new sequences 
+- its2 maybe same results 
+- accept WDHOF award 
+- send thank you email to WDHOF 
 # 1/23/2026 w/ Sarah 
 ## Next Steps
 - clean and seqeunce rest of bands from [2026-01-15](../../PAN_BDT/psbA/CNAT/2026-01-15.md) and if gel only shows one band sequence those samples 
