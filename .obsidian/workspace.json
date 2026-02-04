@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Meeting Notes/Spring 2026.md",
+                "file": "Notes/Meeting Notes/2026 Spring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spring 2026"
+              "title": "2026 Spring"
             }
           }
         ]
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,13 +178,14 @@
   },
   "active": "805711da68c782d7",
   "lastOpenFiles": [
+    "Notes/Meeting Notes/2026 Fall.md",
+    "Notes/Meeting Notes/2025 Summer.md",
+    "Notes/Meeting Notes/2026 Spring.md",
+    "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
     "2026-02-02.md",
-    "Notes/Meeting Notes/Spring 2026.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
-    "Notes/Meeting Notes/Fall 2025.md",
-    "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Feb2_2026_Gel.png",
     "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
     "PAN_BDT/psbA/CNAT/2026-01-22 bead cleanup (retry).md",

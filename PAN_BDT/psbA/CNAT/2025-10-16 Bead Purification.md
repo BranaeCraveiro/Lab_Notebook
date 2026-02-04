@@ -1,4 +1,4 @@
-*Bead purification of small subset of samples to identify if amplicon is psbA region- review [Fall 2025](../../../Notes/Meeting%20Notes/Fall%202025.md) to see notes*
+*Bead purification of small subset of samples to identify if amplicon is psbA region- review [2026 Fall](../../../Notes/Meeting%20Notes/2026%20Fall.md) to see notes*
 
 <mark style="background: #FFF3A3A6;">Sample 1:</mark> **1_6E:** T3_36 w/ 6 uL at temp E *300 bp band from 6 uL sample 1 at 44.7*
 <mark style="background: #FFF3A3A6;">Sample 2:</mark> **2_4B:** T3_38 w/ 4 uL at temp B *1500 bp band from 4 uL sample 2 at 53.6*

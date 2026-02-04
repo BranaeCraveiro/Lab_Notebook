@@ -19,7 +19,7 @@
 - *ideal temp. somewhere between 49-45 °C*
 
 ### Next Steps
-notes from [Fall 2025](../../../Notes/Meeting%20Notes/Fall%202025.md) meeting notes under heading "9/25/2025 w/ Sarah & Caroline"
+notes from [2026 Fall](../../../Notes/Meeting%20Notes/2026%20Fall.md) meeting notes under heading "9/25/2025 w/ Sarah & Caroline"
 - sequence 300 bp and 700 bp band seperately
 	- 300 bp band from 6 uL sample 1 at 44.7 
 	- 700 bp band from 6 uL sample 1 at 53.6 

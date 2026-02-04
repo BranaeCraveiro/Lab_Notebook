@@ -3,6 +3,14 @@
 - no conflict of interest right 
 - Taxable Income:  Not applicable: no funds will be directly paid to me? correct? 
 
+## Honors Fellowship Presentation 
+our posters at the symposium can work for the presentation, Julian will just swing by 
+- prob really helpful for Brandon lowkey 
+wanted to ask if that is good with you or if you want us to practice presenting (if so what days would work best for you so you can attend and I can coordinate with Tristin and Brandon) 
+
+### Alignment between old 1500 (first batch) and good quality 1500 bp (sample 4) 
+
+
 # 1/30/2026 w/ Sarah & Caroline 
 ## To do 
 - compare percent idenitity between old and new sequences 

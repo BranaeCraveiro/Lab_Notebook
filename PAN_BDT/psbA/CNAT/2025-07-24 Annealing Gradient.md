@@ -12,7 +12,7 @@
 	-  *This band also showed up faintly on the July 23rd gel (([[2025-07-23 troubleshooting]])) but seemed limited to a specific temperature range.* 
 - *Used 2 µL of DNA extract and ran 40 cycles, but the bands are still pretty faint. Should I increase DNA load or increase cycles again?*
 
-#### Sarahs Thoughts (from 7/29/2025 [Summer 2025](../../../Notes/Meeting%20Notes/Summer%202025.md))
+#### Sarahs Thoughts (from 7/29/2025 [2025 Summer](../../../Notes/Meeting%20Notes/2025%20Summer.md))
 - recommends add a negative control to future PCRs (will let me know if the bands I am seeing are because of my dna or something else)
 - the bright 1500 bp band is non-specific binding 
 	- likely caused by how many times I am running my cycle- try decreasing to 38 cycles 

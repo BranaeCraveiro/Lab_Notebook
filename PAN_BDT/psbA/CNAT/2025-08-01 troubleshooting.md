@@ -9,7 +9,7 @@
 - *On sample 2_4uL there is a faint band at 600 bp woot woot!!!! I wonder why sample one did not show the band as sample 2 had a lower initial concentraction than sample 1. Maybe there is not enough symbiont DNA (so more host DNA) in sample 1.*
 - *Also at higher concentrations my nonspecific binding is no longer showing (strong ~1000 - 1500 bp band at top of lanes), very exciting!* 
 ### Next Steps 
-*from [Summer 2025](../../../Notes/Meeting%20Notes/Summer%202025.md) meeting notes under "8/1/2025 w/ Sarah"*
+*from [2025 Summer](../../../Notes/Meeting%20Notes/2025%20Summer.md) meeting notes under "8/1/2025 w/ Sarah"*
 - Srarah says we want more DNA and higher temp (annealing temp)
 - can do a gradient of this temp and higher and maybe try 4 ul 5 ul and 6 ul of DNA?
 	- if I do this will probably need to change to a different sample since I do not have enough elution to do a gradient at all three of those amounts at 8 samples per amount (to create the gradient)- ask Caroline & Brooke their opinions 

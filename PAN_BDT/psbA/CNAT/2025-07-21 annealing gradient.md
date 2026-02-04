@@ -8,7 +8,7 @@
 *7/24/2025 note: looked at primer tubes and noticed Rev_1 primer is significantly lower than For_1 primer; I believe I must of added the reverse primer twice while making the master mix hence why the PCR had no results
 
 ### Next steps 
-*notes from [Summer 2025](../../../Notes/Meeting%20Notes/Summer%202025.md) meeting notes under "7/22/2025 w/ Brooke, Caroline, & Sarah"*
+*notes from [2025 Summer](../../../Notes/Meeting%20Notes/2025%20Summer.md) meeting notes under "7/22/2025 w/ Brooke, Caroline, & Sarah"*
 - use Caroline reagents & my samples to test whether primers are working [[2025-07-23 troubleshooting]]
 - if that doesnt work then test if my samples are working, use Caroline's reagents and ITS2 primers 
 - Sarah suggests making my gradient have a lowest temperature of 55 °C and have it run for 40 cycles since the paper (*Thornhill & Lajuenesse 2011, 10.1371/journal.pone.0029013* ) I got my primers from used that temperature. 
