@@ -2,14 +2,30 @@
 ## WDHOF questions 
 - no conflict of interest right 
 - Taxable Income:  Not applicable: no funds will be directly paid to me? correct? 
-
 ## Honors Fellowship Presentation 
 our posters at the symposium can work for the presentation, Julian will just swing by 
 - prob really helpful for Brandon lowkey 
 wanted to ask if that is good with you or if you want us to practice presenting (if so what days would work best for you so you can attend and I can coordinate with Tristin and Brandon) 
+### Latest Sequencing Results 
+**sample 1:** 92022_PAN_BDT_T1_2_CNAT - 
+**sample 2:** 92022_PAN_BDT_T1_3_CNAT - one read (forgot primer on forward)
+**sample 3:** 92022_PAN_BDT_T2_48_CNAT- 
+**sample 4:** 102023_PAN_BDT_T3_308_CNAT - 
+**sample 5:** 102023_PAN_BDT_T3_310_CNAT - 
+**sample 6:** 072024_PAN_BDT_T1_592_CNAT - 
+**sample 7:** 072024_PAN_BDT_T3_692_CNAT - 
+**sample 8:**  072024_PAN_BDT_T1_598_CNAT - 
+**sample 9:** 072024_PAN_BDT_T3_693_CNAT - 
+
+#### Notes 
+I feel like these quality scores are pretty low compared to my other sequences to the point where the chromatogram was really difficult to interpret 
+- usually in the 30-40 range 
+- only 6/18 samples 30 of above 
+- most samples in 10-20 rnage 
+- noticeable decrease in legibility of chromatogram
 
 ### Alignment between old 1500 (first batch) and good quality 1500 bp (sample 4) 
-
+![](../../Screenshot%202026-02-03%20214812.png)
 
 # 1/30/2026 w/ Sarah & Caroline 
 ## To do 
