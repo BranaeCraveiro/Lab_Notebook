@@ -1,4 +1,9 @@
 # 2/6/2026 w/ Sarah & Caroline 
+## Next Steps 
+- create excel sheet with sample information 
+- create project repo 
+- look at relationship between streaking & quality
+- try aligning all the sequences on Blast 
 ## WDHOF questions 
 - no conflict of interest right 
 - Taxable Income:  Not applicable: no funds will be directly paid to me? correct? 
@@ -7,25 +12,29 @@ our posters at the symposium can work for the presentation, Julian will just swi
 - prob really helpful for Brandon lowkey 
 wanted to ask if that is good with you or if you want us to practice presenting (if so what days would work best for you so you can attend and I can coordinate with Tristin and Brandon) 
 ### Latest Sequencing Results 
-**sample 1:** 92022_PAN_BDT_T1_2_CNAT - 
+**sample 1:** 92022_PAN_BDT_T1_2_CNAT - have not trimmed yet
 **sample 2:** 92022_PAN_BDT_T1_3_CNAT - one read (forgot primer on forward)
-**sample 3:** 92022_PAN_BDT_T2_48_CNAT- 
-**sample 4:** 102023_PAN_BDT_T3_308_CNAT - 
-**sample 5:** 102023_PAN_BDT_T3_310_CNAT - 
-**sample 6:** 072024_PAN_BDT_T1_592_CNAT - 
-**sample 7:** 072024_PAN_BDT_T3_692_CNAT - 
-**sample 8:**  072024_PAN_BDT_T1_598_CNAT - 
-**sample 9:** 072024_PAN_BDT_T3_693_CNAT - 
-
+**sample 3:** 92022_PAN_BDT_T2_48_CNAT- have not trimmed yet 
+**sample 4:** 102023_PAN_BDT_T3_308_CNAT - did not merge 
+**sample 5:** 102023_PAN_BDT_T3_310_CNAT - symbiodinium
+**sample 6:** 072024_PAN_BDT_T1_592_CNAT - symbiodinium
+**sample 7:** 072024_PAN_BDT_T3_692_CNAT - did not merge 
+**sample 8:**  072024_PAN_BDT_T1_598_CNAT - symbiodinium
+**sample 9:** 072024_PAN_BDT_T3_693_CNAT - did not merge 
+#### summary 
+- 2 left to trim
+- 3 did not merge; 6 did 
+- all 6 came back symbiodinium
+- prob should try aligning them all to each other maybe? 
 #### Notes 
 I feel like these quality scores are pretty low compared to my other sequences to the point where the chromatogram was really difficult to interpret 
 - usually in the 30-40 range 
 - only 6/18 samples 30 of above 
 - most samples in 10-20 rnage 
 - noticeable decrease in legibility of chromatogram
-
+I wonder if the 700 bp is the band but the 1500 is the band plus non specfic since all my samples are really unclear after ~500/600 bp that is why they keep coming back as non specific 
 ### Alignment between old 1500 (first batch) and good quality 1500 bp (sample 4) 
-![](../../Screenshot%202026-02-03%20214812.png)
+- came back as 97% identical despite being two different samples (T3_38 & T3_8) 
 
 # 1/30/2026 w/ Sarah & Caroline 
 ## To do 

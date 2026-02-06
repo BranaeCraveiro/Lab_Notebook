@@ -13,24 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
+                "file": "PAN_BDT/psbA/CNAT/2026-01-22 bead cleanup (retry).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-02 reclean"
+              "title": "2026-01-22 bead cleanup (retry)"
             }
           },
           {
-            "id": "283e35585b300630",
+            "id": "d09d32d2d974bb99",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "Notes/Meeting Notes/2026 Spring.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "2026 Spring"
             }
           }
         ],
@@ -91,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "504cf1d1415699a7",
@@ -190,13 +191,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "283e35585b300630",
+  "active": "d09d32d2d974bb99",
   "lastOpenFiles": [
-    "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
-    "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
-    "Screenshot 2026-02-03 214812.png",
-    "Protocols/Qubit.md",
+    "PAN_BDT/psbA/CNAT/2026-01-22 bead cleanup (retry).md",
     "Notes/Meeting Notes/2026 Spring.md",
+    "Screenshot 2026-02-03 214812.png",
+    "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
+    "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
+    "Protocols/Qubit.md",
     "Notes/Meeting Notes/2026 Fall.md",
     "Notes/Meeting Notes/2025 Summer.md",
     "2026-02-02.md",
@@ -204,7 +206,6 @@
     "Untitled 1.base",
     "Untitled.canvas",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Feb2_2026_Gel.png",
-    "PAN_BDT/psbA/CNAT/2026-01-22 bead cleanup (retry).md",
     "Untitled.md",
     "PAN_BDT/psbA/CNAT/2025-07-21 annealing gradient.md",
     "PAN_BDT/DNA Extractions/CNAT/2025-05-23 Test Run of Bleached & Pale Samples.md",
