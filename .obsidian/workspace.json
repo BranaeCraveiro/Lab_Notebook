@@ -11,10 +11,14 @@
             "id": "5db181c7f21a12ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-01-28 bead clean up"
             }
           }
         ]
@@ -172,8 +176,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df337e28875a6d7",
+  "active": "5db181c7f21a12ee",
   "lastOpenFiles": [
+    "PAN_BDT/psbA/CNAT/2026-01-22 bead cleanup (retry).md",
+    "PAN_BDT/psbA/CNAT/2026-01-21 bead cleanup.md",
+    "PAN_BDT/psbA/CNAT/2026-01-16.md",
+    "PAN_BDT/psbA/CNAT/2026-01-15.md",
+    "PAN_BDT/psbA/CNAT/2026-01-14.md",
+    "PAN_BDT/psbA/CNAT/2026-01-13.md",
+    "PAN_BDT/psbA/CNAT/2025-11-05 bead clean up.md",
+    "PAN_BDT/psbA/CNAT/2025-10-16 Bead Purification.md",
+    "PAN_BDT/psbA/CNAT/2025-09-02 Troubleshooting.md",
+    "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
+    "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
     "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
     "Notes/R Notebook/Target Amplicon Consensus Sequence.md",
     "Notes/R Notebook/Seq Files Naming Loop.md",
@@ -181,11 +196,8 @@
     "Notes/R Notebook/Determining Summer 2025 Research Project.md",
     "Notes/R Notebook/Dada2 Merge Pair Pipeline.md",
     "Notes/Journal Article Notes.md",
-    "PAN_BDT/psbA/CNAT/2026-01-22 bead cleanup (retry).md",
     "Notes/Meeting Notes/2026 Spring.md",
     "Screenshot 2026-02-03 214812.png",
-    "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
-    "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
     "Protocols/Qubit.md",
     "Notes/Meeting Notes/2026 Fall.md",
     "Notes/Meeting Notes/2025 Summer.md",
@@ -197,14 +209,6 @@
     "Untitled.md",
     "PAN_BDT/psbA/CNAT/2025-07-21 annealing gradient.md",
     "PAN_BDT/DNA Extractions/CNAT/2025-05-23 Test Run of Bleached & Pale Samples.md",
-    "Protocols/DNA Extraction.md",
-    "PAN_BDT/psbA/CNAT/2025-10-16 Bead Purification.md",
-    "PAN_BDT/DNA Extractions/CNAT/2025-06-04.md",
-    "PAN_BDT/DNA Extractions/CNAT/2025-06-17.md",
-    "PAN_BDT/DNA Extractions/CNAT/2025-06-25.md",
-    "PAN_BDT/DNA Extractions/CNAT/2025-06-27.md",
-    "PAN_BDT/DNA Extractions/CNAT/2025-06-30.md",
-    "PAN_BDT/DNA Extractions/CNAT/2025-07-07 CLP.md",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Jan28_2026_Gel.png",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Jan22_2026_Gel.png",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Jan21_2026_Gel.png",
