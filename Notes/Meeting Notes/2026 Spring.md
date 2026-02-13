@@ -1,3 +1,16 @@
+
+tube label 
+health status 
+date extracted 
+raw conc 
+extraction physical location 
+date_psba 
+colony 
+date sequenced 
+
+
+
+
 # 2/6/2026 w/ Sarah & Caroline 
 ## Next Steps 
 - create excel sheet with sample information 
@@ -6,6 +19,7 @@
 - try aligning all the sequences on Blast 
 ## WDHOF questions 
 - no conflict of interest right 
+
 - Taxable Income:  Not applicable: no funds will be directly paid to me? correct? 
 ## Honors Fellowship Presentation 
 our posters at the symposium can work for the presentation, Julian will just swing by 
