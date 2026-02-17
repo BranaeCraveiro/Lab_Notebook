@@ -8,7 +8,13 @@ date_psba
 colony 
 date sequenced 
 
+thinking of doing the DNA extraction on saturday since I need the BSC for so long and there is only one atm 
 
+to do 
+- pick out coral to extract 
+- figure out code to make sample tracker 
+- quantify smearing on a scale- both pcr and clean gel 
+- create plot and correlation test of smearing vs. quality score 
 
 
 # 2/6/2026 w/ Sarah & Caroline 
