@@ -54,7 +54,7 @@ _If the pellet has not fully settled out of the supernatant, you may recentrifug
 
 14. Insert a HiBind column into a 2 mL collection tube. Transfer 700 µL of the sample into the column. Centrifuge at 10000 g/rpm for 1 minute at room temperature. Discard the filtrate and reuse the collection tube.
 
-15. Repeat step 13 until all filtrate (from both sample tubes) has passed through
+15. Repeat step 14 until all filtrate (from both sample tubes) has passed through
 *usually I have 500 µL remaining after the two intial 700 µL runs*
 
 ### Washing
