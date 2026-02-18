@@ -10,12 +10,66 @@
 		- date_psba 
 		- colony 
 		- date sequenced 
-- pick out coral to extract (one can I use )
-- figure out code to make sample tracker 
+- pick out coral to extract (one can I use current primers on)
+     - figure out code to make sample tracker 
 - quantify smearing on a scale- both pcr and clean gel 
 - create plot and correlation test of smearing vs. quality score 
+- consider setting up jupyter notebook 
+- create repo for project 
 
+## Picking Coral Species for Extraction 
+current plan: 
 
+| Species | total | non_healthy | healthy | percent_unhealthy |
+| :------ | ----: | ----------: | ------: | ----------------: |
+| CNAT    |    71 |          35 |      36 |              49.3 |
+| PSTR    |    51 |          25 |      26 |              49.0 |
+| SSID    |    63 |          26 |      37 |              41.3 |
+| MCAV    |    67 |          21 |      46 |              31.3 |
+| ORBI    |    57 |          10 |      47 |              17.5 |
+| PAST    |    39 |           5 |      34 |              12.8 |
+| MMEA    |    24 |           1 |      23 |               4.2 |
+
+| Species | n_transects |
+| :------ | ----------: |
+| CNAT    |           4 |
+| MCAV    |           4 |
+| MMEA    |           2 |
+| ORBI    |           4 |
+| PAST    |           3 |
+| PSTR    |           2 |
+| SSID    |           4 |
+
+looking at both % unhealthy and which corals are in all 4 transects leaves us with 4 species 
+- CNAT, MCAV, ORBI, SSID
+- might do PSTR just becuase up there in the % unhealthy chart 
+
+| Species |   n |
+| :------ | --: |
+| CNAT    |  74 |
+| MCAV    |  69 |
+| ORBI    |  58 |
+| PSTR    |  62 |
+| SSID    |  65 |
+
+| Species | total | non_healthy | healthy | percent_unhealthy |
+| :------ | ----: | ----------: | ------: | ----------------: |
+| CNAT    |   125 |          40 |      85 |              32.0 |
+| PSTR    |    92 |          28 |      64 |              30.4 |
+| SSID    |   111 |          27 |      84 |              24.3 |
+| MCAV    |   118 |          22 |      96 |              18.6 |
+| ORBI    |   100 |           9 |      91 |               9.0 |
+|         |       |             |         |                   |
+
+### My findigs based on papers
+
+| Species | Finding 1 | Paper 1             | Notes                       | Finding 2 | Paper 2                | Notes                          | Finding 3 | Paper 3             | Notes                                                      |
+| ------- | --------- | ------------------- | --------------------------- | --------- | ---------------------- | ------------------------------ | --------- | ------------------- | ---------------------------------------------------------- |
+| MCAV    | Clade C   | Cunning et al. 2024 | Virgin Islands              | Clade C   | Eckert et al. 2020     | Belize                         | Clade C   | Sturm et al. 2020   | Cuba                                                       |
+| SSID    | Clade C   | Cunning et al. 2024 | Virgin Islands              | Clade C   | Locatelli & Baums 2025 | Curaçao                        | Clade C   | Davies et al. 2018  | Belize                                                     |
+| ORBI    | Clade C   | Cunning et al. 2024 | Virgin Islands; ORBI & OFAV | Clade B   | Kemp et al. 2015; OFAV | Belize; multisample majority B | Clade B/C | Kennedy et al. 2016 | OANN; Clade B in BEL but closer to PAN appearign 50/50 B/C |
+| PSTR    | Clade B   | Cunnign et al. 2024 | Virgin Islands              | Clade B   | Lewis et al. 2018      | all over Caribbean             |           |                     |                                                            |
+note: having a hard time finding another PSTR paper 
 # 2/6/2026 w/ Sarah & Caroline 
 ## Next Steps 
 - create excel sheet with sample information 
