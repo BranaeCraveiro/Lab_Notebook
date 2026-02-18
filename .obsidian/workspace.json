@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2/13/2025",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,6 +178,8 @@
   },
   "active": "5db181c7f21a12ee",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Notes/Meeting Notes/2026 Spring.md",
     "Notes/Meeting Notes/2025 Summer.md",
     "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
     "PAN_BDT/psbA/CNAT/2026-01-22 bead cleanup (retry).md",
@@ -198,18 +199,15 @@
     "Notes/R Notebook/Determining Summer 2025 Research Project.md",
     "Notes/R Notebook/Dada2 Merge Pair Pipeline.md",
     "Notes/Journal Article Notes.md",
-    "Notes/Meeting Notes/2026 Spring.md",
     "Screenshot 2026-02-03 214812.png",
     "Protocols/Qubit.md",
     "Notes/Meeting Notes/2026 Fall.md",
     "2026-02-02.md",
-    "Untitled.base",
     "Untitled 1.base",
     "Untitled.canvas",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Feb2_2026_Gel.png",
     "Untitled.md",
     "PAN_BDT/psbA/CNAT/2025-07-21 annealing gradient.md",
-    "PAN_BDT/DNA Extractions/CNAT/2025-05-23 Test Run of Bleached & Pale Samples.md",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Jan28_2026_Gel.png",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Jan22_2026_Gel.png",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Jan21_2026_Gel.png",

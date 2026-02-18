@@ -1,17 +1,16 @@
 # 2/13/2026 w/ Sarah & Caroline 
-tube label 
-health status 
-date extracted 
-raw conc 
-extraction physical location 
-date_psba 
-colony 
-date sequenced 
-
-thinking of doing the DNA extraction on saturday since I need the BSC for so long and there is only one atm 
-
-to do 
-- pick out coral to extract 
+## Next Steps 
+- create a sample tracker datasheet by using code to combine sample 
+	- things to include: 
+		- tube label 
+		- health status 
+		- date extracted 
+		- raw conc.
+		- extraction physical location 
+		- date_psba 
+		- colony 
+		- date sequenced 
+- pick out coral to extract (one can I use )
 - figure out code to make sample tracker 
 - quantify smearing on a scale- both pcr and clean gel 
 - create plot and correlation test of smearing vs. quality score 
