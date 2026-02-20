@@ -1,4 +1,4 @@
-*based off of NEB's Hot Start _Taq_ DNA Polymerase (M0495) https://www.neb.com/en-us/protocols/2012/10/04/pcr-using-hot-start-taq-dna-polymerase-m0495
+   *based off of NEB's Hot Start _Taq_ DNA Polymerase (M0495) https://www.neb.com/en-us/protocols/2012/10/04/pcr-using-hot-start-taq-dna-polymerase-m0495
 ## I. PCR
 ### PCR Preparation 
 - thaw reagents & samples 
@@ -22,10 +22,10 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 7. run thermocycler program: *40 cycles takes 2 hours and 26 minutes*
     1. 95°C for 30 seconds
     2. 95°C for 30 seconds
-    3. 45-68°C for 1 minute
-    4. 68°C for 1 minute _repeat 2-4 for 40 cycles (# of cycles varies depending on input)
+    3. 45-68°C for 1 minute *(53.6°C optimal for clade D/B primers)*
+    4. 68°C for 1.5 minute _repeat 2-4 for 35 cycles (# of cycles varies depending on input)
     5. 68°C for 5 minutes
-    6. 6°C for Forever
+    6. 8°C for Forever
 
 # **ALL POST-PCR DONE IN OTHER ROOM (aka the rest of this protocol)**
 
