@@ -1,0 +1,184 @@
+**sample 1:** 072024_PAN_BDT_T2_666_OFAV (12.6 ng/μL)
+**sample 2:** 072024_PAN_BDT_T2_662_OANN (75.4 ng/μL)
+**sample 3:** 072024_PAN_BDT_T4_823_ORBI (15.2 ng/μL)
+**sample 4:** 072024_PAN_BDT_T3_707_ORBI (10.9 ng/μL)
+**sample 5:** 072024_PAN_BDT_T1_739_ORBI (4.10 ng/μL)
+**sample 6:** Negative Control 
+## III. Purification with ampure beads
+https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
+### Purification Preparation
+- obtain, label, and cross-link new strip tubes start with the manufacturer protocol using 1.8X-1.0X DNA to bead ratio and 10uL-25uL PCR product 
+- ratio of beads will change the size you select for 
+	*may need to re-clean samples if gel images show that multiple bands were not removed*
+	- *1.0x will get rid of <200 bp dimers, 1.8X will get rid of dimer <100 bp* 
+- all calculations can be done here: [https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=1947158502#gid=1947158502](https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=1947158502#gid=1947158502) 
+
+### Purification 
+1. make fresh 80% ethanol in a 50mL tube (label and parafilm when not in use)
+    - paste filled out table here
+
+| Number of Samples | 80% EtOH for each sample (uL) | Total 80% EtoH needed (uL) | Volume 100% EtOH (uL) | Volume H2O (uL) |
+| ----------------- | ----------------------------- | -------------------------- | --------------------- | --------------- |
+|                   | 360                           |                            |                       |                 |
+|                   |                               |                            | in mL                 |                 |
+|                   |                               |                            |                       |                 |
+
+2. Determine whether or not a plate transfer is necessary. If the PCR reaction volume multiplied by 2.8 exceeds the volume of the PCR plate, a transfer to larger tubes is required.
+3. Gently shake the Clean NGS Mag PCR Clean-up aliquot to resuspend any Magnetic particles that may have settled.
+    1. Add CleanNGS Mag PCR Clean-up volume table below:
+
+|Bead Concentration|PCR volume (uL)|Added beads volume (uL)|Total # Samples|Total Bead Volume (uL)|
+|---|---|---|---|---|
+|||0|96|0|
+
+**Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
+_(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)_
+
+3. Mix reagent and PCR reaction thoroughly by pipette mixing 5 times.
+4. Incubate the mixed samples for 5 minutes at room temperature for maximum recovery. 
+	*This step allows the binding of PCR products 125bp (based on concentration) and greater to the Magnetic beads. After mixing, the color of the mixture should appear homogenous.*
+5. Place the reaction plate onto a 96 well Magnet Plate for 3 minutes or wait until the solution is clear.
+	*Wait until the solution is clear before proceeding to the next washing step. Otherwise there may be beads loss.*
+6. Aspirate the cleared solution from the reaction plate and discard
+	*This step must be performed while the reaction plate is placed on the 96 magnetic plate. Avoid disturbing the settled magnetic beads. If beads are drawn into tips, leave behind a few microliters of solution.*
+7. Dispense **180 uL of 80% ethanol** to each well of the reaction plate and incubate for **1 min** at room temperature. 
+8. Aspirate out the ethanol and discard. Repeat for a total of two washes. 
+	*It is important to perform these steps with the reaction plate on a 96 well Magnetic Plate. Do not disturb the settled Magnetic beads.*
+    1. Remove all of the ethanol from the bottom of the well to avoid ethanol carryover. 
+	    *Bump pipette tip up to 200 uL, may need to use p20 multichannel*
+    2. **NOTE:** *A 5 min air dry at room temperature is recommended for the evaporation of the remaining traces of ethanol.* **Do not overdry the beads** *(the layer of settled beads appears cracked) as this will significantly decrease elution efficiency.*
+9. Take off the plate from the Magnetic plate, add same volume or less than starting sample uL of elution buffer (Reagent grade water, TRIS-HCl pH 8.0, or TE buffer) to each well of the reaction plate and pipette mix 5 times.
+    *mix until homogeneous and there are no beads on tube wall*
+10. Incubate at room temperature for 10 minutes.
+11. Place the plate on a magnetic separation device to magnetize the CleanNGS particles. 
+12. Incubate at room temperature until the CleanNGS particles are completely cleared from solution.
+13. Transfer the cleared supernatant containing purified DNA and/or RNA to a new (RNase-free) 96-well microplate and seal with non-permeable sealing film.
+14. Store the plate at 2-8°C if storage is only for a few days. For long-term storage, samples should be kept at -20°C.
+
+### Gel Electrophoresis
+1. Refer to steps II 
+2. Run a small gel to confirm bead size selection worked
+
+### Sequencing Prep
+1. Assess need for Gel Extraction
+    1. If need gel extraction refer to [[Qiagen Gel Extraction]]
+    2. If no need, skip to step 2
+2. Qubit each indexed sample
+3. Pool all indexed samples according to final concentration
+4. Calculate Molarity by plugging in concentrations, volume [https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=1110196762#gid=1110196762](https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=1110196762#gid=1110196762)
+5. Fill out necessary sequencing paperwork
+
+# 2/24/2026 Sending out Sequences 
+## Preparing Sequences for Sequencing 
+need to create primer stock for sequencing that is 5 uL at 25 pmol. 
+1 pmol/uL = 1 uM
+	ex. 1 uM = 1 umol/L = 1 nmol/ml = 1 pmol/ul
+
+so if I want 5 uL at 25 pmol then I want 5 pmol/ul = 5 uM
+
+C1V1 = C2V2 
+V1 = (C2V2)/C1 
+V1 = (5uM x 5 uL)/10uM
+V1 = 2.5 uL 
+
+Need 2.5 uL of 10uM primer stock per sequence
+*and need to add 2.5 uL of water to sample to make it total to 5 uL* 
+### Bar code: AT03901538
+**Sample 1:** 92022_PAN_BDT_T1_2_CNAT_psbA_F
+	Concentration: 74.5 ng/μL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		 uL DNA: 
+		uL water + 2.5 from primer dilution = 12.2 uL water 
+		uL primer from 10 uM stock
+		USED FORWARD PRIMER 
+
+### Bar code: AT03901537
+**Sample 1:** 92022_PAN_BDT_T1_2_CNAT_psbA_R
+	Concentration: 74.5 ng/μL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		uL DNA
+		uL water + 2.5 from primer dilution = 12.2 uL water 
+		2.5 uL primer from 10 uM stock
+		USED REVERSE PRIMER 
+
+### Bar code: AT03901536
+**Sample 2:** 92022_PAN_BDT_T1_3_CNAT_psbA_F
+	Concentration: 38.6 ng/μL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		uL DNA: 
+		uL water + 2.5 from primer dilution = 11.98 uL water 
+		2.5 uL primer from 10 uM stock
+		USED FORWARD PRIMER 
+
+### Bar code: AT03901535
+**Sample 2:** 92022_PAN_BDT_T1_3_CNAT_psbA_R
+	Concentration: 38. 6 ng/μL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		uL DNA
+		uL water + 2.5 from primer dilution = 11.98 uL water 
+		2.5 uL primer from 10 uM stock
+		USED REVERSE PRIMER 
+
+### Bar code: AT03901534
+**Sample 3:** 92022_PAN_BDT_T2_48_CNAT_psbA_F
+	Concentration: 63.6 ng/μL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		uL DNA: 
+		uL water + 2.5 from primer dilution = 12.20 uL water 
+		2.5 uL primer from 10 uM stock
+		USED FORWARD PRIMER 
+
+### Bar code: AT03901533
+**Sample 3:** 92022_PAN_BDT_T2_48_CNAT_psbA_R
+	Concentration: 63.6 ng/μL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		uL DNA
+		uL water + 2.5 from primer dilution = 12.20 uL water 
+		2.5 uL primer from 10 uM stock
+		USED REVERSE PRIMER 
+
+### Bar code: AT03901532
+**Sample 4:** 102023_PAN_BDT_T3_308_CNAT_psbA_F
+	Concentration: 70.7 ng/μL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		uL DNA: 
+		uL water + 2.5 from primer dilution = 12.22 uL water 
+		2.5 uL primer from 10 uM stock
+		USED FORWARD PRIMER 
+
+### Bar code: AT03901531
+**Sample 4:** 102023_PAN_BDT_T3_308_CNAT_psbA_R
+	Concentration: 70.7 ng/μL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		uL DNA
+		uL water + 2.5 from primer dilution = 12.22 uL water 
+		2.5 uL primer from 10 uM stock
+		USED REVERSE PRIMER 
+
+### Bar code: AT03901530
+**Sample 5:** 102023_PAN_BDT_T3_310_CNAT_psbA_F
+	Concentration: 72.5 ng/μL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		 uL DNA: 
+		 uL water + 2.5 from primer dilution = 12.22 uL water 
+		2.5 uL primer from 10 uM stock
+		USED FORWARD PRIMER 
+
+### Bar code: AT03901529
+**Sample 5:** 102023_PAN_BDT_T3_310_CNAT_psbA_R
+	Concentration: 72.5 ng/μL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		uL DNA
+		uL water + 2.5 from primer dilution = 12.22 uL water 
+		2.5 uL primer from 10 uM stock
+		USED REVERSE PRIMER 
