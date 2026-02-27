@@ -1,3 +1,15 @@
+
+# 2/27/2026 w/ Sarah & Caroline 
+## Smearing vs. Quality Score 
+- Both graphs looked like no relationship HOWEVER the correlation test showed a different story: 
+PCR smear: 
+- 
+
+
+
+
+
+
 # 2/13/2026 w/ Sarah & Caroline 
 ## Next Steps 
 - create a sample tracker datasheet by using code to combine sample 

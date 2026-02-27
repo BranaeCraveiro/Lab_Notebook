@@ -11,10 +11,14 @@
             "id": "afa54547d20484e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Meeting Notes/2026 Spring.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026 Spring"
             }
           }
         ]
@@ -174,6 +178,8 @@
   },
   "active": "afa54547d20484e9",
   "lastOpenFiles": [
+    "Notes/Meeting Notes/2026 Fall.md",
+    "Notes/Meeting Notes/2025 Summer.md",
     "Protocols/psbA.md",
     "PAN_BDT/psbA/ORBI/2026-02-26 PCR retry.md",
     "Feb26_2026_Gel.png",
@@ -200,7 +206,6 @@
     "PAN_BDT/DNA Extractions/CNAT/2025-05-23 Test Run of Bleached & Pale Samples.md",
     "PAN_BDT/DNA Extractions/CNAT/2025-06-17.md",
     "PAN_BDT/DNA Extractions/CNAT/2025-06-04.md",
-    "Notes/Meeting Notes/2026 Spring.md",
     "PAN_BDT/psbA/ORBI",
     "PAN_BDT/DNA Extractions/ORBI",
     "Untitled.base",
