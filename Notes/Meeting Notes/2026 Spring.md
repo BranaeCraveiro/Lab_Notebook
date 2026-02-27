@@ -2,13 +2,10 @@
 # 2/27/2026 w/ Sarah & Caroline 
 ## Smearing vs. Quality Score 
 - Both graphs looked like no relationship HOWEVER the correlation test showed a different story: 
-PCR smear: 
-- 
+PCR smear:  weak correlation not significant 
+Cleaned smear: moderate correlation is significant 
 
-
-
-
-
+- wdhof is sending the check ot my house??? welp 
 
 # 2/13/2026 w/ Sarah & Caroline 
 ## Next Steps 
