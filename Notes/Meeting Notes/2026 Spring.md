@@ -1,16 +1,10 @@
 
-
-- dna extraction!!!!!!
-- dilute sample 2 
-- try temp gradient w/ sample 2 
-
+# 3/6/2026 w/ Caroline 
+## to do: 
+monday: dna extraction!!!!!!
+dilute sample 2 
+try temp gradient w/ sample 2 
 How long should I struggle with ORBI before I switch to trying another species 
-	- 
-
-
-
-
-
 # 2/27/2026 w/ Sarah & Caroline 
 ## Smearing vs. Quality Score 
 - Both graphs looked like no relationship HOWEVER the correlation test showed a different story: 
