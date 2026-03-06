@@ -1,4 +1,16 @@
 
+
+- dna extraction!!!!!!
+- dilute sample 2 
+- try temp gradient w/ sample 2 
+
+How long should I struggle with ORBI before I switch to trying another species 
+	- 
+
+
+
+
+
 # 2/27/2026 w/ Sarah & Caroline 
 ## Smearing vs. Quality Score 
 - Both graphs looked like no relationship HOWEVER the correlation test showed a different story: 
@@ -68,7 +80,7 @@ looking at both % unhealthy and which corals are in all 4 transects leaves us wi
 | SSID    |   111 |          27 |      84 |              24.3 |
 | MCAV    |   118 |          22 |      96 |              18.6 |
 | ORBI    |   100 |           9 |      91 |               9.0 |
-|         |       |             |         |                   |
+
 
 ### My findigs based on papers
 
