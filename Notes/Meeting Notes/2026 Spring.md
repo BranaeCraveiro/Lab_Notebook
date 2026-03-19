@@ -1,3 +1,11 @@
+# 3/20/2026 w/ Sarah & Caroline 
+## what I have done 
+- DNA extraction on Monday 
+- Updated and submitted poster for symposium 
+- KCS Scholars application 
+## Plan 
+- dilute sample 2 from [2026-02-20](../../PAN_BDT/psbA/ORBI/2026-02-20.md) and try a temperature gradient? 
+
 
 # 3/6/2026 w/ Caroline 
 ## to do: 
