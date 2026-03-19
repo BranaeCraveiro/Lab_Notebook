@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protocols/DNA Extraction.md",
+                "file": "Notes/Meeting Notes/2026 Fall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNA Extraction"
+              "title": "2026 Fall"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "2026-03-16"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,38 +191,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d5f184044efd399",
+  "active": "afa54547d20484e9",
   "lastOpenFiles": [
-    "PAN_BDT/DNA Extractions/ORBI/2026-03-16.md",
+    "Notes/Meeting Notes/2026 Fall.md",
+    "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
+    "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
+    "PAN_BDT/psbA/CNAT/2025-09-02 Troubleshooting.md",
+    "PAN_BDT/psbA/CNAT/2025-08-01 troubleshooting.md",
+    "PAN_BDT/psbA/CNAT/2025-07-24 Annealing Gradient.md",
+    "PAN_BDT/psbA/CNAT/2025-07-30 troubleshooting.md",
+    "PAN_BDT/psbA/CNAT/2025-10-16 Bead Purification.md",
+    "PAN_BDT/psbA/CNAT/2025-11-05 bead clean up.md",
+    "PAN_BDT/DNA Extractions/CNAT/2025-07-16  CLB.md",
+    "PAN_BDT/DNA Extractions/CNAT/2025-05-23 Test Run of Bleached & Pale Samples.md",
+    "Labwork Practice/Practice Gel Images/April7_2025_Gel.png",
+    "Labwork Practice/Practice Gel Images/April14_2025 Gels.png",
+    "Labwork Practice/Practice Gel Images/April28_2025_Gel 1.png",
+    "Labwork Practice/062019 & 052022 DNA concentrations.md",
+    "Labwork Practice/PCR index Gel Electrophoresis.md",
+    "Labwork Practice/Practice DNA Extractions.md",
+    "PAN_BDT/psbA/CNAT/2026-01-13.md",
+    "PAN_BDT/psbA/CNAT/2026-01-14.md",
+    "PAN_BDT/psbA/CNAT/2026-01-15.md",
+    "PAN_BDT/psbA/CNAT/2026-01-16.md",
+    "PAN_BDT/psbA/CNAT/2026-01-21 bead cleanup.md",
+    "PAN_BDT/psbA/CNAT/2026-01-22 bead cleanup (retry).md",
+    "PAN_BDT/psbA/CNAT/2025-07-21 annealing gradient.md",
+    "Protocols/psbA.md",
     "Protocols/DNA Extraction.md",
+    "PAN_BDT/DNA Extractions/ORBI/2026-03-16.md",
     "Protocols/Qubit.md",
     "PAN_BDT/DNA Extractions/ORBI/2026-02-18.md",
-    "PAN_BDT/psbA/ORBI/2026-03-03 PCR retry 2.md",
-    "PAN_BDT/psbA/ORBI/2026-03-16 Bead Clean Up.md",
-    "PAN_BDT/psbA/ORBI/2026-02-26 PCR retry.md",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/Feb26_2026_Gel 1.png",
-    "PAN_BDT/psbA/ORBI/2026-02-20.md",
-    "Notes/Meeting Notes/2026 Spring.md",
-    "PAN_BDT/psbA/CNAT/2025-07-21 annealing gradient.md",
-    "Notes/Meeting Notes/2025 Summer.md",
-    "Protocols/psbA.md",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images",
-    "Untitled.md",
-    "Notes/Meeting Notes/2026 Fall.md",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/Feb26_2026_Gel.png",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/Feb24_2026_Gel.png",
-    "PAN_BDT/psbA/CNAT/2026-01-15.md",
-    "PAN_BDT/psbA/CNAT/2026-01-14.md",
-    "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
-    "PAN_BDT/psbA/CNAT/2026-01-22 bead cleanup (retry).md",
-    "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
-    "PAN_BDT/psbA/CNAT/2026-01-21 bead cleanup.md",
-    "PAN_BDT/psbA/CNAT/2026-01-16.md",
-    "PAN_BDT/psbA/CNAT/2025-09-02 Troubleshooting.md",
-    "PAN_BDT/psbA/CNAT/2025-07-23 troubleshooting.md",
-    "PAN_BDT/psbA/CNAT/2025-11-05 bead clean up.md",
-    "PAN_BDT/psbA/CNAT/2026-01-13.md",
-    "PAN_BDT/psbA/CNAT/2025-10-16 Bead Purification.md",
     "PAN_BDT/psbA/ORBI",
     "PAN_BDT/DNA Extractions/ORBI",
     "Untitled.base",
@@ -231,9 +235,6 @@
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Feb2_2026_Gel.png",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Jan28_2026_Gel.png",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Jan22_2026_Gel.png",
-    "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Jan21_2026_Gel.png",
-    "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Jan16_2025_Gel.png",
-    "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/July21_2025_Gel.png",
     "PAN_BDT/psbA/CNAT",
     "AT03901554_11.11.2025_T3_38_1500bp_F.ab1",
     "AT03901553_11.11.2025_T3_38_1500bp_R.ab1",
