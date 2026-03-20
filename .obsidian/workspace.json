@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Meeting Notes/2026 Spring.md",
+                "file": "PAN_BDT/psbA/ORBI/2026-03-03 PCR retry 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026 Spring"
+              "title": "2026-03-03 PCR retry 2"
             }
           }
         ]
@@ -176,14 +176,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1dbdc59540301289",
+  "active": "0df337e28875a6d7",
   "lastOpenFiles": [
+    "2026-03-16 Bead Clean Up.md",
+    "PAN_BDT/psbA/ORBI/2026-03-03 PCR retry 2.md",
+    "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/March3_2026_Gel.png",
+    "Notes/Meeting Notes/2026 Spring.md",
     "Notes/Meeting Notes/2026 Fall.md",
     "Notes/Meeting Notes/2025 Summer.md",
     "PAN_BDT/psbA/ORBI/2026-02-26 PCR retry.md",
-    "Notes/Meeting Notes/2026 Spring.md",
     "PAN_BDT/psbA/ORBI/2026-02-20.md",
-    "PAN_BDT/psbA/ORBI/2026-03-03 PCR retry 2.md",
     "PAN_BDT/DNA Extractions/ORBI/2026-03-16.md",
     "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
     "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
@@ -205,8 +207,6 @@
     "PAN_BDT/psbA/CNAT/2026-01-14.md",
     "PAN_BDT/psbA/CNAT/2026-01-15.md",
     "PAN_BDT/psbA/CNAT/2026-01-16.md",
-    "PAN_BDT/psbA/CNAT/2026-01-21 bead cleanup.md",
-    "PAN_BDT/psbA/CNAT/2026-01-22 bead cleanup (retry).md",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/Feb26_2026_Gel 1.png",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/Feb26_2026_Gel.png",
@@ -219,7 +219,6 @@
     "Untitled.canvas",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Feb2_2026_Gel.png",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Jan28_2026_Gel.png",
-    "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/Jan22_2026_Gel.png",
     "PAN_BDT/psbA/CNAT",
     "AT03901554_11.11.2025_T3_38_1500bp_F.ab1",
     "AT03901553_11.11.2025_T3_38_1500bp_R.ab1",
