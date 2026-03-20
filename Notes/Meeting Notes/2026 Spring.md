@@ -4,9 +4,9 @@
 - Updated and submitted poster for symposium 
 - KCS Scholars application 
 ## Plan 
-- dilute sample 2 from [2026-02-20](../../PAN_BDT/psbA/ORBI/2026-02-20.md) and try a temperature gradient? 
 
-
+1:10 dilution 
+short spin before bead cleanup 
 # 3/6/2026 w/ Caroline 
 ## to do: 
 monday: dna extraction!!!!!!
