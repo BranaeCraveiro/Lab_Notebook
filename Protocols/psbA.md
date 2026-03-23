@@ -10,16 +10,18 @@ https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N
 
 1. Add Buffer, dNTP, and Primers vortex to eppendorf tube. Vortex Briefly 
 *(DO NOT vortex polymerase or albumin)*
-2. Add polymerase and albumin. 
-*albumin is viscous so pipet slowly*
-3. Add water, pipette up and down to mix.
+2. Add water, pipette up and down to mix.
 *Be careful not to make bubbles*
-4. Pipette 24µL of master mix into each replicate tube
+3. Add polymerase and albumin. 
+*albumin is viscous so pipet slowly*
+4. pipette mixture up and down to mix
+*Be careful not to make bubbles*
+5. Pipette 24µL of master mix into each replicate tube
 *mix master mix by pipetting up and down before filling each tube*
-5. Pipette 1µL of DNA into each replicate tube
+6. Pipette 1µL of DNA into each replicate tube
 *use new pipette tip for each replicate*
-6. briefly centrifuge pcr tubes before thermal cycler
-7. run thermocycler program: *35 cycles takes ~ 2 hours 21 minutes* 
+7. briefly centrifuge pcr tubes before thermal cycler
+8. run thermocycler program: *35 cycles takes ~ 2 hours 21 minutes* 
     1. 95°C for 30 seconds
     2. 95°C for 30 seconds
     3. 45-68°C for 1 minute *(53.6°C optimal for clade D/B primers)*
