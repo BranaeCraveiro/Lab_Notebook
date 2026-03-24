@@ -1,6 +1,9 @@
 
 
-what if I did psbA on some of carolines samples since we have the ITS2 profiles for them to confirm that my primers are working? 
+Hi! PCR help: I have been playing around with the DNA load and conc. of my samples to try to get more consistant PCR results, 1) should I try cleaning and sequencing the(top bands in 2, 3, 5 to see what I am amplifying when it does work and 2) any suggestions on what else to try to change to get more consistent results?  
+
+Also ignore that I overran the gel and the bottom row of samples, Caroline and I ran a gel together so those are her samples on the bottom 
+
 
 
 
