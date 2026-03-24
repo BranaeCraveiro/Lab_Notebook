@@ -8,7 +8,8 @@
 **sample 6:** Negative Control 
 
 ## 3/23/2026 Gel Image 
-
+*note: bottom wells are Caroline's samples- we ran gel together* 
+![](ORBI%20psbA%20Gel%20Images/2026_03_23_Gel.png)
   
 ## PCR Preparation
 ### Create master mix for each sample
