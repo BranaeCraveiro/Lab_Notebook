@@ -1,3 +1,10 @@
+
+
+what if I did psbA on some of carolines samples since we have the ITS2 profiles for them to confirm that my primers are working? 
+
+
+
+
 # 3/20/2026 w/ Sarah & Caroline 
 ## what I have done 
 - DNA extraction on Monday 
