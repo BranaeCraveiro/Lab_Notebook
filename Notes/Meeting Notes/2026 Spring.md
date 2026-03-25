@@ -1,9 +1,5 @@
 
 
-Hi! PCR help: I have been playing around with the DNA load and conc. of my samples to try to get more consistant pcr results, 1) should I try cleaning and sequencing the top bands in 2, 3, 5 to see what I am amplifying when the pcr does work and 2) any suggestions on what else to try to change to get more consistent results?  
-
-Also ignore that I overran the gel and the bottom row of samples, Caroline and I ran a gel together so those are her samples on the bottom 
-
 
 
 
@@ -98,7 +94,7 @@ looking at both % unhealthy and which corals are in all 4 transects leaves us wi
 | MCAV    | Clade C   | Cunning et al. 2024 | Virgin Islands              | Clade C   | Eckert et al. 2020     | Belize                         | Clade C   | Sturm et al. 2020   | Cuba                                                       |
 | SSID    | Clade C   | Cunning et al. 2024 | Virgin Islands              | Clade C   | Locatelli & Baums 2025 | Curaçao                        | Clade C   | Davies et al. 2018  | Belize                                                     |
 | ORBI    | Clade C   | Cunning et al. 2024 | Virgin Islands; ORBI & OFAV | Clade B   | Kemp et al. 2015; OFAV | Belize; multisample majority B | Clade B/C | Kennedy et al. 2016 | OANN; Clade B in BEL but closer to PAN appearign 50/50 B/C |
-| PSTR    | Clade B   | Cunnign et al. 2024 | Virgin Islands              | Clade B   | Lewis et al. 2018      | all over Caribbean             |           |                     |                                                            |
+| PSTR    | Clade B   | Cunning et al. 2024 | Virgin Islands              | Clade B   | Lewis et al. 2018      | all over Caribbean             |           |                     |                                                            |
 note: having a hard time finding another PSTR paper 
 # 2/6/2026 w/ Sarah & Caroline 
 ## Next Steps 
