@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAN_BDT/psbA/ORBI/2026-02-20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-20"
-            }
-          },
-          {
-            "id": "94310273bb9b1aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "PAN_BDT/psbA/ORBI/2026-03-23 PCR (diluted samples).md",
                 "mode": "source",
                 "source": false
@@ -36,7 +22,7 @@
             }
           },
           {
-            "id": "f6ba8f9e2133d1e8",
+            "id": "94310273bb9b1aa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,9 +34,22 @@
               "icon": "lucide-file",
               "title": "2026 Spring"
             }
+          },
+          {
+            "id": "f6ba8f9e2133d1e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PAN_BDT/psbA/ORBI/2026-02-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-20"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,15 +204,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6ba8f9e2133d1e8",
+  "active": "1dbdc59540301289",
   "lastOpenFiles": [
-    "Notes/Meeting Notes/2026 Fall.md",
+    "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
+    "PAN_BDT/psbA/CNAT/2026-01-16.md",
+    "PAN_BDT/psbA/CNAT/2026-01-21 bead cleanup.md",
+    "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
+    "PAN_BDT/psbA/ORBI/2026-03-23 PCR (diluted samples).md",
+    "PAN_BDT/psbA/ORBI/2026-02-20.md",
     "Notes/Meeting Notes/2026 Spring.md",
+    "Notes/Meeting Notes/2026 Fall.md",
+    "PAN_BDT/psbA/ORBI/2026-03-03 PCR retry 2.md",
     "Protocols/psbA.md",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/2026_03_23_Gel.png",
     "2026-03-16 Bead Clean Up.md",
-    "PAN_BDT/psbA/ORBI/2026-03-23 PCR (diluted samples).md",
-    "PAN_BDT/psbA/ORBI/2026-03-03 PCR retry 2.md",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/2026_03_03_Gel.png",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/2025_09_05_Gel.png",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/2025_09_03_Gel.png",
@@ -225,10 +229,7 @@
     "PAN_BDT/psbA/CNAT/2025-07-21 annealing gradient.md",
     "PAN_BDT/DNA Extractions/ORBI/2026-03-16.md",
     "PAN_BDT/psbA/ORBI/2026-02-26 PCR retry.md",
-    "PAN_BDT/psbA/ORBI/2026-02-20.md",
     "Notes/Meeting Notes/2025 Summer.md",
-    "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
-    "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
     "PAN_BDT/psbA/CNAT/2025-09-02 Troubleshooting.md",
     "PAN_BDT/psbA/CNAT/2025-08-01 troubleshooting.md",
     "PAN_BDT/psbA/CNAT/2025-07-24 Annealing Gradient.md",
@@ -240,7 +241,6 @@
     "Labwork Practice/062019 & 052022 DNA concentrations.md",
     "Labwork Practice/PCR index Gel Electrophoresis.md",
     "Labwork Practice/Practice DNA Extractions.md",
-    "PAN_BDT/psbA/CNAT/2026-01-13.md",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images",
     "PAN_BDT/psbA/ORBI",
     "PAN_BDT/DNA Extractions/ORBI",
