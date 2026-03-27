@@ -11,10 +11,14 @@
             "id": "f1b9d61ce586f56e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Meeting Notes/2026 Spring.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026 Spring"
             }
           }
         ]

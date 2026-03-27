@@ -1,4 +1,6 @@
-
+- wdhof check 
+- what samples should i extract for caroline to do 16s on 
+- 
 
 
 
