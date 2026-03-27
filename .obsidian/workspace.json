@@ -4,49 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8845cba980460536",
+        "id": "a57dce61910e1cab",
         "type": "tabs",
         "children": [
           {
-            "id": "1dbdc59540301289",
+            "id": "f1b9d61ce586f56e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Meeting Notes/2026 Spring.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026 Spring"
-            }
-          },
-          {
-            "id": "94310273bb9b1aa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Meeting Notes/2026 Spring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026 Spring"
-            }
-          },
-          {
-            "id": "f6ba8f9e2133d1e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAN_BDT/psbA/ORBI/2026-02-20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-20"
+              "title": "New tab"
             }
           }
         ]
@@ -204,7 +172,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1dbdc59540301289",
+  "active": "f1b9d61ce586f56e",
   "lastOpenFiles": [
     "PAN_BDT/psbA/ORBI/2026-02-20.md",
     "Notes/Meeting Notes/2026 Spring.md",
