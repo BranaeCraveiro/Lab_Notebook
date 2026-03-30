@@ -1,9 +1,18 @@
-- wdhof check 
-- what samples should i extract for caroline to do 16s on 
-- 
+
+19 
+
+sequencing 
 
 
 
+
+
+same coral across three time points 
+
+
+# 3/27/2026 w/ Sarah 
+focus on getting as many sequences done before April 7th 
+- create extraction
 
 
 # 3/20/2026 w/ Sarah & Caroline 
