@@ -4,21 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "a57dce61910e1cab",
+        "id": "87bf01f15c592943",
+        "type": "split",
+        "children": [
+          {
+            "id": "11c713897816906a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "80693a6a077f3e5d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Double Size Selection.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Double Size Selection"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a57dce61910e1cab",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f1b9d61ce586f56e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PAN_BDT/psbA/ORBI/2026-03-23 PCR (diluted samples).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-03-23 PCR (diluted samples)"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "bfd2e88c9f3da9cc",
         "type": "tabs",
         "children": [
           {
-            "id": "f1b9d61ce586f56e",
+            "id": "99fb7ff2a4fa8617",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAN_BDT/psbA/CNAT/2025-09-02 Troubleshooting.md",
+                "file": "PAN_BDT/psbA/ORBI/2026-02-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-02 Troubleshooting"
+              "title": "2026-02-24"
             }
           }
         ]
@@ -176,12 +223,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1b9d61ce586f56e",
+  "active": "80693a6a077f3e5d",
   "lastOpenFiles": [
-    "PAN_BDT/psbA/CNAT/2025-10-16 Bead Purification.md",
+    "Protocols/psbA.md",
+    "Double Size Selection.md",
+    "PAN_BDT/psbA/ORBI/2026-02-24.md",
     "PAN_BDT/psbA/ORBI/2026-03-23 PCR (diluted samples).md",
+    "Pasted image 20260403115742.png",
+    "Protocols/Qubit.md",
+    "Protocols/DNA Extraction.md",
+    "PAN_BDT/psbA/CNAT/2025-07-23 troubleshooting.md",
+    "PAN_BDT/psbA/CNAT/2025-07-24 Annealing Gradient.md",
+    "PAN_BDT/psbA/CNAT/2025-07-21 annealing gradient.md",
     "PAN_BDT/psbA/ORBI/2026-02-26 PCR retry.md",
     "PAN_BDT/psbA/ORBI/2026-03-03 PCR retry 2.md",
+    "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/2026_02_24_Gel 1.png",
+    "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
+    "2026_02_26_Gel.png",
+    "PAN_BDT/psbA/CNAT/2025-09-02 Troubleshooting.md",
+    "PAN_BDT/psbA/CNAT/2025-10-16 Bead Purification.md",
     "PAN_BDT/psbA/CNAT/2026-01-14.md",
     "PAN_BDT/psbA/CNAT/2026-01-13.md",
     "PAN_BDT/psbA/CNAT/2026-01-21 bead cleanup.md",
@@ -190,9 +250,7 @@
     "Notes/Meeting Notes/2026 Spring.md",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/2026-02-20.md",
     "Notes/Meeting Notes/2026 Fall.md",
-    "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
     "PAN_BDT/psbA/CNAT/2026-01-28 bead clean up.md",
-    "Protocols/psbA.md",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/2026_03_23_Gel.png",
     "2026-03-16 Bead Clean Up.md",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/2026_03_03_Gel.png",
@@ -200,19 +258,8 @@
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/2025_09_03_Gel.png",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/2025_10_16_Gel.png",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/2025_10_08_Gel_2.png",
-    "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/2025_10_08_Gel_1.png",
-    "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/2025_10_08_Frozen_Gel.jpg",
-    "PAN_BDT/psbA/CNAT/2025-07-21 annealing gradient.md",
     "PAN_BDT/DNA Extractions/ORBI/2026-03-16.md",
     "Notes/Meeting Notes/2025 Summer.md",
-    "PAN_BDT/psbA/CNAT/2025-09-02 Troubleshooting.md",
-    "PAN_BDT/psbA/CNAT/2025-08-01 troubleshooting.md",
-    "PAN_BDT/psbA/CNAT/2025-07-24 Annealing Gradient.md",
-    "PAN_BDT/psbA/CNAT/2025-07-30 troubleshooting.md",
-    "PAN_BDT/psbA/CNAT/2025-11-05 bead clean up.md",
-    "PAN_BDT/DNA Extractions/CNAT/2025-07-16  CLB.md",
-    "PAN_BDT/DNA Extractions/CNAT/2025-05-23 Test Run of Bleached & Pale Samples.md",
-    "Labwork Practice/062019 & 052022 DNA concentrations.md",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images",
     "PAN_BDT/psbA/ORBI",
     "PAN_BDT/DNA Extractions/ORBI",
