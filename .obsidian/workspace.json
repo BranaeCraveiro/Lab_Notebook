@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PAN_BDT/psbA/ORBI/2026-03-23 PCR (diluted samples).md",
+                "file": "Notes/Meeting Notes/2026 Spring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-23 PCR (diluted samples)"
+              "title": "2026 Spring"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Double Size Selection"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0eb01f454aeec1c",
+  "active": "7f37bb11c1475b9e",
   "lastOpenFiles": [
     "PAN_BDT/psbA/ORBI/2026-03-23 PCR (diluted samples).md",
     "Double Size Selection.md",

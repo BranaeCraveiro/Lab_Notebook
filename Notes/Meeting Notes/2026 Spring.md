@@ -1,19 +1,17 @@
+# Goldwater Survey Info 
+Are you considering applying for the Gulf Coast Undergraduate Research Symposium (GCURS)? This in-person symposium at Rice University features the largest gathering of Goldwater Scholars in the Nation. The dates of the GCURS conference are October 16-18, 2026. Additional information can be found at https://gcurs.rice.edu/get-updates.
 
-19 
+Under Webinar Archives on the Goldwater Foundation's website (https://goldwaterscholarship.gov/webinar-2018-2020/) and on the Goldwater Scholar Community web page (https://goldwatercommunity.org/), there are webinars on a variety of topics: navigating the graduate school application and decision process, domestic and international graduate school awards, career and research opportunities, joining the Goldwater Scholar Community, and more. Were you aware of these resources? _(If you were not aware of these resources, please be certain to check them out!)_
 
-sequencing 
-
-
-
-
-
-same coral across three time points 
-
-
+# 4/4/2026 w Sarah
+- focus on extractions 
+- 19 samples from each species; focus on species with health status progressions (same coral across three timepoints)
+- also think about doing a bead cleanup and sequencing bands from ORBI PCR 
+	- note: I think my bead cleanup ratios were off and will have to reclean samples 
+- Caroline might be able to help with extractions
 # 3/27/2026 w/ Sarah 
 focus on getting as many sequences done before April 7th 
 - create extraction
-
 
 # 3/20/2026 w/ Sarah & Caroline 
 ## what I have done 
