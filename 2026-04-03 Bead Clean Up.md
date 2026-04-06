@@ -4,6 +4,16 @@
 **sample 4:** 072024_PAN_BDT_T3_707_ORBI (10.9 ng/μL)
 **sample 5:** 072024_PAN_BDT_T1_739_ORBI (4.10 ng/μL)
 **sample 6:** Negative Control 
+
+
+
+
+
+
+
+
+
+
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
 ### Purification Preparation
