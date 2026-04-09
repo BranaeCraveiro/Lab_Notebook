@@ -1,3 +1,36 @@
+
+Sorry I am a mess this week but again I feel like I am always a mess but I am extra behind this week
+- in goldwater essay I wrote that I am gonan do CNAT PSTR SSID MCAV and not ORBI 
+- now I am like shit was I suppose to be doing orbi this whole time 
+- pulled up old code and am realizing that ORBI percent unhealthy is not that much higher than past, and we noted that I should not do past since they are TOO healthy 
+
+| Species | total | non_healthy | healthy | percent_unhealthy |
+| :------ | ----: | ----------: | ------: | ----------------: |
+| CNAT    |    71 |          35 |      36 |              49.3 |
+| PSTR    |    51 |          25 |      26 |              49.0 |
+| SSID    |    63 |          26 |      37 |              41.3 |
+| MCAV    |    67 |          21 |      46 |              31.3 |
+| ORBI    |    57 |          10 |      47 |              17.5 |
+| PAST    |    39 |           5 |      34 |              12.8 |
+| MMEA    |    24 |           1 |      23 |               4.2 |
+Should I be doing ORBI, I guess I already started doing them so just continue? 
+
+I have been so focused on the DNA extractions because I feel so bad about Caroline waiting. I will sequence ORBI bands the second I am done the extractions.
+
+was also thinking of getting the clade C primer so when the DNA extractions are done I can do the psbA for the new subset of samples and see if the yields better results 
+
+dr lee talked about trying a PCR with carolines reagents and seeing if I am bad at PCRs in general; was thinking maybe I do the first step of ITS2 for my samples to test this? Caroline can them quickly do the indexing stuff since that is more complicated and I do not want to hold her back anymore 
+
+
+
+
+
+
+
+
+
+
+
 # Goldwater Survey Info 
 Are you considering applying for the Gulf Coast Undergraduate Research Symposium (GCURS)? This in-person symposium at Rice University features the largest gathering of Goldwater Scholars in the Nation. The dates of the GCURS conference are October 16-18, 2026. Additional information can be found at https://gcurs.rice.edu/get-updates.
 
