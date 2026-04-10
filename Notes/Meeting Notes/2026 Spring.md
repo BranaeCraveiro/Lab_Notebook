@@ -17,7 +17,7 @@ Should I be doing ORBI, I guess I already started doing them so just continue?
 
 I have been so focused on the DNA extractions because I feel so bad about Caroline waiting. I will sequence ORBI bands the second I am done the extractions.
 
-was also thinking of getting the clade C primer so when the DNA extractions are done I can do the psbA for the new subset of samples and see if the yields better results 
+was also thinking of getting the clade C primer soon so when the DNA extractions are done I can do the psbA for the new subset of samples and see if the yields better results 
 
 dr lee talked about trying a PCR with carolines reagents and seeing if I am bad at PCRs in general; was thinking maybe I do the first step of ITS2 for my samples to test this? Caroline can them quickly do the indexing stuff since that is more complicated and I do not want to hold her back anymore 
 
