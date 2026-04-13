@@ -1,8 +1,24 @@
+# Goldwater Survey Info 
+Are you considering applying for the Gulf Coast Undergraduate Research Symposium (GCURS)? This in-person symposium at Rice University features the largest gathering of Goldwater Scholars in the Nation. The dates of the GCURS conference are October 16-18, 2026. Additional information can be found at https://gcurs.rice.edu/get-updates.
 
-Sorry I am a mess this week but again I feel like I am always a mess but I am extra behind this week
-- in goldwater essay I wrote that I am gonan do CNAT PSTR SSID MCAV and not ORBI 
-- now I am like shit was I suppose to be doing orbi this whole time 
-- pulled up old code and am realizing that ORBI percent unhealthy is not that much higher than past, and we noted that I should not do past since they are TOO healthy 
+Under Webinar Archives on the Goldwater Foundation's website (https://goldwaterscholarship.gov/webinar-2018-2020/) and on the Goldwater Scholar Community web page (https://goldwatercommunity.org/), there are webinars on a variety of topics: navigating the graduate school application and decision process, domestic and international graduate school awards, career and research opportunities, joining the Goldwater Scholar Community, and more. Were you aware of these resources? _(If you were not aware of these resources, please be certain to check them out!)
+
+
+
+
+
+
+# 4/10/2026 w/ Sarah & Caroline
+## To do next week 
+- [ ] Continue DNA Extractions 
+- [ ] Run Bead Clean up Gel 
+	- [ ] If good send out samples to sequencing 
+	- [ ] if not retry bead cleanup 
+
+ultimate goal: get ORBI bands sequenced and BLAST results 
+## Questions 
+### should I be doing Orbi Samples
+In goldwater essay I wrote that I am gonan do CNAT PSTR SSID MCAV and not ORBI; pulled up old code and am realizing that ORBI percent unhealthy is not that much higher than past, and we noted that I should not do past since they are too healthy
 
 | Species | total | non_healthy | healthy | percent_unhealthy |
 | :------ | ----: | ----------: | ------: | ----------------: |
@@ -14,27 +30,12 @@ Sorry I am a mess this week but again I feel like I am always a mess but I am ex
 | PAST    |    39 |           5 |      34 |              12.8 |
 | MMEA    |    24 |           1 |      23 |               4.2 |
 Should I be doing ORBI, I guess I already started doing them so just continue? 
-
-I have been so focused on the DNA extractions because I feel so bad about Caroline waiting. I will sequence ORBI bands the second I am done the extractions.
-
-was also thinking of getting the clade C primer soon so when the DNA extractions are done I can do the psbA for the new subset of samples and see if the yields better results 
-
-dr lee talked about trying a PCR with carolines reagents and seeing if I am bad at PCRs in general; was thinking maybe I do the first step of ITS2 for my samples to test this? Caroline can them quickly do the indexing stuff since that is more complicated and I do not want to hold her back anymore 
-
-
-
-
-
-
-
-
-
-
-
-# Goldwater Survey Info 
-Are you considering applying for the Gulf Coast Undergraduate Research Symposium (GCURS)? This in-person symposium at Rice University features the largest gathering of Goldwater Scholars in the Nation. The dates of the GCURS conference are October 16-18, 2026. Additional information can be found at https://gcurs.rice.edu/get-updates.
-
-Under Webinar Archives on the Goldwater Foundation's website (https://goldwaterscholarship.gov/webinar-2018-2020/) and on the Goldwater Scholar Community web page (https://goldwatercommunity.org/), there are webinars on a variety of topics: navigating the graduate school application and decision process, domestic and international graduate school awards, career and research opportunities, joining the Goldwater Scholar Community, and more. Were you aware of these resources? _(If you were not aware of these resources, please be certain to check them out!)_
+#### Answer: 
+Yes continue to do ORBI samples 
+### PCR Sanity Check 
+Dr. Lee talked about trying a PCR with carolines reagents and seeing if I am bad at PCRs in general. Should I do the ITS2 for my samples then instead of Caroline? 
+#### Answer: 
+Caroline will do psbA on my samples, and I will do ITS2 on her samples and see if we get similar results or if maybe I am doing the PCR wrong 
 
 # 4/4/2026 w Sarah
 - focus on extractions 
@@ -42,6 +43,7 @@ Under Webinar Archives on the Goldwater Foundation's website (https://goldwaters
 - also think about doing a bead cleanup and sequencing bands from ORBI PCR 
 	- note: I think my bead cleanup ratios were off and will have to reclean samples 
 - Caroline might be able to help with extractions
+
 # 3/27/2026 w/ Sarah 
 focus on getting as many sequences done before April 7th 
 - create extraction
@@ -54,16 +56,17 @@ focus on getting as many sequences done before April 7th
 ## Plan 
 1:10 dilution 
 in the future do a short spin before bead cleanup 
+
 # 3/6/2026 w/ Caroline 
 ## to do: 
 monday: dna extraction!!!!!!
 How long should I struggle with ORBI before I switch to trying another species 
+
 # 2/27/2026 w/ Sarah & Caroline 
 ## Smearing vs. Quality Score 
 - Both graphs looked like no relationship HOWEVER the correlation test showed a different story: 
 PCR smear:  weak correlation not significant 
 Cleaned smear: moderate correlation is significant 
-
 - wdhof is sending the check ot my house??? welp 
 
 # 2/13/2026 w/ Sarah & Caroline 
@@ -128,7 +131,6 @@ looking at both % unhealthy and which corals are in all 4 transects leaves us wi
 | MCAV    |   118 |          22 |      96 |              18.6 |
 | ORBI    |   100 |           9 |      91 |               9.0 |
 
-
 ### My findigs based on papers
 
 | Species | Finding 1 | Paper 1             | Notes                       | Finding 2 | Paper 2                | Notes                          | Finding 3 | Paper 3             | Notes                                                      |
@@ -138,6 +140,7 @@ looking at both % unhealthy and which corals are in all 4 transects leaves us wi
 | ORBI    | Clade C   | Cunning et al. 2024 | Virgin Islands; ORBI & OFAV | Clade B   | Kemp et al. 2015; OFAV | Belize; multisample majority B | Clade B/C | Kennedy et al. 2016 | OANN; Clade B in BEL but closer to PAN appearign 50/50 B/C |
 | PSTR    | Clade B   | Cunning et al. 2024 | Virgin Islands              | Clade B   | Lewis et al. 2018      | all over Caribbean             |           |                     |                                                            |
 note: having a hard time finding another PSTR paper 
+
 # 2/6/2026 w/ Sarah & Caroline 
 ## Next Steps 
 - create excel sheet with sample information 
