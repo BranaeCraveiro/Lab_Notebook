@@ -7,6 +7,9 @@ Under Webinar Archives on the Goldwater Foundation's website (https://goldwaters
 
 
 
+just clean up large 3 & 5 
+
+
 
 # 4/10/2026 w/ Sarah & Caroline
 ## To do next week 
