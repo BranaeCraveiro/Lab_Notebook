@@ -1,18 +1,27 @@
-**sample 2:** 072024_PAN_BDT_T2_662_OANN (75.4 ng/μL)
-**sample 3:** 072024_PAN_BDT_T4_823_ORBI (15.2 ng/μL)
+*retry of double size selection bead clean up* 
+
 **sample 5:** 072024_PAN_BDT_T1_739_ORBI (4.10 ng/μL)
 
-experimental setup notes: Tried to seperate top bands and bottom bands from [2026-03-23 PCR (diluted samples)](2026-03-23%20PCR%20(diluted%20samples).md) to sequence each on individually. The L tubes  is from the first round of bead clean up where I attempted to pull all the >1300 bp fragments. The <1300 bands should be in the S tubes.
-# 4/14/2026 
+experimental setup notes: The L tubes is from the first round of bead clean up where I attempted to pull all the >1300 bp fragments. The <1300 bands should be in the S tubes. I also tried three rounds of washing instead of just 2
 
-![](ORBI%20psbA%20Gel%20Images/2026_04_14_Gel.png)
 
-*Notes: I did the ratio math for 24 ul of PCR sample, however when I was doing the bead clean up I pipetted up less than 20 uL and decided to continue doing the bead extraction anyway instead of stopping and redoing my math... will redo bead cleanup double checking my math from now on 
+# 4/15/2026 Gel 
 
-## Next Steps 
-- Caroline recommends to just try to reclean sample 3L and 5L 
-- sample 2S is ready for sequencing 
-- also suggested that if the bands are too close together that a gel extraction might work better 
+
+
+
+
+# Sending out Samples for Sequencing 
+
+## Nanodrop 
+from [2026-04-03 double size selection](2026-04-03%20double%20size%20selection.md)
+Sample 2S: 13.0 ng/uL
+
+from [2026-04-15 double size selection](2026-04-15%20double%20size%20selection.md)
+Sample 3L: 4.9 ng/uL
+Sample 5L: 6.1 ng/uL
+
+
 
 # Double Band Size Selection 
 *goal was to seperate >1300 bp bands and then <1200 bp bands
@@ -20,14 +29,26 @@ Large band selection = >1300 bp
 Smaller band selection = <1200 bp bands*
 
 Did math using this calculator: https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/size-selection/spriselect-protocol 
-using these variables: 
-Sample Volume, μL: 24 uL
+
+I measured each sample using the pipet to get the exact volumes of each sample: 
+
+**Sample 3L:** 
+Sample Volume, μL: 12 uL
 DNA Size Range, bp: 175–1300   
 
 **KEY PROTOCOL VARIABLES CALCULATED**
 Left–Right Side Bead Ratio: 0.9–0.5
-SPRIselect Volume 1, μL: 12
-SPRIselect Volume 2, μL: 9.6
+SPRIselect Volume 1, μL: 6
+SPRIselect Volume 2, μL: 4.8
+
+**Sample 5L:** 
+Sample Volume, μL: 11 uL
+DNA Size Range, bp: 175–1300   
+
+**KEY PROTOCOL VARIABLES CALCULATED**
+Left–Right Side Bead Ratio: 0.9–0.5
+SPRIselect Volume 1, μL: 5.5
+SPRIselect Volume 2, μL: 4.4
 ### Purification 
 1. make fresh 80% ethanol in a 50mL tube (label and parafilm when not in use)
 2. Determine whether or not a plate transfer is necessary. If the PCR reaction volume multiplied by 2.8 exceeds the volume of the PCR plate, a transfer to larger tubes is required.
@@ -36,15 +57,18 @@ SPRIselect Volume 2, μL: 9.6
 
 Large Band Selection:  SPRIselect Volume 1 = Sample Volume × Right Side Bead Ratio
 
-| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
-| ------------------ | --------------- | ----------------------- | --------------- | ---------------------- |
-| 0.5                | 24              | 12                      | 3               | 36                     |
+| sample | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
+| ------ | ------------------ | --------------- | ----------------------- | --------------- | ---------------------- |
+| 3L     | 0.5                | 12              | 6                       | 1               | 6                      |
+| 5L     | 0.5                | 11              | 5.5                     | 1               | 5.5                    |
+
 
 Smaller Band Size Selection: SPRIselect Volume 2 = Sample Volume × (Left Side Bead Ratio - Right Side Bead Ratio)
 
-| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
-| ------------------ | --------------- | ----------------------- | --------------- | ---------------------- |
-| 0.4                | 24              | 9.6                     | 3               | 28.8                   |
+| sample | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
+| ------ | ------------------ | --------------- | ----------------------- | --------------- | ---------------------- |
+| 3L     | 0.4                | 12              | 4.8                     | 1               | 4.8                    |
+| 5L     | 0.4                | 11              | 4.4                     | 1               | 4.4                    |
 
 **Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
 _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)_
@@ -59,7 +83,7 @@ _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volum
 	*This step must be performed while the reaction plate is placed on the 96 magnetic plate. Avoid disturbing the settled magnetic beads. If beads are drawn into tips, leave behind a few microliters of solution.
 	==also fragments <1200 bp are in this solution, this solution will need to be cleaned for leftover primers; this is the "small band sample"==
 7. Dispense **180 uL of 80% ethanol** to each well of the reaction plate and incubate for **1 min** at room temperature. 
-8. Aspirate out the ethanol and discard. Repeat for a total of two washes. 
+8. Aspirate out the ethanol and discard. Repeat for a total of three washes. 
 	*It is important to perform these steps with the reaction plate on a 96 well Magnetic Plate. Do not disturb the settled Magnetic beads.*
     1. Remove all of the ethanol from the bottom of the well to avoid ethanol carryover. 
 	    *Bump pipette tip up to 200 uL, may need to use p20 multichannel*
@@ -77,7 +101,7 @@ _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volum
 15. Aspirate the cleared solution from the reaction plate and discard.
 	*This step must be performed while the reaction plate is placed on the 96 magnetic plate. Avoid disturbing the settled magnetic beads. If beads are drawn into tips, leave behind a few microliters of solution.
 16. Dispense **180 uL of 80% ethanol** to each well of the reaction plate and incubate for **1 min** at room temperature. 
-17. Aspirate out the ethanol and discard. Repeat for a total of two washes. 
+17. Aspirate out the ethanol and discard. Repeat for a total of three washes. 
 	*It is important to perform these steps with the reaction plate on a 96 well Magnetic Plate. Do not disturb the settled Magnetic beads.*
     1. Remove all of the ethanol from the bottom of the well to avoid ethanol carryover. 
 	    *Bump pipette tip up to 200 uL, may need to use p20 multichannel*
@@ -89,3 +113,4 @@ _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volum
 21. Incubate at room temperature until the CleanNGS particles are completely cleared from solution.
 22. Transfer the cleared supernatant containing purified DNA and/or RNA to a new (RNase-free) 96-well microplate and seal with non-permeable sealing film.
 23. Store the plate at 2-8°C if storage is only for a few days. For long-term storage, samples should be kept at -20°C.
+
