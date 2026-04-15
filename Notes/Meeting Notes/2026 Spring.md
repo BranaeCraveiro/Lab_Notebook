@@ -3,14 +3,6 @@ Are you considering applying for the Gulf Coast Undergraduate Research Symposium
 
 Under Webinar Archives on the Goldwater Foundation's website (https://goldwaterscholarship.gov/webinar-2018-2020/) and on the Goldwater Scholar Community web page (https://goldwatercommunity.org/), there are webinars on a variety of topics: navigating the graduate school application and decision process, domestic and international graduate school awards, career and research opportunities, joining the Goldwater Scholar Community, and more. Were you aware of these resources? _(If you were not aware of these resources, please be certain to check them out!)
 
-
-
-
-
-just clean up large 3 & 5 
-
-
-
 # 4/10/2026 w/ Sarah & Caroline
 ## To do next week 
 - [ ] Continue DNA Extractions 

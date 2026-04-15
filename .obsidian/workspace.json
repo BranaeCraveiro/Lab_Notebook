@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "718db16c2162ea6f",
+        "id": "8e10a121de7db048",
         "type": "tabs",
         "children": [
           {
-            "id": "11e87e953a7f7790",
+            "id": "4b6199f44e5d949c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Meeting Notes/2026 Spring.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026 Spring"
+              "title": "New tab"
             }
           }
         ]
@@ -175,22 +171,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11e87e953a7f7790",
+  "active": "4b6199f44e5d949c",
   "lastOpenFiles": [
-    "Double Size Selection.md",
+    "Protocols/Double Size Selection.md",
     "PAN_BDT/psbA/ORBI/2026-03-23 PCR (diluted samples).md",
+    "PAN_BDT/psbA/ORBI/2026-04-15 double size selection 1.md",
+    "PAN_BDT/psbA/ORBI/2026-04-03 double size selection.md",
+    "Protocols/psbA.md",
+    "Protocols/Qubit.md",
+    "Notes/Meeting Notes/2026 Spring.md",
+    "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/2026_04_14_Gel.png",
     "PAN_BDT/psbA/ORBI/2026-03-03 PCR retry 2.md",
     "PAN_BDT/DNA Extractions/ORBI/2026-04-10.md",
     "PAN_BDT/DNA Extractions/ORBI/2026-04-06.md",
-    "Notes/Meeting Notes/2026 Spring.md",
     "Notes/Meeting Notes/2025 Summer.md",
     "PAN_BDT/DNA Extractions/ORBI/2026-03-16.md",
     "PAN_BDT/DNA Extractions/ORBI/2026-02-18.md",
     "Protocols/DNA Extraction.md",
-    "Protocols/Qubit.md",
     "PAN_BDT/DNA Extractions/SSID",
-    "Protocols/psbA.md",
-    "2026-04-03 Bead Clean Up.md",
     "Notes/Meeting Notes/2026 Fall.md",
     "Notes/Colony Photos & Tissue Sample Inventorying Notes.md",
     "PAN_BDT/DNA Extractions/MCAV",
@@ -214,7 +212,6 @@
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/2025_09_05_Gel.png",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/2025_09_03_Gel.png",
     "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/2025_10_16_Gel.png",
-    "PAN_BDT/psbA/CNAT/CNAT psbA Gel Images/2025_10_08_Gel_2.png",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images",
     "PAN_BDT/psbA/ORBI",
     "PAN_BDT/DNA Extractions/ORBI",
