@@ -17,6 +17,66 @@ from [2026-04-15 double size selection](2026-04-15%20double%20size%20selection.m
 Sample 3L: 4.9 ng/uL
 Sample 5L: 6.1 ng/uL
 
+### Bar code: AT03901530
+**Sample 2S:**   072024_PAN_BDT_T2_662_OANN_psbA_F
+	Concentration: 13.0 ng/uL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		1.54 uL DNA: 
+		8.46 uL water + 2.5 uL from primer dilution = 10.96 uL water 
+		2.5 uL primer from 10 uM stock
+		USED FORWARD PRIMER 
+
+### Bar code: AT03901529
+**Sample 2S:**  072024_PAN_BDT_T2_662_OANN_psbA_R
+	Concentration: 13.0 ng/uL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		1.27 uL DNA
+		8.73 uL water + 2.5 from primer dilution = 11.24 uL water 
+		2.5 uL primer from 10 uM stock
+		USED REVERSE PRIMER 
+
+### Bar code: AT03901528
+**Sample 3L:**  072024_PAN_BDT_T4_823_ORBI_psbA_F
+	Concentration: 15.8 ng/μL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		15.8 uL DNA: 
+		8.73 uL water + 2.5 from primer dilution = 11.24 uL water 
+		2.5 uL primer from 10 uM stock
+		USED FORWARD PRIMER 
+
+### Bar code: AT03901527
+**Sample 3L:**  072024_PAN_BDT_T4_823_ORBI_psbA_R
+	Concentration: 4.9 ng/uL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		1.27 uL DNA
+		8.73 uL water + 2.5 from primer dilution = 11.24 uL water 
+		2.5 uL primer from 10 uM stock
+		USED REVERSE PRIMER 
+
+### Bar code: AT03901526
+**Sample 5L:**  072024_PAN_BDT_T1_739_ORBI_psbA_F
+	Concentration: 6.1 ng/uL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		15.8 uL DNA: 
+		8.73 uL water + 2.5 from primer dilution = 11.24 uL water 
+		2.5 uL primer from 10 uM stock
+		USED FORWARD PRIMER 
+
+### Bar code: AT03901524
+**Sample 5L:**  072024_PAN_BDT_T1_739_ORBI_psbA_R
+	Concentration: 6.1 ng/uL
+	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
+		need:
+		1.27 uL DNA
+		8.73 uL water + 2.5 from primer dilution = 11.24 uL water 
+		2.5 uL primer from 10 uM stock
+		USED REVERSE PRIMER 
+
 # Double Band Size Selection 
 *goal was to seperate >1300 bp bands and then <1200 bp bands
 Large band selection = >1300 bp
