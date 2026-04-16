@@ -96,8 +96,7 @@ https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-rat
 |||0|96|0|
 
 **Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
-_(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)_a]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]]q
-
+_(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)
 3. Mix reagent and PCR reaction thoroughly by pipette mixing 5 times.
 4. Incubate the mixed samples for 5 minutes at room temperature for maximum recovery. 
 	*This step allows the binding of PCR products 125bp (based on concentration) and greater to the Magnetic beads. After mixing, the color of the mixture should appear homogenous.*

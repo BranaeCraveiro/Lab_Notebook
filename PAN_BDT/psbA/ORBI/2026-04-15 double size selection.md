@@ -1,15 +1,11 @@
 *retry of double size selection bead clean up* 
-
-**sample 5:** 072024_PAN_BDT_T1_739_ORBI (4.10 ng/μL)
+**sample 3:** 072024_PAN_BDT_T4_823_ORBI
+**sample 5:** 072024_PAN_BDT_T1_739_ORBI
 
 experimental setup notes: The L tubes is from the first round of bead clean up where I attempted to pull all the >1300 bp fragments. The <1300 bands should be in the S tubes. I also tried three rounds of washing instead of just 2
 
-
 # 4/15/2026 Gel 
-
-
-
-
+![](ORBI%20psbA%20Gel%20Images/2026_04_15_Gel.png)
 
 # Sending out Samples for Sequencing 
 
@@ -20,8 +16,6 @@ Sample 2S: 13.0 ng/uL
 from [2026-04-15 double size selection](2026-04-15%20double%20size%20selection.md)
 Sample 3L: 4.9 ng/uL
 Sample 5L: 6.1 ng/uL
-
-
 
 # Double Band Size Selection 
 *goal was to seperate >1300 bp bands and then <1200 bp bands
@@ -113,4 +107,3 @@ _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volum
 21. Incubate at room temperature until the CleanNGS particles are completely cleared from solution.
 22. Transfer the cleared supernatant containing purified DNA and/or RNA to a new (RNase-free) 96-well microplate and seal with non-permeable sealing film.
 23. Store the plate at 2-8°C if storage is only for a few days. For long-term storage, samples should be kept at -20°C.
-
