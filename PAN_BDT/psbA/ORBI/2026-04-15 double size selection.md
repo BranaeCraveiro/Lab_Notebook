@@ -32,18 +32,18 @@ Sample 5L: 6.1 ng/uL
 	Concentration: 13.0 ng/uL
 	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
 		need:
-		1.27 uL DNA
-		8.73 uL water + 2.5 from primer dilution = 11.24 uL water 
+		1.54 uL DNA: 
+		8.46 uL water + 2.5 uL from primer dilution = 10.96 uL water 
 		2.5 uL primer from 10 uM stock
 		USED REVERSE PRIMER 
 
 ### Bar code: AT03901528
 **Sample 3L:**  072024_PAN_BDT_T4_823_ORBI_psbA_F
-	Concentration: 15.8 ng/μL
+	Concentration: 4.9 ng/uL
 	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
 		need:
-		15.8 uL DNA: 
-		8.73 uL water + 2.5 from primer dilution = 11.24 uL water 
+		4.08 uL DNA: 
+		5.92 uL water + 2.5 from primer dilution = 8.42 uL water 
 		2.5 uL primer from 10 uM stock
 		USED FORWARD PRIMER 
 
@@ -52,8 +52,8 @@ Sample 5L: 6.1 ng/uL
 	Concentration: 4.9 ng/uL
 	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
 		need:
-		1.27 uL DNA
-		8.73 uL water + 2.5 from primer dilution = 11.24 uL water 
+		4.08 uL DNA: 
+		5.92 uL water + 2.5 from primer dilution = 8.42 uL water 
 		2.5 uL primer from 10 uM stock
 		USED REVERSE PRIMER 
 
@@ -62,18 +62,18 @@ Sample 5L: 6.1 ng/uL
 	Concentration: 6.1 ng/uL
 	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
 		need:
-		15.8 uL DNA: 
-		8.73 uL water + 2.5 from primer dilution = 11.24 uL water 
+		3.28 uL DNA: 
+		6.72 uL water + 2.5 from primer dilution = 9.22 uL water 
 		2.5 uL primer from 10 uM stock
 		USED FORWARD PRIMER 
 
-### Bar code: AT03901524
+### Bar code: AT03901525
 **Sample 5L:**  072024_PAN_BDT_T1_739_ORBI_psbA_R
 	Concentration: 6.1 ng/uL
 	V1 = C2(V2)/ C1 = (20)/conc from nanodrop
 		need:
-		1.27 uL DNA
-		8.73 uL water + 2.5 from primer dilution = 11.24 uL water 
+		3.28 uL DNA: 
+		6.72 uL water + 2.5 from primer dilution = 9.22 uL water 
 		2.5 uL primer from 10 uM stock
 		USED REVERSE PRIMER 
 
