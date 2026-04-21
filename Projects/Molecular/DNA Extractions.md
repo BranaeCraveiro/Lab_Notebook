@@ -4,6 +4,7 @@
 ## [Date]
 ### Samples
 - *samples extracted that day with all necessary metadata - always transcribe to corresponding github sample tracker*
+- *example of sample table:*
 
 | Sample                     | Species | Year | Health_status   | Starting_Weight | Date_Extracted | Raw_ng_ul | Extracted_Location |
 | -------------------------- | ------- | ---- | --------------- | --------------- | -------------- | --------- | ------------------ |
