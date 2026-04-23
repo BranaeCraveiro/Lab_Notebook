@@ -35,8 +35,7 @@
               "title": "2026-04-17"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,16 +190,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df337e28875a6d7",
+  "active": "5ee4e9d91b69bc12",
   "lastOpenFiles": [
+    "PAN_BDT/DNA Extractions/ORBI/2026-04-06.md",
+    "PAN_BDT/DNA Extractions/ORBI/2026-03-16.md",
+    "PAN_BDT/psbA/ORBI/2026-04-15 double size selection.md",
     "PAN_BDT/DNA Extractions/ORBI/2026-04-10.md",
     "PAN_BDT/DNA Extractions/MCAV/2026-04-17.md",
-    "Protocols/DNA Extraction.md",
-    "PAN_BDT/psbA/ORBI/2026-03-23 PCR (diluted samples).md",
-    "Protocols/psbA.md",
-    "PAN_BDT/psbA/ORBI/2026-03-03 PCR retry 2.md",
     "PAN_BDT/psbA/ORBI/2026-04-03 double size selection.md",
-    "PAN_BDT/psbA/ORBI/2026-04-15 double size selection.md",
+    "PAN_BDT/psbA/ORBI/2026-03-23 PCR (diluted samples).md",
+    "PAN_BDT/psbA/ORBI/2026-03-03 PCR retry 2.md",
+    "PAN_BDT/psbA/ORBI/2026-02-26 PCR retry.md",
+    "PAN_BDT/psbA/ORBI/2026-02-24.md",
+    "Protocols/DNA Extraction.md",
+    "Protocols/psbA.md",
     "PAN_BDT/psbA/CNAT/2026-02-02 reclean.md",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/2026_04_15_Gel.png",
     "Protocols/Double Size Selection.md",
@@ -210,14 +213,10 @@
     "PAN_BDT/psbA/CNAT/2026-01-22 bead cleanup (retry).md",
     "PAN_BDT/psbA/CNAT/2025-07-30 troubleshooting.md",
     "PAN_BDT/psbA/CNAT/2025-07-23 troubleshooting.md",
-    "PAN_BDT/psbA/ORBI/2026-02-26 PCR retry.md",
-    "PAN_BDT/psbA/ORBI/2026-02-24.md",
     "Protocols/Qubit.md",
     "Notes/Meeting Notes/2026 Spring.md",
     "PAN_BDT/psbA/ORBI/ORBI psbA Gel Images/2026_04_14_Gel.png",
-    "PAN_BDT/DNA Extractions/ORBI/2026-04-06.md",
     "Notes/Meeting Notes/2025 Summer.md",
-    "PAN_BDT/DNA Extractions/ORBI/2026-03-16.md",
     "PAN_BDT/DNA Extractions/ORBI/2026-02-18.md",
     "PAN_BDT/DNA Extractions/SSID",
     "Notes/Meeting Notes/2026 Fall.md",
