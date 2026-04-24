@@ -3,14 +3,32 @@ Are you considering applying for the Gulf Coast Undergraduate Research Symposium
 
 Under Webinar Archives on the Goldwater Foundation's website (https://goldwaterscholarship.gov/webinar-2018-2020/) and on the Goldwater Scholar Community web page (https://goldwatercommunity.org/), there are webinars on a variety of topics: navigating the graduate school application and decision process, domestic and international graduate school awards, career and research opportunities, joining the Goldwater Scholar Community, and more. Were you aware of these resources? _(If you were not aware of these resources, please be certain to check them out!)
 
-# 4/10/2026 w/ Sarah & Caroline
-## To do next week 
-- [ ] Continue DNA Extractions 
-- [ ] Run Bead Clean up Gel 
-	- [ ] If good send out samples to sequencing 
-	- [ ] if not retry bead cleanup 
 
-ultimate goal: get ORBI bands sequenced and BLAST results 
+
+
+
+
+
+
+
+T2_662_OANN paired with 1 mismatch and 1 indel and it was my high quality read so I trust it a lot 
+
+T1_739 
+F: 834 bp
+R: 791 bp
+alignment: 
+
+T4_823_ORBI
+F: 738 bp 
+R: 787 bp
+
+
+
+
+
+
+
+# 4/10/2026 w/ Sarah & Caroline
 ## Questions 
 ### should I be doing Orbi Samples
 In goldwater essay I wrote that I am gonan do CNAT PSTR SSID MCAV and not ORBI; pulled up old code and am realizing that ORBI percent unhealthy is not that much higher than past, and we noted that I should not do past since they are too healthy
