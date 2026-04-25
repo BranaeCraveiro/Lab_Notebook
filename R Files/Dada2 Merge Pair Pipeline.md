@@ -1,4 +1,4 @@
-```r
+```r 
 library(dada2)
 
 path <- setwd("C:\\Users\\Owner\\OneDrive\\Documents\\GW Lab\\PAN\\sequences")
@@ -48,7 +48,7 @@ dadaFs[[1]]
 
 #merge pair reads 
 mergers <- mergePairs(dadaFs, fnFs, dadaRs, fnRs, verbose=TRUE, maxMismatch = 1000)
-#will get error is there is a sequence without a pair (one read)
+# will get error is there is a sequence without a pair (one read)
 
 #if want to see all merges: 
 list(mergers)

@@ -7,7 +7,7 @@ Under Webinar Archives on the Goldwater Foundation's website (https://goldwaters
 
 
 
-
+trim more aggressive 
 
 
 
