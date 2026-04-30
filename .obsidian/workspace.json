@@ -11,10 +11,14 @@
             "id": "561ef7bdf5c7f1b1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Meeting Notes/2026 Spring.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026 Spring"
             }
           }
         ]
@@ -172,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df337e28875a6d7",
+  "active": "561ef7bdf5c7f1b1",
   "lastOpenFiles": [
     "R Files/Dada2 Merge Pair Pipeline.md",
     "PAN_BDT/DNA Extractions/MCAV/2026-04-17.md",

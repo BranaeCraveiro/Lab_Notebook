@@ -4,30 +4,31 @@ Are you considering applying for the Gulf Coast Undergraduate Research Symposium
 Under Webinar Archives on the Goldwater Foundation's website (https://goldwaterscholarship.gov/webinar-2018-2020/) and on the Goldwater Scholar Community web page (https://goldwatercommunity.org/), there are webinars on a variety of topics: navigating the graduate school application and decision process, domestic and international graduate school awards, career and research opportunities, joining the Goldwater Scholar Community, and more. Were you aware of these resources? _(If you were not aware of these resources, please be certain to check them out!)
 
 
+# 5/1/2026 w/ Sarah & Caroline  
+trimmed more aggressively and only got one of the 2 that couldn't merge to work 
+- can back as durusdinium
 
 
+# 4/24/2026 w/ Sarah & Caroline  
 
-trim more aggressive 
+## Things to do for next week 
+- [x] Trim more aggressively and retry merge pair 
+- [x] Add Clade C primer to datasheet so we can order it 
+- [x] Upload all code to Github 
 
-
+## ORBI seq results 
 
 T2_662_OANN paired with 1 mismatch and 1 indel and it was my high quality read so I trust it a lot 
 
 T1_739 
+failed to merge
 F: 834 bp
 R: 791 bp
-alignment: 
 
 T4_823_ORBI
+failed to merge
 F: 738 bp 
 R: 787 bp
-
-
-
-
-
-
-
 # 4/10/2026 w/ Sarah & Caroline
 ## Questions 
 ### should I be doing Orbi Samples
