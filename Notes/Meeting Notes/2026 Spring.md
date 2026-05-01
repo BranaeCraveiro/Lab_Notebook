@@ -8,6 +8,8 @@ Under Webinar Archives on the Goldwater Foundation's website (https://goldwaters
 trimmed more aggressively and only got one of the 2 that couldn't merge to work 
 - can back as durusdinium
 
+2 class related questions 
+- if my predation papers are looking at 
 
 # 4/24/2026 w/ Sarah & Caroline  
 
