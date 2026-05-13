@@ -1,0 +1,118 @@
+*Annealing gradient at 5 different temperature one set of PCR reactions containing 4 μL of DNA load and another set with 6 μL of DNA load.*
+
+**Sample 1:** 92022_PAN_BDT_T3_36_CNAT (7.60 ng/μL)
+**Sample 2:** 92022_PAN_BDT_T3_38_CNAT (7.78 ng/μL)
+#### Reaction Notes:
+*In reaction 2_4A I accidentally used 6 μL of DNA load
+### September 5 2025 Gel Image
+
+![](CNAT%20psbA%20Gel%20Images/2025_09_05_Gel.png)
+
+*Notes:*
+- *Fresh Gel worked woot woot!*
+- *4 uL samples show the same bands as past gels (Strong ~300 bp and ~1500 bp band)*** 
+- *6 uL samples look much better- no non-specific binding yay!* 
+	- *no band between 500-600 bp, but there is a ~700 bp band, maybe that's the psbA amplicon?*
+	- *my previous samples had no non-specfic binding at 4 uL of DNA load, however the samples concentrations were 3-7 ng/uL higher than the samples used today 
+	- *curious why increasing DNA load decreased non specific binding
+		- *Sarah's explanation: raising the concentration is reducing the non-specific binding because you have a lot of non-target DNA (ie coral dna, microbe dna) in the samples and the primers aren't finding the right DNA. Therefore by increasing DNA load the primers can finally find the correct binding sites as there is more symbiont DNA.*
+- *ideal temp. somewhere between 49-45 °C*
+
+### Next Steps
+notes from [2026 Fall](../../../Notes/Meeting%20Notes/2026%20Fall.md) meeting notes under heading "9/25/2025 w/ Sarah & Caroline"
+- sequence 300 bp and 700 bp band seperately
+	- 300 bp band from 6 uL sample 1 at 44.7 
+	- 700 bp band from 6 uL sample 1 at 53.6 
+		- need to do a size selection with beads to remove 300 bp band 
+	- 1500 bp band from 4 uL sample 2 at 53.6
+
+### September 3 2025 Gel Image
+![](CNAT%20psbA%20Gel%20Images/2025_09_03_Gel.png)
+
+*Notes: Rerun of PCR samples in same 1.5% agarose gel batch, thinking to make a fresh batch of gel to try again.*  
+### September 2 2025 Gel Image 
+*Notes: while loading my gel I was counting wells with DNA ladder in the pipet tip, some of the ladder solution dropped and landed into a well- lesson learned* 
+
+![](CNAT%20psbA%20Gel%20Images/2025_09_02_Gel.png)
+
+*Notes: The 1.5% gel used was made fresh by me today (9/2/2025), I used 0.6 grams of agarose in 40 mL of 1x TBE Buffer. Will rerun gel with same gel batch tomorrow (9/3/2025)*
+## PCR Preparation 
+| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% |
+| --------------- | --------------------- | --------------------------- |
+| Buffer          | 2.5                   | 27.5                        |
+| dNTP (10mM)     | 0.5                   | 5.5                         |
+| F Primer (10uM) | 1                     | 11                          |
+| R Primer (10uM) | 1                     | 11                          |
+| DNA             | ==4==                 | 44                          |
+| Polymerase      | 0.125                 | 1.375                       |
+| Water           | 15.75                 | ==173.25==                  |
+| Albumin         | 0.125                 | 1.375                       |
+| Total           | 25                    | 275                         |
+
+| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% |
+| --------------- | --------------------- | --------------------------- |
+| Buffer          | 2.5                   | 27.5                        |
+| dNTP (10mM)     | 0.5                   | 5.5                         |
+| F Primer (10uM) | 1                     | 11                          |
+| R Primer (10uM) | 1                     | 11                          |
+| DNA             | ==6==                 | 66                          |
+| Polymerase      | 0.125                 | 1.375                       |
+| Water           | 13.75                 | ==151.25==                  |
+| Albumin         | 0.125                 | 1.375                       |
+| Total           | 25                    | 275                         |
+
+1. Add Buffer, dNTP, and Primers vortex to eppendorf tube. Vortex Briefly 
+*(DO NOT vortex polymerase or albumin)*
+2. Add polymerase, albumin and water.
+*albumin is viscous so pipet slowly*
+3. Add 25 µL of water to the blanks, pipette up and down to mix.
+4. Add 21 µL of master mix to the 4 uL tubes, pipette up and down to mix.
+5. Add 19 µL of master mix to the 6 uL tubes, pipette up and down to mix.
+6. Pipette DNA into each tube
+*use new pipette tip for each tube*
+7. briefly centrifuge pcr tubes before thermal cycler
+8. run thermocycler program: *38 cycles takes ~ 2 hours
+    1. 95°C for 30 seconds
+    2. 95°C for 30 seconds
+    3. 46°C -55 °C for 1 minute
+    4. 68°C for 30 seconds _repeat 2-4 for 38 cycles (# of cycles varies depending on input)
+    5. 68°C for 5 minutes
+    6. 8°C for Forever
+
+## ## Annealing Temperature Gradient Key 
+**A:**  55 °C
+**B:**  53.6 °C
+**C:**  51.6 °C
+**D:**  48.6 °C
+**E:**  44.7 °C
+
+### Tube Label Key 
+**1_4A:** T3_36 w/ 4 uL at temp A 
+**1_4B:** T3_36 w/ 4 uL at temp B
+**1_4C:** T3_36 w/ 4 uL at temp C
+**1_4D:** T3_36 w/ 4 uL at temp D
+**1_4E:** T3_36 w/ 4 uL at temp E
+
+**2_4A:** T3_38 w/ 4 uL at temp A
+**2_4B:** T3_38 w/ 4 uL at temp B
+**2_4C:** T3_38 w/ 4 uL at temp C
+**2_4D:** T3_38 w/ 4 uL at temp D
+**2_4E:** T3_38 w/ 4 uL at temp E
+
+**1_6A:** T3_36 w/ 6 uL at temp A 
+**1_6B:** T3_36 w/ 6 uL at temp B
+**1_6C:** T3_36 w/ 6 uL at temp C
+**1_6D:** T3_36 w/ 6 uL at temp D
+**1_6E:** T3_36 w/ 6 uL at temp E
+
+**2_6A:** T3_38 w/ 6 uL at temp A
+**2_6B:** T3_38 w/ 6 uL at temp B
+**2_6C:** T3_38 w/ 6 uL at temp C
+**2_6D:** T3_38 w/ 6 uL at temp D
+**2_6E:** T3_38 w/ 6 uL at temp E
+### Sample Location 
+Post PCR Fridge in box "PAN_BDT CNAT psbA Troubleshooting Box #1"
+## Note to Myself 
+samples have ~50 uL leftover
+	sample 36 has a little less, not sure how much less 
+

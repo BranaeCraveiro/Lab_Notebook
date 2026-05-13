@@ -1,0 +1,54 @@
+*Decreased extension time from 1 minute to 30 seconds, and number of cycles from 40 to 38. Set up one reaction with 1 uL of DNA, one with 2 uL, and one with 4 uL*.
+
+**Sample 1:** 92022_PAN_BDT_T3_39_CNAT (14.2 ng/μL)
+**Sample 2:** 92022_PAN_BDT_T2_55_CNAT (9.56 ng/μL)
+*note: weird ordering of samples in my gel since one of my lanes had a bubble and I was trying to avoid it* 
+
+![](CNAT%20psbA%20Gel%20Images/2025_07_30_Gel.png)
+
+*Notes: embarrassingly I believe I made the same mistake I made on [2025-07-21 annealing gradient](2025-07-21%20annealing%20gradient.md) where I added my reverse primer twice and did not add any forward primer. This was definetly because I was feeling under the weather but was my last wet lab work day before vacation so I pushed myself to come in- lesson learned. will retry this same experimental set up next experiment.  
+
+### Next Step
+- Retry experiment again (see notes above)
+
+## PCR Preparation
+
+| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% |
+| --------------- | --------------------- | --------------------------- |
+| Buffer          | 2.5                   | 19.25                       |
+| dNTP (10mM)     | 0.5                   | 3.85                        |
+| F Primer (10uM) | 1                     | 7.7                         |
+| R Primer (10uM) | 1                     | 7.7                         |
+| DNA             | 1                     | 7.7                         |
+| Polymerase      | 0.125                 | 0.9625                      |
+| Water           | 18.75                 | 144.375                     |
+| Albumin         | 0.125                 | 0.9625                      |
+| Total           | 25                    | 192.5                       |
+1. Add Buffer, dNTP, and Primers vortex to eppendorf tube. Vortex Briefly 
+*(DO NOT vortex polymerase or albumin)*
+2. Add polymerase and albumin. 
+*albumin is viscous so pipet slowly*
+3. Pipette 5.25 µL of master mix to each pcr tube.
+4. Add 18.75 µL of water to the 1 uL & negative control tubes, pipette up and down to mix.
+5. 4. Add 17.75 µL of water to the 2 uL tubes, pipette up and down to mix.
+6. Add 15.75 µL of water to the 4 uL tubes, pipette up and down to mix.
+7. Pipette DNA into each tube
+*use new pipette tip for each tube*
+8. briefly centrifuge pcr tubes before thermal cycler
+9. run thermocycler program: *38 cycles takes ~ 2 hours
+    1. 95°C for 30 seconds
+    2. 95°C for 30 seconds
+    3. 46°C for 1 minute
+    4. 68°C for <mark style="background: #FFF3A3A6;">30 seconds</mark> _repeat 2-4 for 38 cycles (# of cycles varies depending on input)
+    5. 68°C for 5 minutes
+    6. 6°C for Forever
+
+### Tube Label Key 
+**1A:** T3_39 w/ 1 uL
+**1B:** T3_39 w/ 2 uL 
+**1C:** T3_39 w/ 4 uL 
+**2A:** T2_55 w/ 1 uL
+**2B:** T2_55 w/ 2 uL
+**2C:** T2_55 w/ 4 uL
+### Sample Location 
+Post PCR Fridge in box "PAN_BDT CNAT psbA Troubleshooting Box #1"

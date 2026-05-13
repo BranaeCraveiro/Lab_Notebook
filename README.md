@@ -1,7 +1,7 @@
-# LabNotebook-Template
+# LabNotebook
 
-- [NAME] Lab Notebook in Gignoux-Wolfsohn lab at University of Massachusetts Lowell 
-- Started [MONTH YEAR]
+- Branae's Lab Notebook in Gignoux-Wolfsohn lab at University of Massachusetts Lowell 
+- Started April 2024
 
 - **General Instructions for lab notebook:**
 	- Meeting notes, priorities, daily notes should be set up the same for everyone

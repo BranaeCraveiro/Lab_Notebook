@@ -1,0 +1,166 @@
+*Bead purification of small subset of samples to identify if amplicon is psbA region- review [2026 Fall](../../../Notes/Meeting%20Notes/2026%20Fall.md) to see notes*
+
+<mark style="background: #FFF3A3A6;">Sample 1:</mark> **1_6E:** T3_36 w/ 6 uL at temp E *300 bp band from 6 uL sample 1 at 44.7*
+<mark style="background: #FFF3A3A6;">Sample 2:</mark> **2_4B:** T3_38 w/ 4 uL at temp B *1500 bp band from 4 uL sample 2 at 53.6*
+<mark style="background: #FFF3A3A6;">Sample 3:</mark> Negative Control 
+<mark style="background: #FFF3A3A6;">Sample 4:</mark> **1_6B:** T3_36 w/ 6 uL at temp B *700 bp band from 6 uL sample 1 at 53.6* 
+	*need to do a size selection with beads to remove 300 bp band* 
+#### Well Set up 
+Well 2: Sample 1 (cleaned sample of tube 1_6E from 9.2.2025) (wanted 300 bp band)
+Well 3: 1_6D (uncleaned sample from 9.2.2025 with 300 bp for comparison) 
+Well 4: Sample 4 (cleaned sample of tube 1_6B from 9.2.2025) (wanted 700 bp band)
+Well 5: Sample 2 (cleaned sample of tube 2_4B from 9.2.2025)  (wanted 1500 bp band)
+Well 6: Sample 4 - Negative Control (made from Blank- DI water- from 9.2.2025)
+
+## October 16 2025 Gel Image 
+![](CNAT%20psbA%20Gel%20Images/2025_10_16_Gel.png)
+
+Notes:
+- very faint 300 bp band and a 1500 bp band woot woot 
+- no idea where the 700 bp band went- a little sad since that is the sequence I believe is most likely my target amplicon
+- not sure what the next steps should be? rerun gel? clean another sample with 700 bp? 
+	- Sarah thinks that I used too much elution in my final step of the bead cleanup so I diluted my samples by 2. update protocol so that the final elution step requires less than or equal to the amount of starting unclean PCR sample used. 
+	- she reccomends quibitting this sample to see conc. and if it is really low consider reconcentrating sample 
+
+### 10/17/2025 Cleaned 700 bp sample qubit results 
+Sample: 4 (cleaned sample of tube 1_6B from 9.2.2025)
+Concentration:  0.600 ng/μL
+#### Next steps: 
+since my concentration is below 1 uL I will reconcentrate my sample using the vacuum dryer, or try to clean a different sample with 700 bp and use chilled ethanol and only elute with 15 uL instead of 40 uL (what happened is I diluted from 20 uL to 40 uL during the cleaning process)
+### 10/13/2025 Cleaned 300 bp and 1500 bp qubit results 
+Sample: 1 (cleaned sample of tube 1_6E from 9.2.2025) 
+Concentration: 8.62 ng/μL
+
+Sample: 2 (cleaned sample of tube 2_4B from 9.2.2025)
+Concentration: 12.0 ng/μL
+
+### 11/3/2025 sending out samples for sequencing 
+*need to make 10 ul of 2 ng/ul - from genewiz website* 
+#### Bar code: AT03901558
+Sample: 1 (cleaned sample of tube 1_6E from 9.2.2025) 
+	Concentration: 8.62 ng/μL
+	V1 = C2(V2)/ C1 = (20)/8.62
+		need:
+		2.3 uL DNA
+		7.7 uL water 
+
+#### Bar code: AT03901557
+Sample: 2 (cleaned sample of tube 2_4B from 9.2.2025)
+	Concentration: 12.0 ng/μL
+	V1 = C2(V2)/ C1 = (20)/12.00
+		need: 
+		1.7 uL DNA 
+		8.3 uL water 
+
+note: forgot to add primer, need to email genewiz and figure out where to purchase primer from 
+
+## October 8 2025 Gel Image
+![](CNAT%20psbA%20Gel%20Images/2025_10_08_Gel_1.png)
+
+![](CNAT%20psbA%20Gel%20Images/2025_10_08_Gel_2.png)
+*Note: Talked to Sarah and Caroline and they believe I let the gel boil for tool long in the microwave, leading to my gel to be more than 1.5% agarose. Will make a fresh gel and try running samples again (also since this gel was 25 mL and very thin, will also make it a little thicker)*
+
+## October 7 2025 Gel Image
+*I made my gel on Oct. 8th, submerged it with TBE buffer and placed in the fridge so I could load and run my gel quickly the next day. However, my buffer and gel froze. I let it thaw for an hour, then loaded and ran my gel.* 
+
+![](CNAT%20psbA%20Gel%20Images/2025_10_07_Gel.png)
+
+*Notes: Will try again with a fresh gel (and will make sure to not put it inthe fridge lol) 
+
+#### Frozen gel in Question: 
+![](CNAT%20psbA%20Gel%20Images/2025_10_08_Frozen_Gel.jpg)
+
+
+# All done in the Post PCR Room
+## Purification with ampure beads
+*link to # Bead to Sample Ratio for size selection https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio* 
+### Purification Preparation
+- obtain, label, and cross-link new strip tubes start with the manufacturer protocol using 1.8X-1.0X DNA to bead ratio and 10uL-25uL PCR product 
+- ratio of beads will change the size you select for 
+	*may need to re-clean samples if gel images show that multiple bands were not removed*
+	- *1.0x will get rid of <200 bp dimers, 1.8X will get rid of dimer <100 bp* 
+- all calculations can be done here: [https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=1947158502#gid=1947158502](https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=1947158502#gid=1947158502)
+
+### Purification 
+1. make fresh 80% ethanol in a 50mL tube (label and parafilm when not in use)
+    - paste filled out table here
+
+| Number of Samples | 80% EtOH for each sample (uL) | Total 80% EtoH needed (uL) | Volume 100% EtOH (uL) | Volume H2O (uL) |
+| ----------------- | ----------------------------- | -------------------------- | --------------------- | --------------- |
+| 4                 | 360                           | 1440                       | 1152                  | 288             |
+|                   |                               | in mL                      |                       |                 |
+|                   |                               | 1.44                       | 1.152                 | 0.288           |
+
+2. Determine whether or not a plate transfer is necessary. If the PCR reaction volume multiplied by 2.8 exceeds the volume of the PCR plate, a transfer to larger tubes is required.
+3. Gently shake the Clean NGS Mag PCR Clean-up aliquot to resuspend any Magnetic particles that may have settled.
+    1. Add CleanNGS Mag PCR Clean-up volume table below:
+
+| Sample | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples     | Total Bead Volume (uL) |
+| ------ | ------------------ | --------------- | ----------------------- | ------------------- | ---------------------- |
+| 1-3    | 1.8                | 20              | 36                      | 3                   | 108                    |
+| 4      | 0.6                | 20              | 12                      | 1                   | 12                     |
+|        |                    |                 |                         | **Total beads vol** | 120                    |
+**Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
+_(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)_
+
+3. Mix reagent and PCR reaction thoroughly by pipette mixing 5 times.
+4. Incubate the mixed samples for 5 minutes at room temperature for maximum recovery. 
+	*This step allows the binding of PCR products 125bp (based on concentration) and greater to the Magnetic beads. After mixing, the color of the mixture should appear homogenous.*
+5. Place the reaction plate onto a 96 well Magnet Plate for 3 minutes or wait until the solution is clear.
+	*Wait until the solution is clear before proceeding to the next washing step. Otherwise there may be beads loss.*
+6. Aspirate the cleared solution from the reaction plate and discard
+	*This step must be performed while the reaction plate is placed on the 96 magnetic plate. Avoid disturbing the settled magnetic beads. If beads are drawn into tips, leave behind a few microliters of solution.*
+7. Dispense **180 uL of 80% ethanol** to each well of the reaction plate and incubate for **1 min** at room temperature. 
+8. Aspirate out the ethanol and discard. Repeat for a total of two washes. 
+	*It is important to perform these steps with the reaction plate on a 96 well Magnetic Plate. Do not disturb the settled Magnetic beads.*
+    1. Remove all of the ethanol from the bottom of the well to avoid ethanol carryover. 
+	    *Bump pipette tip up to 200 uL, may need to use p20 multichannel*
+    2. **NOTE:** *A 5 min air dry at room temperature is recommended for the evaporation of the remaining traces of ethanol.* **Do not overdry the beads** *(the layer of settled beads appears cracked) as this will significantly decrease elution efficiency.*
+9. Take off the plate from the Magnetic plate, add 40 uL of elution buffer (Reagent grade water, TRIS-HCl pH 8.0, or TE buffer) to each well of the reaction plate and pipette mix 5 times.
+    *mix until homogeneous and there are no beads on tube wall*
+10. Incubate at room temperature for 10 minutes.
+11. Place the plate on a magnetic separation device to magnetize the CleanNGS particles. 
+12. Incubate at room temperature until the CleanNGS particles are completely cleared from solution.
+13. Transfer the cleared supernatant containing purified DNA and/or RNA to a new (RNase-free) 96-well microplate and seal with non-permeable sealing film.
+14. Store the plate at 2-8°C if storage is only for a few days. For long-term storage, samples should be kept at -20°C.
+
+## Gel electrophoresis 
+
+### Gel electrophoresis preparation
+- make sure there is enough 1x TBE buffer to make a gel
+	*TBE Buffer 'Recipe' https://github.com/GWLab-UML/Protocols/blob/main/Molecular_labwork/TBE_Buffer_Protocol.md*
+- always use standard DNA ladder on every row of gel, can dilute ladder to 1:5 in order to see relatively brighter bands
+
+### Making and setting up a gel
+1. mix agar and clean TBE buffer to generate a 1.5% agarose gel that will be large enough for the gel mold
+	*small gel mold: 25 mL
+	medium gel mold: 50 mL
+	large gel mold: 75 mL*
+2. calculating gel density:
+    *% = weight (g) / volume (mL)*
+3. Prepare gel mold to set up a gel- add gel comb for number of samples needed
+4. melt mixture (on hot plate with stir bar or microwave) until mixture has big bubbles and there's no floaters
+5. add 2 µL GelRed to gel once cool to touch *(if you don't, you won't see your bands!!)*
+6. Pour gel into the middle of mold and wait for even dispersion (enough gel to see that the wells are in it, not too thick
+	*use a pipet tip to push away any bubbles* 
+7. let gel cool *- wells will break if not cooled down enough - 20 mins to be safe
+
+### Loading gel sample prep
+1. Cut enough parafilm for all samples + ladders
+2. Pipette up 20µL of loading dye and place 1-2µL dots of loading dye on the parafilm for each well
+3. **turn rig so DNA will move towards the positive electrode run towards red!**
+4. load 2-3µL of DNA ladder *(1:5 dilution with molecular water)* at beginning or end *(or both if large rig)* of the gel, and on each row
+5. load 1µL PCR product- *mix sample thoughly with loading dye*
+6. put cover on and turn on electric current - **run 110 volts for ~35 mins**
+    - *check to make sure bands aren't running off the gel*
+    - *time length depends on the size of gel 30-50 mins*
+7. turn off electric current **then** remove lid
+8. take picture of gel 
+    - turn lights off in room, put gel on the glass and lift the cover (45 degrees) so that there is no reflection from the gel, take photo parallel to gel
+    - editing: crop to be centered, brightness -100
+    - *in some cases may run for longer to get more separation in bands*
+9. you may reuse gels up to 3 times, if so, break the gel up into a glass container that can be covered and store at 2-8 °C 
+	*make sure to label how many times the gel was used on the lid*
+
+### Sample Location 
+Post PCR Fridge in box "PAN_BDT_CNAT_psbA Box #2"

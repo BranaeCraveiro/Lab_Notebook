@@ -1,0 +1,32 @@
+Sample 1 
+92022_PAN_BDT_T2_48_CNAT
+0.0421 g
+5.90 ng/μL
+*notes: trouble breaking down tissue during lysis (small stringy clear tissue in buffer)*
+
+Sample 2
+102023_PAN_BDT_T2_228_CNAT
+0.0674 g
+26.2 ng/μL
+
+Sample 3
+072024_PAN_BDT_T2_1059_CNAT
+0.1224 g
+19.1 ng/μL
+
+Sample 4
+072024_PAN_BDT_T1_601_CNAT
+0.0786 g
+too low ng/μL
+*notes: trouble breaking down tissue during lysis (small dark brown pieces left behind)*
+redid qubit on 6/4/2025: 0.794 ng/μL
+
+Sample 5 
+072024_PAN_BDT_T1_603_CNAT
+0.0786 g
+7.58 ng/μL
+
+Sample 6
+Negative Control 
+too low
+
