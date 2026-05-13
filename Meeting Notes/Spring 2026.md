@@ -27,8 +27,6 @@ This week, (check all that apply):
 - [x]  I struggled with a problem, but solved it
 - [ ]  I ran into an issue I could not solve on my own.
 
-
-
 # Goldwater Survey Info 
 Are you considering applying for the Gulf Coast Undergraduate Research Symposium (GCURS)? This in-person symposium at Rice University features the largest gathering of Goldwater Scholars in the Nation. The dates of the GCURS conference are October 16-18, 2026. Additional information can be found at https://gcurs.rice.edu/get-updates.
 
