@@ -1,9 +1,8 @@
 # LabNotebook
-
 - Branae Craveiro's Lab Notebook in Gignoux-Wolfsohn lab at University of Massachusetts Lowell 
 - Started April 2024
 ## Table of Contents 
-### Meeting Notes 
+### Meeting Notes    
 - detailed meeting notes with mentor separated by semester 
 	[[Summer 2025]]
 	[[Fall 2025]]

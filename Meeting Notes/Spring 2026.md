@@ -17,9 +17,6 @@
 - [ ] check datasheets 
 	- [ ] columbia datasheets are put away 
 	- [ ] print more sheets 
-
-## Questions 
-Do you need my help with bootcamp?
 ## Periodic survey
 This week, (check all that apply):
 - [ ]  I accomplished all or most of my goals

@@ -1,7 +1,4 @@
-Date updated: 05/13/2026 
-- a running list of tasks, put as much detail here as needed, and put in order of importance
-- this should include ALL work tasks list 
-
+Date updated: 05/14/2026 
 ### Belize Trip
 - Create fish for fishing laws games 
 	- create datasheet with a list of common fish and fishing seasons 
@@ -14,12 +11,13 @@ Date updated: 05/13/2026
 	- print and laminate 
 - Finish labeling and packing nutrient tubes for Brooke 
 	- Tristin will be done acid washing Friday 
-
 ### Panama Samples 
 - Finish extracting samples for Caroline 
 	- finish creating sample tracker 
 	- make project repo and upload tracker there 
-	- 
+### Other Tasks 
+- finish setting up lab notebook 
+- make a jupyter notebook? 
 
 
 
