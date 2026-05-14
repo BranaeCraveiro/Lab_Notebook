@@ -14,11 +14,19 @@
 - Running list of tasks/priorities
 [[Daily Notes]]
 - Daily to do list/goals
-
 ### Miscellaneous
-
-
+miscellaneous lab tasks 
+- colony photo labeling & coral sample inventory notes 
 ### Projects
+#### Molecular Practice 
+#### PAN_BDT 
+#### R scripts 
+
+### Protocols 
+All protocols found at https://github.com/GWLab-UML/Protocols 
+
+
+
 
 
 

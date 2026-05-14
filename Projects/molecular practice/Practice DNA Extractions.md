@@ -1,3 +1,4 @@
+practice DNA extractions using leftover supernatan from Caroline's samples
 ## 1/6/2025
 Sample 1
 092023_BEL CBC_T4 91 MCAV
