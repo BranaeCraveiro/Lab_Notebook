@@ -4,6 +4,7 @@
 - pick out invertebrates for invertebrate guide 
 
 Daily To Do List 
+- [x] add Sarah & Caroline to meeting repo 
 - [ ] go to undersea divers to buy a wetsuit 
 - [ ] pick out fish for game 
 	- [ ] create a spreadsheet with fish names, laws, and pictures I am thinking of printing 
