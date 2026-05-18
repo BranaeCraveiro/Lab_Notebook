@@ -5,11 +5,11 @@
 
 Daily To Do List 
 - [x] add Sarah & Caroline to meeting repo 
-- [ ] go to undersea divers to buy a wetsuit 
-- [ ] pick out fish for game 
-	- [ ] create a spreadsheet with fish names, laws, and pictures I am thinking of printing 
+- [x] go to undersea divers to buy a wetsuit 
+- [x] pick out fish for game 
+	- [x] create a spreadsheet with fish names, laws, and pictures I am thinking of printing 
 	- [ ] send list to Leah so she can check 
-- [ ] pick out invertebrates for guide 
+- [x] pick out invertebrates for guide 
 	- [ ] check list with Caroline (Maybe also Leah)
 # 05/14/2026 
 - attend bootcamp 
