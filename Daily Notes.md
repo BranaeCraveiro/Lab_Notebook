@@ -1,10 +1,17 @@
+# 05/19/2026 
+- respond to my collection of unanswered work emails 
+- finalize fish and invertebrates sheets (ready to print)
+- create weekly project plan 
+## To Do List 
+
+
 # 05/18/2026 
 - send meeting notes to Sarah 
 - DNA extraction 
 - print out maps for Belize 
 ## Daily To Do List 
-- [ ] DNA Extraction 
-- [ ] Send out meeting notes 
+- [x] DNA Extraction 
+- [x] Send out meeting notes 
 - [ ] print out maps 
 - [ ] plan other extractions (make weekly plan?) 
 # 05/15/2026 
