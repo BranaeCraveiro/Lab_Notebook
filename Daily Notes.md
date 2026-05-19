@@ -1,10 +1,25 @@
+# 05/20/2026 
+- print out maps for Belize 
+- finish labeling & bagging nutrient tubes 
+- finish Belize outreach prep 
+
+## To Do List 
+- [ ] change cyan ink in printer and update inventory sheet (forgot to do last week) 
+- [ ] 
+
+
+
+
 # 05/19/2026 
 - respond to my collection of unanswered work emails 
 - finalize fish and invertebrates sheets (ready to print)
 - create weekly project plan 
 ## To Do List 
-
-
+- [x] respond to emails 
+- [x] work on Belize outreach stuff 
+	- [x] finalize list of invertebrates & fish 
+- [ ] RLS paperwork 
+- [ ] weekly plan for summer 
 # 05/18/2026 
 - send meeting notes to Sarah 
 - DNA extraction 
