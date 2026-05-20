@@ -3,13 +3,13 @@
 - finish labeling & bagging nutrient tubes 
 - finish Belize outreach prep 
 ## To Do List 
-- [ ] update meeting notes/priorities
+- [x] update meeting notes/priorities
 - [ ] change cyan ink in printer and update inventory sheet (forgot to do last week) 
 - [ ] print out fish & Invertebrate outreach stuff 
-- [ ] label and pack nutrient tubes 
+- [x] label and pack nutrient tubes 
 - [ ] print out maps 
 - [ ] qubit extractions and update sample/metagenomics sheets 
-- [ ] confirm times with ria for extraction 
+- [x] confirm times with ria for extraction 
 - [ ] prepare for tomorrow's extraction
 	- [ ] confirm samples 
 	- [ ] set up lab notebook  

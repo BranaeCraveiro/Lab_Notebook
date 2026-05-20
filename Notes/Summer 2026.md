@@ -1,5 +1,5 @@
 ## weekly project plan 
-one thing I am hopeful about is that one I get the protocol working the PCR/sequencing work will be much faster than DNA extractions! 
+one thing I am hopeful about is that once I get the protocol working the PCR/sequencing work will be much faster than DNA extractions! 
 Also since I have less classes I have more time to do extractions during the semester 
 ### week one: May 11-15 
 - slow down and recollect myself after the semester 
