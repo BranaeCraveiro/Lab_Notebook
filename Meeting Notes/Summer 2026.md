@@ -44,10 +44,12 @@ we haven't bought the tickets yet so it wouldn't be the end of the world to tell
 
 
 ## Running Project Numbers 
-| species |   n | extracted | not extracted |
-| :------ | --: | --------- | ------------- |
-| CNAT    |  74 | 74        | -             |
-| MCAV    |  69 |           |               |
-| ORBI    |  58 |           |               |
-| PSTR    |  62 |           |               |
-| SSID    |  65 |           |               |
+| species   |   n | extracted | not extracted |
+| :-------- | --: | --------- | ------------- |
+| CNAT      |  74 | 74        | -             |
+| MCAV      |  69 | 17        | 52            |
+| ORBI      |  58 | 18        |               |
+| PSTR      |  62 | 18        |               |
+| SSID      |  65 | 20        |               |
+| **Total** | 328 | 147       |               |
+72 
