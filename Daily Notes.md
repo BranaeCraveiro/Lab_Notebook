@@ -4,11 +4,12 @@
 - finish Belize outreach prep 
 ## To Do List 
 - [x] update meeting notes/priorities
-- [ ] change cyan ink in printer and update inventory sheet (forgot to do last week) 
-- [ ] print out fish & Invertebrate outreach stuff 
+- [x] change cyan ink in printer and update inventory sheet (forgot to do last week) 
+- [ ] Finalize fish and invertebrate outreach prep
 - [x] label and pack nutrient tubes 
-- [ ] print out maps 
-- [ ] qubit extractions and update sample/metagenomics sheets 
+- [x] print out maps 
+- [x] qubit extractions
+	- [ ] update lab notebook and sample/metagenomics sheets 
 - [x] confirm times with ria for extraction 
 - [ ] prepare for tomorrow's extraction
 	- [ ] confirm samples 
