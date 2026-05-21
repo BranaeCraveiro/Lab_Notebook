@@ -9,11 +9,11 @@
 - [x] label and pack nutrient tubes 
 - [x] print out maps 
 - [x] qubit extractions
-	- [ ] update lab notebook and sample/metagenomics sheets 
+	- [x] update lab notebook and sample/metagenomics sheets 
 - [x] confirm times with ria for extraction 
-- [ ] prepare for tomorrow's extraction
-	- [ ] confirm samples 
-	- [ ] set up lab notebook  
+- [x] prepare for tomorrow's extraction
+	- [x] confirm samples 
+	- [x] set up lab notebook  
 # 05/19/2026 
 - respond to my collection of unanswered work emails 
 - finalize fish and invertebrates sheets (ready to print)
