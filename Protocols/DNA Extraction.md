@@ -24,7 +24,7 @@ Last edit: NJU & BC & SC 5/6/26 *(added my own notes on 7/16/25 & 5/13/2026)*
 
 3. Weigh your sample in the disruptor tube and note how much sample you’ve processed. Aim for 150 – 250 mg of coral sample (but it may depend on how much skeleton is in your sample).
 
-4. Add 725 µL of SLX-Mlus buffer to the disruptor tube. Vortex at top speed using the BenchMixer V2) until the coral skeleton is virtually bare (usually 15 minutes, but may be longer depending on how crushed the sample is).
+4. Add 725 µL of SLX-Mlus buffer to the disruptor tube. Vortex at top speed using the BenchMixer V2 until the coral skeleton is virtually bare (usually 15 minutes, but may be longer depending on how crushed the sample is).
 *tab the mixer plate to the machine to stop the plate from spinning and ruining the screw*
 
 5. Centrifuge shortly to remove droplets from the lid.
