@@ -30,8 +30,8 @@ Various R scripts used during PAN_BDT project development/troubleshooting
 	Dada2 Merge Pair Pipeline: code to merge forward and reverse sanger reads 
 	PAN Project Scope: code to evaluate current sample demographics (used to narrow project scope) 
 	Extraction Sample Counts: evaluating how many samples per species need to be extracted 
-	Seq Files Naming Loop: loop to rename sanger seq. files 
-	Smearing vs. Quality Score: evaluating relationship between nonspecific binding and seq. quality 
+	Seq Files Naming Loop: loop to rename sanger sequence files 
+	Smearing vs. Quality Score: evaluating relationship between nonspecific binding and seq quality 
 ### Protocols 
 - DNA extraction (protocol found at https://github.com/GWLab-UML/Protocols with my own notes/reminders) 
 - psbA (currently troubleshooting)

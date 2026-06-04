@@ -1,3 +1,18 @@
+# 06/05/2026 
+- organize photos in Belize 2026 folder 
+- create project repo 
+- finish sample tracker 
+
+## To Do List 
+- [ ] organize Curlew PQs 
+- [ ] organize House PQs 
+- [ ] create PAN_BDT project repo on github 
+- [ ] finalize sample tracker 
+- [ ] upload sample tracker to project repo 
+- [ ] unpack and organize Belize Fieldwork gear that needs to be returned to lab 
+	- [ ] inventory first aid kit 
+- [ ] research scientific paper note taking strategies to prepare for thesis 
+- [ ] book BSC for last 2 DNA extractions 
 # 05/20/2026 
 - print out maps for Belize 
 - finish labeling & bagging nutrient tubes 
