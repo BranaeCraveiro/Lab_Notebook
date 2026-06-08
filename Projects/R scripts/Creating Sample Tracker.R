@@ -3,15 +3,19 @@ require(tidyverse)
 require(dplyr)
 require(data.table)
 
-setwd("C:\\Users\\Owner\\OneDrive\\Documents\\GW Lab\\GitHub\\SCTLD_samples\\Sample_Data")
+setwd("C:\\Local_Files\\SCTLD_samples\\Sample_Data")
 
 #load Colony_Data.csv
-colony=read.csv("PAN-BDT_ColonyData.csv")
+colony <- read.csv("PAN-BDT_ColonyData.csv")
 
 #step 1: cleaning colony data 
 
 #checking column headers 
 head(colony)
+
+#removing MMEAs (breaks future merge look at lines 150-154)
+colony <- colony[!colony$Species == "MMEA", ]
+                                     
 
 #keeping useful columns 
 colony_clean=colony[c('Transect_num', 'Current_tag_num', 'X092022_Condition', 
@@ -90,12 +94,20 @@ head(metagenomics_PCR)
 nrow(metagenomics_PCR)
 nrow(sample_DNA)
 
+
 #keeping only my extracted samples (ones in penguin fridge) 
 sample_DNA <- sample_DNA[!is.na(sample_DNA$Extraction_physical_location) &
-                           sample_DNA$Extraction_physical_location == "UML_PENGUIN", ]
+                           sample_DNA$Extraction_physical_location != "" & 
+                           (sample_DNA$Extraction_physical_location == "UML_PENGUIN"| 
+                           sample_DNA$Extraction_physical_location == "not_yet_extracted") , ]
 
-metagenomics_PCR <- metagenomics_PCR[metagenomics_PCR$Extraction_physical_location == "UML_PENGUIN", ]
-#for some reason the NAs were messing with just the sample_DNA df so I had to clean for NA also 
+
+metagenomics_PCR <- metagenomics_PCR[!is.na(metagenomics_PCR$Extraction_physical_location) & 
+                                       metagenomics_PCR$Extraction_physical_location != "" & 
+                                       (metagenomics_PCR$Extraction_physical_location == "UML_PENGUIN" | 
+                                       metagenomics_PCR$Extraction_physical_location == "not_yet_extracted"), ]
+
+#for future reference some reason NAs and blanks were messing with the filtering so I had to clean those also 
 
 head(sample_DNA)
 head(metagenomics_PCR)
@@ -103,7 +115,7 @@ head(metagenomics_PCR)
 nrow(metagenomics_PCR)
 nrow(sample_DNA)
 
-#troubleshooting why rows counts are not adding up 
+#troubleshooting why rows counts are not adding up   
 #manually checked the metagenomics tracker and that has the correct number of extracted samples
 
 #rows in meta that are not in sample
@@ -116,6 +128,7 @@ nrow(sample_DNA)
 
 sum(!(metagenomics_PCR$Tubelabel_species %in% sample_DNA$Tubelabel_species))
 
+table(sample_DNA$Species, sample_DNA$Extraction_physical_location)
 
 #I extracted one sample twice by accident so I need to remove the extra from meta_PCR
 print(metagenomics_PCR[(metagenomics_PCR$Tubelabel_species == "92022_PAN_BDT_T2_48_CNAT"), ]) 
@@ -127,16 +140,35 @@ nrow(metagenomics_PCR)
 nrow(sample_DNA)
 print(metagenomics_PCR[(metagenomics_PCR$Tubelabel_species == "92022_PAN_BDT_T2_48_CNAT"), ]) 
 
-
 #info using to create ties between sample_dna and metagenomics_PCR
 sample_DNA=sample_DNA[c("Month_year", "Tubelabel_species", "colony")]
 
 sample_tracker <- merge(x=metagenomics_PCR, y=sample_DNA, by="Tubelabel_species")
 
 #fixing month year column so the names match 
-names(sample_tracker)[names(sample_tracker) == "Month_year"] <- "MonthYear"
+names(sample_tracker)[6] <- "MonthYear"
 colnames(sample_tracker)
 
-sample_tracker <- merge(sample_tracker, colony_long, by = c("MonthYear", "colony"), all = FALSE)
+#having issues with the merging sample tracker and colony data where it is
+#adding an extra row so checking if there is a duplicate colony code in colony data 
+print(colony_long[duplicated(colony_long[, c("MonthYear", "colony")]), ])
 
+#there is also an MMEA that is colony 3_80, removing it earlier in my code since I am not looking at MMEAs
+
+#having issue with condition imputting a bunch of NAs so looking into that now 
+
+#rows in sample tracker that are not in colony
+(sample_tracker[!(sample_tracker$colony %in% colony_long$colony), ])
+#rows in colony that are not in sample tracker 
+(colony_long[!(colony_long$colony %in% sample_tracker$colony), ])
+
+#looking at the two df it seems to be a leading 0 in the MonthYear that is causing the mismatch
+sample_tracker$MonthYear <- as.character(as.matrix(sample_tracker$MonthYear))
+sample_tracker$MonthYear <- ifelse(nchar(sample_tracker$MonthYear) == 5, paste0("0", sample_tracker$MonthYear), sample_tracker$MonthYear)
+head(sample_tracker$MonthYear)
+
+#merging sample tracker and colony data
+sample_tracker <- merge(sample_tracker, colony_long, by = c("MonthYear", "colony"), all.x = TRUE)
+
+write.csv(sample_tracker, "psbA_sample_tracker.csv", row.names = FALSE)
 
