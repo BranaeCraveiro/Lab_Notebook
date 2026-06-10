@@ -1,18 +1,45 @@
+# 06/10/2026 
+- PCR with Caroline's primers 
+- Run samples in gel 
+- figure out where missing T3_727_PSTR went 
+## To do list 
+- [ ] Qubit DNA extraction 
+- [ ] prepare tubes for tomorrow's extraction
+- [ ] PCR w/ Caroline's primers 
+- [ ] figure out where missing PSTR sample is 
+- [ ] create book sign out sheet 
+- [ ] fix DNA extraction box labels 
+- [ ] fix DNA extraction folders from species to year extracted
+	- [ ] add older version of protocol to CNAT extraction? 
+# 06/09/2026
+- DNA extraction 
+- Meeting with Sarah and Caroline 
+- read journal club paper 
+## To Do List 
+- [x] reorganize samples into 2 days of extraction instead of 3 
+- [x] look into research article note taking strategies
+- [x] DNA extraction 
+# 06/8/2026
+- unpack Lab stuff from Belize 
+- DNA extraction 
+- organize PQs/leftover photos in 2026 folder
+## To Do List 
+- [x] inventory CBC 2026 samples with Brooke (took all day)
+- [x] organized House PQs 
+- [x] organized Curlew PQs 
 # 06/05/2026 
 - organize photos in Belize 2026 folder 
 - create project repo 
 - finish sample tracker 
-
 ## To Do List 
 - [ ] organize Curlew PQs 
 - [ ] organize House PQs 
-- [ ] create PAN_BDT project repo on github 
-- [ ] finalize sample tracker 
-- [ ] upload sample tracker to project repo 
+- [x] create PAN_BDT project repo on github 
+- [x] finalize sample tracker 
+- [x] upload sample tracker to project repo 
 - [ ] unpack and organize Belize Fieldwork gear that needs to be returned to lab 
-	- [ ] inventory first aid kit 
 - [ ] research scientific paper note taking strategies to prepare for thesis 
-- [ ] book BSC for last 2 DNA extractions 
+- [x] book BSC for last 2 DNA extractions 
 # 05/20/2026 
 - print out maps for Belize 
 - finish labeling & bagging nutrient tubes 
