@@ -1,98 +1,15 @@
-*trying to purify another 700 bp sample since the 700 bp sample from 10.6.2025 concentration was low*
-sample: **1_6C:** T3_36 w/ 6 uL at temp C (want 700 bp band)
+**sample 1:** 92022_PAN_BDT_T3_8_CNAT (sample 4 from [2026-01-15](2026-01-15.md)
+## Jan 21 Cleaned Sample Gel 
+![](2026_01_21_Gel.png)
 
-## 11/6/2025 Gel & Qubit Results 
-![](CNAT%20psbA%20Gel%20Images/2025_11_06_Gel.png)
+*notes: I just followed the protocol from the last time I cleaned a 1500 bp sample without realizing my previous sample did not have a 300 bp band, hence when the bead concentration did not remove the 300 bp band. I will re-clean using 0.6x bead concentration instead of 1.8x* 
 
-*Notes: There is a very faint band (was a little brighter in person the camera had a very hard time picking it up) at what I assume is the 700bp length since the ladder is a little smudgy*
-### quibit 
-Sample: **1_6C:** T3_36 w/ 6 uL at temp C (want 700 bp band)
-Concentration: 4.48 ng/μL
-### sending out sequence math 
-*need to make 10 ul of 2 ng/ul*
-Sample: **1_6C:** T3_36 w/ 6 uL at temp C (want 700 bp band)
-	Concentration: 4.48 ng/μL
-	V1 = C2(V2)/ C1 = (2 x 10)/4.48
-		need:
-		4.5 uL DNA
-		5.5 uL water 
+## Qubit Results 
+Sample 1: 92022_PAN_BDT_T3_8_CNAT
+Concentration: 38.6 ng/μL
 
-## 11/10/2025 sending out samples for sequencing 
-need to create primer stock for sequencing that is 5 uL at 25 pmol. 
-1 pmol/uL = 1 uM
-	ex. 1 uM = 1 umol/L = 1 nmol/ml = 1 pmol/ul
-
-so if I want 5 uL at 25 pmol then I want 5 pmol/ul = 5 uM
-
-C1V1 = C2V2 
-V1 = (C2V2)/C1 
-V1 = (5uM x 5 uL)/10uM
-V1 = 2.5 uL 
-
-Need 2.5 uL of 10uM primer stock per sequence
-*and need to add 2.5 uL of water to sample to make it total to 5 uL* 
-### Bar code: AT03901556
-Sample: 1 (cleaned 300 bp sample from 10.6.2025- originally tube 1_6E from 9.2.2025) 
-	Concentration: 8.62 ng/μL
-	V1 = C2(V2)/ C1 = (20)/8.62
-		need:
-		2.3 uL DNA
-		7.7 uL water + 2.5 from primer dilution = 10.2 uL water 
-		2.5 uL primer from 10 uM stock
-		USED FORWARD PRIMER 
-
-### Bar code: AT03901555
-Sample: 1 (cleaned 300 bp sample from 10.6.2025- originally tube 1_6E from 9.2.2025) 
-	Concentration: 8.62 ng/μL
-	V1 = C2(V2)/ C1 = (20)/8.62
-		need:
-		2.3 uL DNA
-		7.7 uL water + 2.5 from primer dilution = 10.2 uL water 
-		2.5 uL primer from 10 uM stock
-		USED REVERSE PRIMER 
-
-### Bar code: AT03901554
-Sample: 2 (cleaned 1500 bp sample from 10.6.2025- originally tube 2_4B from 9.2.2025)
-	Concentration: 12.0 ng/μL
-	V1 = C2(V2)/ C1 = (20)/12.00
-		need: 
-		1.7 uL DNA 
-		8.3 uL water + 2.5 from primer dilution = 10.2 uL water 10.8 uL 
-		2.5 uL primer from 10 uM stock
-		USED FORWARD PRIMER
-
-### Bar code: AT03901553
-Sample: 2 (cleaned 1500 bp sample from 10.6.2025- originally tube 2_4B from 9.2.2025)
-	Concentration: 12.0 ng/μL
-	V1 = C2(V2)/ C1 = (20)/12.00
-		need: 
-		1.7 uL DNA 
-		8.3 uL water + 2.5 from primer dilution = 10.2 uL water 10.8 uL 
-		2.5 uL primer from 10 uM stock
-		USED REVERSE PRIMER
-
-### Bar Code: AT0390152
-
-Sample: 3 (cleaned 700 bp sample from 11.5.2025- originally tube 1_6C from 9.2.2025) 
-	Concentration: 4.48 ng/μL
-	V1 = C2(V2)/ C1 = (2 x 10)/4.48
-		need:
-		4.5 uL DNA
-		5.5 uL water + 2.5 uL from primer dilution = 8 uL 
-		2.5 uL primer from 10 uM stock
-		 USED FORWARD PRIMER
-
-### Bar Code: AT0390151
-Sample: 3 (cleaned 700 bp sample from 11.5.2025- originally tube 1_6C from 9.2.2025) 
-	Concentration: 4.48 ng/μL
-	V1 = C2(V2)/ C1 = (2 x 10)/4.48
-		need:
-		4.5 uL DNA
-		5.5 uL water + 2.5 uL from primer dilution = 8 uL 
-		2.5 uL primer from 10 uM stock
-		 USED REVERSE PRIMER
-# All done in the Post PCR Room
-## III. Purification with ampure beads
+# DONE IN POST PCR ROOM
+## Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
 ### Purification Preparation
 - obtain, label, and cross-link new strip tubes start with the manufacturer protocol using 1.8X-1.0X DNA to bead ratio and 10uL-25uL PCR product 
@@ -100,9 +17,8 @@ https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-rat
 	*may need to re-clean samples if gel images show that multiple bands were not removed*
 	- *1.0x will get rid of <200 bp dimers, 1.8X will get rid of dimer <100 bp* 
 - all calculations can be done here: [https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=1947158502#gid=1947158502](https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=1947158502#gid=1947158502) 
-
 ### Purification 
-1. make fresh 80% ethanol in a 50mL tube (label and parafilm when not in use) - put in fridge to chill
+1. make fresh 80% ethanol in a 50mL tube (label and parafilm when not in use)
     - paste filled out table here
 
 | Number of Samples | 80% EtOH for each sample (uL) | Total 80% EtoH needed (uL) | Volume 100% EtOH (uL) | Volume H2O (uL) |
@@ -111,13 +27,13 @@ https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-rat
 |                   |                               | in mL                      |                       |                 |
 |                   |                               | 0.36                       | 0.288                 | 0.072           |
 
-2. Determine whether or not a plate transfer is necessary. If the PCR reaction volume multiplied by 2.8 exceeds the volume of the PCR plate, a transfer to larger tubes is required. 
+2. Determine whether or not a plate transfer is necessary. If the PCR reaction volume multiplied by 2.8 exceeds the volume of the PCR plate, a transfer to larger tubes is required.
 3. Gently shake the Clean NGS Mag PCR Clean-up aliquot to resuspend any Magnetic particles that may have settled.
-    1. Add CleanNGS Mag PCR Clean-up volume table below:
+    1. Add CleanN GS Mag PCR Clean-up volume table below:
 
 | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
 | ------------------ | --------------- | ----------------------- | --------------- | ---------------------- |
-| 0.6                | 20              | 12                      | 1               | 12                     |
+| 1.8                | 24              | 43.2                    | 1               | 43.2                   |
 
 **Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
 _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)_
@@ -143,5 +59,6 @@ _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volum
 13. Transfer the cleared supernatant containing purified DNA and/or RNA to a new (RNase-free) 96-well microplate and seal with non-permeable sealing film.
 14. Store the plate at 2-8°C if storage is only for a few days. For long-term storage, samples should be kept at -20°C.
 
-### Sample Location 
-Post PCR Fridge in box "PAN_BDT_CNAT_psbA Box #2"
+## Sample Location 
+find here [2026-01-22 bead cleanup (retry)](2026-01-22%20bead%20cleanup%20(retry).md)
+

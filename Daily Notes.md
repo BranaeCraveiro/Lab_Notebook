@@ -3,13 +3,14 @@
 - Run samples in gel 
 - figure out where missing T3_727_PSTR went 
 ## To do list 
-- [ ] Qubit DNA extraction 
+- [x] Qubit DNA extraction 
+	- [ ] update lab notebook and datasheets 
 - [ ] prepare tubes for tomorrow's extraction
 - [ ] PCR w/ Caroline's primers 
 - [ ] figure out where missing PSTR sample is 
 - [ ] create book sign out sheet 
 - [ ] fix DNA extraction box labels 
-- [ ] fix DNA extraction folders from species to year extracted
+- [x] fix DNA extraction folders from species to year extracted
 	- [ ] add older version of protocol to CNAT extraction? 
 # 06/09/2026
 - DNA extraction 
