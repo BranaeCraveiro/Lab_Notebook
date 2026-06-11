@@ -1,3 +1,11 @@
+# 6/12/2026
+# 6/11/2026 
+- finish logging dives & email ted
+- Figure out what sample to replace T3_77 
+- DNA extraction 
+## To Do 
+- [ ] 
+
 # 06/10/2026 
 - PCR with Caroline's primers 
 - Run samples in gel 
