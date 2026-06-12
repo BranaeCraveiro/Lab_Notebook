@@ -1,23 +1,40 @@
 # 6/12/2026
+- PCR w/ Caroline's primers 
+- first read through of journal club paper 
+- upload DNA extraction metadata into trackers 
+## To Do 
+- [ ] qubit yesterdays extraction 
+- [ ] update metadata trackers w/ 6/11 & 6/9 extraction info 
+	- [ ] check that I added dates to 6/11 extraction tubes (think I forgot to yesterday)
+- [ ] update sample inventory with new box names 
+- [ ] update psbA sample tracker 
+- [ ] PCR w/ Caroline's primers
+	- [ ] Run a gel  
+	- [ ] add to lab notebook 
+- [ ] rehydrate primers
+- [ ] first read through of journal club paper
 # 6/11/2026 
 - finish logging dives & email ted
 - Figure out what sample to replace T3_77 
 - DNA extraction 
 ## To Do 
-- [ ] 
+- [x] pick new sample colony time series to replace missing subset 
+- [x] DNA extraction
+- [ ] finish logging dives 
+- [ ] draft email to Ted (schedule send for tmrw)
+- [x] update CBC lab notebook with missing dates (6/2 & 6/3)
 
 # 06/10/2026 
-- PCR with Caroline's primers 
-- Run samples in gel 
 - figure out where missing T3_727_PSTR went 
+- Put away Belize gear 
+- log dives for LOR (needed for RLS workshop)
 ## To do list 
 - [x] Qubit DNA extraction 
-	- [ ] update lab notebook and datasheets 
-- [ ] prepare tubes for tomorrow's extraction
-- [ ] PCR w/ Caroline's primers 
-- [ ] figure out where missing PSTR sample is 
-- [ ] create book sign out sheet 
-- [ ] fix DNA extraction box labels 
+	- [x] update lab notebook
+- [x] figure out where missing PSTR sample is 
+	- still can't find it :(
+- [x] create book sign out sheet 
+- [x] fix DNA extraction box labels 
 - [x] fix DNA extraction folders from species to year extracted
 	- [ ] add older version of protocol to CNAT extraction? 
 # 06/09/2026
