@@ -1,13 +1,13 @@
-*based off of NEB's Hot Start _Taq_ DNA Polymerase (M0495) https://www.neb.com/en-us/protocols/2012/10/04/pcr-using-hot-start-taq-dna-polymerase-m0495
+*adapted from NEB's Hot Start _Taq_DNA Polymerase (M0495) https://www.neb.com/en-us/protocols/2012/10/04/pcr-using-hot-start-taq-dna-polymerase-m0495
 
 *use this sheet to determine reagent volumes*
 https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=92320545#gid=92320545
 
-last updated: 5/13/2026 
+last updated: 6/14/2026 
 ## I. PCR 
 ### PCR Preparation 
 - thaw reagents & samples 
-- UV & label PCR tubes
+- UV & label PCR tubes (1 tube per sample)
 - check that molecular water is aliquoted 
 - include negative control (water) in calculations  
 ### Create master mix for each sample
@@ -32,14 +32,13 @@ copy and paste calculation table here:
 	*albumin is viscous so pipet slowly*
 4. Pipette 24µL of master mix into each replicate tube
 	*always mix master mix by pipetting up and down before filling each tube*
-5. Pipette 1µL of DNA into each replicate tube
-	*use new pipette tip for each replicate*
+5. Pipette 1µL of DNA into each tube
 6. briefly centrifuge pcr tubes before thermal cycler
 7. run thermocycler program: *35 cycles takes ~ 2 hours 21 minutes* 
     1. 95°C for 30 seconds
     2. 95°C for 30 seconds
     3. 45-68°C for 1 minute *(53.6°C optimal for clade D/B primers)*
-    4. 68°C for 1.5 minute _repeat 2-4 for 35 cycles (# of cycles varies depending on input)
+    4. 68°C for 1.5 minute _repeat 2-4 for 35 cycles
     5. 68°C for 5 minutes
     6. 8°C for Forever
 

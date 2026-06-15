@@ -82,15 +82,20 @@ names(metagenomics)[names(metagenomics) == 'X'] <- 'Tubelabel_species'
 colnames(metagenomics)
 
 #isolating useful columns 
-metagenomics_PCR = metagenomics[c("Tubelabel_species", "Health_Status", "Extracted", "Raw_ng_ul", "Extraction_physical_location")]
+metagenomics_PCR = metagenomics[c("Tubelabel_species", "Health_Status", "Extracted", "Raw_ng_ul", "Extraction_physical_location" , "Notes")]
 
 #checking if code worked
+head(metagenomics_PCR)
+
+#renaming notes column 
+names(metagenomics_PCR)[6] <- "Extraction_notes"
+#check if worked 
 head(metagenomics_PCR)
 
 
 #Step 4: merging sample_DNA and metagenonics_PCR into one dataframe 
 
-#need to make number of rows match- need to remove samples not yet extracted 
+#need to make number of rows match - need to remove samples not yet extracted
 nrow(metagenomics_PCR)
 nrow(sample_DNA)
 
@@ -98,14 +103,16 @@ nrow(sample_DNA)
 #keeping only my extracted samples (ones in penguin fridge) 
 sample_DNA <- sample_DNA[!is.na(sample_DNA$Extraction_physical_location) &
                            sample_DNA$Extraction_physical_location != "" & 
-                           (sample_DNA$Extraction_physical_location == "UML_PENGUIN"| 
-                           sample_DNA$Extraction_physical_location == "not_yet_extracted") , ]
+                           (sample_DNA$Extraction_physical_location == "UML_PENGUIN_B1"| 
+                           sample_DNA$Extraction_physical_location == "UML_PENGUIN_B2" |
+                           sample_DNA$Extraction_physical_location == "UML_PENGUIN_B3") , ]
 
 
 metagenomics_PCR <- metagenomics_PCR[!is.na(metagenomics_PCR$Extraction_physical_location) & 
                                        metagenomics_PCR$Extraction_physical_location != "" & 
-                                       (metagenomics_PCR$Extraction_physical_location == "UML_PENGUIN" | 
-                                       metagenomics_PCR$Extraction_physical_location == "not_yet_extracted"), ]
+                                       (metagenomics_PCR$Extraction_physical_location == "UML_PENGUIN_B1" |
+                                        metagenomics_PCR$Extraction_physical_location == "UML_PENGUIN_B2" |
+                                       metagenomics_PCR$Extraction_physical_location == "UML_PENGUIN_B3"), ]
 
 #for future reference some reason NAs and blanks were messing with the filtering so I had to clean those also 
 
@@ -146,7 +153,7 @@ sample_DNA=sample_DNA[c("Month_year", "Tubelabel_species", "colony")]
 sample_tracker <- merge(x=metagenomics_PCR, y=sample_DNA, by="Tubelabel_species")
 
 #fixing month year column so the names match 
-names(sample_tracker)[6] <- "MonthYear"
+names(sample_tracker)[7] <- "MonthYear"
 colnames(sample_tracker)
 
 #having issues with the merging sample tracker and colony data where it is
@@ -155,7 +162,7 @@ print(colony_long[duplicated(colony_long[, c("MonthYear", "colony")]), ])
 
 #there is also an MMEA that is colony 3_80, removing it earlier in my code since I am not looking at MMEAs
 
-#having issue with condition imputting a bunch of NAs so looking into that now 
+#having issue with condition inputting a bunch of NAs so looking into that now 
 
 #rows in sample tracker that are not in colony
 (sample_tracker[!(sample_tracker$colony %in% colony_long$colony), ])
@@ -163,7 +170,7 @@ print(colony_long[duplicated(colony_long[, c("MonthYear", "colony")]), ])
 (colony_long[!(colony_long$colony %in% sample_tracker$colony), ])
 
 #looking at the two df it seems to be a leading 0 in the MonthYear that is causing the mismatch
-sample_tracker$MonthYear <- as.character(as.matrix(sample_tracker$MonthYear))
+sample_tracker$MonthYear <- as.character(sample_tracker$MonthYear)
 sample_tracker$MonthYear <- ifelse(nchar(sample_tracker$MonthYear) == 5, paste0("0", sample_tracker$MonthYear), sample_tracker$MonthYear)
 head(sample_tracker$MonthYear)
 

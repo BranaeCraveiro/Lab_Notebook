@@ -2,23 +2,21 @@
  Branae Craveiro's Lab Notebook in Gignoux-Wolfsohn lab at University of Massachusetts Lowell 
  Started April 2024
 ## Table of Contents 
+
+[[Priorities]]
+Running list of tasks/priorities
+- started May 2026 
+- 
+[[Daily Notes]]
+Daily to do list/goals
+- started May 2026 
 ### Notes    
 detailed meeting notes with mentor separated by semester 
 	[[Summer 2025]]
 	[[Fall 2025]]
 	[[Spring 2026]]
-	[[Summer 2026]]
-
-[[Priorities]]
-Running list of tasks/priorities
-- started May 2026 
-
-[[Daily Notes]]
-Daily to do list/goals
-- started May 2026 
-### Miscellaneous
-miscellaneous lab tasks 
-- colony photo labeling & coral sample inventory notes 
+Miscellaneous lab tasks 
+-  colony photo labeling & coral sample inventory notes
 ### Projects
 #### Molecular Practice 
 qubit, DNA extraction, and gel electrophoresis practice 

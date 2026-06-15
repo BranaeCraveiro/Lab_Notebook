@@ -1,18 +1,30 @@
+# 6/14/2026 
+- Run Gels for Caroline 
+- Fill out forms for RLS/Respond to emails
+- Read Journal Club Article 
+
+## To do 
+- [ ] Upload gel from Friday 
+- [ ] Run gels for Caroline 
+- [ ] Read journal club article 
+- [ ] email back Michelle about housing stuff for RLS 
+- [ ] send out meeting notes to Sarah & Caroline for tmrw 
+- [ ] study RLS fish flashcards 
+
 # 6/12/2026
+- DIVE PLAN FOR RLS???????
 - PCR w/ Caroline's primers 
-- first read through of journal club paper 
 - upload DNA extraction metadata into trackers 
 ## To Do 
-- [ ] qubit yesterdays extraction 
-- [ ] update metadata trackers w/ 6/11 & 6/9 extraction info 
-	- [ ] check that I added dates to 6/11 extraction tubes (think I forgot to yesterday)
-- [ ] update sample inventory with new box names 
-- [ ] update psbA sample tracker 
-- [ ] PCR w/ Caroline's primers
-	- [ ] Run a gel  
+- [x] qubit yesterdays extraction 
+- [x] update metadata trackers w/ 6/11 & 6/9 extraction info 
+	- [x] check that I added dates to 6/11 extraction tubes (think I forgot to yesterday)
+- [x] update sample inventory with new box names 
+- [x] update psbA sample tracker 
+- [x] PCR w/ Caroline's primers
+	- [x] Run a gel  
 	- [ ] add to lab notebook 
 - [ ] rehydrate primers
-- [ ] first read through of journal club paper
 # 6/11/2026 
 - finish logging dives & email ted
 - Figure out what sample to replace T3_77 
@@ -20,8 +32,8 @@
 ## To Do 
 - [x] pick new sample colony time series to replace missing subset 
 - [x] DNA extraction
-- [ ] finish logging dives 
-- [ ] draft email to Ted (schedule send for tmrw)
+- [x] finish logging dives 
+- [x] draft email to Ted (schedule send for tmrw)
 - [x] update CBC lab notebook with missing dates (6/2 & 6/3)
 
 # 06/10/2026 
