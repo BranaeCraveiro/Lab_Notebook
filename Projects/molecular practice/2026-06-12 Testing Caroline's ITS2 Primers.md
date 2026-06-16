@@ -1,4 +1,4 @@
-Sanity check: Dr. Lee noted that maybe the issue is that I am bad at PCR's so I am doing 3 samples with Caroline's primers to see if I get the same results that Caroline does
+ Sanity check: Dr. Lee noted that maybe the issue is that I am bad at PCR's so I am doing 3 samples with Caroline's primers to see if I get the same results that Caroline does
 
 | Tubelabel_species          | Health_Status | Extracted | Raw_ng_ul | Extraction_physical_location | MonthYear | colony | Caroline_ITS2 |
 | -------------------------- | ------------- | --------- | --------- | ---------------------------- | --------- | ------ | ------------- |
@@ -6,7 +6,8 @@ Sanity check: Dr. Lee noted that maybe the issue is that I am bad at PCR's so I 
 | 102023_PAN_BDT_T1_90_CNAT  | CLP           | 7_7_2025  | 29        | UML_PENGUIN_B1               | 102023    | 1_26   | x             |
 | 102023_PAN_BDT_T3_335_CNAT | CLP           | 7_7_2025  | 71.8      | UML_PENGUIN_B1               | 102023    | 3_75   | x             |
 
-# 6/12/2026 Gel Image 
+# 6/12/2026 Gel
+![[2026_06_12_Gel.png]] Image 
 
 # ITS2 part 1 Protocol
 **NOTE**: adapted from: [SOP_MDE_Metabarcoding Standard Genetic Methods (November2021).pdf](https://github.com/SERCCoastalDisease/Protocols/blob/main/SOP_MDE_Metabarcoding%20Standard%20Genetic%20Methods%20(November2021).pdf)
