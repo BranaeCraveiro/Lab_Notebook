@@ -1,13 +1,30 @@
-# 6/14/2026 
+# 6/17/2026
+- retry ITS2 PCR (last 2 samples of Caroline's batch)
+- add journal article notes to paper notes repo 
+- first reading of Brandon's lab meeting paper 
+
+# 6/16/2026 
+- ran 1% gel for Caroline's psbA samples 
+- prepare for meeting w/ Sarah & Caroline 
+- return out planted sample (Nikea Extracted) back into original sample boxes 
+## To do 
+- [x] 1% gel for Caroline (psbA)
+	- [x] upload image & update lab notebook
+- [x] push lab meeting prep to Sarah & Caroline 
+- [x] put Nikea's samples back in the fridge 
+- [x] Finish reading journal club paper 
+- [ ] study RLS Fish flashcards 
+- [ ] fill out forms for Smithsonian 
+
+# 6/15/2026 
 - Run Gels for Caroline 
 - Fill out forms for RLS/Respond to emails
 - Read Journal Club Article 
-
 ## To do 
-- [ ] Upload gel from Friday 
-- [ ] Run gels for Caroline 
-- [ ] Read journal club article 
-- [ ] email back Michelle about housing stuff for RLS 
+- [x] Upload gel from Friday 
+- [x] Run gels for Caroline 
+- [x] Read journal club article 
+- [x] email back Michelle about housing stuff for RLS 
 - [ ] send out meeting notes to Sarah & Caroline for tmrw 
 - [ ] study RLS fish flashcards 
 
