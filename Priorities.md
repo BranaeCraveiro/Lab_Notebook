@@ -1,24 +1,27 @@
-Date updated: 06/09/2026 
+Date updated: 06/17/2026 
 # Panama Samples 
-- Finish extracting samples for Caroline 
-	- figure out where missing PSTR sample went 
-- PCR with Caroline's primers 
-	- use 3 samples
+## Molecular lab work 
+- retry PCR with Caroline's primers 
+	- do last 2 samples in her set of 32 
 - Try clade C primers
 	- rehydrate primers
 	- run 3 samples
 	- if successful sequence them & run a BLAST search
+## Computational lab work 
+- create pipeline to make sea surface temp & DHW graph from Smithsonian's BDT temp data 
+# RLS Workshop 
+- study fish flashcards 
+- read RLS protocol 
+- fill out forms 
+- book housing 
 # Belize Fieldwork
-- put away gear used on trip 
 - create a photobook protocol 
-- ask if I can use a BC for Florida
+- read coral survey protocol and send Leah feedback
 # Other Tasks 
+- read paper for lab meeting 
 - figure out good paper notetaking strategy 
 	- Read journal club paper and test out new method 
-- create book sign out sheet 
-- start studying fish species 
-	- big 3: damsel, wrasse, & parrotfish(?)
-- make a jupyter notebook? 
+- make a jupyter notebook 
 
 
 

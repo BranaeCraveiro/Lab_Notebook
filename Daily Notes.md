@@ -1,8 +1,22 @@
+# 6/17/2026 
+- make a markdown file following ITS2 troubleshooting journey
+- 
 # 6/17/2026
-- retry ITS2 PCR (last 2 samples of Caroline's batch)
-- add journal article notes to paper notes repo 
-- first reading of Brandon's lab meeting paper 
+- retry ITS2 PCR (non triplicate- 2 samples we know works from yesterday)
+- Dive plan for RLS workshop 
+- add WDHOF budget to meeting notes repo
+## To do 
+- [x] PCR with Caroline's samples 
+	- [ ] run gel and update lab notebook
+- [x] book housing for RLS 
+	- [x] email Michelle confirmation
+- [x] add wdhof budget page to meeting notes repo
+- [ ] submit forms & Dive plan for RLS workshop 
+- [ ] study fish flashcards 
 
+### Notes 
+always watch DNA polymerase sink down in the master mix to give yourself peace of mind 
+UV water before each use 
 # 6/16/2026 
 - ran 1% gel for Caroline's psbA samples 
 - prepare for meeting w/ Sarah & Caroline 
@@ -15,7 +29,6 @@
 - [x] Finish reading journal club paper 
 - [ ] study RLS Fish flashcards 
 - [ ] fill out forms for Smithsonian 
-
 # 6/15/2026 
 - Run Gels for Caroline 
 - Fill out forms for RLS/Respond to emails
@@ -27,7 +40,6 @@
 - [x] email back Michelle about housing stuff for RLS 
 - [ ] send out meeting notes to Sarah & Caroline for tmrw 
 - [ ] study RLS fish flashcards 
-
 # 6/12/2026
 - DIVE PLAN FOR RLS???????
 - PCR w/ Caroline's primers 
@@ -52,7 +64,6 @@
 - [x] finish logging dives 
 - [x] draft email to Ted (schedule send for tmrw)
 - [x] update CBC lab notebook with missing dates (6/2 & 6/3)
-
 # 06/10/2026 
 - figure out where missing T3_727_PSTR went 
 - Put away Belize gear 
