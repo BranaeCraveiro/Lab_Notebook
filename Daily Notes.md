@@ -1,6 +1,7 @@
 # 6/17/2026 
 - make a markdown file following ITS2 troubleshooting journey
-- 
+- do psbA PCR (try vortexing DTNPs & Buffer)
+- if successful try ITS2 with same samples as Caroline but DTNPs & Buffer
 # 6/17/2026
 - retry ITS2 PCR (non triplicate- 2 samples we know works from yesterday)
 - Dive plan for RLS workshop 

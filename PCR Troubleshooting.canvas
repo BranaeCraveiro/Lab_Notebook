@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"54eedabee778b84b","type":"file","file":"Projects/PAN_BDT/psbA/2026/2026 Gel Images/2026_06_16_psbA_Comparison.png","x":840,"y":800,"width":349,"height":400},
+		{"id":"8c8052f7a87f5b49","type":"file","file":"Projects/molecular practice/Practice Gel Images/2026_06_12_Gel.png","x":-680,"y":460,"width":338,"height":399},
+		{"id":"431e5b7950a7a4ff","type":"file","file":"Projects/molecular practice/Practice Gel Images/2026_06_17_Gel_1.png","x":-680,"y":1000,"width":341,"height":400},
+		{"id":"3aa591c82caa4647","type":"file","file":"Projects/molecular practice/Practice Gel Images/2026_06_17_Gel_2.png","x":80,"y":1000,"width":348,"height":400}
+	],
+	"edges":[]
+}

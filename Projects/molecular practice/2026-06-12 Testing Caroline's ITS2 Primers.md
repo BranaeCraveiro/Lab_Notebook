@@ -7,8 +7,7 @@
 | 102023_PAN_BDT_T3_335_CNAT | CLP           | 7_7_2025  | 71.8      | UML_PENGUIN_B1               | 102023    | 3_75   | x             |
 
 # 6/12/2026 Gel
-![[2026_06_12_Gel.png]] Image 
-
+![[2026_06_12_Gel.png]] 
 # ITS2 part 1 Protocol
 **NOTE**: adapted from: [SOP_MDE_Metabarcoding Standard Genetic Methods (November2021).pdf](https://github.com/SERCCoastalDisease/Protocols/blob/main/SOP_MDE_Metabarcoding%20Standard%20Genetic%20Methods%20(November2021).pdf)
 

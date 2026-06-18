@@ -1,4 +1,4 @@
-*adapted from NEB's Hot Start _Taq_DNA Polymerase (M0495) https://www.neb.com/en-us/protocols/2012/10/04/pcr-using-hot-start-taq-dna-polymerase-m0495
+c*adapted from NEB's Hot Start _Taq_DNA Polymerase (M0495) https://www.neb.com/en-us/protocols/2012/10/04/pcr-using-hot-start-taq-dna-polymerase-m0495
 
 *use this sheet to determine reagent volumes*
 https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=92320545#gid=92320545
@@ -52,23 +52,23 @@ copy and paste calculation table here:
 ### Making and setting up a gel
 1. calculating gel density:
     *% = weight (g) / volume (mL)*
-2. mix agar and fresh TBE buffer to generate a 1.5% agarose gel that will be large enough for the gel mold
+2. mix agar and fresh TBE buffer to generate a 1% agarose gel that will be large enough for the gel mold
 	*small gel mold: 25 mL
 	medium gel mold: 50 mL
 	large gel mold: 75 mL*
 3. melt mixture (on hot plate with stir bar or microwave) until mixture has big bubbles and there's no floaters
 4. add 2 µL GelRed to gel once cool to touch *(if you don't, you won't see your bands!!)*
-5. Add the appropriate gel comb. Pour gel into the middle of mold and wait for even dispersion (enough gel to see that the wells are in it, not too thick
+5. Add the appropriate gel comb. Pour gel into the middle of mold and wait for even dispersion (enough gel to see that the wells are in it, but not too thick)
 	*use a pipet tip to push away any bubbles* 
 6. let gel cool *- wells will break if not cooled down enough - 20 mins to be safe 
 ### Loading gel sample prep
 1. Cut enough parafilm for all samples + ladders
-2. Pipette up 20uL of loading dye and place ~20 1uL dots of loading dye on the parafilm for each well
-3. turn rig so **DNA will move towards the positive electrode** run towards red!
+2. Pipette up 20uL (if less than 20 samples use 1x # of samples) of loading dye and place ~1uL dots of loading dye on the parafilm for each well/sample
+3. turn rig so **DNA will move towards the positive electrode** (run towards red)!
 4. load 2µL of DNA ladder at beginning or end *(or both if large rig)* of the gel, and on each row
 	*mix ladder with dot of loading dye from parafilm*
 5. load 1µL PCR product
-	*mix sample  with loading dye*
+	*mix sample with loading dye*
 6. put cover on and turn on electric current - **run 110 volts for ~35 mins**
     - *check to make sure bands aren't running off the gel*
     - *time length depends on the size of gel 30-90 mins*
