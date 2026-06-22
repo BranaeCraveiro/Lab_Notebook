@@ -1,7 +1,28 @@
-# 6/17/2026 
+# 6/22/2026 
+- psbA clade C primers temperature gradient
+- meeting notes for tmrw's meeting w/ Sarah & Caroline 
+- Run indexed ITS2 samples on gel for Caroline 
+## To do 
+- [x] psbA clade C temperature gradient PCR 
+	- [ ] run gel 
+	- [ ] upload to lab notebook 
+- [ ] ITS2 index samples gel 
+	- [ ] share w/ Caroline
+	- [ ] ask her how to label for her 
+- [ ] pre-meeting notes for Sarah/Caroline meeting tmrw 
+- [ ] label and upload last weeks gel to lab notebook
+- [ ] email back Dr. Lee
+- [ ] study fish for RLS workshop
+
+# 6/18/2026 
 - make a markdown file following ITS2 troubleshooting journey
 - do psbA PCR (try vortexing DTNPs & Buffer)
 - if successful try ITS2 with same samples as Caroline but DTNPs & Buffer
+## To do 
+- [x] psbA PCR & gel 
+- [x] Meeting w/ Dr. Lee 
+	- [x] prepare by making troubleshooting concept map & slideshow
+- [x] ITS2 PCR & gel
 # 6/17/2026
 - retry ITS2 PCR (non triplicate- 2 samples we know works from yesterday)
 - Dive plan for RLS workshop 
