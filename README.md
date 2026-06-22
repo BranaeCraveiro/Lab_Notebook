@@ -15,11 +15,12 @@ detailed meeting notes with mentor separated by semester
 	[[Summer 2025]]
 	[[Fall 2025]]
 	[[Spring 2026]]
-Miscellaneous lab tasks 
--  colony photo labeling & coral sample inventory notes
+Miscellaneous notes & lab tasks
+- colony photo labeling & coral sample inventory notes
+- ITS2 & psbA PCR Troubleshooting Flow Chart 
 ### Projects
 #### Molecular Practice 
-qubit, DNA extraction, and gel electrophoresis practice 
+qubit, DNA extraction, PCR, and gel electrophoresis practice 
 #### PAN_BDT 
 DNA extractions and psbA PCR amplification of 2022-2024 Panama samples from all CNAT, MCAV, ORBI, PSTR, and SSID samples in transects 1-4
 #### R scripts 
