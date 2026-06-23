@@ -1,18 +1,26 @@
+# 6/23/2026 
+- Finish Inventorying 062025 BEL samples w/ Brooke 
+- Clade C temp gradient (lower temp this time)
+- update lab notebook w/ yesterdays gels 
+## To do 
+- [x] organize lab notebook (gets gel images in order)
+- [x] Clade C temp gradient part 2 (run gel tmrw)
+- [x] finish inventorying 062026 samples w/ Brooke 
+- [x] study RLS fish flashcards
 # 6/22/2026 
 - psbA clade C primers temperature gradient
 - meeting notes for tmrw's meeting w/ Sarah & Caroline 
 - Run indexed ITS2 samples on gel for Caroline 
 ## To do 
 - [x] psbA clade C temperature gradient PCR 
-	- [ ] run gel 
+	- [x] run gel 
 	- [ ] upload to lab notebook 
-- [ ] ITS2 index samples gel 
-	- [ ] share w/ Caroline
-	- [ ] ask her how to label for her 
-- [ ] pre-meeting notes for Sarah/Caroline meeting tmrw 
+- [x] ITS2 index samples gel 
+	- [x] share w/ Caroline
+- [x] pre-meeting notes for Sarah/Caroline meeting tmrw 
 - [ ] label and upload last weeks gel to lab notebook
 - [ ] email back Dr. Lee
-- [ ] study fish for RLS workshop
+- [x] study fish for RLS workshop
 
 # 6/18/2026 
 - make a markdown file following ITS2 troubleshooting journey

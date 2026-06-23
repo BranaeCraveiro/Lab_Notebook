@@ -3,43 +3,22 @@
 | ---------- | --------- | ------ | --------------------------- | ------------- | --------- | --------- | ---------------------------- | --------- |
 | Top        | 072024    | 1_11   | 072024_PAN_BDT_T1_1026_MCAV | Healthy       | 4_17_2026 | 25.8      | UML_PENGUIN_B2               | CLP       |
 | Bottom     | 072024    | 1_17   | 072024_PAN_BDT_T1_1020_MCAV | Healthy       | 4_17_2026 | 19.1      | UML_PENGUIN_B2               | Healthy   |
-# 6/22/2026 Gel Image 
-![](2026_06_22_Gel.png)
-note: last time NEB calculator was also too high 
+# 6/23/2026
 
-## Next Steps
-retry temp gradient with lower temps
+
 ### Temp Key from Thermocycler
-A: 77 °C
-B: 75.8 °C
-C: 73.7 °C
-D: 70.6 °C
-E: 66.7 °C
-F: 63.9 °C
-G: 61.6 °C
-H: 60 °C
+Note: realized after I meant to do 63-53 but did my math in my head wrong oops (sorry)
+
+A: 63 °C
+B: 61.4 °C
+C: 59 °C
+D: 55.5 °C
+E: 50.8 °C
+F: 47.5 °C
+G: 44.8 °C
+H: 43 °C
 
 note that tubes in storage are numbered 1-16 not 1A-2H
-#### Temperature Gradient Details 
-used NEB's annealing temp calculator (https://tmcalculator.neb.com/#!/main)
-
-Primer Concentration (nM): 10000
-
-Primer 1 (forward):
-27 nt  
-44% GC  
-Tm: 72°C
-
-Primer 2 (reverse):
-28 nt
-36% GC
-Tm: 65°C
-
-Anneal at: 66 °C 
-
-note: Tm difference is greater than the recommended limit of 5 °C
-
-decided to anneal up 5° from primer 1 temperature and 5° below primer 2 temperature
 
  # Protocol
  ## I. PCR 
@@ -57,12 +36,12 @@ copy and paste calculation table here:
 | dNTP (10mM)     | 0.5                   | 8.8                         |
 | F Primer (10uM) | 1                     | 17.6                        |
 | R Primer (10uM) | 1                     | 17.6                        |
-| DNA             | 1                     | 17.6                        |
+| DNA             | 2                     | 35.2                        |
 | Polymerase      | 0.125                 | 2.2                         |
-| Water           | 18.75                 | 330                         |
+| Water           | 17.75                 | 312.4                       |
 | Albumin         | 0.125                 | 2.2                         |
 | Total           | 25                    | 440                         |
-*Note: did 18 samples bc I thought I needed negatives but then realized I would need 8 negatives for each temp and gave up*
+
 
 1. Add Buffer, dNTP, and Primers vortex to Eppendorf tube. Vortex Briefly  
 	*(DO NOT vortex polymerase or albumin)*
