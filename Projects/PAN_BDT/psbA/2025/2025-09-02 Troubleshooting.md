@@ -1,4 +1,4 @@
-*Annealing gradient at 5 different temperature one set of PCR reactions containing 4 μL of DNA load and another set with 6 μL of DNA load.*
+ *Annealing gradient at 5 different temperature one set of PCR reactions containing 4 μL of DNA load and another set with 6 μL of DNA load.*
 
 **Sample 1:** 92022_PAN_BDT_T3_36_CNAT (7.60 ng/μL)
 **Sample 2:** 92022_PAN_BDT_T3_38_CNAT (7.78 ng/μL)

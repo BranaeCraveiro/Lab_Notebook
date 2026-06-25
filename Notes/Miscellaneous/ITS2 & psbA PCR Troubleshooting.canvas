@@ -13,7 +13,12 @@
 		{"id":"fef4d4d0b7e4e4e6","type":"text","text":"Dr. Lee suggested that I do a sanity check and try Caroline's protocol since we know it works to see if my technique is why my psbA is sometimes successful (& Caroline should try psbA to see if her results are better) ","x":-112,"y":-317,"width":476,"height":119},
 		{"id":"65c7fa210a410e0e","type":"text","text":"ITS2 PCR w/ Caroline's successful reagents & protocol\n- Caroline watched me the whole time did not see anything inherently wrong w/ my technique ","x":-500,"y":-138,"width":388,"height":180},
 		{"id":"cf0dc37e4e5ffa16","type":"text","text":"we tried brain storming again what is going wrong, only thing we got was that maybe since I am making such a small batch I am not mixing enough\n\ncurrently doing a psbA run to see if I can even still get that PCR to be successful\n- I added water first to master mix \n- vortexed my Buffer, DNTPs, primers\n- mixed polymerase & albumin on higher setting ","x":-1139,"y":1340,"width":462,"height":265},
-		{"id":"eec543587eb59eb0","type":"text","text":"Talked to Dr. Lee:\n- do not vortex DNTPs, buffer, primers - leads to degradation overtime \n- she keeps her primers in the fridge because she thinks the freeze thaw process breaks them down faster \n- Also thinks that I may not be pipetting DNA enough \n- suggests mixing DNA & master mix at the end with a p20 set to 15 uL before final spin down \n- she noted faint/smudge 100 bp band that is not primer dimer indicating to her that my primers are working just in the wrong spot \n\t- Caroline might be able to bypass this issue by being really good at pipetting where bad pipetting plus whatever else I am doing wrong is too much for the PCR to work properly ","x":-483,"y":1392,"width":499,"height":427}
+		{"id":"eec543587eb59eb0","type":"text","text":"Talked to Dr. Lee:\n- do not vortex DNTPs, buffer, primers - leads to degradation overtime \n- she keeps her primers in the fridge because she thinks the freeze thaw process breaks them down faster \n- Also thinks that I may not be pipetting DNA enough \n- suggests mixing DNA & master mix at the end with a p20 set to 15 uL before final spin down \n- she noted faint/smudge 100 bp band that is not primer dimer indicating to her that my primers are working just in the wrong spot \n\t- Caroline might be able to bypass this issue by being really good at pipetting where bad pipetting plus whatever else I am doing wrong is too much for the PCR to work properly \n- her suggestion: have Caroline do a PCR right next to me with primers from the same freeze thaw cycle \n","x":-483,"y":1392,"width":499,"height":427},
+		{"id":"651318c93ac20bf8","type":"text","text":"- since Caroline has always been freeze thawing we decided that it's not that\n- after reviewing Dr. Lee notes we decided it is a mixing issue\n changes made: \n\t- Pipette everything on a larger setting and dial down to require amount after mixing \n\t- mix DNA w/ master mix set at 15 uL at the end ","x":153,"y":1580,"width":619,"height":187},
+		{"id":"d53f0fc8e4ca4120","x":905,"y":1086,"width":587,"height":681,"type":"file","file":"Projects/molecular practice/PCR Sanity Check/2026_06_18_Gel_ITS2.png"},
+		{"id":"628d564ceb0cda13","x":-1048,"y":1722,"width":280,"height":91,"type":"text","text":"Vortexed all reagents and DNA that could be vortexed (now know don't vortex DNA)"},
+		{"id":"aa2a21f138cb3c10","x":-1080,"y":1946,"width":625,"height":504,"type":"file","file":"Projects/molecular practice/PCR Sanity Check/2026_06_18_Gel_psbA.png"},
+		{"id":"470ab2215f4d1781","x":-200,"y":2012,"width":250,"height":186,"type":"text","text":"met w/ Sarah and Caroline on 6/24 and think that Caroline should try a temperature gradient w/ the B/D primers and see if she gets better results"}
 	],
 	"edges":[
 		{"id":"17208b60216119ae","fromNode":"65c7fa210a410e0e","fromSide":"bottom","toNode":"8c8052f7a87f5b49","toSide":"top"},
@@ -30,6 +35,12 @@
 		{"id":"5931e85ca4a9a0e9","fromNode":"fef4d4d0b7e4e4e6","fromSide":"left","toNode":"65c7fa210a410e0e","toSide":"top"},
 		{"id":"3e488f9eef9cc650","fromNode":"eec543587eb59eb0","fromSide":"top","toNode":"431e5b7950a7a4ff","toSide":"bottom"},
 		{"id":"50d1d18d72c93313","fromNode":"cf0dc37e4e5ffa16","fromSide":"right","toNode":"eec543587eb59eb0","toSide":"left"},
-		{"id":"6951cbe79a366676","fromNode":"eec543587eb59eb0","fromSide":"top","toNode":"8c8052f7a87f5b49","toSide":"bottom"}
+		{"id":"6951cbe79a366676","fromNode":"eec543587eb59eb0","fromSide":"top","toNode":"8c8052f7a87f5b49","toSide":"bottom"},
+		{"id":"5916e4b21da05cf0","fromNode":"eec543587eb59eb0","fromSide":"right","toNode":"651318c93ac20bf8","toSide":"left"},
+		{"id":"d0a71f3f3fa7ae5f","fromNode":"651318c93ac20bf8","fromSide":"right","toNode":"d53f0fc8e4ca4120","toSide":"left"},
+		{"id":"9dceb008690a4193","fromNode":"cf0dc37e4e5ffa16","fromSide":"bottom","toNode":"628d564ceb0cda13","toSide":"top"},
+		{"id":"c60a388205700979","fromNode":"628d564ceb0cda13","fromSide":"bottom","toNode":"aa2a21f138cb3c10","toSide":"top"},
+		{"id":"399b120cf1e6c7bc","fromNode":"aa2a21f138cb3c10","fromSide":"right","toNode":"470ab2215f4d1781","toSide":"left"},
+		{"id":"ac3b35a7027e1784","fromNode":"eec543587eb59eb0","fromSide":"bottom","toNode":"470ab2215f4d1781","toSide":"top"}
 	]
 }

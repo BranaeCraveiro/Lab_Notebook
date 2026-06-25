@@ -3,9 +3,9 @@
 | ---------- | --------- | ------ | --------------------------- | ------------- | --------- | --------- | ---------------------------- | --------- |
 | Top        | 072024    | 1_11   | 072024_PAN_BDT_T1_1026_MCAV | Healthy       | 4_17_2026 | 25.8      | UML_PENGUIN_B2               | CLP       |
 | Bottom     | 072024    | 1_17   | 072024_PAN_BDT_T1_1020_MCAV | Healthy       | 4_17_2026 | 19.1      | UML_PENGUIN_B2               | Healthy   |
-# 6/23/2026
-
-
+# 6/24/2026 Gel Image 
+![](2026_06_24_Gel.png)
+Note: by comparing the temp yesterday also [2026-06-22 Clade C Temp Grad](2026-06-22%20Clade%20C%20Temp%20Grad.md) I think 61  °C is the optimal temp
 ### Temp Key from Thermocycler
 Note: realized after I meant to do 63-53 but did my math in my head wrong oops (sorry)
 
