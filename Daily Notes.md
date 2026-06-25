@@ -9,8 +9,7 @@
 - [x] meeting w/ Sarah & Caroline 
 	- [ ] update priorities 
 	- [x] merge meeting notes 
-- [ ] RLS Fish Flashcards
-- [ ] work on Glass et. al notes 
+- [x] RLS Fish Flashcards
 # 6/23/2026 
 - Finish Inventorying 062025 BEL samples w/ Brooke 
 - Clade C temp gradient (lower temp this time)
