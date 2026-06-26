@@ -1,4 +1,6 @@
-
+# 6/25/2026 
+- pack slate for Florida
+- run gel for Caroline
 # 6/24/2026 
 - Run temp gradient Gel 
 - meeting w/ Sarah & Caroline- update notes/priorities 
