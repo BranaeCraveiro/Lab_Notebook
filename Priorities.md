@@ -1,12 +1,11 @@
-Date updated: 06/17/2026 
+Date updated: 06/25/2026 
 # Panama Samples 
 ## Molecular lab work 
-- retry PCR with Caroline's primers 
-	- do last 2 samples in her set of 32 
-- Try clade C primers
-	- rehydrate primers
-	- run 3 samples
-	- if successful sequence them & run a BLAST search
+- clean successful samples from temp gradient 
+- send them out for sequences and blast them to verify psbA
+	- create PCR plan for MCAV, SSID, & ORBI samples 
+- 
+
 ## Computational lab work 
 - create pipeline to make sea surface temp & DHW graph from Smithsonian's BDT temp data 
 # RLS Workshop 
