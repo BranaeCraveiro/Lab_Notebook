@@ -6,7 +6,8 @@ NOTE: sample 11 had 15 uL extra in the indexed tube- I only took 25 uL but forgo
 note: I think some of the beads may of dried
 - I think I will split up the next 48 into two batches of 24 for my own sanity 
 19 band is missing but if you look at the indexing gel 19 is really faint 
-### 6/24/2026 Indexed Samples (just ran gel for Caroline)
+### 6/24/2026 Indexed Samples 
+![](2026_06_24_Gel_Indexed.png)just ran gel for Caroline)
 
 # Protocol 
 ## **VI. Purification with ampure beads**

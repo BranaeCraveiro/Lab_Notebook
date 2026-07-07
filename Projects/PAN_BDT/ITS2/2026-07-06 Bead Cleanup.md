@@ -1,6 +1,6 @@
-doing two groups of 24 one after another just to make sure beads don't dry out
-# 6/26/2026 Cleaned Gel Image
-![](2026_06_26_Gel.png)
+retry of [2026-06-26 Bead Cleanup](Projects/PAN_BDT/ITS2/2026-06-26%20Bead%20Cleanup.md) 
+note: eluted w/ 15 uL 
+# 7/6/2026 Cleaned Gel Image
 
 
 ### 6/24/2026 Indexed Samples (for comparison)
@@ -28,6 +28,10 @@ obtain, label, and cross-link new strip tubes start with the manufacturer protoc
 | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
 |--------------------|-----------------|-------------------------|-----------------|------------------------|
 | 0.8                | 25              | 20                      | 48              | 960                    |
+
+| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
+|--------------------|-----------------|-------------------------|-----------------|------------------------|
+| 0.8                | 40              | 32                      | 1               | 32                     |
 
 **Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
 _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)_

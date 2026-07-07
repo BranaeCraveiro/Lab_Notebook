@@ -1,11 +1,9 @@
-doing two groups of 24 one after another just to make sure beads don't dry out
-# 6/26/2026 Cleaned Gel Image
+bead cleanup of temp B from [2026-06-23 Clade C Temp Grad pt 2](2026-06-23%20Clade%20C%20Temp%20Grad%20pt%202.md)
+
+*Note: sample 1B had 17 uL and 2B had 20 uL so did bead ratios accordingly*
+# 6/26/2026 gel image
 ![](2026_06_26_Gel.png)
-
-
-### 6/24/2026 Indexed Samples (for comparison)
-![](2026_06_24_Gel_Indexed.png)
-
+note: need to retry bead cleanup since there is still primer dimer 
 # Protocol 
 ## **VI. Purification with ampure beads**
 obtain, label, and cross-link new strip tubes start with the manufacturer protocol using 1.8X-0.8X bead ratio and 10uL-25uL PCR product
@@ -27,7 +25,11 @@ obtain, label, and cross-link new strip tubes start with the manufacturer protoc
 
 | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
 |--------------------|-----------------|-------------------------|-----------------|------------------------|
-| 0.8                | 25              | 20                      | 48              | 960                    |
+| 0.6                | 17              | 10.2                    | 1               | 10.2                   |
+
+| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
+|--------------------|-----------------|-------------------------|-----------------|------------------------|
+| 0.6                | 20              | 12                      | 1               | 12                     |
 
 **Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
 _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)_

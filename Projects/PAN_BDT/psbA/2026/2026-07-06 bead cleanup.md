@@ -1,10 +1,11 @@
-doing two groups of 24 one after another just to make sure beads don't dry out
-# 6/26/2026 Cleaned Gel Image
-![](2026_06_26_Gel.png)
+retry of [2026-06-26 bead cleanup](Projects/PAN_BDT/psbA/2026/2026-06-26%20bead%20cleanup.md) & samples CNAT temp E & F and ORBI E from Caroline's temp gradient: https://github.com/cdesouza02/Lab-Notebook/blob/main/Coral-Lab-Notebook/PAN_BDT/06%20psba%20temp%20gradient.md 
+her gel image: https://github.com/cdesouza02/Lab-Notebook/blob/main/Coral-Lab-Notebook/PAN_BDT/jun26_psba_tempgrad.pdf 
 
+notes: 
+My samples had ~13 uL and Caroline's had ~ 23; did bead ratios accordingly 
+accidentally added 20 uL of elution to sample T1_17 (2B)
+# 6/27/2026 gel image
 
-### 6/24/2026 Indexed Samples (for comparison)
-![](2026_06_24_Gel_Indexed.png)
 
 # Protocol 
 ## **VI. Purification with ampure beads**
@@ -25,9 +26,16 @@ obtain, label, and cross-link new strip tubes start with the manufacturer protoc
 3. Gently shake the Clean NGS Mag PCR Clean-up aliquot to resuspend any Magnetic particles that may have settled.
     1. Add CleanNGS Mag PCR Clean-up volume table below:
 
+for samples 1B & 2B:
+
 | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
 |--------------------|-----------------|-------------------------|-----------------|------------------------|
-| 0.8                | 25              | 20                      | 48              | 960                    |
+| 0.6                | 13.5            | 8.1                     | 1               | 8.1                    |
+For Caroline's samples: 
+
+| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
+|--------------------|-----------------|-------------------------|-----------------|------------------------|
+| 0.6                | 23              | 13.8                    | 1               | 13.8                   |
 
 **Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
 _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)_
@@ -39,7 +47,7 @@ _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volum
 7. Dispense **180 uL of 80% ethanol** to each well of the reaction plate and incubate for **1 min** at room temperature. Aspirate out the ethanol and discard. Repeat for a total of **three washes**. It is important to perform these steps with the reaction plate on a 96 well Magnetic Plate. Do not disturb the settled Magnetic beads.
     1. Remove all of the ethanol from the bottom of the well to avoid ethanol carryover. **Bump pipette tip up to 200 uL, may need to use p20 multichannel**
     2. NOTE: A 5 min air dry at room temperature is recommended for the evaporation of the remaining traces of ethanol. **Do not overdry the beads** (the layer of settled beads appears cracked) as this will significantly decrease elution efficiency.
-8. Take off the plate from the Magnetic plate, add equal amount of original volume or less of elution buffer (Reagent grade water, TRIS-HCl pH 8.0, or TE buffer) to each well of the reaction plate and pipette mix 5 times.
+8. Take off the plate from the Magnetic plate, add 15 uL elution buffer (Reagent grade water, TRIS-HCl pH 8.0, or TE buffer) to each well of the reaction plate and pipette mix 5 times.
     1. mix until homogeneous and there are no beads on tube wall
 9. Incubate at room temperature for 10 minutes.
 10. Place the plate on a magnetic separation device to magnetize the CleanNGS particles. Incubate at room temperature until the CleanNGS particles are completely cleared from solution.
