@@ -1,11 +1,9 @@
-retry of [2026-06-26 bead cleanup](Projects/PAN_BDT/psbA/2026/2026-06-26%20bead%20cleanup.md) & samples CNAT temp E & F and ORBI E from Caroline's temp gradient: https://github.com/cdesouza02/Lab-Notebook/blob/main/Coral-Lab-Notebook/PAN_BDT/06%20psba%20temp%20gradient.md 
+retry of [2026-06-26 bead cleanup](Projects/PAN_BDT/psbA/2026/2026-06-26%20bead%20cleanup.md) & samples CNAT temp E & F and ORBI E from Caroline's temp gradient (https://github.com/cdesouza02/Lab-Notebook/blob/main/Coral-Lab-Notebook/PAN_BDT/06%20psba%20temp%20gradient.md) using fresh ethanol
 her gel image: https://github.com/cdesouza02/Lab-Notebook/blob/main/Coral-Lab-Notebook/PAN_BDT/jun26_psba_tempgrad.pdf 
 
 notes: 
-My samples had ~13 uL and Caroline's had ~ 23; did bead ratios accordingly 
 Eluted with 15 uL
-accidentally added 20 uL of elution to sample T1_17 (2B)
-
+accidentally added 20 uL of elution to sample T1_17 (2B) last time so I did the bead ratios accordingly
 ## samples
 My samples: 
 tube label, 1B & 2B; temp was 61.4 °C
@@ -22,14 +20,8 @@ temp C (F on tube) = 66°C
 temp D (E on tube) = 62.5 °C
 
 note: going to sequence both 66 and 62.5 for CNAT to see if quality is worse with band; 66 is too faint for ORBI
-# 07/07/2026 gel image
-![](2026_07_07_Gel.png)
-note: I think when I loaded this gel sample T1_11 (Well 2) only got 0.5 uL of sample (I was having trouble with the pipette then switched to a different one) hence why the band is so light
+# 07/08/2026 gel image
 
-talked to Caroline she thinks that the bead cleanup didn't work because the ethanol was old need to make a fresh one each time 
-### Next Steps
-- watch Caroline do a bead cleanup
-- retry bead cleanup with fresh ethanol
 # Protocol 
 ## **VI. Purification with ampure beads**
 obtain, label, and cross-link new strip tubes start with the manufacturer protocol using 1.8X-0.8X bead ratio and 10uL-25uL PCR product

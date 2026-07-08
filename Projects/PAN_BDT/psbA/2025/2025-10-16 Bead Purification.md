@@ -20,7 +20,7 @@ Notes:
 - no idea where the 700 bp band went- a little sad since that is the sequence I believe is most likely my target amplicon
 - not sure what the next steps should be? rerun gel? clean another sample with 700 bp? 
 	- Sarah thinks that I used too much elution in my final step of the bead cleanup so I diluted my samples by 2. update protocol so that the final elution step requires less than or equal to the amount of starting unclean PCR sample used. 
-	- she reccomends quibitting this sample to see conc. and if it is really low consider reconcentrating sample 
+	- she recommends quibitting this sample to see conc. and if it is really low consider reconcentrating sample 
 
 ### 10/17/2025 Cleaned 700 bp sample qubit results 
 Sample: 4 (cleaned sample of tube 1_6B from 9.2.2025)
