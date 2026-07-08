@@ -3,9 +3,27 @@ her gel image: https://github.com/cdesouza02/Lab-Notebook/blob/main/Coral-Lab-No
 
 notes: 
 My samples had ~13 uL and Caroline's had ~ 23; did bead ratios accordingly 
+Eluted with 15 uL
 accidentally added 20 uL of elution to sample T1_17 (2B)
-# 6/27/2026 gel image
 
+## samples
+My samples: 
+tube label, 1B & 2B; temp was 61.4 °C
+
+| MonthYear | colony | Tubelabel_species           | Health_Status | Extracted | Raw_ng_ul | Extraction_physical_location | Condition |
+| --------- | ------ | --------------------------- | ------------- | --------- | --------- | ---------------------------- | --------- |
+| 072024    | 1_11   | 072024_PAN_BDT_T1_1026_MCAV | Healthy       | 4_17_2026 | 25.8      | UML_PENGUIN_B2               | CLP       |
+| 072024    | 1_17   | 072024_PAN_BDT_T1_1020_MCAV | Healthy       | 4_17_2026 | 19.1      | UML_PENGUIN_B2               | Healthy   |
+Caroline's samples:
+1. 102023_T3_310_CNAT
+2. 092022_T1_46_ORBI 
+
+temp C (F on tube) = 66°C
+temp D (E on tube) = 62.5 °C
+
+note: going to sequence both 66 and 62.5 for CNAT to see if quality is worse with band; 66 is too faint for ORBI
+# 07/07/2026 gel image
+![](2026_07_07_Gel.png)
 
 # Protocol 
 ## **VI. Purification with ampure beads**

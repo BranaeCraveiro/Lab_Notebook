@@ -1,8 +1,9 @@
 retry of [2026-06-26 Bead Cleanup](Projects/PAN_BDT/ITS2/2026-06-26%20Bead%20Cleanup.md) 
-note: eluted w/ 15 uL 
-# 7/6/2026 Cleaned Gel Image
-
-
+note: eluted w/ 20 uL 
+# 7/7/2026 Cleaned Gel Image
+![](2026_07_07_Gel.png)
+note: talked to Caroline and she thinks the reason I still have primer dimer is because my 80% ethanol was old- need to make it fresh for every bead clean up 
+- she aliquots 100% ethanol and Molecular water for this 
 ### 6/24/2026 Indexed Samples (for comparison)
 ![](2026_06_24_Gel_Indexed.png)
 

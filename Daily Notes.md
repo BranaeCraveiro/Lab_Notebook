@@ -1,6 +1,26 @@
+# 7/7/2026 
+- run bead cleanup gel 
+- watch Caroline do a bead clean up 
+- update dive log 
+## To do 
+- [x] Run bead cleanup gel 
+	- [ ] label and add to lab notebook 
+- [x] Watch Caroline do a bead cleanup 
+	- [ ] update my bead cleanup protocol with notes 
+- [x] organize pipette tips 
+	- [x] put empty boxes into big boxes to bring to the basement 
+	- [x] restock shelves 
+	- [x] refill filtered pipette tip boxes 
+- [ ] add dives from Florida to dive log 
+
+# 7/6/2026 
+- label and upload gel image from last bead cleanup 
+- retry ITS2 bead cleanup 
+- retry psbA bead cleanup 
 # 6/25/2026 
 - pack slate for Florida
 - run gel for Caroline
+- bead clean up 
 # 6/24/2026 
 - Run temp gradient Gel 
 - meeting w/ Sarah & Caroline- update notes/priorities 
