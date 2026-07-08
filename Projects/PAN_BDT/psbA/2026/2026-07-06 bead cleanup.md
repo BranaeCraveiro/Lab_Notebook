@@ -5,7 +5,6 @@ notes:
 My samples had ~13 uL and Caroline's had ~ 23; did bead ratios accordingly 
 Eluted with 15 uL
 accidentally added 20 uL of elution to sample T1_17 (2B)
-
 ## samples
 My samples: 
 tube label, 1B & 2B; temp was 61.4 °C
@@ -18,8 +17,8 @@ Caroline's samples:
 1. 102023_T3_310_CNAT
 2. 092022_T1_46_ORBI 
 
-temp C (F on tube) = 66°C
-temp D (E on tube) = 62.5 °C
+temp C (F on Caroline's tube) = 66°C
+temp D (E on Caroline's tube) = 62.5 °C
 
 note: going to sequence both 66 and 62.5 for CNAT to see if quality is worse with band; 66 is too faint for ORBI
 # 07/07/2026 gel image
