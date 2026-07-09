@@ -4,5 +4,6 @@ her gel image: https://github.com/cdesouza02/Lab-Notebook/blob/main/Coral-Lab-No
 last bead up that fail: [2026-07-08 bead cleanup](2026-07-08%20bead%20cleanup.md)
 - the fresh ethanol I made was used up in one wash- not sure what happened I followed the cart but was having a hard time with the p1000 
 - this time I am going to make a fresh cryovial of ethanol to dump into the reservoir using the p1000 downstairs 
+	- use 1.6 mL of ethanol and 0.4 mL of water 
 
 
