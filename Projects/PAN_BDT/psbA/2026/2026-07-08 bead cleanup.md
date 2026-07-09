@@ -1,9 +1,10 @@
-retry of [2026-06-26 bead cleanup](Projects/PAN_BDT/psbA/2026/2026-06-26%20bead%20cleanup.md) & samples CNAT temp E & F and ORBI E from Caroline's temp gradient (https://github.com/cdesouza02/Lab-Notebook/blob/main/Coral-Lab-Notebook/PAN_BDT/06%20psba%20temp%20gradient.md) using fresh ethanol
+retry of [2026-07-06 bead cleanup](Projects/PAN_BDT/psbA/2026/2026-07-06%20bead%20cleanup.md) & samples CNAT temp E & F and ORBI E from Caroline's temp gradient (https://github.com/cdesouza02/Lab-Notebook/blob/main/Coral-Lab-Notebook/PAN_BDT/06%20psba%20temp%20gradient.md) using fresh ethanol
 her gel image: https://github.com/cdesouza02/Lab-Notebook/blob/main/Coral-Lab-Notebook/PAN_BDT/jun26_psba_tempgrad.pdf 
 
 notes: 
 Eluted with 15 uL
-accidentally added 20 uL of elution to sample T1_17 (2B) last time so I did the bead ratios accordingly
+The first batch of ethanol was used up in one wash not sure what happened but I was having a hard time with my pipette
+also had a hard time getting remaining ethanol out of sample 1B
 ## samples
 My samples: 
 tube label, 1B & 2B; temp was 61.4 °C
@@ -33,24 +34,26 @@ obtain, label, and cross-link new strip tubes start with the manufacturer protoc
 
 | Number of Samples | 80% EtOH for each sample (uL) | Total 80% EtoH needed (uL) | Volume 100% EtOH (uL) | Volume H2O (uL) |
 |-------------------|-------------------------------|----------------------------|-----------------------|-----------------|
-| 96                | 360                           | 34560                      | 27648                 | 6912            |
+| 5                 | 360                           | 1800                       | 1440                  | 360             |
 |                   |                               | in mL                      |                       |                 |
-|                   |                               | 34.56                      | 27.648                | 6.912           |
+|                   |                               | 1.8                        | 1.44                  | 0.36            |
 
 2. Determine whether or not a plate transfer is necessary. If the PCR reaction volume multiplied by 2.8 exceeds the volume of the PCR plate, a transfer to larger tubes is required.
 3. Gently shake the Clean NGS Mag PCR Clean-up aliquot to resuspend any Magnetic particles that may have settled.
     1. Add CleanNGS Mag PCR Clean-up volume table below:
 
-for samples 1B & 2B:
+for 2B:
 
 | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
 |--------------------|-----------------|-------------------------|-----------------|------------------------|
-| 0.6                | 13.5            | 8.1                     | 1               | 8.1                    |
-For Caroline's samples: 
+| 0.6                | 17              | 10.2                    | 48              | 489.6                  |
 
-| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
+For other samples: 
+
+| Beads              |                 |                         |                 |                        |
 |--------------------|-----------------|-------------------------|-----------------|------------------------|
-| 0.6                | 23              | 13.8                    | 1               | 13.8                   |
+| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
+| 0.6                | 13              | 7.8                     | 48              | 374.4                  |
 
 **Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
 _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)_
