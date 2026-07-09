@@ -1,29 +1,23 @@
-retry of [2026-07-06 bead cleanup](Projects/PAN_BDT/psbA/2026/2026-07-06%20bead%20cleanup.md) & samples CNAT temp E & F and ORBI E from Caroline's temp gradient (https://github.com/cdesouza02/Lab-Notebook/blob/main/Coral-Lab-Notebook/PAN_BDT/06%20psba%20temp%20gradient.md) using fresh ethanol
+bead clean up of samples at temp A (originally wanted to do temp B but the bead clean up messed up) and samples CNAT temp E & F and ORBI E from Caroline's temp gradient: https://github.com/cdesouza02/Lab-Notebook/blob/main/Coral-Lab-Notebook/PAN_BDT/06%20psba%20temp%20gradient.md 
 her gel image: https://github.com/cdesouza02/Lab-Notebook/blob/main/Coral-Lab-Notebook/PAN_BDT/jun26_psba_tempgrad.pdf 
 
-notes: 
-Eluted with 15 uL
-The first batch of ethanol was used up in one wash not sure what happened but I was having a hard time with my pipette
-also had a hard time getting remaining ethanol out of sample 1B
-used a new aliquot of beads 
-## samples
-My samples: 
-tube label, 1B & 2B; temp was 61.4 °C
+Notes:
+last bead up that fail: [2026-07-08 bead cleanup](2026-07-08%20bead%20cleanup.md)
+- the fresh ethanol I made was used up in one wash- not sure what happened I followed the cart but was having a hard time with the p1000 
+- this time I am going to make a fresh cryovial of ethanol to dump into the reservoir using the p1000 downstairs 
+	- use 1.6 mL of ethanol and 0.4 mL of water 
+sample 1C was real hard to remove elution at end without bead and dropped tube- a little fell out
+	measured with pipette about 14 uL left before making gel
 
-| MonthYear | colony | Tubelabel_species           | Health_Status | Extracted | Raw_ng_ul | Extraction_physical_location | Condition |
-| --------- | ------ | --------------------------- | ------------- | --------- | --------- | ---------------------------- | --------- |
-| 072024    | 1_11   | 072024_PAN_BDT_T1_1026_MCAV | Healthy       | 4_17_2026 | 25.8      | UML_PENGUIN_B2               | CLP       |
-| 072024    | 1_17   | 072024_PAN_BDT_T1_1020_MCAV | Healthy       | 4_17_2026 | 19.1      | UML_PENGUIN_B2               | Healthy   |
-Caroline's samples:
-1. 102023_T3_310_CNAT
-2. 092022_T1_46_ORBI 
-
-temp C (F on tube) = 66°C
-temp D (E on tube) = 62.5 °C
-
-note: going to sequence both 66 and 62.5 for CNAT to see if quality is worse with band; 66 is too faint for ORBI
-# 07/08/2026 gel image
-![](2026_07_08_Gel.png)
+# 7/9/2026 Gel image 
+![](2026_07_09_Gel.png)
+## brain storming what could be going on 
+### tips from online 
+- for 15-30 uL of beads one person only does 30 seconds of drying time 
+- if I do over dry beads the best thing to do it to let it elute overnight 
+### notes from user manual 
+- they recommend 85% ethanol 
+- recommend ≥ 50 μL volume as pipetting accuracy decreases; dilute samples with molecular water
 # Protocol 
 ## **VI. Purification with ampure beads**
 obtain, label, and cross-link new strip tubes start with the manufacturer protocol using 1.8X-0.8X bead ratio and 10uL-25uL PCR product
@@ -43,17 +37,17 @@ obtain, label, and cross-link new strip tubes start with the manufacturer protoc
 3. Gently shake the Clean NGS Mag PCR Clean-up aliquot to resuspend any Magnetic particles that may have settled.
     1. Add CleanNGS Mag PCR Clean-up volume table below:
 
-for 2B:
+for samples 1A & 2A (fresh temp gradient... I think a little evaporated from the tubes not being completely closed):
 
 | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
 |--------------------|-----------------|-------------------------|-----------------|------------------------|
-| 0.6                | 17              | 10.2                    | 48              | 489.6                  |
+| 0.6                | 9.5             | 5.7                     | 2               | 11.4                   |
 
-For other samples: 
+For Caroline's samples: 
 
 | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
-| ------------------ | --------------- | ----------------------- | --------------- | ---------------------- |
-| 0.6                | 13              | 7.8                     | 48              | 374.4                  |
+|--------------------|-----------------|-------------------------|-----------------|------------------------|
+| 0.6                | 13              | 7.8                     | 3               | 23.4                   |
 
 **Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
 _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)_

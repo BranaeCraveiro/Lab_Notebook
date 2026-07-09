@@ -1,17 +1,31 @@
+# 7/9/2026 
+- bead cleanup of psbA samples 
+- brainstorm what could be going wrong with my bead cleanups 
+- Coral Demographics review for Leah 
+## To do 
+- [ ] bead clean up 
+	- [ ] label & upload gel to lab notebook 
+	- [ ] also label & upload yesterdays gel
+- [ ] Coral Demographics review for Leah 
+- [ ] look into what is going wrong with my bead cleanups 
+# 7/8/2026
+- retry bead cleanup with new ethanol 
+- add sequencing math to excel sheet to streamline prep work 
+- update psbA protocol 
 # 7/7/2026 
 - run bead cleanup gel 
 - watch Caroline do a bead clean up 
 - update dive log 
 ## To do 
 - [x] Run bead cleanup gel 
-	- [ ] label and add to lab notebook 
+	- [x] label and add to lab notebook 
 - [x] Watch Caroline do a bead cleanup 
 	- [ ] update my bead cleanup protocol with notes 
 - [x] organize pipette tips 
 	- [x] put empty boxes into big boxes to bring to the basement 
 	- [x] restock shelves 
 	- [x] refill filtered pipette tip boxes 
-- [ ] add dives from Florida to dive log 
+- [x] add dives from Florida to dive log 
 
 # 7/6/2026 
 - label and upload gel image from last bead cleanup 
