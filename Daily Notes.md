@@ -3,11 +3,13 @@
 - brainstorm what could be going wrong with my bead cleanups 
 - Coral Demographics review for Leah 
 ## To do 
-- [ ] bead clean up 
-	- [ ] label & upload gel to lab notebook 
-	- [ ] also label & upload yesterdays gel
-- [ ] Coral Demographics review for Leah 
-- [ ] look into what is going wrong with my bead cleanups 
+- [x] bead clean up 
+	- [x] label & upload gel to lab notebook 
+	- [x] also label & upload yesterdays gel
+- [x] Coral Demographics review for Leah 
+- [x] look into what is going wrong with my bead cleanups 
+- [x] finish updating psbA protocol
+- [x] work on Glass et al. Notes
 # 7/8/2026
 - retry bead cleanup with new ethanol 
 - add sequencing math to excel sheet to streamline prep work 
