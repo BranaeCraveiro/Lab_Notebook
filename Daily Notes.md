@@ -1,3 +1,18 @@
+# 7/10/2026 
+- run Gel for yesterdays PCR 
+- talk to Caroline about potential bead clean up 
+- Finish taking notes on Glass et al. 
+## To do 
+- [ ] run gel for PCR 
+	- [ ] label and upload to lab notebook 
+- [ ] restock post PCR room ( p200 tips, reservoirs, parafilm)
+- [ ] talk to Caroline about bead cleanup 
+- [ ] bead cleanup
+	- [ ] run gel 
+	- [ ] label and upload 
+- [ ] finish taking notes on Glass et al. 
+	- [ ] figure out database feature on article notes vault
+
 # 7/9/2026 
 - bead cleanup of psbA samples 
 - brainstorm what could be going wrong with my bead cleanups 
