@@ -4,8 +4,10 @@
 - Finish Glass et al. Notes 
 
 ## To do 
+- [x] Email Michelle receipts 
+	- [x] combine receipts into pdf 
 - [ ] Glass et al notes 
-- [ ] Update priorities 
+- [ ] Update priorities
 # 7/13/2026 
 - Bead cleanup (diluting samples to 50 uL) 
 - Email Michelle receipts from trip 
