@@ -2,12 +2,13 @@
 - Meeting w/ Sarah & Caroline 
 - email Michelle 
 - Finish Glass et al. Notes 
-
 ## To do 
 - [x] Email Michelle receipts 
 	- [x] combine receipts into pdf 
 - [ ] Glass et al notes 
 - [ ] Update priorities
+- [ ] send out samples for sequencing 
+	- [ ] update sample ID spreadsheet 
 # 7/13/2026 
 - Bead cleanup (diluting samples to 50 uL) 
 - Email Michelle receipts from trip 
