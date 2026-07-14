@@ -4,8 +4,6 @@ Date updated: 06/25/2026
 - clean successful samples from temp gradient 
 - send them out for sequences and blast them to verify psbA
 	- create PCR plan for MCAV, SSID, & ORBI samples 
-- 
-
 ## Computational lab work 
 - create pipeline to make sea surface temp & DHW graph from Smithsonian's BDT temp data 
 # RLS Workshop 

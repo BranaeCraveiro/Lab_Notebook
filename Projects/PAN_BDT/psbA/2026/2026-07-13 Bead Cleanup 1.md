@@ -16,6 +16,10 @@ E: 63°C -- Sample 1, 2, Negative
 F: 62.2°C
 G: 61.5°C -- Sample 3, 4
 H: 61°C
+# 7/9/2026 Gel Image 
+
+![](2026_07_13_Gel_1.png)
+Note: the only thing I can think of at this point is that my ratio is not stringent enough- will try upping it to 0.5x 
 # Protocol 
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
@@ -36,7 +40,7 @@ https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-rat
 | 5                 | 360                           | 1800                       | 1440                  | 360             |
 |                   |                               | in mL                      |                       |                 |
 |                   |                               | 1.8                        | 1.44                  | 0.36            |
-
+Note: did 3 washes and made 5 mL of 80% ETOH (4 mL 100% ETOH & 1 mL molecular water)
 
 2. Determine whether or not a plate transfer is necessary. If the PCR reaction volume multiplied by 2.8 exceeds the volume of the PCR plate, a transfer to larger tubes is required.
 3. Gently shake the Clean NGS Mag PCR Clean-up aliquot to resuspend any Magnetic particles that may have settled.

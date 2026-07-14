@@ -1,17 +1,37 @@
+# 7/14/2026 
+- Meeting w/ Sarah & Caroline 
+- email Michelle 
+- Finish Glass et al. Notes 
+
+## To do 
+- [ ] Glass et al notes 
+- [ ] Update priorities 
+# 7/13/2026 
+- Bead cleanup (diluting samples to 50 uL) 
+- Email Michelle receipts from trip 
+- Bead Clean up pt 2 
+## To do 
+- [x] bead cleanup 1 
+	- [x] run gel 
+	- [x] label & upload to notebook 
+- [x] Bead clean up 2 
+	- [x]  run gel 
+	- [x] label & upload to notebook 
+- [x] Coral fieldwork meeting 
+	- [x] work on insta post 
+- [ ] email Michelle receipts 
+	- [x] organize receipts/ screenshots of maps 
 # 7/10/2026 
 - run Gel for yesterdays PCR 
 - talk to Caroline about potential bead clean up 
-- Finish taking notes on Glass et al. 
+- continue taking notes on Glass et al. 
 ## To do 
-- [ ] run gel for PCR 
-	- [ ] label and upload to lab notebook 
-- [ ] restock post PCR room ( p200 tips, reservoirs, parafilm)
-- [ ] talk to Caroline about bead cleanup 
-- [ ] bead cleanup
-	- [ ] run gel 
-	- [ ] label and upload 
-- [ ] finish taking notes on Glass et al. 
-	- [ ] figure out database feature on article notes vault
+- [x] run gel for PCR 
+	- [x] label and upload to lab notebook 
+- [x] restock post PCR room ( p200 tips, reservoirs, parafilm)
+- [x] talk to Caroline about bead cleanup 
+- [x] continue taking notes on Glass et al. 
+	- [x] figure out database feature on article notes vault
 
 # 7/9/2026 
 - bead cleanup of psbA samples 
