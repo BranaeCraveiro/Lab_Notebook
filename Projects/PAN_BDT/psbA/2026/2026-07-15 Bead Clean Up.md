@@ -14,6 +14,13 @@ cleaning samples from [2026-07-14 PCR](2026-07-14%20PCR.md)
 ### Sequencing Prep 
 Sample 1: 
 
+| Solution | Amount      |
+|----------|-------------|
+| sample   | 2.380952381 |
+| primer   | 2.5         |
+| water    | 10.11904762 |
+
+
 Sample 2: 
 
 # Protocol 
