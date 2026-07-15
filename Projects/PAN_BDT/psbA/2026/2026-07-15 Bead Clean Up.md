@@ -12,10 +12,9 @@ cleaning samples from [2026-07-14 PCR](2026-07-14%20PCR.md)
 | 1               | 1_17   | 072024_PAN_BDT_T1_1020_MCAV | 8.4           |
 | 2               | 1_11   | 072024_PAN_BDT_T1_1026_MCAV | 18.6          |
 ### Sequencing Prep 
-
 Sample 1: 
 
-
+Sample 2: 
 
 # Protocol 
 ## III. Purification with ampure beads
