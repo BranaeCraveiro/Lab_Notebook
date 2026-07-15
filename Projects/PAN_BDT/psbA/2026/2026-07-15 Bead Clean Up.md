@@ -19,9 +19,19 @@ Sample 1:
 | sample   | 2.380952381 |
 | primer   | 2.5         |
 | water    | 10.11904762 |
-
+Forward Barcode: AT039011
+Reverse Barcode: AT039012
 
 Sample 2: 
+
+| Solution | Amount      |
+|----------|-------------|
+| sample   | 1.075268817 |
+| primer   | 2.5         |
+| water    | 11.42473118 |
+
+Forward Barcode: AT039013
+Reverse Barcode: AT039014
 
 # Protocol 
 ## III. Purification with ampure beads
