@@ -5,7 +5,7 @@ cleaning samples from [2026-07-14 PCR](2026-07-14%20PCR.md)
 | 1            | 072024    | 1_17   | 072024_PAN_BDT_T1_1020_MCAV | Healthy       | 4_17_2026 | 19.1      | UML_PENGUIN_B2               | Healthy   |
 | 2            | 072024    | 1_11   | 072024_PAN_BDT_T1_1026_MCAV | Healthy       | 4_17_2026 | 25.8      | UML_PENGUIN_B2               | CLP       |
 # 7/15/2026 Gel 
-
+![](2026_07_15_Gel.png)
 ## Nanodrop 
 | PCR_Tube_number | colony | Tubelabel_species           | Concentration |
 | --------------- | ------ | --------------------------- | ------------- |
