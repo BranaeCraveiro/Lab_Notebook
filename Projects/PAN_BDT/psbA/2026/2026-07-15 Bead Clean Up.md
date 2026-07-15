@@ -1,3 +1,22 @@
+cleaning samples from [2026-07-14 PCR](2026-07-14%20PCR.md)
+
+| PCR_Tube_Num | MonthYear | colony | Tubelabel_species           | Health_Status | Extracted | Raw_ng_ul | Extraction_physical_location | Condition |
+| ------------ | --------- | ------ | --------------------------- | ------------- | --------- | --------- | ---------------------------- | --------- |
+| 1            | 072024    | 1_17   | 072024_PAN_BDT_T1_1020_MCAV | Healthy       | 4_17_2026 | 19.1      | UML_PENGUIN_B2               | Healthy   |
+| 2            | 072024    | 1_11   | 072024_PAN_BDT_T1_1026_MCAV | Healthy       | 4_17_2026 | 25.8      | UML_PENGUIN_B2               | CLP       |
+# 7/15/2026 Gel 
+
+## Nanodrop 
+| PCR_Tube_number | colony | Tubelabel_species           | Concentration |
+| --------------- | ------ | --------------------------- | ------------- |
+| 1               | 1_17   | 072024_PAN_BDT_T1_1020_MCAV | 8.4           |
+| 2               | 1_11   | 072024_PAN_BDT_T1_1026_MCAV | 18.6          |
+### Sequencing Prep 
+
+Sample 1: 
+
+
+
 # Protocol 
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
