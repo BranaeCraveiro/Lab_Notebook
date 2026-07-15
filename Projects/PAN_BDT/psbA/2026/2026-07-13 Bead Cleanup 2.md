@@ -19,6 +19,51 @@ H: 61°C
 
 # 7/13/2026 Gel Image
 ![](2026_07_13_Gel_2.png)
+
+Note: talked to Sarah and she said that the tiny bit of primer dimer doesn't matter as long as the majority of it washes away; should stick to 0.6x concentration for the future but can send these out for sequencing 
+
+## Nanodrop Results
+| PCR_Tube_number | colony | Tubelabel_species           | Concentration |
+| --------------- | ------ | --------------------------- | ------------- |
+| 1A              | 3_71   | 102023_PAN_BDT_T3_310_CNAT  | 18.5          |
+| 1E              | 3_71   | 102023_PAN_BDT_T3_310_CNAT  | 23.7          |
+| 2E              | 1_14   | 92022_PAN_BDT_T1_46_ORBI    | 7.2           |
+| 3G              | 1_17   | 072024_PAN_BDT_T1_1020_MCAV | 1.6           |
+| 4G              | 1_11   | 072024_PAN_BDT_T1_1026_MCAV | 1.8           |
+note: samples 3 & 4 are too low in concentration to send for sequencing- will redo PCR and bead cleanup to send those out
+## Sequencing info 
+calculation done here: https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=92320545#gid=92320545
+### Sample 1A: 
+| Solution | Amount      |
+|----------|-------------|
+| sample   | 1.081081081 |
+| primer   | 2.5         |
+| water    | 11.41891892 |
+
+Forward Barcode: AT03901519
+Reverse Barcode: AT03901520
+### Sample 1E: 
+| Solution | Amount       |
+|----------|--------------|
+| sample   | 0.8438818565 |
+| primer   | 2.5          |
+| water    | 11.65611814  |
+
+Forward Barcode: AT03901521
+Reverse Barcode: AT03901522
+
+### Sample 2E: 
+| Solution | Amount      |
+|----------|-------------|
+| sample   | 2.777777778 |
+| primer   | 2.5         |
+| water    | 9.722222222 |
+
+Forward Barcode: AT03901523
+Reverse Barcode: AT03901524
+
+NOTE: the courier pick up changed from today to tmrw (7/15); the samples sat in the box for about 3 hours and then I put them in the fridge
+
 # Protocol 
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
