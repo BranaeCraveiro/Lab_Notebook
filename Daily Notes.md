@@ -1,3 +1,28 @@
+# 7/16/2026 
+- Clean clade C samples & blast them 
+- Clade C PCR 
+- organize samples for future PCRs 
+
+## To do 
+- [ ] clean clade C samples 
+	- [ ] merge pair read & blast results
+- [ ] organize psbA tracker 
+- [ ] organize samples for future PCRs 
+- [ ] Clade C PCR 
+- [ ] 
+# 7/15/2026 
+- Bead Cleanup 
+- send out samples for sequencing 
+- help Caroline with pooling samples 
+## To do 
+- [x] bead clean up 
+- [x] run gel 
+	- [x] label & upload to lab notebook 
+- [x] send out samples for sequencing 
+	- [x] update barcodes into datasheet
+- [x] qubit 16s & PAN_ITS2 pools for Caroline 
+- [x] create ITS2:16S pool for sequencing 
+- [x] work on sample counts code 
 # 7/14/2026 
 - Meeting w/ Sarah & Caroline 
 - email Michelle 
@@ -5,10 +30,12 @@
 ## To do 
 - [x] Email Michelle receipts 
 	- [x] combine receipts into pdf 
-- [ ] Glass et al notes 
-- [ ] Update priorities
-- [ ] send out samples for sequencing 
-	- [ ] update sample ID spreadsheet 
+- [x] Glass et al notes 
+- [x] send out samples for sequencing 
+	- [x] update sample ID spreadsheet 
+- [x] pcr (clade c samples)
+	- [x] run gel 
+	- [x] upload to lab notebook
 # 7/13/2026 
 - Bead cleanup (diluting samples to 50 uL) 
 - Email Michelle receipts from trip 

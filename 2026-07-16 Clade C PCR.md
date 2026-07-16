@@ -114,7 +114,6 @@ last updated: 7/9/2026 BRC
 ### Create master mix for each sample
 copy and paste calculation table here: 
 
-
 | Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% |
 |-----------------|-----------------------|-----------------------------|
 | Buffer          | 2.5                   | 132                         |
@@ -139,9 +138,6 @@ copy and paste calculation table here:
 | Albumin         | 0.125                 | 6.4625                      |
 | Total           | 25                    | 1292.5                      |
 
-
-
-
 NOTE: this is one batch for 48x - making 2 master mixes 
 
 1. Add Buffer, dNTP, and Primers vortex to Eppendorf tube. Vortex Briefly  
@@ -156,7 +152,7 @@ NOTE: this is one batch for 48x - making 2 master mixes
 7. run thermocycler program: *35 cycles takes ~ 2 hours 20 minutes* 
     1. 95°C for 30 seconds
     2. 95°C for 30 seconds
-    3. 45-68°C for 1 minute
+    3. 61.5°C for 1 minute
     4. 68°C for 1.5 minute _repeat 2-4 for 35 cycles
     5. 68°C for 5 minutes
     6. 8°C for Forever
