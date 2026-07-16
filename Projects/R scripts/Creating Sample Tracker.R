@@ -59,10 +59,9 @@ sample=read.csv("PAN-BDT_samples.csv")
 sample$colony=colony=c(paste0(sample$Transect_num, "_", sample$Current_tag_num))
 
 #only use EtOH and RNALater samples & target species, exclude nontarget transects
-sample_DNA <- sample[(sample$Sample_type == "Core_EtOH" | sample$Sample_type == "Core_RNAlater") &
-                       (sample$Species == "CNAT" | sample$Species == "PSTR" | sample$Species == "ORBI" | sample$Species == "OFAV"| 
-                          sample$Species == "OANN" | sample$Species == "MCAV" | sample$Species == "SSID") &
-                       (sample$Transect != "5" |  sample$Transect != "6") ,]
+sample_DNA <- sample[(sample$Sample_type %in% c("Core_EtOH","Core_RNAlater")) &
+                       (sample$Species %in% c("CNAT", "ORBI", "OANN", "OFAV", "PSTR", "SSID", "MCAV"))&
+                       !(sample$Transect_num %in% c("5", "6")) ,]
 
 #checking if code worked (want to see last column as colony) 
 head(sample_DNA)
@@ -102,17 +101,14 @@ nrow(sample_DNA)
 
 #keeping only my extracted samples (ones in penguin fridge) 
 sample_DNA <- sample_DNA[!is.na(sample_DNA$Extraction_physical_location) &
-                           sample_DNA$Extraction_physical_location != "" & 
-                           (sample_DNA$Extraction_physical_location == "UML_PENGUIN_B1"| 
-                           sample_DNA$Extraction_physical_location == "UML_PENGUIN_B2" |
-                           sample_DNA$Extraction_physical_location == "UML_PENGUIN_B3") , ]
-
-
-metagenomics_PCR <- metagenomics_PCR[!is.na(metagenomics_PCR$Extraction_physical_location) & 
-                                       metagenomics_PCR$Extraction_physical_location != "" & 
-                                       (metagenomics_PCR$Extraction_physical_location == "UML_PENGUIN_B1" |
-                                        metagenomics_PCR$Extraction_physical_location == "UML_PENGUIN_B2" |
-                                       metagenomics_PCR$Extraction_physical_location == "UML_PENGUIN_B3"), ]
+                           !(sample_DNA$Transect_num %in% c("5", "6")) &
+                           (sample_DNA$Extraction_physical_location %in% 
+                              c("UML_PENGUIN_B1","UML_PENGUIN_B2", "UML_PENGUIN_B3", "UML_NARWHAL_R9_B2")) ,]
+                        
+metagenomics_PCR <- metagenomics_PCR[!is.na(metagenomics_PCR$Extraction_physical_location) &
+                                       (metagenomics_PCR$Extraction_physical_location %in% 
+                                          c("UML_PENGUIN_B1","UML_PENGUIN_B2", "UML_PENGUIN_B3", "UML_NARWHAL_R9_B2")) &
+                                       !grepl("T5|T6", metagenomics_PCR$Tubelabel_species) ,]
 
 #for future reference some reason NAs and blanks were messing with the filtering so I had to clean those also 
 

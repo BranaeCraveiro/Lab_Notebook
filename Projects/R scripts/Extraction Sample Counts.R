@@ -1,67 +1,66 @@
 library(dplyr)
-library(stringr)
-library(stringr)
+library(tidyverse)
 library(knitr)
 
-setwd("C:\\Users\\Owner\\OneDrive\\Documents\\GW Lab\\GitHub\\SCTLD_samples\\Sample_Data")
+setwd("C:\\Local_Files\\SCTLD_samples\\Sample_Data")
+samples <- read.csv("PAN-BDT_samples.csv")
 
-#loading sample csv 
-pan_samples <- read.csv("PAN-BDT_samples.csv")
+#checking col names & row counts
+colnames(samples)
+nrow(samples)
 
-#cleaning sample datasheet 
-pan_samples_subset <- pan_samples %>%
-  filter(
-    Transect_num %in% c("1", "2", "3", "4"),                 # keep transects 1-4
-    Sample_type %in% c("Core_RNAlater", "Core_EtOH"),        # keep only RNA Later and Ethanol sample types
-    Sample_physical_location != "TX STATE"                   # remove samples at Texas State
-    ) %>%
-  mutate(
-    Species = str_trim(str_to_upper(Species)),               # clean species codes
-    Transect_num = str_trim(Transect_num),                   # clean transect numbers
-    Health_status = str_trim(str_to_lower(Health_status)),   # clean health status
-    Species = case_when(
-      Species %in% c("OANN", "OFAV") ~ "ORBI",      # If OANN or OFAV, set to ORBI
-      TRUE ~ Species                              # Otherwise keep original Species code
-    )) %>% 
-      filter(Species %in% c("CNAT", "PSTR", "MCAV", "SSID", "ORBI")    # keep target species 
-  ) %>%
+#checking options w/in columns 
+unique(samples$Sample_type)
+unique(samples$Species)
 
-  # collapse duplicate rows by date, tag number, health status, and species 
-  distinct(Month_year, Current_tag_num, Health_status, Species, .keep_all = TRUE)
+#only use EtOH and RNALater samples & target species, exclude nontarget transects
+pan_samples <- samples[(samples$Sample_type %in% c("Core_EtOH", "Core_RNAlater")) &
+                             !(samples$Species %in% c("MMEA", "DLAB", "PAST", "AS-SINT"))&
+                             !(samples$Transect_num %in% c("5", "6")) ,]
 
-#count how many samples per species
-sample_counts <- pan_samples_subset %>%
-  count(Species)
-# output  markdown table of species counts (for obsidian)
+#checking if worked 
+unique(pan_samples$Transect_num)
+unique(pan_samples$Species)
+nrow(pan_samples)
+
+#need to get rid of duplicate samples 
+pan_samples <- pan_samples %>% 
+  distinct(Month_year, Transect_num, Current_tag_num , Species, Health_status, .keep_all = TRUE)
+#check
+nrow(pan_samples)
+
+#group ORBI & OANN into ORBI 
+pan_samples$Species <- ifelse(
+  pan_samples$Species %in% c("OANN", "OFAV"), 
+  "ORBI", 
+  pan_samples$Species)
+
+#counting how many samples per species
+sample_counts <- pan_samples %>% count(Species)
+#species counts markdown (for obsidian)
 kable(sample_counts, format = "markdown")
 
-#checking if distinct worked (is same date/tag/hs collapsed correctly)
-#expected to see my CNAT extracted count the same as collapsed count
+#there are less samples then there should be so will compared extracted CNAT counts
+samples_extracted <-samples[(samples$Sample_type %in% c("Core_EtOH", "Core_RNAlater")) &
+                              !(samples$Species %in% c("MMEA", "DLAB", "PAST", "AS-SINT"))&
+                              !(samples$Transect_num %in% c("5", "6")) & 
+                              (samples$Extraction_physical_location %in% 
+                                 c("UML_PENGUIN_B1","UML_PENGUIN_B2", "UML_PENGUIN_B3", "UML_NARWHAL_R9_B2")) ,]
+                            
+#checking if worked 
+nrow(samples_extracted)
+unique(samples_extracted$Transect_num)
+unique(samples_extracted$Species)
 
-#check extracted samples counts (anything with Extraction_physical_location filled) 
-raw_extracted_df <- pan_samples %>%
-  filter(!is.na(Extraction_physical_location) & trimws(Extraction_physical_location) != "")
+#group ORBI & OANN into ORBI 
+samples_extracted$Species <- ifelse(
+  samples_extracted$Species %in% c("OANN", "OFAV"), 
+  "ORBI", 
+  samples_extracted$Species)
 
-# coillapsed version of extracted samples using same distinct rule
-collapsed_extracted_df <- raw_extracted_df %>%
-  distinct(Month_year, Current_tag_num, Health_status, Species, .keep_all = TRUE)
+#counting how many samples per species
+extracted_counts <- samples_extracted %>% count(Species)
+#species counts markdown (for obsidian)
+kable(extracted_counts, format = "markdown")
 
-#compare raw vs collapsed by merging df 
-compare_df <- raw_extracted_df %>%
-  left_join(
-    collapsed_extracted_df %>%
-      mutate(in_collapsed = TRUE),
-    by = c("Month_year","Current_tag_num","Health_status","Species")
-  )
-
-# any rows with NA in in_collapsed didn’t make it into the collapsed version
-missing_df <- compare_df %>%
-  filter(is.na(in_collapsed)) %>%
-  distinct()
-
-# check counts and print missing rows
-cat("Raw with location: ", nrow(raw_extracted_df), "\n")
-cat("Collapsed unique: ", nrow(collapsed_extracted_df), "\n")
-cat("Missing after collapse: ", nrow(missing_df), "\n")
-
-print(missing_df)  # shows rows that are not in collapsed
+#YAY THEY MATCH FOR CNATs! distinct function worked how I wanted it to!!! 
