@@ -1,7 +1,7 @@
 setwd("C:\\Users\\Owner\\OneDrive\\Documents\\GW Lab\\PAN\\sequences")
 
 files <- list.files(pattern = ".ab1")                #only chromatagraphy files 
-name_map <- read.csv("Sample_Barcodes.csv")
+name_map <- read.csv("Sequencing_Metadata.csv")
 
 #naming file loop:
 for (i in 1:nrow(name_map)) {
