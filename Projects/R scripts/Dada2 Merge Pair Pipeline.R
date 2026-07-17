@@ -1,6 +1,6 @@
 library(dada2)
 
-path <- setwd("C:\\Users\\Owner\\OneDrive\\Documents\\GW Lab\\PAN\\sequences\\Clade C Summer 2026 Sequences")
+path <- setwd("C:\\Users\\Owner\\OneDrive\\Documents\\GW Lab\\PAN\\sequences\\Clade BD Summer 2026 Sequences")
 list.files(path)
 
 #separating forward and reverse fastq filenames 

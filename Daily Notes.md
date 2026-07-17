@@ -2,14 +2,12 @@
 - Clean clade C samples & blast them 
 - Clade C PCR 
 - organize samples for future PCRs 
-
 ## To do 
-- [ ] clean clade C samples 
-	- [ ] merge pair read & blast results
-- [ ] organize psbA tracker 
-- [ ] organize samples for future PCRs 
-- [ ] Clade C PCR 
-- [ ] 
+- [x] clean clade C sequencing samples 
+	- [x] merge pair read & blast results
+- [x] organize psbA tracker 
+- [x] organize samples for future PCRs 
+- [x] Clade C PCR 
 # 7/15/2026 
 - Bead Cleanup 
 - send out samples for sequencing 
