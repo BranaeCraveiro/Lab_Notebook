@@ -18,7 +18,7 @@ colony <- colony[!colony$Species == "MMEA", ]
                                      
 
 #keeping useful columns 
-colony_clean=colony[c('Transect_num', 'Current_tag_num', 'X092022_Condition', 
+colony_clean=colony[c('Transect_num', 'Current_tag_num', 'Species', 'X092022_Condition', 
                       'X102023_Condition', 'X072024_Condition')]
 
 #renaming health condition columns 

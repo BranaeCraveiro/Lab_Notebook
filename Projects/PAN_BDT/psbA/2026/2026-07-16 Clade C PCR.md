@@ -95,9 +95,18 @@
 | 93      | 92022_PAN_BDT_T1_48_SSID    | 1_7    | 7.16      |
 | 94      | 92022_PAN_BDT_T2_15_SSID    | 2_55   | 5.26      |
 | 95      | 92022_PAN_BDT_T2_23_SSID    | 2_59   | 11.9      |
+| 96      | Negative                    | -      | -         |
 Note: felt like I may of added 669/667 to one well- redo both? may of made a mistake counting between tube 69-63- maybe redo all the ones inside just in case? or maybe I just got inside my head. 
 
 # 7/17/2026 Gel image
+![](2026_07_17_Gel_1.png)
+![](2026_07_17_Gel_2.png)
+![](2026_07_17_Gel_3.png)
+Notes: 
+- never do more than 16 PCR at once 
+- group by species 
+- rerun these gels grouped by species 
+- write down bp length & number of bands for each sample 
 # Protocol 
 *adapted from NEB's Hot Start _Taq_DNA Polymerase (M0495) https://www.neb.com/en-us/protocols/2012/10/04/pcr-using-hot-start-taq-dna-polymerase-m0495
 
