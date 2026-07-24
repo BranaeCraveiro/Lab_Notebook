@@ -1,5 +1,9 @@
 subset of [2026-07-16 Clade C PCR](2026-07-16%20Clade%20C%20PCR.md) to test if bands are psbA 
 
+Notes: 
+- eluted using 15 uL 
+- sample 5 had 18 uL & sample 17 uL starting -- used bead ratio accordingly 
+
 | PCR_TubeNum | Colony | Tubelabel_species          | Health_Status | Raw_ng_ul | Clade_C_PCR | C_band_num |
 | ----------- | ------ | -------------------------- | ------------- | --------- | ----------- | ---------- |
 | 4           | 1_16   | 072024_PAN_BDT_T1_592_CNAT | CLP           | 19.3      | 7_16_2026   | 1          |
@@ -14,6 +18,61 @@ subset of [2026-07-16 Clade C PCR](2026-07-16%20Clade%20C%20PCR.md) to test if b
 | 75          | 4_48   | 072024_PAN_BDT_T4_777_PSTR | Healthy       | 61.2      | 7_16_2026   | 2          |
 | 81          | 1_10   | 072024_PAN_BDT_T1_580_SSID | Healhty       | 1.99      | 7_16_2026   | 2          |
 | 82          | 1_18   | 072024_PAN_BDT_T1_568_SSID | Healthy       | 73.8      | 7_16_2026   | 2          |
+# 7/24/2026 Gel Image 
+
+## Nanodrop Results 
+| PCR_TubeNum | Colony | Tubelabel_species          | Concentration |
+| ----------- | ------ | -------------------------- | ------------- |
+| 4           | 1_16   | 072024_PAN_BDT_T1_592_CNAT | 11.4          |
+| 5           | 1_23   | 072024_PAN_BDT_T1_582_CNAT | 16.8          |
+| 36          | 1_23   | 92022_PAN_BDT_T1_2_CNAT    | 11.4          |
+| 42          | 2_34   | 92022_PAN_BDT_T2_55_CNAT   | 9.5           |
+| 2           | 1_2    | 072024_PAN_BDT_T1_606_MCAV | 7.4           |
+| 45          | 1_14   | 072024_PAN_BDT_T1_564_ORBI | 23.1          |
+| 49          | 1_25   | 072024_PAN_BDT_T1_586_ORBI | 19.3          |
+| 50          | 1_4    | 072024_PAN_BDT_T1_562_ORBI | 14.9          |
+| 74          | 4_48   | 072024_PAN_BDT_T4_775_PSTR | 55.8          |
+| 75          | 4_48   | 072024_PAN_BDT_T4_777_PSTR | 49.3          |
+| 81          | 1_10   | 072024_PAN_BDT_T1_580_SSID | 19.2          |
+| 82          | 1_18   | 072024_PAN_BDT_T1_568_SSID | 42.3          |
+### Sequencing Prep
+
+Sample 4: 
+
+
+Sample 5: 
+
+
+Sample 36: 
+
+
+Sample 42: 
+
+
+Sample 2: 
+
+
+Sample 45:
+
+
+Sample 49:
+
+
+Sample 50:
+
+
+Sample 74: 
+
+
+Sample 75:
+
+
+Sample 81:
+
+
+Sample 82: 
+
+
 # Protocol
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
@@ -41,10 +100,18 @@ https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-rat
 3. Gently shake the Clean NGS Mag PCR Clean-up aliquot to resuspend any Magnetic particles that may have settled.
     1. Add CleanNGS Mag PCR Clean-up volume table below:
 
+| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
+|--------------------|-----------------|-------------------------|-----------------|------------------------|
+| 0.6                | 22              | 13.2                    | 12              | 158.4                  |
+
 | Beads              |                 |                         |                 |                        |
 |--------------------|-----------------|-------------------------|-----------------|------------------------|
 | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
-| 0.6                | 20              | 12                      | 12              | 144                    |
+| 0.6                | 18              | 10.8                    | 12              | 129.6                  |
+
+| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
+|--------------------|-----------------|-------------------------|-----------------|------------------------|
+| 0.6                | 17              | 10.2                    | 12              | 122.4                  |
 
 **Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
 _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)
