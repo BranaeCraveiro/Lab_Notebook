@@ -103,10 +103,12 @@ Note: felt like I may of added 669/667 to one well- redo both? may of made a mis
 ![](2026_07_17_Gel_2.png)
 ![](2026_07_17_Gel_3.png)
 Notes: 
-- never do more than 16 PCR at once 
+- never do more than 16 PCR at once my primers are too finicky for large scale work 
 - group by species 
 - rerun these gels grouped by species 
 - write down bp length & number of bands for each sample 
+
+rerun gels w/ wider well grouped by species: ![](2026_07_20-22_Gels.pdf)
 # Protocol 
 *adapted from NEB's Hot Start _Taq_DNA Polymerase (M0495) https://www.neb.com/en-us/protocols/2012/10/04/pcr-using-hot-start-taq-dna-polymerase-m0495
 
