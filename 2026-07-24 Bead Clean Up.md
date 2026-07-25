@@ -39,33 +39,84 @@ Notes:
 
 Sample 4: 
 
+| Solution | Amount      |
+|----------|-------------|
+| sample   | 1.754385965 |
+| primer   | 2.5         |
+| water    | 10.74561404 |
 
 Sample 5: 
 
+| Solution | Amount      |
+|----------|-------------|
+| sample   | 1.19047619  |
+| primer   | 2.5         |
+| water    | 11.30952381 |
 
 Sample 36: 
 
+| Solution | Amount      |
+|----------|-------------|
+| sample   | 1.754385965 |
+| primer   | 2.5         |
+| water    | 10.74561404 |
 
 Sample 42: 
 
+| Solution | Amount      |
+|----------|-------------|
+| sample   | 2.105263158 |
+| primer   | 2.5         |
+| water    | 10.39473684 |
 
 Sample 2: 
 
+| Solution | Amount      |
+|----------|-------------|
+| sample   | 2.702702703 |
+| primer   | 2.5         |
+| water    | 9.797297297 |
 
 Sample 45:
+
+| Solution | Amount       |
+|----------|--------------|
+| sample   | 0.8658008658 |
+| primer   | 2.5          |
+| water    | 11.63419913  |
 
 
 Sample 49:
 
+| Solution | Amount      |
+|----------|-------------|
+| sample   | 1.03626943  |
+| primer   | 2.5         |
+| water    | 11.46373057 |
 
 Sample 50:
 
+| Solution | Amount      |
+|----------|-------------|
+| sample   | 1.342281879 |
+| primer   | 2.5         |
+| water    | 11.15771812 |
 
 Sample 74: 
 
+| Solution | Amount       |
+|----------|--------------|
+| sample   | 0.3584229391 |
+| primer   | 2.5          |
+| water    | 12.14157706  |
 
 Sample 75:
 
+| Solution | Amount       |
+|----------|--------------|
+| sample   | 0.4056795132 |
+| primer   | 2.5          |
+| water    | 12.09432049  |
 
 Sample 81:
 
