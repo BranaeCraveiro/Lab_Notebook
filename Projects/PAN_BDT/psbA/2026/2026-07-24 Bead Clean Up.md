@@ -20,6 +20,7 @@ Notes:
 | 82          | 1_18   | 072024_PAN_BDT_T1_568_SSID | Healthy       | 73.8      | 7_16_2026   | 2          |
 # 7/24/2026 Gel Image 
 
+![](2026_07_24_Gel.png)
 ## Nanodrop Results 
 | PCR_TubeNum | Colony | Tubelabel_species          | Concentration |
 | ----------- | ------ | -------------------------- | ------------- |
