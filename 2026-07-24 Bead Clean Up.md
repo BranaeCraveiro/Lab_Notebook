@@ -120,9 +120,19 @@ Sample 75:
 
 Sample 81:
 
+| Solution | Amount      |
+|----------|-------------|
+| sample   | 1.041666667 |
+| primer   | 2.5         |
+| water    | 11.45833333 |
 
 Sample 82: 
 
+| Solution | Amount       |
+|----------|--------------|
+| sample   | 0.4728132388 |
+| primer   | 2.5          |
+| water    | 12.02718676  |
 
 # Protocol
 ## III. Purification with ampure beads
