@@ -37,6 +37,7 @@ Notes:
 | 81          | 1_10   | 072024_PAN_BDT_T1_580_SSID | 19.2          |
 | 82          | 1_18   | 072024_PAN_BDT_T1_568_SSID | 42.3          |
 ### Sequencing Prep
+Note: tube AT03901505 & AT03901506 were flipped (06 became before 05); not a mistake on datasheet for future reference 
 
 Sample 4: 
 
@@ -45,6 +46,8 @@ Sample 4:
 | sample   | 1.754385965 |
 | primer   | 2.5         |
 | water    | 10.74561404 |
+Forward Barcode: AT03901491
+Reverse Barcode: AT03901503
 
 Sample 5: 
 
@@ -53,6 +56,8 @@ Sample 5:
 | sample   | 1.19047619  |
 | primer   | 2.5         |
 | water    | 11.30952381 |
+Forward Barcode: AT03901492
+Reverse Barcode: AT03901504
 
 Sample 36: 
 
@@ -61,6 +66,8 @@ Sample 36:
 | sample   | 1.754385965 |
 | primer   | 2.5         |
 | water    | 10.74561404 |
+Forward Barcode: AT039013
+Reverse Barcode: AT039014
 
 Sample 42: 
 
@@ -69,6 +76,8 @@ Sample 42:
 | sample   | 2.105263158 |
 | primer   | 2.5         |
 | water    | 10.39473684 |
+Forward Barcode: AT039013
+Reverse Barcode: AT039014
 
 Sample 2: 
 
@@ -77,6 +86,8 @@ Sample 2:
 | sample   | 2.702702703 |
 | primer   | 2.5         |
 | water    | 9.797297297 |
+Forward Barcode: AT039013
+Reverse Barcode: AT039014
 
 Sample 45:
 
@@ -85,7 +96,8 @@ Sample 45:
 | sample   | 0.8658008658 |
 | primer   | 2.5          |
 | water    | 11.63419913  |
-
+Forward Barcode: AT039013
+Reverse Barcode: AT039014
 
 Sample 49:
 
@@ -94,6 +106,8 @@ Sample 49:
 | sample   | 1.03626943  |
 | primer   | 2.5         |
 | water    | 11.46373057 |
+Forward Barcode: AT039013
+Reverse Barcode: AT039014
 
 Sample 50:
 
@@ -102,6 +116,8 @@ Sample 50:
 | sample   | 1.342281879 |
 | primer   | 2.5         |
 | water    | 11.15771812 |
+Forward Barcode: AT039013
+Reverse Barcode: AT039014
 
 Sample 74: 
 
@@ -110,6 +126,8 @@ Sample 74:
 | sample   | 0.3584229391 |
 | primer   | 2.5          |
 | water    | 12.14157706  |
+Forward Barcode: AT039013
+Reverse Barcode: AT039014
 
 Sample 75:
 
@@ -118,6 +136,8 @@ Sample 75:
 | sample   | 0.4056795132 |
 | primer   | 2.5          |
 | water    | 12.09432049  |
+Forward Barcode: AT039013
+Reverse Barcode: AT039014
 
 Sample 81:
 
@@ -126,6 +146,8 @@ Sample 81:
 | sample   | 1.041666667 |
 | primer   | 2.5         |
 | water    | 11.45833333 |
+Forward Barcode: AT039013
+Reverse Barcode: AT039014
 
 Sample 82: 
 
@@ -134,7 +156,8 @@ Sample 82:
 | sample   | 0.4728132388 |
 | primer   | 2.5          |
 | water    | 12.02718676  |
-
+Forward Barcode: AT039013
+Reverse Barcode: AT039014
 # Protocol
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
