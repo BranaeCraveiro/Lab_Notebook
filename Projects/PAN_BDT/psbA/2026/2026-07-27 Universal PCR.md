@@ -41,7 +41,8 @@ note: accidentally did 12 and 12 instead of 13 & 11 so the negative of the first
 |         |        |                             |               |           |             |            |
 | 24      | -      | Negative                    | -             | -         | -           | -          |
 
-# Gel Image
+# Gel Image 7/28/2026 
+![](2026_07_28_Gel.png)
 # Protocol 
 ## I. PCR 
 ### PCR Preparation 
