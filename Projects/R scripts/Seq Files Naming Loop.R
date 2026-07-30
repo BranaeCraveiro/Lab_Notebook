@@ -1,4 +1,4 @@
-setwd("C:\\Users\\Owner\\OneDrive\\Documents\\GW Lab\\PAN\\sequences")
+setwd("C:\\Users\\Owner\\OneDrive\\Documents\\GW Lab\\PAN\\sequences\\Clade C Summer 2026 Sequences")
 
 files <- list.files(pattern = ".ab1")                #only chromatagraphy files 
 name_map <- read.csv("Sequencing_Metadata.csv")
