@@ -1,4 +1,4 @@
-Samples: 
+Samples:   
 
 | PCR_Tube_Num | Colony | Tubelabel_species           | Health_Status | Extracted | Raw_ng_ul | Colony_Condition | C_band_num |
 | ------------ | ------ | --------------------------- | ------------- | --------- | --------- | ---------------- | ---------- |
