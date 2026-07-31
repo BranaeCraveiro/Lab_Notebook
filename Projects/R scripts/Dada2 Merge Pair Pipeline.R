@@ -1,6 +1,6 @@
 library(dada2)
 
-path <- setwd("C:\\Users\\Owner\\OneDrive\\Documents\\GW Lab\\PAN\\sequences\\Clade BD Summer 2026 Sequences")
+path <- setwd("C:\\Users\\Owner\\OneDrive\\Documents\\GW Lab\\PAN\\sequences\\Clade C Summer 2026 Sequences")
 list.files(path)
 
 #separating forward and reverse fastq filenames 
@@ -11,8 +11,8 @@ fnRs <- sort(list.files(path, pattern="_R.fastq$", full.names = TRUE))
 
 #extracting sample ids from forward & reverse reads
 #note to self: sub replaces the end of the file name with blanks so they actually can match up 
-sampleF <- sub("_F2.fastq$", "", basename(fnFs))
-sampleR <- sub("_R2.fastq$", "", basename(fnRs))
+sampleF <- sub("_F.fastq$", "", basename(fnFs))
+sampleR <- sub("_R.fastq$", "", basename(fnRs))
 
 #filtering for samples that have a pair 
 keepF <- sampleF %in% sampleR
@@ -46,7 +46,7 @@ dadaRs <- dada(fnRs, err=errR, multithread=TRUE)
 dadaFs[[1]]
 
 #merge pair reads 
-mergers <- mergePairs(dadaFs, fnFs, dadaRs, fnRs, verbose=TRUE, maxMismatch = 10)
+mergers <- mergePairs(dadaFs, fnFs, dadaRs, fnRs, verbose=TRUE, maxMismatch = 1000)
 # will get error is there is a sequence without a pair (one read)
 
 #if want to see all merges: 
