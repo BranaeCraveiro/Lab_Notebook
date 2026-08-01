@@ -1,3 +1,13 @@
+# Things to do while in Portugal 
+- [ ] label & upload bead clean up gel 
+- [ ] create comparison between universal & clade C gel 
+- [ ] add universal band numbers to tracker 
+- [ ] add old samples to tracker 
+- [ ] draft sigma xi proposal 
+- [ ] link obsidian & Zotero 
+- [ ] set up jupyter notebook 
+- [ ] work on degree heating week code 
+- [ ] update resume 
 # 7/16/2026 
 - Clean clade C samples & blast them 
 - Clade C PCR 
