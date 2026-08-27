@@ -44,6 +44,9 @@ Samples:
 # Gel Image 7/29/2026 
 ![](2026_07_29_Gel.png)
 
+# Sequencing prep
+
+
 # Protocol
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio

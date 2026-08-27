@@ -1,13 +1,11 @@
+# 8/26/2026 
+- prep samples for sequencing 
+- run gel with clade C and universal samples next to each other 
+- begin working on KCS report 
 # 8/25/2026 
 - meeting w/ Sarah 
 - plan out which samples to sequence
 - update psbA band tracker with recent gels
-## To Do 
-- [x] answer emails 
-	- [x] Celia 
-	- [x] Learning assisting
-	- [x] Bio retreat
-- [ ] 
 # 7/16/2026 
 - Clean clade C samples & blast them 
 - Clade C PCR 
