@@ -45,6 +45,8 @@ Samples:
 ![](2026_07_29_Gel.png)
 
 # Sequencing prep
+only sequencing the ones with one clear band 
+
 
 
 # Protocol

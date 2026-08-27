@@ -1,4 +1,4 @@
-trying subset of samples from [2026-07-16 Clade C PCR](2026-07-16%20Clade%20C%20PCR.md) to compare band brightness 
+ trying subset of samples from [2026-07-16 Clade C PCR](2026-07-16%20Clade%20C%20PCR.md) to compare band brightness 
 
 note: accidentally did 12 and 12 instead of 13 & 11 so the negative of the first group has a much lower volume than the samples (tube 13)
 
