@@ -1,4 +1,4 @@
-Samples:   
+Samples:  
 
 | PCR_Tube_Num | Colony | Tubelabel_species           | Health_Status | Extracted | Raw_ng_ul | Colony_Condition | C_band_num |
 | ------------ | ------ | --------------------------- | ------------- | --------- | --------- | ---------------- | ---------- |
@@ -41,7 +41,8 @@ Samples:
 | 93           | 1_7    | 92022_PAN_BDT_T1_48_SSID    | Healthy       | 6_09_2026 | 7.16      | Healthy          | 2          |
 | 94           | 2_55   | 92022_PAN_BDT_T2_15_SSID    | Healthy       | 6_09_2026 | 5.26      | Healthy          | 2          |
 | 95           | 2_59   | 92022_PAN_BDT_T2_23_SSID    | Healthy       | 6_09_2026 | 11.9      | Healthy          | 2          |
-# Gel Image
+# Gel Image 7/29/2026 
+![](2026_07_29_Gel.png)
 
 # Protocol
 ## III. Purification with ampure beads
