@@ -77,7 +77,7 @@ copy and paste calculation table here:
 7. run thermocycler program: *35 cycles takes ~ 2 hours 20 minutes* 
     1. 95°C for 30 seconds
     2. 95°C for 30 seconds
-    3. 45-68°C for 1 minute
+    3. 63°C for 1 minute
     4. 68°C for 1.5 minute _repeat 2-4 for 35 cycles
     5. 68°C for 5 minutes
     6. 8°C for Forever
