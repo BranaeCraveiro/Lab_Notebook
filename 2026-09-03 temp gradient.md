@@ -1,5 +1,17 @@
+Note: did 4 batches of 16 (separated by species- just did all these in one day) 
+
 samples: 
 
+| PCR_Tube_Num | Colony | Tubelabel_species          | Health_Status | Raw_ng_ul |
+| ------------ | ------ | -------------------------- | ------------- | --------- |
+| 1            | 1_11   | 92022_PAN_BDT_T1_52_MCAV   | Healthy       | 18.8      |
+| 2            | 1_17   | 92022_PAN_BDT_T1_40_MCAV   | Healthy       | 7.34      |
+| 3            | 1_4    | 072024_PAN_BDT_T1_562_ORBI | Healthy       | 96        |
+| 4            | 2_43   | 072024_PAN_BDT_T2_662_ORBI | Healthy       | 75.4      |
+| 5            | 3_87   | 072024_PAN_BDT_T3_671_PSTR | Healthy       | 75.2      |
+| 6            | 4_48   | 072024_PAN_BDT_T4_775_PSTR | CLB           | 80.8      |
+| 7            | 1_18   | 072024_PAN_BDT_T1_568_SSID | Healthy       | 73.8      |
+| 8            | 1_10   | 92022_PAN_BDT_T1_51_SSID   | Healthy       | 2.62      |
 
 # 9/3/2026 Gel Image 
 

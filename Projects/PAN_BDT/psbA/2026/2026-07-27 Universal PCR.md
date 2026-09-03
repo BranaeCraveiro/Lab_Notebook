@@ -1,4 +1,4 @@
- trying subset of samples from [2026-07-16 Clade C PCR](2026-07-16%20Clade%20C%20PCR.md) to compare band brightness 
+trying subset of samples from [2026-07-16 Clade C PCR](2026-07-16%20Clade%20C%20PCR.md) to compare band brightness 
 
 note: accidentally did 12 and 12 instead of 13 & 11 so the negative of the first group has a much lower volume than the samples (tube 13)
 
@@ -33,7 +33,7 @@ note: accidentally did 12 and 12 instead of 13 & 11 so the negative of the first
 | 17      | 1_11   | 92022_PAN_BDT_T1_52_MCAV    | Healthy       | 18.8      | 7_16_2026   | 2          |
 | 18      | 3_91   | 072024_PAN_BDT_T3_711_MCAV  | CLP           | 8.04      | 7_16_2026   | 0          |
 |         |        |                             |               |           |             |            |
-| 19      | 1_10   | 072024_PAN_BDT_T1_580_SSID  | Healhty       | 1.99      | 7_16_2026   | 2          |
+| 19      | 1_10   | 072024_PAN_BDT_T1_580_SSID  | Healthy       | 1.99      | 7_16_2026   | 2          |
 | 20      | 1_18   | 072024_PAN_BDT_T1_568_SSID  | Healthy       | 73.8      | 7_16_2026   | 2          |
 | 21      | 1_10   | 92022_PAN_BDT_T1_51_SSID    | Healthy       | 2.62      | 7_16_2026   | 2          |
 | 22      | 1_7    | 072024_PAN_BDT_T1_559_SSID  | CLP           | 25.2      | 7_16_2026   | 0          |

@@ -1,6 +1,11 @@
 samples: 
 
-
+| PCR_Tube_Num | Colony | Tubelabel_species          | Health_Status | Raw_ng_ul |
+| ------------ | ------ | -------------------------- | ------------- | --------- |
+| 1            | 3_87   | 072024_PAN_BDT_T3_671_PSTR | Healthy       | 75.2      |
+| 2            | 4_48   | 072024_PAN_BDT_T4_775_PSTR | CLB           | 80.8      |
+| 3            | 1_18   | 072024_PAN_BDT_T1_568_SSID | Healthy       | 73.8      |
+| 4            | 1_10   | 92022_PAN_BDT_T1_51_SSID   | Healthy       | 2.62      |
 # 9/3/2026 Gel Image 
 
 
