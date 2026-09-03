@@ -14,7 +14,7 @@ samples:
 | 8            | 1_10   | 92022_PAN_BDT_T1_51_SSID   | Healthy       | 2.62      |
 
 
-# 9/3/2026 Gel Image 
+# 9/3/2026 Gel Images
 
 
 ## Caroline's temp gradient 
