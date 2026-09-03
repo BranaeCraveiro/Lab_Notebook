@@ -6,8 +6,8 @@ samples:
 | ------------ | ------ | -------------------------- | ------------- | --------- |
 | 1            | 1_11   | 92022_PAN_BDT_T1_52_MCAV   | Healthy       | 18.8      |
 | 2            | 1_17   | 92022_PAN_BDT_T1_40_MCAV   | Healthy       | 7.34      |
-| 3            | 1_4    | 072024_PAN_BDT_T1_562_ORBI | Healthy       | 96        |
-| 4            | 2_43   | 072024_PAN_BDT_T2_662_ORBI | Healthy       | 75.4      |
+| 5            | 1_4    | 072024_PAN_BDT_T1_562_ORBI | Healthy       | 96        |
+| 6            | 2_43   | 072024_PAN_BDT_T2_662_ORBI | Healthy       | 75.4      |
 | 5            | 3_87   | 072024_PAN_BDT_T3_671_PSTR | Healthy       | 75.2      |
 | 6            | 4_48   | 072024_PAN_BDT_T4_775_PSTR | CLB           | 80.8      |
 | 7            | 1_18   | 072024_PAN_BDT_T1_568_SSID | Healthy       | 73.8      |
