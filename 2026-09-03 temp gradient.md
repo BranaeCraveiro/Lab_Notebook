@@ -32,15 +32,15 @@ copy and paste calculation table here:
 
 | Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% |
 |-----------------|-----------------------|-----------------------------|
-| Buffer          | 2.5                   | 88                          |
-| dNTP (10mM)     | 0.5                   | 17.6                        |
-| F Primer (10uM) | 1                     | 35.2                        |
-| R Primer (10uM) | 1                     | 35.2                        |
-| DNA             | 1                     | 35.2                        |
-| Polymerase      | 0.125                 | 4.4                         |
-| Water           | 18.75                 | 660                         |
-| Albumin         | 0.125                 | 4.4                         |
-| Total           | 25                    | 880                         |
+| Buffer          | 2.5                   | 44                          |
+| dNTP (10mM)     | 0.5                   | 8.8                         |
+| F Primer (10uM) | 1                     | 17.6                        |
+| R Primer (10uM) | 1                     | 17.6                        |
+| DNA             | 1                     | 17.6                        |
+| Polymerase      | 0.125                 | 2.2                         |
+| Water           | 18.75                 | 330                         |
+| Albumin         | 0.125                 | 2.2                         |
+| Total           | 25                    | 440                         |
 
 1. Add Buffer, dNTP, and Primers vortex to Eppendorf tube. Vortex Briefly  
 	*(DO NOT vortex polymerase or albumin)*
@@ -60,11 +60,11 @@ copy and paste calculation table here:
     6. 8°C for Forever
 
 # Temperature Gradient
-A: 75°C
-B: 74.4°C
-C: 73.1°C
-D: 71.3°C
-E: 69°C
-F: 67.4°C
-G: 66°C
-H: 65°C
+A: 70°C
+B: 69.3°C
+C: 68.1°C
+D: 66.3°C
+E: 64°C
+F: 62.3°C
+G: 61°C
+H: 60°C
