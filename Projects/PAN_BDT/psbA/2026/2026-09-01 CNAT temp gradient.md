@@ -5,7 +5,7 @@ samples:
 | 1       | 1_23   | 072024_PAN_BDT_T1_582_CNAT | Healthy       | 33.6      | 7_16_2026   | 1          |
 | 2       | 1_16   | 072024_PAN_BDT_T1_592_CNAT | CLP           | 19.3      | 7_16_2026   | 1          |
 
-# 9/3/2026 Gel Image 
+# 9/3/2026 Gel Image ![](2026_09_03_Gel_CNAT.png)
 
 
 ## Caroline's temp gradient 
