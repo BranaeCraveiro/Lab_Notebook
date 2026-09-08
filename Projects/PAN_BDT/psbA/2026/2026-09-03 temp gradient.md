@@ -15,6 +15,20 @@ samples:
 
 
 # 9/3/2026 Gel Images
+![](2026_09_03_MCAV.png)
+
+![](2026_09_04_PSTR.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Caroline's temp gradient 
