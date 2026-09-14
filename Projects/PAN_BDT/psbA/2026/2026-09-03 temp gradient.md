@@ -13,23 +13,14 @@ samples:
 | 7            | 1_18   | 072024_PAN_BDT_T1_568_SSID | Healthy       | 73.8      |
 | 8            | 1_10   | 92022_PAN_BDT_T1_51_SSID   | Healthy       | 2.62      |
 
-
 # 9/3/2026 Gel Images
 ![](2026_09_03_MCAV.png)
 
 ![](2026_09_04_PSTR.png)
 
+![](2026_09_08_Gel_ORBI.png)
 
-
-
-
-
-
-
-
-
-
-
+![](2026_09_08_Gel_SSID.png)
 
 ## Caroline's temp gradient 
 ![](jun26_psba_tempgrad.pdf)
