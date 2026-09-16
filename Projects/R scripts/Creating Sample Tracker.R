@@ -5,18 +5,17 @@ require(data.table)
 
 setwd("C:\\Local_Files\\SCTLD_samples\\Sample_Data")
 
-#load Colony_Data.csv
+#load colony data
 colony <- read.csv("PAN-BDT_ColonyData.csv")
 
 #step 1: cleaning colony data 
 
-#checking column headers 
+#checking headers 
 head(colony)
 
 #removing MMEAs (breaks future merge look at lines 150-154)
 colony <- colony[!colony$Species == "MMEA", ]
                                      
-
 #keeping useful columns 
 colony_clean=colony[c('Transect_num', 'Current_tag_num', 'Species', 'X092022_Condition', 
                       'X102023_Condition', 'X072024_Condition')]
@@ -37,7 +36,6 @@ colony_long <- colony_clean %>%
   )
 
 #add colony column 
-#adding a colony column to sample data using transect num and tag num data 
 colony_long$colony = c(paste0(colony_long$Transect_num, "_", colony_long$Current_tag_num))
 
 #checking if code worked
@@ -47,6 +45,7 @@ head(colony_long)
 #removing transcet num and current tag number columns now that we have the colony column 
 colony_long$Transect_num =NULL
 colony_long$Current_tag_num =NULL
+
 #checking if worked 
 head(colony_long)
 
@@ -86,7 +85,7 @@ metagenomics_PCR = metagenomics[c("Tubelabel_species", "Health_Status", "Extract
 #checking if code worked
 head(metagenomics_PCR)
 
-#renaming notes column 
+#renaming notes column
 names(metagenomics_PCR)[6] <- "Extraction_notes"
 #check if worked 
 head(metagenomics_PCR)
@@ -123,7 +122,7 @@ nrow(sample_DNA)
 
 #rows in meta that are not in sample
 (metagenomics_PCR[!(metagenomics_PCR$Tubelabel_species %in% sample_DNA$Tubelabel_species), ])
-#forgot to add ORBI, OANN, & OFAV when filtering sample data earlier 
+#forgot to add ORBI, OANN, & OFAV when filtering sample data earlier oops
 
 #rows in sample that are not in meta
 (sample_DNA[!(sample_DNA$Tubelabel_species %in% metagenomics_PCR$Tubelabel_species), ])
