@@ -1,7 +1,7 @@
 #load libraries
-require(tidyverse)
-require(dplyr)
-require(data.table)
+library(tidyverse)
+library(dplyr)
+library(data.table)
 
 setwd("C:\\Local_Files\\SCTLD_samples\\Sample_Data")
 
