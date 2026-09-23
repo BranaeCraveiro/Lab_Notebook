@@ -1,4 +1,4 @@
-    Note: did 4 batches of 16 (separated by species- just did all these in one day) 
+Note: did 4 batches of 16 (separated by species- just did all these in one day) 
 
 samples: 
 

@@ -12,6 +12,9 @@ cleaning samples from [2026-09-01 CNAT temp gradient](2026-09-01%20CNAT%20temp%2
 | 8       | 4_48   | 072024_PAN_BDT_T4_775_PSTR | CLB           | 80.8      | 1        |
 | 9       | 1_18   | 072024_PAN_BDT_T1_568_SSID | Healthy       | 73.8      | 2        |
 | 10      | 1_10   | 92022_PAN_BDT_T1_51_SSID   | Healthy       | 2.62      | 1        |
+# 9/18/2026 Gel 
+
+#
 
 # Protocol 
 ## III. Purification with ampure beads

@@ -73,8 +73,19 @@ only sequencing the ones with one clear band
 | 95           | 92022_PAN_BDT_T2_23_SSID    | 19.6    | 1.020408163 | 11.47959184 | AT03901484             | AT03900998      |                                         |
 | 2            | 072024_PAN_BDT_T1_1026_MCAV | 8.4     | 2.380952381 | 10.11904762 | AT03901000             | NA              | re-sequencing (from 7/15/2026 cleaning) |
 
+# 9/21/2026 Sequencing Prep 
+decided to sequence some samples I thought might be too faint after talking to Sarah (I dont need that strong of a band to still get good sequence data back)
 
-
+| PCR Number | Tubelabel_species          | Nanodrop Conc | Sample uL   | Water uL    | Forward Barcode | Reverse Barcode |
+| ---------- | -------------------------- | ------------- | ----------- | ----------- | --------------- | --------------- |
+| 1          | 072024_PAN_BDT_T1_608_MCAV | 5.3           | 3.773584906 | 8.726415094 | AT03901001      | AT03901008      |
+| 76         | 92022_PAN_BDT_T1_52_MCAV   | 7.5           | 2.666666667 | 9.833333333 | AT03901002      | AT03901009      |
+| 51         | 072024_PAN_BDT_T2_609_MCAV | 9.6           | 2.083333333 | 10.41666667 | AT03901003      | AT03901010      |
+| 78         | 92022_PAN_BDT_T1_40_MCAV   | 8.5           | 2.352941176 | 10.14705882 | AT03901004      | AT03901011      |
+| 63         | 072024_PAN_BDT_T3_697_MCAV | 6.8           | 2.941176471 | 9.558823529 | AT03901006      | AT03901012      |
+| 80         | 92022_PAN_BDT_T2_27_MCAV   | 5.5           | 3.636363636 | 8.863636364 | AT03901005      | AT03901013      |
+| 88         | 072024_PAN_BDT_T3_701_SSID | 10.9          | 1.834862385 | 10.66513761 | AT03901007      | AT03901014      |
+NOTE: 63 & 80 I somehow messed up and mixed them up and then couldn't remember which was which so I am going to get rid of them- there is not enough cleaned sample left since these were faint- will just redo PCR and dry/UV tubes 
 # Protocol
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
