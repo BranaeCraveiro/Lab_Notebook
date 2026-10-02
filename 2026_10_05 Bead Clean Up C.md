@@ -1,19 +1,19 @@
 
 | PCR_Tube_Num | Tubelabel_species          | Health_Status | Raw_ng_ul |
 | ------------ | -------------------------- | ------------- | --------- |
-| 1            | 072024_PAN_BDT_T3_697_MCAV | Healthy       | 46.2      |
-| 2            | 072024_PAN_BDT_T3_699_MCAV | CLP           | 29.6      |
-| 3            | 072024_PAN_BDT_T3_711_MCAV | CLP           | 8.04      |
-| 4            | 92022_PAN_BDT_T2_27_MCAV   | Healthy       | 3.34      |
-| 5            | 92022_PAN_BDT_T3_15_MCAV   | Healthy       | 7.7       |
-| 6            | 92022_PAN_BDT_T3_10_MCAV   | Healthy       | 2.92      |
-| 7            | 102023_PAN_BDT_T1_151_MCAV | CLP           | 61.8      |
-| 8            | 102023_PAN_BDT_T1_116_MCAV | CLP           | 25        |
-| 9            | 102023_PAN_BDT_T2_179_MCAV | CLP           | 66.8      |
-| 10           | 102023_PAN_BDT_T3_290_MCAV | CLP           | 33        |
-| 11           | 102023_PAN_BDT_T3_299_MCAV | CLP           | 52.2      |
-| 12           | Negative                   |               |           |
-
+| 1            | 072024_PAN_BDT_T2_609_MCAV | CLP           | 92.8      |
+| 2            | 072024_PAN_BDT_T3_697_MCAV | Healthy       | 46.2      |
+| 3            | 072024_PAN_BDT_T3_699_MCAV | CLP           | 29.6      |
+| 4            | 072024_PAN_BDT_T3_711_MCAV | CLP           | 8.04      |
+| 5            | 92022_PAN_BDT_T2_27_MCAV   | Healthy       | 3.34      |
+| 6            | 92022_PAN_BDT_T3_15_MCAV   | Healthy       | 7.7       |
+| 7            | 92022_PAN_BDT_T3_10_MCAV   | Healthy       | 2.92      |
+| 8            | 102023_PAN_BDT_T1_151_MCAV | CLP           | 61.8      |
+| 9            | 102023_PAN_BDT_T1_116_MCAV | CLP           | 25        |
+| 10           | 102023_PAN_BDT_T2_179_MCAV | CLP           | 66.8      |
+| 11           | 102023_PAN_BDT_T3_290_MCAV | CLP           | 33        |
+| 12           | 102023_PAN_BDT_T3_299_MCAV | CLP           | 52.2      |
+| 13           | Negative                   |               |           |
 # Procedure
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
