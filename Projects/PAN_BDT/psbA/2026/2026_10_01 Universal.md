@@ -17,7 +17,8 @@
 | 15           | 102023_PAN_BDT_T3_290_MCAV  | CLP           | 33        |
 | 16           | 102023_PAN_BDT_T3_299_MCAV  | CLP           | 52.2      |
 | 17           | Negative                    |               |           |
-
+# 10/5/2026 Gel Image
+![](2026_10_05_Gel_Universal.png)
 # Protocol 
 *adapted from NEB's Hot Start _Taq_DNA Polymerase (M0495) https://www.neb.com/en-us/protocols/2012/10/04/pcr-using-hot-start-taq-dna-polymerase-m0495
 

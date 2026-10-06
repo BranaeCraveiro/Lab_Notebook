@@ -1,19 +1,24 @@
 
-| PCR_Tube_Num | Tubelabel_species          | Health_Status | Raw_ng_ul |
-| ------------ | -------------------------- | ------------- | --------- |
-| 1            | 072024_PAN_BDT_T2_609_MCAV | CLP           | 92.8      |
-| 2            | 072024_PAN_BDT_T3_697_MCAV | Healthy       | 46.2      |
-| 3            | 072024_PAN_BDT_T3_699_MCAV | CLP           | 29.6      |
-| 4            | 072024_PAN_BDT_T3_711_MCAV | CLP           | 8.04      |
-| 5            | 92022_PAN_BDT_T2_27_MCAV   | Healthy       | 3.34      |
-| 6            | 92022_PAN_BDT_T3_15_MCAV   | Healthy       | 7.7       |
-| 7            | 92022_PAN_BDT_T3_10_MCAV   | Healthy       | 2.92      |
-| 8            | 102023_PAN_BDT_T1_151_MCAV | CLP           | 61.8      |
-| 9            | 102023_PAN_BDT_T1_116_MCAV | CLP           | 25        |
-| 10           | 102023_PAN_BDT_T2_179_MCAV | CLP           | 66.8      |
-| 11           | 102023_PAN_BDT_T3_290_MCAV | CLP           | 33        |
-| 12           | 102023_PAN_BDT_T3_299_MCAV | CLP           | 52.2      |
-| 13           | Negative                   |               |           |
+| PCR_Tube_Num | Tubelabel_species           | Health_Status | Raw_ng_ul |
+| ------------ | --------------------------- | ------------- | --------- |
+| 1            | 072024_PAN_BDT_T1_608_MCAV  | Healthy       | 6.42      |
+| 2            | 072024_PAN_BDT_T2_609_MCAV  | CLP           | 92.8      |
+| 3            | 072024_PAN_BDT_T3_697_MCAV  | Healthy       | 46.2      |
+| 4            | 072024_PAN_BDT_T3_699_MCAV  | CLP           | 29.6      |
+| 5            | 072024_PAN_BDT_T1_1026_MCAV | Healthy       | 25.8      |
+| 6            | 072024_PAN_BDT_T3_711_MCAV  | CLP           | 8.04      |
+| 7            | 92022_PAN_BDT_T2_27_MCAV    | Healthy       | 3.34      |
+| 8            | 072024_PAN_BDT_T1_1020_MCAV | Healthy       | 19.1      |
+| 9            | 072024_PAN_BDT_T3_709_MCAV  | Healthy       | 36.4      |
+| 10           | 92022_PAN_BDT_T3_15_MCAV    | Healthy       | 7.7       |
+| 11           | 92022_PAN_BDT_T3_10_MCAV    | Healthy       | 2.92      |
+| 12           | 102023_PAN_BDT_T1_151_MCAV  | CLP           | 61.8      |
+| 13           | 102023_PAN_BDT_T1_116_MCAV  | CLP           | 25        |
+| 14           | 102023_PAN_BDT_T2_179_MCAV  | CLP           | 66.8      |
+| 15           | 102023_PAN_BDT_T3_290_MCAV  | CLP           | 33        |
+| 16           | 102023_PAN_BDT_T3_299_MCAV  | CLP           | 52.2      |
+| 17           | Negative                    |               |           |
+
 # Procedure
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
@@ -31,7 +36,7 @@ https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-rat
 
 | Number of Samples | 80% EtOH for each sample (uL) | Total 80% EtoH needed (mL) | Volume 100% EtOH (mL) | Volume H2O (mL) |
 |-------------------|-------------------------------|----------------------------|-----------------------|-----------------|
-| 12                | 540                           | 6.48                       | 5.18                  | 1.30            |
+| 17                | 540                           | 9.18                       | 7.34                  | 1.84            |
 
 2. Determine whether or not a plate transfer is necessary. If the PCR reaction volume multiplied by 2.8 exceeds the volume of the PCR plate, a transfer to larger tubes is required.
 3. Gently shake the Clean NGS Mag PCR Clean-up aliquot to resuspend any Magnetic particles that may have settled.
@@ -39,7 +44,7 @@ https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-rat
 
 | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
 |--------------------|-----------------|-------------------------|-----------------|------------------------|
-| 0.6                | 20              | 12                      | 12              | 144                    |
+| 0.6                | 20              | 12                      | 17              | 204                    |
 
 **Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
 _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)
