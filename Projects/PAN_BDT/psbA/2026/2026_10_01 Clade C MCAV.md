@@ -1,3 +1,5 @@
+Clade C PCR on remaining MCAV samples from subset 1
+
 | PCR_Tube_Num | Tubelabel_species          | Health_Status | Raw_ng_ul |
 | ------------ | -------------------------- | ------------- | --------- |
 | 1            | 072024_PAN_BDT_T3_697_MCAV | Healthy       | 46.2      |

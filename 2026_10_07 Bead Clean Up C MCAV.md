@@ -15,7 +15,7 @@
 | 12           | 102023_PAN_BDT_T3_299_MCAV | CLP           | 52.2      |
 | 13           | Negative                   |               |           |
 
-# Procedure
+# Protocol
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
 ### Purification Preparation

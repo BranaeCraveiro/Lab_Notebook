@@ -1,3 +1,5 @@
+Universal PCR from remaining MCAV samples from subset 1
+
 | PCR_Tube_Num | Tubelabel_species           | Health_Status | Raw_ng_ul |
 | ------------ | --------------------------- | ------------- | --------- |
 | 1            | 072024_PAN_BDT_T1_608_MCAV  | Healthy       | 6.42      |
