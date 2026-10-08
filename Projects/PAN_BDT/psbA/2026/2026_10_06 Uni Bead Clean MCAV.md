@@ -1,23 +1,46 @@
 cleaning samples from [2026_10_01 Universal MCAV](2026_10_01%20Universal%20MCAV.md)
 
-| PCR_Tube_Num | Tubelabel_species           | Health_Status | Raw_ng_ul |     |
-| ------------ | --------------------------- | ------------- | --------- | --- |
-| 1            | 072024_PAN_BDT_T1_608_MCAV  | Healthy       | 6.42      |     |
-| 2            | 072024_PAN_BDT_T2_609_MCAV  | CLP           | 92.8      |     |
-| 3            | 072024_PAN_BDT_T3_697_MCAV  | Healthy       | 46.2      |     |
-| 4            | 072024_PAN_BDT_T3_699_MCAV  | CLP           | 29.6      |     |
-| 6            | 072024_PAN_BDT_T3_711_MCAV  | CLP           | 8.04      |     |
-| 8            | 072024_PAN_BDT_T1_1020_MCAV | Healthy       | 19.1      |     |
-| 9            | 072024_PAN_BDT_T3_709_MCAV  | Healthy       | 36.4      |     |
-| 10           | 92022_PAN_BDT_T3_15_MCAV    | Healthy       | 7.7       |     |
-| 11           | 92022_PAN_BDT_T3_10_MCAV    | Healthy       | 2.92      |     |
-| 12           | 102023_PAN_BDT_T1_151_MCAV  | CLP           | 61.8      |     |
-| 13           | 102023_PAN_BDT_T1_116_MCAV  | CLP           | 25        |     |
-| 14           | 102023_PAN_BDT_T2_179_MCAV  | CLP           | 66.8      |     |
-| 15           | 102023_PAN_BDT_T3_290_MCAV  | CLP           | 33        |     |
-| 16           | 102023_PAN_BDT_T3_299_MCAV  | CLP           | 52.2      |     |
-| 17           | Negative                    |               |           |     |
+| PCR_Tube_Num | Tubelabel_species           | Health_Status | Raw_ng_ul |
+| ------------ | --------------------------- | ------------- | --------- |
+| 1            | 072024_PAN_BDT_T1_608_MCAV  | Healthy       | 6.42      |
+| 2            | 072024_PAN_BDT_T2_609_MCAV  | CLP           | 92.8      |
+| 3            | 072024_PAN_BDT_T3_697_MCAV  | Healthy       | 46.2      |
+| 4            | 072024_PAN_BDT_T3_699_MCAV  | CLP           | 29.6      |
+| 6            | 072024_PAN_BDT_T3_711_MCAV  | CLP           | 8.04      |
+| 8            | 072024_PAN_BDT_T1_1020_MCAV | Healthy       | 19.1      |
+| 9            | 072024_PAN_BDT_T3_709_MCAV  | Healthy       | 36.4      |
+| 10           | 92022_PAN_BDT_T3_15_MCAV    | Healthy       | 7.7       |
+| 11           | 92022_PAN_BDT_T3_10_MCAV    | Healthy       | 2.92      |
+| 12           | 102023_PAN_BDT_T1_151_MCAV  | CLP           | 61.8      |
+| 13           | 102023_PAN_BDT_T1_116_MCAV  | CLP           | 25        |
+| 14           | 102023_PAN_BDT_T2_179_MCAV  | CLP           | 66.8      |
+| 15           | 102023_PAN_BDT_T3_290_MCAV  | CLP           | 33        |
+| 16           | 102023_PAN_BDT_T3_299_MCAV  | CLP           | 52.2      |
+| 17           | Negative                    |               |           |
 Note: keeping numbers the same as original PCR; samples 5 & 7 did not have a band 
+
+# 10/6/2026 Gel Image 
+![](2026_10_06_Gel.png)
+
+# 10/8/2026 Sequencing Prep 
+
+| PCR Num | Tubelabel_species           | Nanodrop Conc | Sample_uL | Water_uL | Forward Barcode | Reverse Barcode |
+| ------- | --------------------------- | ------------- | --------- | -------- | --------------- | --------------- |
+| 1       | 072024_PAN_BDT_T1_608_MCAV  |               |           |          | AT03901047      | AT03901061      |
+| 2       | 072024_PAN_BDT_T2_609_MCAV  |               |           |          | AT03901048      | AT03901062      |
+| 3       | 072024_PAN_BDT_T3_697_MCAV  |               |           |          | AT03901049      | AT03901063      |
+| 4       | 072024_PAN_BDT_T3_699_MCAV  |               |           |          | AT03901050      | AT03901064      |
+| 6       | 072024_PAN_BDT_T3_711_MCAV  |               |           |          | AT03901051      | AT03901065      |
+| 8       | 072024_PAN_BDT_T1_1020_MCAV |               |           |          | AT03901052      | AT03901066      |
+| 9       | 072024_PAN_BDT_T3_709_MCAV  |               |           |          | AT03901053      | AT03901067      |
+| 10      | 92022_PAN_BDT_T3_15_MCAV    |               |           |          | AT03901054      | AT03901068      |
+| 11      | 92022_PAN_BDT_T3_10_MCAV    |               |           |          | AT03901055      | AT03901069      |
+| 12      | 102023_PAN_BDT_T1_151_MCAV  |               |           |          | AT03901056      | AT03901070      |
+| 13      | 102023_PAN_BDT_T1_116_MCAV  |               |           |          | AT03901057      | AT03901071      |
+| 14      | 102023_PAN_BDT_T2_179_MCAV  |               |           |          | AT03901058      | AT03901072      |
+| 15      | 102023_PAN_BDT_T3_290_MCAV  |               |           |          | AT03901059      | AT03901073      |
+| 16      | 102023_PAN_BDT_T3_299_MCAV  |               |           |          | AT03901060      | AT03901074      |
+
 # Procedure
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
@@ -29,7 +52,7 @@ https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-rat
 	- *1.0x will get rid of <200 bp dimers, 1.8X will get rid of dimer <100 bp* 
 	- *for psbA usually use 0.6x but always double check sample gel image to pick ratio
 - all calculations can be done here: [https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=1947158502#gid=1947158502](https://docs.google.com/spreadsheets/d/1O_NJCFvnBztKm_G88Sx-gEKD7CwR44iEaRjyxS_N32E/edit?gid=1947158502#gid=1947158502) 
-### Purification 
+### Purification
 1. make fresh 80% ethanol in a 50mL tube (label and parafilm when not in use)
     - paste filled out table here
 
