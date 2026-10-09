@@ -22,6 +22,8 @@
 | 19          | -      | Negative                   | -             | -         |
 # 10/8/2026 Gel 
 Note: Accidentally loaded 1.5 uL of DNA into the well for samples 1 & 2 
+![](2026_10_08_Gel.png)
+
 # Protocol 
 *adapted from NEB's Hot Start _Taq_DNA Polymerase (M0495) https://www.neb.com/en-us/protocols/2012/10/04/pcr-using-hot-start-taq-dna-polymerase-m0495
 
