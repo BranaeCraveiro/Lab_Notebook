@@ -1,4 +1,4 @@
-cleaning samples from [2026_10_01 Universal MCAV](2026_10_01%20Universal%20MCAV.md)
+cleaning samples from [2026-10-01 Universal MCAV](2026-10-01%20Universal%20MCAV.md)
 Note: Eluted to 20 uL 
 
 | PCR_Tube_Num | Tubelabel_species           | Health_Status | Raw_ng_ul |
