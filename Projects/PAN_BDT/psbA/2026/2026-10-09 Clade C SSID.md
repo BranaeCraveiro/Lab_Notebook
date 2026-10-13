@@ -13,6 +13,7 @@
 | 11           | 2_59   | 102023_PAN_BDT_T2_188_SSID | CLB           | 30.6      |
 | 12           | 3_81   | 102023_PAN_BDT_T3_288_SSID | CLB           | 82        |
 | 13           | -      | Negative                   | -             | -         |
+# 10/9/2026 Gel Image ![](2026_10_09_Gel_SSID_C.png)
 
 # Protocol 
 *adapted from NEB's Hot Start _Taq_DNA Polymerase (M0495) https://www.neb.com/en-us/protocols/2012/10/04/pcr-using-hot-start-taq-dna-polymerase-m0495
