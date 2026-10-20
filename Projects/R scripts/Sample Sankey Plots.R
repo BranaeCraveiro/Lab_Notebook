@@ -107,6 +107,7 @@ colony <- colony %>%
     . == "CLB, CLP" ~ "CLB",
     . == "CLB,CLP" ~ "CLB",
     . == "DC, CLP" ~ "CLP",
+    . == "CLP, DC" ~ "CLP",
     . == "CLB,CLP " ~ "CLB",
     . == "CLP " ~ "CLP", 
     . == "Healhty" ~ "Healthy", 
@@ -249,13 +250,15 @@ for (specie in species_list){
 }
 
 combined_plot <- wrap_plots(plots, ncol = 2, guides = "collect") &
+  coord_cartesian(clip = "off") & 
   theme(
-    legend.position = "right", 
+    legend.position = "bottom", 
     legend.title = element_text(size = 9),
-    legend.text = element_text(size = 8)
+    legend.text = element_text(size = 8),
+    plot.margin = margin(5, 15, 5, 15)
   )
 
-ggsave("C:/Local_Files/Lab_Notebook/Projects/R scripts/Plots/sankey_samples.pdf", combined_plot, width = 12, height = 12)
+ggsave("C:/Local_Files/Lab_Notebook/Projects/R scripts/Plots/sankey_samples_wide.pdf", combined_plot, width = 10, height = 14)
 
 
 
