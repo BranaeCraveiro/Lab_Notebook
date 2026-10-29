@@ -1,3 +1,4 @@
+Note: have to redo since I don't remember why I have 20 samples in my gel but only 19 written in my notebook, I remember I had a wrong sample but not sure which one 
 
 | PCR TubeNum | Colony | Tubelabel_species          | Health_Status | Raw_ng_ul |
 | ----------- | ------ | -------------------------- | ------------- | --------- |
