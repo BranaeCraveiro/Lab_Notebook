@@ -19,3 +19,26 @@ Mystery PAST (no past in T3 on github) 
 - In molecular sampling datasheet: 
 	- tag N/A PAST pill box: 2 DNA Sample PAN 23-16 notes: immune start after? 
 
+
+# 092026 Sample Inventory
+
+## BOX 51 
+have sample but missing on CBC samples - maybe water samples; paper inside?
+- [ ] 3167-3173
+- [ ] 3164
+- [ ] 2721, 2722
+## BOX 52 (RNA Later)
+have sample but missing on CBC samples
+- [ ] 3176-3183 
+- [ ] 2923- 2931 
+
+- [x] 2932 - two samples on CBC samples, actual sample is RNA later so checked off location on that one  
+	- correct rna later and frozen were there, believed it was accidentally entered twice so deleted duplicate row
+## BOX 72 
+have sample but missing on CBC samples
+- [ ] 3045- 3061 
+
+- [ ] 3062 frozen but actually zymo
+
+
+
