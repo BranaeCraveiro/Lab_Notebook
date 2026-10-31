@@ -1,6 +1,8 @@
 Bead Cleanup of samples 5 & & from [2026-10-01 Clade C MCAV](2026-10-01%20Clade%20C%20MCAV.md) and 2-12 from [2026-10-09 Clade C SSID](2026-10-09%20Clade%20C%20SSID.md)
 
-Notes: Eluting to 15 uL 
+Teaching TP how to make gel
+
+Notes: Eluting to 20 uL 
 
 | PCR Tube_num | Tubelabel_species          | Health_Status | Raw_ng_ul |
 | ------------ | -------------------------- | ------------- | --------- |
@@ -21,6 +23,9 @@ Notes: Eluting to 15 uL
 S = [2026-10-06 Universal SSID](2026-10-06%20Universal%20SSID.md)
 M = [2026-10-01 Clade C MCAV](2026-10-01%20Clade%20C%20MCAV.md)
 
+# 10/30/2026 Gel image 
+Note: accidentally started loading wrong samples
+TP loaded cleaned samples & bottom ladders 
 # Protocol 
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
