@@ -24,8 +24,11 @@ S = [2026-10-06 Universal SSID](2026-10-06%20Universal%20SSID.md)
 M = [2026-10-01 Clade C MCAV](2026-10-01%20Clade%20C%20MCAV.md)
 
 # 10/30/2026 Gel image 
+![](2026_10_30_Gel.png)
+
 Note: accidentally started loading wrong samples
 TP loaded cleaned samples & bottom ladders 
+
 # Protocol 
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio

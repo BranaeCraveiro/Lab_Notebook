@@ -37,7 +37,7 @@ note: accidentally added double master mix to sample 3
 | 33  | -      | Negative                    | -             | -         |
 # 10/29/26 Gel 
 
-
+![](2026_10_29_Gel.png)
 # Protocol
 
 ## PCR Preparation 
