@@ -29,6 +29,10 @@ M = [2026-10-01 Clade C MCAV](2026-10-01%20Clade%20C%20MCAV.md)
 Note: accidentally started loading wrong samples
 TP loaded cleaned samples & bottom ladders 
 
+# Sequencing Prep 
+
+
+
 # Protocol 
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
