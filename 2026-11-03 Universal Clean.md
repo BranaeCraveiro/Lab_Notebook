@@ -13,6 +13,7 @@ cleaning samples from [2026-10-27 Universal PCR](2026-10-27%20Universal%20PCR.md
 | 11  | 4_10   | 072024_PAN_BDT_T4_845_ORBI | Healthy       | 83.6      |
 | 12  | 1_14   | 92022_PAN_BDT_T1_46_ORBI   | Healthy       | 9.84      |
 | 14  | 2_51   | 92022_PAN_BDT_T2_29_ORBI   | Healthy       | 18.2      |
+| 16  | 1_25   | 102023_PAN_BDT_T1_92_ORBI  | Healthy       | 4.22      |
 | 18  | 4_10   | 102023_PAN_BDT_T4_363_ORBI | Healthy       | 100       |
 | 21  | 3_72   | 072024_PAN_BDT_T3_731_PSTR | CLP           | 29.4      |
 | 23  | 3_73   | 072024_PAN_BDT_T3_737_PSTR | Healthy       | 11.1      |
@@ -22,7 +23,7 @@ cleaning samples from [2026-10-27 Universal PCR](2026-10-27%20Universal%20PCR.md
 | 28  | 3_77   | 92022_PAN_BDT_T3_18_PSTR   | Healthy       | 30        |
 | 29  | 3_87   | 92022_PAN_BDT_T3_21_PSTR   | Healthy       | 75.6      |
 | 32  | 3_87   | 102023_PAN_BDT_T3_332_PSTR | CLP           | 67.2      |
-
+Forgot to add 16 (since band was so faint) when I separated samples I wanted to clean from the ones that were not successful, so that tube is at the end of my actually pcr strips
 
 
 
