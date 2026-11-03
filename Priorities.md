@@ -1,9 +1,9 @@
-Date updated: 10/29/2026
+Date updated: 11/03/2026
 # psbA Sample Troubleshoot
 - [ ] dilute MCAV samples w/ multiple bands 
 - [ ] retry universal ORBI samples that failed at lower temperature
 
-# Code  
+# Code to work on 
 - [ ] Table with each sample and if there is a band for each primer and if psba 
 - [ ] Figure out how to BLAST multiple reads - UNITY 
 - [ ] make custom blast database 

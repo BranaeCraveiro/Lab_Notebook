@@ -35,3 +35,14 @@
 | 32       | -      | Negative                    | -             |           |
 
 
+| Reagent         | Amount per 1 rxn (uL) | MasterMix Amount (uL) + 10% |
+|-----------------|-----------------------|-----------------------------|
+| Buffer          | 2.5                   | 88                          |
+| dNTP (10mM)     | 0.5                   | 17.6                        |
+| F Primer (10uM) | 1                     | 35.2                        |
+| R Primer (10uM) | 1                     | 35.2                        |
+| DNA             | 1                     | 35.2                        |
+| Polymerase      | 0.125                 | 4.4                         |
+| Water           | 18.75                 | 660                         |
+| Albumin         | 0.125                 | 4.4                         |
+| Total           | 25                    | 880                         |
