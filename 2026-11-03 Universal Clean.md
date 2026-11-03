@@ -1,4 +1,6 @@
 cleaning samples from [2026-10-27 Universal PCR](2026-10-27%20Universal%20PCR.md)
+Note: fiant bands eluted to 10 uL 
+strong bands eluted to 20 uL (1, 2, 4, 11, 14, 18, 24, 29, 32)
 
 | x   | Colony | Tubelabel_species          | Health_Status | Raw_ng_ul |
 | --- | ------ | -------------------------- | ------------- | --------- |
@@ -56,7 +58,7 @@ Samples 1, 2, 4, 5, 7, 8 (~ 18 uL)
 |--------------------|-----------------|-------------------------|-----------------|------------------------|
 | 0.6                | 18              | 10.8                    | 21              | 226.8                  |
 
-Samples 10, 11, 12, 14, 18, 21, 23, 24, 25, 27, 28, 29, 32  (~ 21 uL)
+Samples 10, 11, 12, 14, 16, 18, 21, 23, 24, 25, 27, 28, 29, 32  (~ 21 uL)
 
 | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
 |--------------------|-----------------|-------------------------|-----------------|------------------------|
