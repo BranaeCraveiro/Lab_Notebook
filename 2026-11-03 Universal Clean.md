@@ -42,23 +42,31 @@ https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-rat
 1. make fresh 80% ethanol in a 50mL tube (label and parafilm when not in use)
     - paste filled out table here
 
-| Ethanol           |                               |                            |                       |                 |
-|-------------------|-------------------------------|----------------------------|-----------------------|-----------------|
 | Number of Samples | 80% EtOH for each sample (uL) | Total 80% EtoH needed (mL) | Volume 100% EtOH (mL) | Volume H2O (mL) |
-| 10                | 540                           | 5.40                       | 4.32                  | 1.08            |
+|-------------------|-------------------------------|----------------------------|-----------------------|-----------------|
+| 21                | 540                           | 11.34                      | 9.07                  | 2.27            |
 
 2. Determine whether or not a plate transfer is necessary. If the PCR reaction volume multiplied by 2.8 exceeds the volume of the PCR plate, a transfer to larger tubes is required.
 3. Gently shake the Clean NGS Mag PCR Clean-up aliquot to resuspend any Magnetic particles that may have settled.
     1. Add CleanNGS Mag PCR Clean-up volume table below:
 
-| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
-|--------------------|-----------------|-------------------------|-----------------|------------------------|
-| 0.6                | 23              | 13.8                    | 10              | 138                    |
-samples 3,6,& 9 had 20 uL starting: 
+Samples 1, 2, 4, 5, 7, 8 (~ 18 uL) 
 
 | Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
 |--------------------|-----------------|-------------------------|-----------------|------------------------|
-| 0.6                | 20              | 12                      | 10              | 120                    |
+| 0.6                | 18              | 10.8                    | 21              | 226.8                  |
+
+Samples 10, 11, 12, 14, 18, 21, 23, 24, 25, 27, 28, 29, 32  (~ 21 uL)
+
+| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
+|--------------------|-----------------|-------------------------|-----------------|------------------------|
+| 0.6                | 21.5            | 12.9                    | 21              | 270.9                  |
+
+Sample 3 (~ 40 uL)
+
+| Bead Concentration | PCR volume (uL) | Added beads volume (uL) | Total # Samples | Total Bead Volume (uL) |
+|--------------------|-----------------|-------------------------|-----------------|------------------------|
+| 0.6                | 40              | 24                      | 21              | 504                    |
 
 **Note:** The volume of CleanNGS Mag PCR Clean-up for a given reaction can be determined from the following equation:  
 _(Volume of Mag Beads per reaction) = (Bead Concentration) x (PCR Reaction Volume)
