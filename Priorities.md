@@ -1,16 +1,19 @@
-Date updated: 11/03/2026
+Date updated: 11/04/2026
 # psbA Sample Troubleshoot
 - [ ] dilute MCAV samples w/ multiple bands 
 - [ ] retry universal ORBI samples that failed at lower temperature
 
 # Code to work on 
-- [ ] Table with each sample and if there is a band for each primer and if psba 
-- [ ] Figure out how to BLAST multiple reads - UNITY 
+## Checking Bands 
+- [ ] Table with each sample, band w/ each primer, if band is psbA 
+## BLAST 
+- [ ] Figure out how to BLAST multiple reads (on UNITY)
 - [ ] make custom blast database 
 	- [ ] blast sequences I have to make sure it works 
 	- [ ] familiarize myself with how to run blast on unity 
+## Dada2
 - [ ] export merged reads as FASTA files 
-
+## DHW & SST 
 - [ ] talk to brooke about DHW plot 
 - [ ] add 2025 data 
 - [ ] add DHW alert levels 
