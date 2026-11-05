@@ -27,6 +27,7 @@ strong bands eluted to 20 uL (1, 2, 4, 11, 14, 18, 24, 29, 32)
 | 32  | 3_87   | 102023_PAN_BDT_T3_332_PSTR | CLP           | 67.2      |
 Forgot to add 16 (since band was so faint) when I separated samples I wanted to clean from the ones that were not successful, so that tube is at the end of my actually pcr strips
 
+# 11/5/2026 Gel Image 
 
 
 # Protocol
