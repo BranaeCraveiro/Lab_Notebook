@@ -29,16 +29,16 @@ have sample but missing on CBC samples - maybe water samples; paper inside?
 - [ ] 2721, 2722
 ## BOX 52 (RNA Later)
 have sample but missing on CBC samples
-- [ ] 3176-3183 
-- [ ] 2923- 2931 
+- [x] 3176-3183 
+- [x] 2923- 2931 
+	- datasheet never entered from hangman (T6)
 
 - [x] 2932 - two samples on CBC samples, actual sample is RNA later so checked off location on that one  
 	- correct rna later and frozen were there, believed it was accidentally entered twice so deleted duplicate row
 ## BOX 54
 have sample but missing on CBC samples
-- [ ] 3045- 3061 
-
-- [ ] 3062 frozen but actually zymo
+- [x] 3045- 3061 
+- datasheet never entered from hangman (T6)
 
 
 

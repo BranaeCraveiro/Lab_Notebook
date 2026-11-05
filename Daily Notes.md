@@ -1,3 +1,18 @@
+# 11/4/2026 
+- send out universal sequences 
+- universal PCR gel 
+- finish sample inventory 
+## To do 
+- [ ] send out 11/3 cleaned samples for sequencing 
+	- [ ] update sample & sequence tracker 
+- [ ] run 11/3 universal pcr gel 
+	- [ ] annotate and upload gel images
+- [ ] Clade C pcr 
+	- [ ] update sample tracker 
+- [ ] finish sample inventory 
+	- [ ] check boxes for samples: 2870, 2799, 2874 
+	- [ ] check box 52 for T5_2735_OANN & T5_3188_PAST -- think in wrong box on datasheet 
+
 # 8/26/2026 
 - prep samples for sequencing 
 - run gel with clade C and universal samples next to each other 
