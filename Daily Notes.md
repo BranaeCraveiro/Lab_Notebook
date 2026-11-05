@@ -9,9 +9,10 @@
 	- [ ] annotate and upload gel images
 - [ ] Clade C pcr 
 	- [ ] update sample tracker 
-- [ ] finish sample inventory 
-	- [ ] check boxes for samples: 2870, 2799, 2874 
-	- [ ] check box 52 for T5_2735_OANN & T5_3188_PAST -- think in wrong box on datasheet 
+- [x] finish sample inventory 
+	- [x] check boxes for samples: 2870, 2799, 2874 
+	- [x] check box 52 for T5_2735_OANN & T5_3188_PAST -- think in wrong box on datasheet 
+		- T5_2735_OANN was actually in box 51, T5_3188_PAST was actually T6 
 
 # 8/26/2026 
 - prep samples for sequencing 
