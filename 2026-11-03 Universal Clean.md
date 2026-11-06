@@ -29,7 +29,8 @@ Forgot to add 16 (since band was so faint) when I separated samples I wanted to 
 
 # 11/5/2026 Gel Image 
 
-
+![](2026_11_05_Gel.png)
+not sequencing sample 3 (since it is too faint) or sample 25 as double bands are too strong 
 # Protocol
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
