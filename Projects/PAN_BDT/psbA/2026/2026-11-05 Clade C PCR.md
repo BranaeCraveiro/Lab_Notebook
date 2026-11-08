@@ -33,7 +33,10 @@
 | 31  | 3_87   | 102023_PAN_BDT_T3_332_PSTR  | CLP           | 67.2      |
 | 32  | -      | Negative                    | -             | -         |
 
+# 11/05/2026 Gel 
+![](2026_11_05_Gel_C.png)
 
+AG = Anthony's samples he wanted to double check 
 # Protocol
 
 ## PCR Preparation 

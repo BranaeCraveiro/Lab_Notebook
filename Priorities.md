@@ -17,6 +17,9 @@ Date updated: 11/04/2026
 - [ ] talk to brooke about DHW plot 
 - [ ] add 2025 data 
 - [ ] add DHW alert levels 
+- [ ] create graph looking per site ( seperate graphs)
+
+
 
 
 
