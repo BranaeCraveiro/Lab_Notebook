@@ -31,6 +31,29 @@ Forgot to add 16 (since band was so faint) when I separated samples I wanted to 
 
 ![](2026_11_05_Gel.png)
 not sequencing sample 3 (since it is too faint) or sample 25 as double bands are too strong 
+# Sequencing Prep 
+
+| x   | Tubelabel_species          | Nanodrop_Conc | Sample_uL   | Water_uL    | Forward_Barcode | Reverse_Barcode |
+| --- | -------------------------- | ------------- | ----------- | ----------- | --------------- | --------------- |
+| 1   | 072024_PAN_BDT_T3_683_OFAV | 18.1          | 1.104972376 | 11.39502762 | AT03900409      | AT03900428      |
+| 2   | 072024_PAN_BDT_T3_685_OFAV | 16.4          | 1.219512195 | 11.2804878  | AT03900410      | AT03900429      |
+| 4   | 102023_PAN_BDT_T3_320_ORBI | 22.8          | 0.877192982 | 11.62280702 | AT03900411      | AT03900430      |
+| 5   | 072024_PAN_BDT_T1_564_ORBI | 7.8           | 2.564102564 | 9.935897436 | AT03900412      | AT03900431      |
+| 7   | 072024_PAN_BDT_T1_584_ORBI | 11            | 1.818181818 | 10.68181818 | AT03900413      | AT03900432      |
+| 8   | 072024_PAN_BDT_T1_586_ORBI | 8.3           | 2.409638554 | 10.09036145 | AT03900414      | AT03900433      |
+| 10  | 072024_PAN_BDT_T4_842_ORBI | 12.2          | 1.639344262 | 10.86065574 | AT03900415      | AT03900434      |
+| 11  | 072024_PAN_BDT_T4_845_ORBI | 38.7          | 0.516795866 | 11.98320413 | AT03900416      | AT03900435      |
+| 12  | 92022_PAN_BDT_T1_46_ORBI   | 12.3          | 1.62601626  | 10.87398374 | AT03900417      | AT03900436      |
+| 14  | 92022_PAN_BDT_T2_29_ORBI   | 20            | 1           | 11.5        | AT03900418      | AT03900437      |
+| 16  | 102023_PAN_BDT_T1_92_ORBI  | 8.1           | 2.469135802 | 10.0308642  | AT03900419      | AT03900438      |
+| 18  | 102023_PAN_BDT_T4_363_ORBI | 42.2          | 0.473933649 | 12.02606635 | AT03900420      | AT03900439      |
+| 21  | 072024_PAN_BDT_T3_731_PSTR | 20.1          | 0.995024876 | 11.50497512 | AT03900421      | AT03900440      |
+| 23  | 072024_PAN_BDT_T3_737_PSTR | 7.5           | 2.666666667 | 9.833333333 | AT03900422      | AT03900441      |
+| 24  | 072024_PAN_BDT_T3_677_PSTR | 37            | 0.540540541 | 11.95945946 | AT03900423      | AT03900442      |
+| 27  | 92022_PAN_BDT_T3_32_PSTR   | 38.3          | 0.522193211 | 11.97780679 | AT03900424      | AT03900443      |
+| 28  | 92022_PAN_BDT_T3_18_PSTR   | 11.3          | 1.769911504 | 10.7300885  | AT03900425      | AT03900444      |
+| 29  | 92022_PAN_BDT_T3_21_PSTR   | 34.9          | 0.573065903 | 11.9269341  | AT03900426      | AT03900445      |
+| 32  | 102023_PAN_BDT_T3_332_PSTR | 27.6          | 0.724637681 | 11.77536232 | AT03900427      | AT03900446      |
 # Protocol
 ## III. Purification with ampure beads
 https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/bead-ratio
