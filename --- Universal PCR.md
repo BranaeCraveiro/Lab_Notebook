@@ -4,8 +4,8 @@
 | 1        | 1_5    | 072024_PAN_BDT_T1_598_CNAT  | CLP           | 33.2      |
 | 2        | 1_6    | 072024_PAN_BDT_T1_601_CNAT  | Healthy       | 0.794     |
 | 3        | 1_6    | 072024_PAN_BDT_T1_603_CNAT  | CLP           | 7.58      |
-| 4        | 2_33   | 072024_PAN_BDT_T2_1053_CNAT | Healthy       | 40.6      |
-| 5        | 1_16   | 92022_PAN_BDT_T1_12_CNAT    | Healthy       | 30.4      |
+| 4        | 1_16   | 92022_PAN_BDT_T1_12_CNAT    | Healthy       | 30.4      |
+| 5        | 2_33   | 072024_PAN_BDT_T2_1053_CNAT | Healthy       | 40.6      |
 | 6        | 2_44   | 072024_PAN_BDT_T2_656_CNAT  | CLP           | 58        |
 | 7        | 2_44   | 072024_PAN_BDT_T2_658_CNAT  | Healthy       | 29.8      |
 | 8        | 2_57   | 072024_PAN_BDT_T2_1059_CNAT | CLP           | 19.1      |
@@ -33,3 +33,4 @@
 | 30       | 2_59   | 102023_PAN_BDT_T2_188_SSID  | CLB           | 30.6      |
 | 31       | 3_81   | 102023_PAN_BDT_T3_288_SSID  | CLB           | 82        |
 | 32       | -      | Negative                    | -             | -         |
+|          |        |                             |               |           |
