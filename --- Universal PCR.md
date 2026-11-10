@@ -1,3 +1,4 @@
+
 | PCR_tube | Colony | Tubelabel_species           | Health_Status | Raw_ng_ul |
 | -------- | ------ | --------------------------- | ------------- | --------- |
 | 1        | 1_5    | 072024_PAN_BDT_T1_598_CNAT  | CLP           | 33.2      |
