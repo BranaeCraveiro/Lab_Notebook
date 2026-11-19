@@ -1,3 +1,9 @@
+Note: DNA in negative 
+	- reran negative & there was faint band again 
+	- future pcr does not have DNA in neg, dont think it is reagents [2026-11-10 Clade C PCR](2026-11-10%20Clade%20C%20PCR.md)
+	- prob went on autopilot during pcr prep and put DNA in the neg tube
+	- just going to redo pcr 
+
 | x   | Colony | Tubelabel_species           | Health_Status | Raw_ng_ul |
 | --- | ------ | --------------------------- | ------------- | --------- |
 | 1   | 3_29   | 072024_PAN_BDT_T3_683_OFAV  | Healthy       | 63.6      |
@@ -37,6 +43,10 @@
 ![](2026_11_05_Gel_C.png)
 
 AG = Anthony's samples he wanted to double check 
+
+band in negative- rerunning to double check 
+![](2026_11_10_Gel_negs.png)
+future universal pcr doesn't have band in negative (didn't notice band in neg in this pcr until after continuing to do more samples) thinking I will just redo pcr to be safe 
 # Protocol
 
 ## PCR Preparation 

@@ -31,6 +31,7 @@ Forgot to add 16 (since band was so faint) when I separated samples I wanted to 
 
 ![](2026_11_05_Gel.png)
 not sequencing sample 3 (since it is too faint) or sample 25 as double bands are too strong 
+
 # Sequencing Prep 
 
 | x   | Tubelabel_species          | Nanodrop_Conc | Sample_uL   | Water_uL    | Forward_Barcode | Reverse_Barcode |

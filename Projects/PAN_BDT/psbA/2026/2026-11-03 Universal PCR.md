@@ -1,3 +1,8 @@
+Note: DNA in negative 
+	- reran negative & there was no band 
+	- future pcr does not have DNA in neg, dont think it is reagents [2026-11-10 Universal PCR](2026-11-10%20Universal%20PCR.md)
+	- prob went on autopilot during pcr prep and put DNA in the neg tube
+	- just going to redo pcr to make myself feel better about my results 
 
 | PCR_Tube | Colony | Tubelabel_species           | Health_Status | Raw_ng_ul |
 | -------- | ------ | --------------------------- | ------------- | --------- |
@@ -37,6 +42,9 @@
 # 11/5/2026 Gel 
 ![](2026_11_05_Gel_Uni.png)
 
+strong band in negative - rerunning to test if I just but a sample in the wrong well 
+![](2026_11_10_Gel_negs.png)
+future universal pcr doesn't have band in negative (didn't notice band in neg in this pcr until after continuing to do more samples) thinking I will just redo pcr to be safe 
 # Protocol
 
 ## PCR Preparation 
