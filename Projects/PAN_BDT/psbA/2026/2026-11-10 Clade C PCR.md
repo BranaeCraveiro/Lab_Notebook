@@ -36,8 +36,8 @@
 
 # 11/10/2026 gel image 
 
-
-# Protocol![](2026_11_10_Gel_C.png)
+![](2026_11_10_Gel_C.png)
+# Protocol
 
 ## PCR Preparation 
 - thaw reagents & samples 
